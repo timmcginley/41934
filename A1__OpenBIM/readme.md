@@ -22,11 +22,25 @@ Develop a script (based on examples and support from the teachers) to satisfy th
 Get a github account, (at least one per team), this will make it possible to host your code on the github and make it easier for us to provide you support and also get feedback and help from your peers. Ultimately we are trying to build a strong community or OpenBIM learning at DTU and this is a great way to do it 😊
 
 ## Activity Completion
-Your group must submit your modified script file for the use case, this should be provided in a ‘repo’ in the github account linked to your group. The repo will include
+Your group must submit your modified script file for the use case, this should be provided in a ‘repo’ in the github account linked to your group. The repo will include:
 
-Your main.py file that is a copy of the script we can run in Blender.
-A markdown file that describes
-the ‘use case’ your script tries to identify
-how your script addresses the problem.
-what disciplinary (non BIM) expertise did you use to solve the use case
-What IFC concepts did you use in your script.
+### 01 Python script
+* Your main.py file that is a copy of the script we can run in Blender.
+* *THIS CAN BE WORK IN PROGRESS* 
+
+### 02 A markdown file that describes: 
+* Describe the use case you have chosen
+* Who is the use case for?	
+* What disciplinary (non BIM) expertise did you use to solve the use case
+* What IFC concepts did you use in your script (would you use in your script)
+* What disciplinary analysis does it require?	
+* What building elements are you interested in?	
+* What (use cases) need to be done before you can start your use case?	
+* What is the input data for your use case?	
+* What other use cases are waiting for your use case to complete?
+
+### 03 A BPMN file
+* Describes the use case
+* Shows the exchange of information between the stakeholders in the use case
+* Helps you to define the scope of your script
+* Helps you to see what inputs and outputs your use case has.
