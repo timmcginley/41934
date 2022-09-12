@@ -23,7 +23,7 @@ On MacOS or Linux systems you have to run Blender from the terminal to be able t
 ### (A) If you want to use the IFC model through in Blender
 #### Load it with BlenderBIM
 
-![Alt text](./images/Screenshot%202022-09-12%20at%2013.21.39 1.png?raw=true "Title")
+![Alt text](./images/Screenshot%202022-09-12%20at%2013.21.39%201.png?raw=true "Title")
 
 ![Alt text](./images/Screenshot%202022-09-12%20at%2013.22.05.png?raw=true "Title")
 #### Test file
