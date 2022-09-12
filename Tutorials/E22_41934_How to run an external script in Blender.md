@@ -4,7 +4,7 @@ The outputs (eg. print statements) of your file won't show in the Blender consol
 ### Windows
 On Windows you can open the system console by simply clicking "Window -> Toggle System Console"
 
-![Alt text](/images/Pasted%20image%2020220912133739.png?raw=true)
+![Alt text](./images/Pasted%20image%2020220912133739.png?raw=true)
 ### MacOS/Linux
 On MacOS or Linux systems you have to run Blender from the terminal to be able to see outputs.
 
@@ -19,13 +19,13 @@ On MacOS or Linux systems you have to run Blender from the terminal to be able t
 ## Running an external script
 ### Open Blender (either normally or through a terminal) and make a new 'text' window.
 
-![Alt text](./images/Screenshot 2022-09-12 at 14.25.49.png?raw=true "Title")
+![Alt text](./images/Screenshot%202022-09-12%20at%2014.25.49.png?raw=true "Title")
 ### (A) If you want to use the IFC model through in Blender
 #### Load it with BlenderBIM
 
-![Alt text](./images/Screenshot 2022-09-12 at 13.21.39 1.png?raw=true "Title")
+![Alt text](./images/Screenshot%202022-09-12%20at%2013.21.39 1.png?raw=true "Title")
 
-![Alt text](./images/Screenshot 2022-09-12 at 13.22.05.png?raw=true "Title")
+![Alt text](./images/Screenshot%202022-09-12%20at%2013.22.05.png?raw=true "Title")
 #### Test file
 - Make a new `hello_ifc.py` file and place it in the same directory as your blender file.
 
@@ -61,10 +61,10 @@ for space in spaces:
 ```
 
 ### Open template for external scripts
-![Alt text](./images/Screenshot 2022-09-12 at 13.22.44.png?raw=true "Title")
+![Alt text](./images/Screenshot%202022-09-12%20at%2013.22.44.png?raw=true "Title")
 ### Change filename to your file name (eg. "hello_ifc.py")
-![Alt text](./images/Screenshot 2022-09-12 at 13.23.09.png?raw=true "Title")
+![Alt text](./images/Screenshot%202022-09-12%20at%2013.23.09.png?raw=true "Title")
 ### Run your script
-![Alt text](./images/Screenshot 2022-09-12 at 14.10.58.png?raw=true "Title")
+![Alt text](./images/Screenshot%202022-09-12%20at%2014.10.58.png?raw=true "Title")
 Your system console should be showing a list of space names.
-![Alt text](./images/Screenshot 2022-09-12 at 13.24.23.png?raw=true "Title")
+![Alt text](./images/Screenshot%202022-09-12%20at%2013.24.23.png?raw=true "Title")
