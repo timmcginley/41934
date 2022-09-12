@@ -1,46 +1,32 @@
-# A1: IFC Dashboard
+# A1: OpenBIM
+Warm up project to get your teeth into OpenBIM standards. This assignment is linked to the following learning objectives.
 
-This assignment involves 4 steps
+L03: Design rules to check conformance of an IFC mode
+L04: Identify, locate and extract the required information for the proposed use case from an IFC model
+L06: Evaluate the suitability of software licensing options for digital tools.
 
-## 1) Export the standard Revit example project in IFC
+The aim of this assignment is to become familiar with the core concepts of OpenBIM. This is done  through a deep dive into the IFC file format and associated Open BIM standards. The IFC file format is the industry standard for BIM, but many BIM practioners (and some BIM experts) still don't really understand it.
 
-The [link here](https://knowledge.autodesk.com/support/revit-products/learn-explore/caas/CloudHelp/cloudhelp/2018/ENU/Revit-DocumentPresent/files/GUID-14037C31-EBAD-41A8-9099-E6DD65BB626E-htm.html) will help: 
+Previously we have focused on the IFC file and helping you to understand how it is structured, this year we will push this idea further by exploring the file in the awesome OpenBIM tool blender. This allows us the opportunity to pull several exercises together into the same environment.
 
-So you probably want to know what version of IFC to export? The following is the advice from the IFA tool that we will be sending the IFC to in the next step.
+## Assignment
+Install Blender and the BlenderBIM plugin.
+Import one of the course example files into Blender and explore the IFC file and its properties.
+In the scripting window you can then use IfcOpenShell to further explore the model (we provide examples)
+You will identify a simple BIM Use case examples could be gathering:
+areas of the building,
+quantities of materials,
+could you estimate cost? - if so how?
+what else can you think of?
+Develop a script (based on examples and support from the teachers) to satisfy the identified use case.
+Get a github account, (at least one per team), this will make it possible to host your code on the github and make it easier for us to provide you support and also get feedback and help from your peers. Ultimately we are trying to build a strong community or OpenBIM learning at DTU and this is a great way to do it 😊
 
-IFC2x3 and IFC4 are supported, however, IFC4.0.n addendums and IFC4.n versions are not supported. See the IFC Documentation https://technical.buildingsmart.org/standards/ifc/ifc-schema-specifications/ If the IFC file contains IFC4.0.n entities, those entities will not be processed and will not be listed as Entity types not processed on the File Summary worksheet.
+## Activity Completion
+Your group must submit your modified script file for the use case, this should be provided in a ‘repo’ in the github account linked to your group. The repo will include
 
-I would recommend IFC2x3, to make it easier :)
-
-## 2) Convert the IFC to an Excel work book using the IFA tool
-
-[NIST tool download](https://www.nist.gov/services-resources/software/ifc-file-analyzer)
-
-## 3) Explore the generated excel file and use this to try and understand the IFC standard
-
-https://www.buildingsmart.org/standards/bsi-standards/industry-foundation-classes/
-
-we will walk around the class to help you with this. it takes awhile to get your head around it...
-
-## 4) Add a sheet to the work book you have generated, then use data from the other sheets to provide a dashboard of the building.
-
-What you choose to represent in your dashboard is up to you. but you could consider trying to represent:
-
-* areas of the building,
-
-* quantities of materials,
-
-* could you estimate cost? - if so how?
-
-* what else can you find in the IFC data that you could use in your dashboard?
-
-## 5) Submission
-
-Your group must submit your modified excel including the dashboard sheet as the first sheet in the workbook.
-
-You are not submitting any reports with this, so make sure that your dashboard is easy to understand - how do we know what we are looking at, and what you tried to do?
-
-
-
-in the next assignment we look at how to apply this  approach using python..... See [example](https://github.com/timmcginley/11034/tree/main/Example%20files/Python/Working%20with%20excel)
-
+Your main.py file that is a copy of the script we can run in Blender.
+A markdown file that describes
+the ‘use case’ your script tries to identify
+how your script addresses the problem.
+what disciplinary (non BIM) expertise did you use to solve the use case
+What IFC concepts did you use in your script.
