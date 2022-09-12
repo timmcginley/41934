@@ -1,15 +1,6 @@
-# 11034 Advanced Building Design
+# 41934 Advanced Building Design
 
-The course is divided into 5 modules, each module builds on the previous one to guide you through identifying your use case and the data you need to analyse to create your tool or workflow. The course focuses on the IFC schema to provide you with a robust future proof and interoperable understanding of BIM.
-
-## Assignments
-|# |Name         | Tools | Assignment | Learning Objective | Standards / Guidelines |
-|---------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1 | [IFC Dashboard](https://github.com/DTU-Byg/11034/wiki/1.-IFC-Dashboard) | [IFC](https://github.com/DTU-Byg/11034/wiki/%E2%9D%A4%EF%B8%8F-IFC-and-OpenBIM) / Node-RED |  [IFC Dashboard](https://github.com/timmcginley/11034/tree/main/A1__Dashboard)   | 4       | IFC    |
-| 2 | [Python](https://github.com/DTU-Byg/11034/wiki/Python) | [IFC Rules](https://github.com/timmcginley/11034/tree/main/A2__Rules) / IfcOpenShell | Text        | 3,4 | IFC |
-| 3 | [Use Case](https://github.com/timmcginley/11034/tree/main/A3__Use_Case)  | BPMN | Text        | 1,2,7 | IDM, Dikon |
-| 4 |  Format  | IFC | [Future Format](https://github.com/timmcginley/11034/tree/main/A4__Future%20format)       | 1,2,7 | IFC, bSDD |
-| 5 |  [Custom Tools](https://github.com/timmcginley/11034/tree/main/A5__Custom%20tools)  | IFC / IFC.js | [Custom Tools](https://github.com/timmcginley/11034/tree/main/A5__Custom%20tools) |4,6,7|IFC, BCF?|
+The course is divided into 4 modules, each module builds on the previous one to guide you through identifying your use case and the data you need to analyse to create your tool or workflow. The course focuses on the IFC schema to provide you with a robust future proof and interoperable understanding of BIM.
 
 ## Learning Objectives
 
