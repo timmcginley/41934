@@ -4,7 +4,7 @@ The outputs (eg. print statements) of your file won't show in the Blender consol
 ### Windows
 On Windows you can open the system console by simply clicking "Window -> Toggle System Console"
 
-![Alt text](./images/Pasted image 20220912133739.png?raw=true "Title")
+![Alt text](/images/Pasted%20image%2020220912133739.png?raw=true)
 ### MacOS/Linux
 On MacOS or Linux systems you have to run Blender from the terminal to be able to see outputs.
 
@@ -15,7 +15,7 @@ On MacOS or Linux systems you have to run Blender from the terminal to be able t
 	`./Blender`
 	Blender will open up as normally. Now, whenever you run your script, the outputs will be shown here.
 
-![Alt text](./images/Screenshot 2022-09-12 at 13.29.30.png?raw=true "Title")
+![Alt text](./images/Screenshot%202022-09-12%20at%2013.29.30.png?raw=true "Title")
 ## Running an external script
 ### Open Blender (either normally or through a terminal) and make a new 'text' window.
 
