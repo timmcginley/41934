@@ -7,7 +7,7 @@ The course is divided into 4 modules, each module builds on the previous one to 
 2. [A2: FutureBIM](https://github.com/timmcginley/41934/tree/main/A2__FutureBIM)
 3. [A3: UseCase](https://github.com/timmcginley/41934/tree/main/A3__Use_Case)
 4. [A4: FinalProject](https://github.com/timmcginley/41934/tree/main/A4__FinalProject)
-5. [A5: FinalProject](https://github.com/timmcginley/41934/tree/main/A5__ProjectReflection)
+5. [A5: ProjectReflection](https://github.com/timmcginley/41934/tree/main/A5__ProjectReflection)
 
 ## Learning Objectives
 
