@@ -2,6 +2,12 @@
 
 The course is divided into 4 modules, each module builds on the previous one to guide you through identifying your use case and the data you need to analyse to create your tool or workflow. The course focuses on the IFC schema to provide you with a robust future proof and interoperable understanding of BIM.
 
+## Assignments
+1. [A1: OpenBIM](https://github.com/timmcginley/41934/tree/main/A1__OpenBIM)
+2. [A2: FutureBIM](https://github.com/timmcginley/41934/tree/main/A2__FutureBIM)
+3. [A3: Use_Case](https://github.com/timmcginley/41934/tree/main/A3__Use_Case)
+4. [A4: Final Project](https://github.com/timmcginley/41934/tree/main/A4__Final Project)
+
 ## Learning Objectives
 
 1. Analyse a current BIM use case in BPMN.
