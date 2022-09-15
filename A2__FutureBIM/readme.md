@@ -9,9 +9,11 @@ In this activity you will be introduced to a [‘metadisciplinary framework’ f
 
 As an advanced course in BIM our intention is not to ‘teach’ software but to introduce concepts and tools that you can then develop expertise in and we can help you when you run into challenges.
 
-We have gathered the four most exciting potential future (open)BIM technologies in this course however it is unclear how they fit together and the design and engineering experience that they could provide you in your future careers.
+## Activity
 
-Therefore, the emphasis in this assignment is in your groups to explore focused parts of this future (open) BIM ecosystem, supported by theory, frameworks and examples provided in the course lectures.
+We have gathered the four most exciting potential future (open)BIM technologies in this course however it is uncertain how they fit together and the design and engineering experience that they could provide you in your future careers.
+
+Therefore, the aim of this assignment is in your groups to explore focused parts of this future (open) BIM ecosystem, supported by theory, frameworks and examples provided in the course lectures.
 
 More info on this activity will be provide in week 2.
 
