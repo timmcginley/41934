@@ -3,7 +3,7 @@
 - How to run an external script in Blender: https://github.com/timmcginley/41934/blob/main/Tutorials/E22_41934_How%20to%20run%20an%20external%20script%20in%20Blender.md
 - Exploring IFC model: https://blenderbim.org/docs-python/ifcopenshell-python/hello_world.html
 - My first BIM project: https://blenderbim.org/blenderbim-tutorial.html
-- Using the Python console with BlenderBIM add-on https://wiki.osarch.org/index.php?title=BlenderBIM_Add-on/Using_the_Python_console_with_BlenderBIM_Add-on
+- Using the Python console with BlenderBIM add-on: https://wiki.osarch.org/index.php?title=BlenderBIM_Add-on/Using_the_Python_console_with_BlenderBIM_Add-on
 - BlenderBIM code examples: https://wiki.osarch.org/index.php?title=BlenderBIM_Add-on/BlenderBIM_Add-on_code_examples
 ### IfcOpenShell
 - IfcOpenShell code examples https://wiki.osarch.org/index.php?title=IfcOpenShell_code_examples
@@ -11,7 +11,7 @@
 - [ifcopenshell-notebooks2(geolocation)](https://github.com/vulevukusej/Jupyter-IfcOpenShell)
 - https://github.com/jakob-beetz/IfcOpenShellScriptingTutorial/wiki (https://github.com/jakob-beetz/IfcOpenShellScriptingTutorial)
 ### IFC
-- IFC Myth busters - https://www.buildingsmart.org/resources/myth-busters/leon-van-berlo/ 
+- IFC Myth busters videos - https://www.buildingsmart.org/resources/myth-busters/leon-van-berlo/ 
 - [Industry Foundation Classes – A standardized data model for the vendor-neutral exchange of digital building models](https://publications.cms.bgu.tum.de/books/bim_2018/06_IFC_07.pdf) (PDF file)
 - Which IFC class should I use: https://blenderbim.org/search-ifc-class.html
 - Everything worth knowing about the IFC format: https://bimcorner.com/everything-worth-knowing-about-the-ifc-format/
