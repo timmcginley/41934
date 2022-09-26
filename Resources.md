@@ -14,7 +14,6 @@
 - IFC Myth busters videos - https://www.buildingsmart.org/resources/myth-busters/leon-van-berlo/ 
 - [Industry Foundation Classes – A standardized data model for the vendor-neutral exchange of digital building models](https://publications.cms.bgu.tum.de/books/bim_2018/06_IFC_07.pdf) (PDF file)
 - Which IFC class should I use: https://blenderbim.org/search-ifc-class.html
-- Everything worth knowing about the IFC format: https://bimcorner.com/everything-worth-knowing-about-the-ifc-format/
 - About IFC Classes : https://wiki.osarch.org/index.php?title=IFC_-_Industry_Foundation_Classes/IFC_classes
 ### Linked data
 - https://madsholten.github.io/sparql-visualizer/
