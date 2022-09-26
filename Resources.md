@@ -9,7 +9,7 @@
 - IfcOpenShell code examples https://wiki.osarch.org/index.php?title=IfcOpenShell_code_examples
 - [ifcopenshell-notebooks](https://github.com/jakob-beetz/ifcopenshell-notebooks) (launch with binder!)
 - [ifcopenshell-notebooks2(geolocation)](https://github.com/vulevukusej/Jupyter-IfcOpenShell)
-- https://github.com/jakob-beetz/IfcOpenShellScriptingTutorial/wiki (https://github.com/jakob-beetz/IfcOpenShellScriptingTutorial)
+- https://github.com/jakob-beetz/IfcOpenShellScriptingTutorial/wiki
 ### IFC
 - IFC Myth busters videos - https://www.buildingsmart.org/resources/myth-busters/leon-van-berlo/ 
 - [Industry Foundation Classes – A standardized data model for the vendor-neutral exchange of digital building models](https://publications.cms.bgu.tum.de/books/bim_2018/06_IFC_07.pdf) (PDF file)
