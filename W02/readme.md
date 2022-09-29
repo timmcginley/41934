@@ -23,3 +23,25 @@ import ifcopenshell
 from blenderbim.bim.ifc import IfcStore
 ```
 
+Now you can add get the IFC file that is active in your Blender environment with:
+```python
+file = IfcStore.get_file()
+```
+Cool now we can access the IFC file :)
+
+You can get all the spaces in your file by:
+```python
+spaces = file.by_type('IfcSpace')
+```
+Now check how many spaces you have...
+```python
+len(spaces)
+```
+or print their names...
+```python
+for space in spaces:
+	print(space.LongName)
+```
+You can have a look at this IfcOpenShell crash course for more examples. What other information can you find out about the model?
+
+Finally, you can get (if you don't have one already) a Github account for your group (this can be your normal account) and create a repository for the course, so it will be ready for you to add scripts to in the following weeks.
