@@ -44,3 +44,6 @@ Your group must submit your modified script file for the use case, this should b
 * Shows the exchange of information between the stakeholders in the use case
 * Helps you to define the scope of your script
 * Helps you to see what inputs and outputs your use case has.
+
+## Submissions
+* [Team 1](https://github.com/kfjordt/11034-advanced-bim)
