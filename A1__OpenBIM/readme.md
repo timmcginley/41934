@@ -46,4 +46,5 @@ Your group must submit your modified script file for the use case, this should b
 * Helps you to see what inputs and outputs your use case has.
 
 ## Submissions
-* [Team 1](https://github.com/kfjordt/11034-advanced-bim)
+* [Group 1](https://github.com/kfjordt/11034-advanced-bim)
+* [Group 2](https://github.com/AndersTraeland/A1---Open-BIM)
