@@ -56,7 +56,7 @@ Your group must submit your modified script file for the use case, this should b
 * [Group 11](https://github.com/AnjaHolmquist/GROUP-11.) - Cost
 * [Group 12](https://github.com/Jubelicool/A1-OpenBimGroup12) - Acoustics
 * [Group 14]() -
-* [Group 15]() - 
+* Group 15 - no link - Indoor climate analysis
 * [Group 16]() - 
 * [Group 17]() - 
 * [Group 18]() - 
