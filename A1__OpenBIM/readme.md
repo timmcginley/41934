@@ -57,10 +57,10 @@ Your group must submit your modified script file for the use case, this should b
 * [Group 12](https://github.com/Jubelicool/A1-OpenBimGroup12) - Acoustics
 * Group 14 - no link - Structural
 * Group 15 - no link - Indoor climate analysis
-* [Group 16]() - 
-* [Group 17]() - 
-* [Group 18]() - 
-* [Group 19]() - 
+* Group 16 - no link - LCA
+* Group 17 - no link - Structural
+* [Group 18](https://github.com/RikkeKHansen/Markdown-file) - Indoor climate
+* [Group 19](https://github.com/simonciversen/A1-OpenBIM) - Cost (early design phase)
 * [Group 20]() - 
 * [Group 21]() - 
 * [Group 22]() - 
