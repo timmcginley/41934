@@ -46,11 +46,23 @@ Your group must submit your modified script file for the use case, this should b
 * Helps you to see what inputs and outputs your use case has.
 
 ## Submissions
-* [Group 1](https://github.com/kfjordt/11034-advanced-bim) - 
-* [Group 2](https://github.com/AndersTraeland/A1---Open-BIM) - Cost Estimation (Structural)
-* [Group 3](https://github.com/WilliamEskildsen/41934_group3) - LCA
-* [Group 4](https://github.com/MathildeDTU/41934-Advanced-BIM-F22) - LCA
-* [Group 6](https://github.com/gabrielamiti/BIM) - Indoor Energy and Daylight
-* [Group 9](https://github.com/katrinekolbjornsen/UsecaseA1) - Structural
+* [Group 01](https://github.com/kfjordt/11034-advanced-bim) - 
+* [Group 02](https://github.com/AndersTraeland/A1---Open-BIM) - Cost Estimation (Structural)
+* [Group 03](https://github.com/WilliamEskildsen/41934_group3) - LCA
+* [Group 04](https://github.com/MathildeDTU/41934-Advanced-BIM-F22) - LCA
+* [Group 06](https://github.com/gabrielamiti/BIM) - Indoor Energy and Daylight
+* [Group 09](https://github.com/katrinekolbjornsen/UsecaseA1) - Structural
 * [Group 10](https://github.com/juliev1234/A1_OpenBim_Group10) - Structural
+* [Group 11](https://github.com/AnjaHolmquist/GROUP-11.) -
+* [Group 12]() -
+* [Group 14]() -
+* [Group 15]() - 
+* [Group 16]() - 
+* [Group 17]() - 
+* [Group 18]() - 
+* [Group 19]() - 
+* [Group 20]() - 
+* [Group 21]() - 
+* [Group 22]() - 
+* [Group 23]() - 
 
