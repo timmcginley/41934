@@ -51,4 +51,5 @@ Your group must submit your modified script file for the use case, this should b
 * [Group 3](https://github.com/WilliamEskildsen/41934_group3) - LCA
 * [Group 4](https://github.com/MathildeDTU/41934-Advanced-BIM-F22) - LCA
 * [Group 6](https://github.com/gabrielamiti/BIM) - Indoor Energy and Daylight
+* [Group 9](https://github.com/katrinekolbjornsen/UsecaseA1) - Structural
 
