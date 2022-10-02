@@ -55,7 +55,7 @@ Your group must submit your modified script file for the use case, this should b
 * [Group 10](https://github.com/juliev1234/A1_OpenBim_Group10) - Structural
 * [Group 11](https://github.com/AnjaHolmquist/GROUP-11.) - Cost
 * [Group 12](https://github.com/Jubelicool/A1-OpenBimGroup12) - Acoustics
-* [Group 14]() -
+* Group 14 - no link - Structural
 * Group 15 - no link - Indoor climate analysis
 * [Group 16]() - 
 * [Group 17]() - 
