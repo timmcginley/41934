@@ -54,7 +54,7 @@ Your group must submit your modified script file for the use case, this should b
 * [Group 09](https://github.com/katrinekolbjornsen/UsecaseA1) - Structural
 * [Group 10](https://github.com/juliev1234/A1_OpenBim_Group10) - Structural
 * [Group 11](https://github.com/AnjaHolmquist/GROUP-11.) -
-* [Group 12](https://github.com/Jubelicool/A1-OpenBimGroup12) -
+* [Group 12](https://github.com/Jubelicool/A1-OpenBimGroup12) - Acoustics
 * [Group 14]() -
 * [Group 15]() - 
 * [Group 16]() - 
