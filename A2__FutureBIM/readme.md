@@ -1,9 +1,9 @@
 # A2: FutureBIM
 We introduce potential future BIM tools and then in class we investigate their connections and the roles they will play in your future careers. This assignment is linked to the following learning objectives.
 
-L03: Design rules to check conformance of an IFC mode
-L05: Evaluate an IFC model and provide appropriate feedback / guidance for a specific use case and user.
-L06: Evaluate the suitability of software licensing options for digital tools.
+* L03: Design rules to check conformance of an IFC mode
+* L05: Evaluate an IFC model and provide appropriate feedback / guidance for a specific use case and user.
+* L06: Evaluate the suitability of software licensing options for digital tools.
 
 In this activity you will be introduced to a [‘metadisciplinary framework’ for BIM (McGinley Krijnen, 2022)](https://www.researchgate.net/publication/363579368_A_framework_for_meta-disciplinary_building_analysis/stats). Building on the investigation of BlenderBIM and Speckle in Activity 1, in A2 we will introduce IFC.JS and Linked Data.
 
@@ -17,7 +17,15 @@ Therefore, the aim of this assignment is in your groups to explore focused parts
 
 ## Activity Completion
 
-More info will be provided about this activity in Week 4.
+
+1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) / download as zip the code in [HTML-Build-IFC-Converter](https://github.com/timmcginley/HTML-Build-IFC-Converter)
+1. get the code to run on your machine
+1. make changes
+1. include a changes.md file in the folder / repo that includes:
+* something 
+* stomting else
+
+1. Identify a licence for your script and apply this to the github code (LO6)
 
 
-
+Appropriately document the 
