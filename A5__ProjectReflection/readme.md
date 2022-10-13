@@ -1,6 +1,11 @@
 # A5: Project Reflection
 
-In this project you will use the peer feedback and the feedback from the companies to your 2 minute videos and tools to write a breif reflection on (1) the process of creating the tool and the output of the tool. Details on how to submit this, will be provided closer to the time.
+*Details on how to submit this, will be provided closer to the time.*
+
+In this project you will use the peer feedback and the feedback from the companies to your 2 minute videos and tools to write a breif reflection on 
+* the process of creating the tool
+* the output of the tool. 
+
 
 1. process of developing the tool
 * Did the process of the course enable you to answer or define questions that you might need later for thesis?
