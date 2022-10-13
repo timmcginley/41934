@@ -1,4 +1,4 @@
-# A4: Custom Tool
+# A4: Final Project
 
 In this assignment we will develop a tool / workflow based on the use case you defined in the [previous assignment](https://github.com/timmcginley/41934/tree/main/A3__UseCase):
 The tool must:
