@@ -1,33 +1,19 @@
-# A5: Custom Tool
+# A5: Project Reflection
 
-In this assignment we will develop a tool based on one of the use cases you identified in A3. The tool must:
-* Address a specific use case
-* ideally be written in python, but can be other approaches in special cases if agreed with the course responsible.
+In this project you will use the peer feedback and the feedback from the companies to your 2 minute videos and tools to write a breif reflection on (1) the process of creating the tool and the output of the tool. Details on how to submit this, will be provided closer to the time.
 
-You will produce one final tool in the following folders, the structure of which is summarised below.
+1. process of developing the tool
+* Did the process of the course enable you to answer or define questions that you might need later for thesis?
+* Would you have preferred to have been given less choice in the use cases?
+* Was the number of tools for the course ok - should we haev more or less? - if so which ones would you leave out?
+* Would you 
 
-## 1. Input
-You may include the code from the previous assignment to load the data from the IFC direct into your current tool. Alternatively you may want to load the data from the excel you have already generated in the previous assignment. In this case you should include the previous excel from assignment A4 in this folder.
+2. output of the tool
+* did the tool address the use case you identified?
+* was the use case well modelled
+* was the project clearly scoped
 
-Secondly you may also include the assumptions file from the previous assignment here.
+3. Future
 
-
-## 2. Your tool
-The tool should develop one of the use cases you identified in A3 and use the input you gained in A4.
-
-## Submission structure 
-
-This assumes that you are doing a normal python project.
-
-Custom tool
-
-- FOLDER: name of use case
-  - FOLDER: model
-    - duplex or something else (ifc)
-  - FOLDER: input (this is in case you are importing some excel assumption data or regulations for instance)
-    - excel data for instance.
-  - FOLDER: output
-    - this is if the output for your tool is a file, for instance an excel file.
-  - main.py
-  - FOLDER: documentation / readme.md file - you could use typora to edit.
-    - Place the step by step guide to using your tool in here.
+* Are you likely to use OpenBIM tools in your thesis
+* Are you likely to use OpenBIM tools in your professsional life in the next 10 years?
