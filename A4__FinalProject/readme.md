@@ -3,26 +3,22 @@
 In this assignment we will develop a tool / workflow based on the use case you defined in the [previous assignment](https://github.com/timmcginley/41934/tree/main/A3__UseCase):
 The tool must:
 * Address your [use case](https://github.com/timmcginley/41934/tree/main/A3__UseCase):
-* ideally be written in Python, but can be other approaches in special cases if agreed with the course responsible.
+* Ideally be written in Python, but can be other approaches in special cases if agreed with the course responsible.
 * Be summarised in a 2 minute video.
 You will produce one final tool in the following folders, the structure of which is summarised below.
 ## 1. Input
-This includes any data that you are using to 
-You may include the code from the previous assignment to load the data from the IFC direct into your current tool. Alternatively you may want to load the data from the excel you have already generated in the previous assignment. In this case you should include the previous excel from assignment A4 in this folder.
-
-Secondly you may also include the assumptions file from the previous assignment here.
-
+This includes any data that you are using in your tool this must also include you may also include any assumption data that you are pulling into your script.
 
 ## 2. Your tool
-The tool should develop one of the use cases you identified in A3 and use the input you gained in A4.
+The tool should develop one of the use case you identified in A3.
 
 ## Submission structure 
 
 This assumes that you are doing a normal python project.
 
 Custom tool
-
-- FOLDER: name of use case
+````
+FOLDER: name of use case
   - FOLDER: model
     - duplex or something else (ifc)
   - FOLDER: input (this is in case you are importing some excel assumption data or regulations for instance)
@@ -32,7 +28,7 @@ Custom tool
   - main.py
   - FOLDER: documentation / readme.md file - you could use typora to edit.
     - Place the step by step guide to using your tool in here.
-
+````
 Add to the earlier work… - produce a sheet of the data and then the dashboard…
 ## 1. Python script to produce Excel based on IFC
 1. a python script to gather the data that you need for your project. This python script should produce an excel file containing the data from the IFC that you need in your project. for this we want you to:
