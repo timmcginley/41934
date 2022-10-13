@@ -7,7 +7,7 @@ The tool must:
 * Be summarised in a 2 minute video.
 You will produce one final tool in the following folders, the structure of which is summarised below.
 
-## 1 Tool / Workflow
+## Tool / Workflow
 
 The structure of this depends on the tool you have chosen to develop but it should:
 1. be written in Python (mostly) so should contain a main.py file
@@ -31,7 +31,7 @@ The structure of this depends on the tool you have chosen but a base structure f
   
 ````
 
-## 2 minute video
+## 2 Minute Video
 * Summary of the use case / why is this a challenge?
 * Who is you tool for?
 * Business and societal value
