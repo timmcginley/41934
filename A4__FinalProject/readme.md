@@ -6,17 +6,16 @@ The tool must:
 * Ideally be written in Python, but can be other approaches in special cases if agreed with the course responsible.
 * Be summarised in a 2 minute video.
 You will produce one final tool in the following folders, the structure of which is summarised below.
-## 1. Input
-This includes any data that you are using in your tool this must also include you may also include any assumption data that you are pulling into your script.
 
-## 2. Your tool
-The tool should develop one of the use case you identified in A3.
+## 1 Tool / Workflow
 
-## Submission structure 
+The structure of this depends on the tool you have chosen to develop but it should:
+1. be written in Python (mostly) so should contain a main.py file
+2. if you hev used blender as the target for the tool, please also include a .blend file that we can load to check your project.
+3. clearly seperated the code from the input data and resulting guidance (output) (if your output is a file).
 
-This assumes that you are doing a normal python project.
+The structure of this depends on the tool you have chosen but a base structure for your folder / github repository should be: 
 
-Contents of your folder / github repository
 ````
   - FILE: readme.md // the most important file :) 
   + FOLDER *img* // folder to 
@@ -32,12 +31,6 @@ Contents of your folder / github repository
   
 ````
 
-
-## 1. Python script to produce Excel based on IFC
-1. a python script to gather the data that you need for your project. This python script should produce an excel file containing the data from the IFC that you need in your project. for this we want you to:
-* be careful about the naming of the sheets as this provides the hierarchy of information that you want to use in your tool.
-## 2. Excel including assumptions and external data
-* Some data may not be available in the model. In this case produce a second excel file that contains the assumptions for the use case...
 ## 2 minute video
 * Summary of the use case / why is this a challenge?
 * Who is you tool for?
