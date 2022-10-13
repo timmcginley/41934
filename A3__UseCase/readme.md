@@ -17,7 +17,7 @@ In this assignment you will dig deeper into use cases and some tools and standar
 ### Assignment Format
 Therefore, the core of the assignment is to produce a readme.md in markdown for your selected use case. For more information about markdown, please check out this awesome markdown tutorial.
 Assignment should include
-Report (documenting sections 1,2,3,5,6,7)
+Report (documenting sections 1-10)
 Readme.md
 Information exchange excel sheet (for section 4)
 Use_case_INFX_Team_XX.xlsx
