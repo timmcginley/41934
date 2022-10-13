@@ -19,7 +19,7 @@ This assumes that you are doing a normal python project.
 Contents of your folder / github repository
 ````
   - FILE: readme.md // the most important file :) 
-  + FOLDER: img // folder to 
+  + FOLDER *img* // folder to 
   + FOLDER *model*
     - FILE: duplex or something else (ifc)
   + FOLDER *input* (examples given below)
