@@ -4,17 +4,17 @@ This activity is linked to the following learning objectives.
 * LO2: Propose a tool or workflow for a BIM use case in BPMN
 * LO3: Design an OpenBIM tool or workflow to address the challenges of a specific use case based on international and national standards and best practice.
 
-## Overview
+### Overview
 We want you to think of BIM as a method for you to get information and perform analysis on models for things that interest you. Therefore, in this assignment we want you to work on a use case that you are really passionate about and want to explore further which you can develop further in your final project. For this activity you need to further develop and analyse your BIM Use Case. Advanced BIM isn’t about changing everything at once. It is about focusing on a specific use case, and starting to think about how you would test a potential solution to that use case before you build the solutions. It is about considering, the information that you need - what can you get from the IFC for instance? In this activity you will
 * Identify the IFC entities and properties you will need for your use case.
 * describe the existing process in a BPMN (this time you can be more specific.
  * describe the proposed process in a BPMN (this time you can be more specific).
 You should use this activity to clearly scope your ambition and motivation for your OpenBIM workflow / tool. The idea is to reduce the potential to overstretch and provide an opportunity to demonstrate the potential (business) value that your tool could offer.
 
-## Content
+### Content
 In this assignment you will dig deeper into use cases and some tools and standards to support this and develop two BIM use case that extends provide a real example of a BIM use that you can then use to develop your final project (you will choose one of these BIM uses for the final project).
 
-## Assignment Format
+### Assignment Format
 Therefore, the core of the assignment is to produce a readme.md in markdown for your selected use case. For more information about markdown, please check out this awesome markdown tutorial.
 Assignment should include
 Report (documenting sections 1,2,3,5,6,7)
