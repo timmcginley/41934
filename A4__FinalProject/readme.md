@@ -8,7 +8,7 @@ In this assignment we will focus on the input data that you need for your final 
 
 ​	3. Based on assumptions (useful when we don't have the 'real' data that we need for our tool)
 
-You will produce for each of your uses cases (2 x python scripts and 4 x excel sheets )
+You will produce for the use case you defined in the [previous assignment](https://github.com/timmcginley/41934/tree/main/A3__UseCase):
 
 ## 1. Python script to produce Excel based on IFC
 1. a python script to gather the data that you need for your project. This python script should produce an excel file containing the data from the IFC that you need in your project. for this we want you to:
