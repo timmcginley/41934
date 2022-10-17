@@ -43,3 +43,5 @@ This is based on the conversation from last week. There is a link here to the [l
 
 ## 7) be proud of what you ahve acheived, its pretty awesome that you have mangaged to build your own BIM system :)
 
+Submissions 22
+[Team 1](https://github.com/kfjordt/11034-advanced-bim/tree/main/Assignment%202) - Ported the original code to JS, adding an input function, need to think about how to keep the resulting HTML source clean - but a really, really great start!
