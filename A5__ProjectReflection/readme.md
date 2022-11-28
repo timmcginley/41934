@@ -11,7 +11,6 @@ In this project you will use the peer feedback and the feedback from the compani
 * Did the process of the course enable you to answer or define questions that you might need later for thesis?
 * Would you have preferred to have been given less choice in the use cases?
 * Was the number of tools for the course ok - should we haev more or less? - if so which ones would you leave out?
-* Would you 
 
 2. output of the tool
 * did the tool address the use case you identified?
