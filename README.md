@@ -19,6 +19,15 @@ The course is divided into 4 modules, each module builds on the previous one to 
 6. Evaluate the suitability of software licensing options for digital tools.
 7. Design an OpenBIM tool or workflow to address the challenges of a specific use case based on international and national standards and best practice.
 
+## Focus on problems you care about
+This course has been designed so that the emphasis is on learning FROM BIM rather than learning HOWTO BIM [(McGinley & Krijnen, 2021)](https://itc.scix.net/paper/w78-2021-paper-070). However it is not possible to support every possible use case, therefore the course focuses on the following:
+* LCA
+* Structure
+* Cost
+* Indoor & Energy
+* Acoustic
+* Daylight
+
 ## OpenBIM
 
 This course is possible because of a large community of humans who have been passionate about supporting standards in the AEC for a very long time. The main organisation representing these people and the needs for standardisaiton in the AEC is the awesome [BuildingSmart](https://www.buildingsmart.org/). BuildingSmart are responsible for the development of several core interoperability tools that make this course possible they include. The table below shows the 5 main standards supported by BuildingSMART. 
