@@ -1,4 +1,4 @@
 ## Python / ifcOpenShell
 
-this is great ....
+Install [IfcOpenShell](https://blenderbim.org/docs-python/ifcopenshell-python/installation.html)
 
