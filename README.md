@@ -1,6 +1,6 @@
 # 41934 Advanced BIM
 
-The course is divided into 4 modules, each module builds on the previous one to guide you through identifying your use case and the data you need to analyse to create your tool or workflow. The course focuses on the IFC schema to provide you with a robust, future proof and interoperable understanding of BIM.
+The course is divided into 5 modules, each module builds on the previous one to guide you through identifying your use case and the data you need to analyse to create your tool or workflow. The course focuses on the IFC schema to provide you with a robust, future proof and interoperable understanding of BIM.
 
 ## Assignments
 1. [OpenBIM](https://github.com/timmcginley/41934/tree/main/A1__OpenBIM)
