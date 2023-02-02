@@ -5,7 +5,7 @@ Warm up project to get your teeth into OpenBIM standards. This assignment is lin
 * L04: Identify, locate and extract the required information for the proposed use case from an IFC model
 * L06: Evaluate the suitability of software licensing options for digital tools.
 
-The aim of this assignment is to become familiar with the core concepts of OpenBIM. This is done  through a deep dive into the IFC file format and associated Open BIM standards. The IFC file format is the industry standard for BIM, but many BIM practioners (and some BIM experts) still don't really understand it.
+The aim of this assignment is to become familiar with the core concepts of OpenBIM. This is done  through a deep dive into the IFC file format and associated Open BIM standards. The [IFC data model](https://publications.cms.bgu.tum.de/books/bim_2018/06_IFC_07.pdf) is the industry standard for BIM, but many BIM practioners (and some BIM experts) still don't really understand it.
 
 Previously we have focused on the IFC file and helping you to understand how it is structured, this year we will push this idea further by exploring the file in the awesome OpenBIM tool blender. This allows us the opportunity to pull several exercises together into the same environment.
 
