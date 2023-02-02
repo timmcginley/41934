@@ -39,6 +39,7 @@ This course is possible because of a large community of humans who have been pas
 IFC is a standardized, digital description of the built asset industry.  It is an open, international standard ([ISO 16739-1:2018](https://www.iso.org/standard/70303.html)) and promotes vendor-neutral, or agnostic, and usable capabilities across a wide range of hardware devices, software platforms, and interfaces for many different use cases.
 
 [IFC History](https://itc.scix.net/pdfs/w78-2015-paper-004.pdf)
+[Industrial Foundation Classes paper](https://publications.cms.bgu.tum.de/books/bim_2018/06_IFC_07.pdf)
 
 ### IDM [Information Delivery Manual](https://www.buildingsmart.org/standards/bsi-standards/information-delivery-manual/)
 
