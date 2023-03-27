@@ -1,26 +1,40 @@
 # 41934 Advanced BIM
 
-The course is divided into 4 modules, each module builds on the previous one to guide you through identifying your use case and the data you need to analyse to create your tool or workflow. The course focuses on the IFC schema to provide you with a robust, future proof and interoperable understanding of BIM.
+Advanced BIM enables you to get the information you need to analyse and design building systems in your disciplinary specialism. This requires interoperability and standardisation; therefore this course focuses on Open BIM data and standards. Excitingly there is an emerging emerging ecosystem of OpenBIM tools supported by IfcOpenShell for instance that are starting to provide an OpenBIM alternative to contemporary inoperable closed BIM tools and data. We believe that University education has a responsibility to support the transition in the AEC to OpenBIM data and standards.  To achieve this, the Advanced BIM course at DTU therefore supports five emerging OpenBIM roles including: modelling, analysis tool development, management/coordination and ontology development. The aim of the course is to support you to become an OpenBIM expert (guru) in your chosen role(s) in the course supported by your disciplinary expertise i.e. LCA or structural analysis for instance. At the end of the course your group is required to develop a tutorial to teach one of these concepts to a group of peers to demonstrate your expertise in the area. The course has three main principles.
+1) Think in ‘IFC, FAIR data and Open Standards’
+2) Support the circularity of data, knowledge, processes, models and tools
+3) Build (Architect) OpenBIM tools for specific use cases that applies domain expertise.
+
+The course is divided into 5 modules, each module builds on the previous one to guide you through identifying your use case and the data you need to analyse to create your tool or workflow. The course focuses on the IFC schema to provide you with a robust, future proof and interoperable understanding of BIM.
 
 ## Assignments
-1. [OpenBIM](https://github.com/timmcginley/41934/tree/main/A1__OpenBIM)
+1. [LearningFromOpenBIM](https://github.com/timmcginley/41934/tree/main/A1__OpenBIM)
 2. [FutureBIM](https://github.com/timmcginley/41934/tree/main/A2__FutureBIM)
 3. [UseCase](https://github.com/timmcginley/41934/tree/main/A3__UseCase)
 4. [FinalProject](https://github.com/timmcginley/41934/tree/main/A4__FinalProject)
 5. [ProjectReflection](https://github.com/timmcginley/41934/tree/main/A5__ProjectReflection)
 
 ## Learning Objectives
-
-1. Analyse a current BIM use case in BPMN.
-1. Propose a tool or workflow for a BIM use case in BPMN
-2. Design rules to check conformance of an IFC model
-4. Identify, locate and extract the required information for the proposed use case from an IFC model
-5. Evaluate an IFC model and provide appropriate feedback / guidance for a specific use case and user.
-6. Evaluate the suitability of software licensing options for digital tools.
-7. Design an OpenBIM tool or workflow to address the challenges of a specific use case based on international and national standards and best practice.
+The course learning objectives are organised into three main priniciples.
+### Principle 1. Think in ‘IFC, FAIR data and Open Standards’
+1. Develop a BIM Execution Plan for a specific use case based on the OpenBIM standard ISO 19650.
+2. Identify, locate and extract information for a specific use case from an IFC model.
+3. Apply appropriate OpenBIM standards and guidelines to support open and FAIR data, tools and processes in a specific use case.
+4. Provide professional disciplinary guidance based on OpenBIM analysis for a specific use case.
+### Principle 2. Support the circularity of data, knowledge, processes, models and tools
+5. Develop expertise in two of four OpenBIM roles (Modelling, Analysis tool development, management / coordination or Ontologist)
+6. Create, Fork, branch and collaborate with peers in a code repository.
+7. Identify BIM challenges by analysing OpenBIM data (i.e. IFC files and project reports from previous advanced building design projects or models produced by peers in this course).
+8. Teach an advanced BIM concept you have learnt in the course to your peers.
+### Principle 3. Build (Architect) OpenBIM tools for specific use cases that applies domain expertise.
+9. Identify and model a BIM use case based on the BIM challenges identified from analysis of an OpenBIM project in BPMN.
+10. Identify an appropriate development methodology for an OpenBIM tool or model to satisfy the identified use case.
+11. Apply and improve programming skills in Python to develop an OpenBIM tool or modelling skills in OpenBIM using your engineering domain expertise to address a specific use case.
+12. Evaluate software licensing suitability and implications for the OpenBIM tool you develop or modelling tool you use.
 
 ## Focus on problems you care about
 This course has been designed so that the emphasis is on learning FROM BIM rather than learning HOWTO BIM [(McGinley & Krijnen, 2021)](https://itc.scix.net/paper/w78-2021-paper-070). However it is not possible to support every possible use case, therefore the course focuses on the following:
+
 * LCA
 * Structure
 * Cost
