@@ -16,7 +16,7 @@ The course is divided into 5 modules, each module builds on the previous one to 
 * R5: OpenBIM [Champion](/Roles/Champion)
 
 ## Course Calender
-Overview of teh course is available [here](/Schedule)
+Overview of the course calender is available [here](/Schedule)
 
 ## Assignments
 1. [LearningFromOpenBIM](/Assignments/A1)
