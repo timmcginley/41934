@@ -11,11 +11,11 @@ The course is divided into 5 modules, each module builds on the previous one to 
 Overview of teh course is available [here](/Schedule)
 
 ## Assignments
-1. [LearningFromOpenBIM](https://github.com/timmcginley/41934/tree/main/A1__OpenBIM)
-2. [FutureBIM](https://github.com/timmcginley/41934/tree/main/A2__FutureBIM)
-3. [UseCase](https://github.com/timmcginley/41934/tree/main/A3__UseCase)
-4. [FinalProject](https://github.com/timmcginley/41934/tree/main/A4__FinalProject)
-5. [ProjectReflection](https://github.com/timmcginley/41934/tree/main/A5__ProjectReflection)
+1. [LearningFromOpenBIM](/Assignments/A1__OpenBIM)
+2. [FutureBIM](/Assignments/A2__FutureBIM)
+3. [UseCase](/Assignments/A3__UseCase)
+4. [FinalProject](/Assignments/A4__FinalProject)
+5. [ProjectReflection](/Assignments/A5__ProjectReflection)
 
 ## Learning Objectives
 The course learning objectives are organised into three main priniciples.
