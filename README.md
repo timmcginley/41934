@@ -7,6 +7,9 @@ Advanced BIM enables you to get the information you need to analyse and design b
 
 The course is divided into 5 modules, each module builds on the previous one to guide you through identifying your use case and the data you need to analyse to create your tool or workflow. The course focuses on the IFC schema to provide you with a robust, future proof and interoperable understanding of BIM.
 
+## Course Calender
+Overview of teh course is available [here](/Schedule)
+
 ## Assignments
 1. [LearningFromOpenBIM](https://github.com/timmcginley/41934/tree/main/A1__OpenBIM)
 2. [FutureBIM](https://github.com/timmcginley/41934/tree/main/A2__FutureBIM)
