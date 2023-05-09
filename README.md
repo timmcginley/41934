@@ -7,6 +7,13 @@ Advanced BIM enables you to get the information you need to analyse and design b
 
 The course is divided into 5 modules, each module builds on the previous one to guide you through identifying your use case and the data you need to analyse to create your tool or workflow. The course focuses on the IFC schema to provide you with a robust, future proof and interoperable understanding of BIM.
 
+## OpenBIM Roles
+
+* OpenBIM Modeller, 
+* OpenBIM Analyst, 
+* OpenBIM Manager,
+* OpenBIM Ontologist
+
 ## Course Calender
 Overview of teh course is available [here](/Schedule)
 
