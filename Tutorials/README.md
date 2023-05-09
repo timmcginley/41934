@@ -1,4 +1,4 @@
-##  Useful links
+##  Advanced BIM Tutorials and Useful links
 
 ### On Blender and/or BlenderBIM:
 - How to run an external script in Blender: https://github.com/timmcginley/41934/blob/main/Tutorials/E22_41934_How%20to%20run%20an%20external%20script%20in%20Blender.md
