@@ -1,4 +1,4 @@
-# A1: OpenBIM
+# A1: Learning from BIM
 Warm up project to get your teeth into OpenBIM standards. This assignment is linked to the following learning objectives.
 
 * L03: Design rules to check conformance of an IFC mode
