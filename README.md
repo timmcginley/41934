@@ -9,10 +9,11 @@ The course is divided into 5 modules, each module builds on the previous one to 
 
 ## OpenBIM Roles
 
-* OpenBIM Modeller, 
-* OpenBIM Analyst, 
-* OpenBIM Manager,
-* OpenBIM Ontologist
+* R1: OpenBIM [Modeller](/Roles/Modeller)
+* R2: OpenBIM [Analyst](/Roles/Analyst)
+* R3: OpenBIM [Manager](/Roles/Manager)
+* R4: OpenBIM [Ontologist](/Roles/Ontologist)
+* R5: OpenBIM [Champion](/Roles/Champion)
 
 ## Course Calender
 Overview of teh course is available [here](/Schedule)
