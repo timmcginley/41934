@@ -1,11 +1,16 @@
 import ifcopenshell
 import time
+import bpy
+import os
 
 # starting time
 start = time.time()
 
-model = ifcopenshell.open("model/BIM_3W_Team05_Sub01.ifc")
-#model = ifcopenshell.open("model/Duplex_A_20110907.ifc")
+#model = ifcopenshell.open("model/BIM_3W_Team05_Sub01.ifc")
+modelname = "Duplex_A_20110907.ifc"
+modelpath = os.path.join(os.path.dirname(bpy.data.filepath), modelname)
+model = ifcopenshell.open(modelpath)
+
 end = time.time()
 
 # total time taken
