@@ -28,17 +28,17 @@ Overview of the course calender is available [here](/Schedule)
 
 ## Learning Objectives
 The course learning objectives are organised into three main priniciples.
-### Principle 1. Think in ‘IFC, FAIR data and Open Standards’
+### Principle 1. Open, FAIR and Standardised
 1. Develop a BIM Execution Plan for a specific use case based on the OpenBIM standard ISO 19650.
 2. Identify, locate and extract information for a specific use case from an IFC model.
 3. Apply appropriate OpenBIM standards and guidelines to support open and FAIR data, tools and processes in a specific use case.
 4. Provide professional disciplinary guidance based on OpenBIM analysis for a specific use case.
-### Principle 2. Support the circularity of data, knowledge, processes, models and tools
+### Principle 2. Reusable and Maintainable
 5. Develop expertise in two of four OpenBIM roles (Modelling, Analysis tool development, management / coordination or Ontologist)
 6. Create, Fork, branch and collaborate with peers in a code repository.
 7. Identify BIM challenges by analysing OpenBIM data (i.e. IFC files and project reports from previous advanced building design projects or models produced by peers in this course).
 8. Teach an advanced BIM concept you have learnt in the course to your peers.
-### Principle 3. Build (Architect) OpenBIM tools for specific use cases that applies domain expertise.
+### Principle 3. Agnostic and Guiding
 9. Identify and model a BIM use case based on the BIM challenges identified from analysis of an OpenBIM project in BPMN.
 10. Identify an appropriate development methodology for an OpenBIM tool or model to satisfy the identified use case.
 11. Apply and improve programming skills in Python to develop an OpenBIM tool or modelling skills in OpenBIM using your engineering domain expertise to address a specific use case.
