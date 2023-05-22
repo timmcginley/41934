@@ -3,3 +3,4 @@ The OpenBIM Champion should have mastered the other roles and specialise in two 
 * Level 1: Write a markdown tutorial and concise video.
 * Level 2: Write a Jupyter notebook tutorial.
 * Level 3: Develop micro credentials / course activities for specific learning objectives.
+
