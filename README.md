@@ -14,7 +14,7 @@ The OpenBIM roles are an extension of the original three BIM roles, (modeller, a
 * R2: OpenBIM [Analyst](/Roles/Analyst)
 * R3: OpenBIM [Manager](/Roles/Manager)
 * R4: OpenBIM [Ontologist](/Roles/Ontologist)
-* R5: OpenBIM [Champion](/Roles/Champion)
+* R5: OpenBIM [Guru](/Roles/Guru)
 
 ## Course Calender
 Overview of the course calender is available [here](/Schedule)
