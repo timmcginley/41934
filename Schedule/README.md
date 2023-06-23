@@ -1,3 +1,3 @@
 # Course Schedule
 
-[Week 1 - Learning from BIM](/W01)
+[Week 1 - Learning from BIM](/weeks/W01)
