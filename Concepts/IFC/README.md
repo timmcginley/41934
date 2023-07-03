@@ -1,6 +1,6 @@
 ### IFC [Industry Foundation Classes](https://www.buildingsmart.org/standards/bsi-standards/industry-foundation-classes/)
 
-Information taken from [here]([Industry-Foundation-Classes-(IFC).md](https://github.com/buildingSMART/technical.buildingsmart.org/blob/main/Industry-Foundation-Classes-(IFC).md)
+Information taken from [here](https://github.com/buildingSMART/technical.buildingsmart.org/blob/main/Industry-Foundation-Classes-(IFC).md)
 
 *An industry-specific data model schema*
 
