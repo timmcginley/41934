@@ -43,6 +43,8 @@ License
 
 IFC is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-nd/4.0/](http://creativecommons.org/licenses/by-nd/4.0/)
 
+## More Info
+
 * [IFC History](https://itc.scix.net/pdfs/w78-2015-paper-004.pdf)
 * [Industrial Foundation Classes paper](https://publications.cms.bgu.tum.de/books/bim_2018/06_IFC_07.pdf)
 
