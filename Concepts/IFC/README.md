@@ -1,7 +1,5 @@
 ### IFC [Industry Foundation Classes](https://www.buildingsmart.org/standards/bsi-standards/industry-foundation-classes/)
 
-Information taken from [here](https://github.com/buildingSMART/technical.buildingsmart.org/blob/main/Industry-Foundation-Classes-(IFC).md)
-
 *An industry-specific data model schema*
 
 IFC is a standardized, digital description of the built asset industry.  It is an open, international standard ([ISO 16739-1:2018](https://www.iso.org/standard/70303.html)) and promotes vendor-neutral, or agnostic, and usable capabilities across a wide range of hardware devices, software platforms, and interfaces for many different use cases.
@@ -55,3 +53,5 @@ IFC is licensed under the Creative Commons Attribution-NoDerivatives 4.0 Interna
 - Which IFC class should I use: https://blenderbim.org/search-ifc-class.html
 - About IFC Classes : https://wiki.osarch.org/index.php?title=IFC_-_Industry_Foundation_Classes/IFC_classes
 - [IFC 101 Course](https://osarch.org/2022/11/12/%f0%9f%93%ba-ifc-101-a-free-ifc-crash-course-with-python/) with Yassine Oualid.
+
+Based on text adapted from [here](https://github.com/buildingSMART/technical.buildingsmart.org/blob/main/Industry-Foundation-Classes-(IFC).md)
