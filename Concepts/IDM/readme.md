@@ -4,4 +4,4 @@
 
 The built asset industry is characterized by bringing many different stakeholders together in a project-specific organization. In order to work efficiently, it is necessary for all participants to know which and when different kinds of information have to be communicated. The **ISO 29481-1:2010** “Building Information Modelling - Information Delivery Manual - Part 1: Methodology and Format” standard has been developed by buildingSMART in order to have a methodology to capture and specify processes and information flow during the lifecycle of a facility.
 
-This session makes a link between ISO 19650 and IDM.
+check out some examples [here](https://github.com/buildingSMART/technical.buildingsmart.org/blob/main/IDM-Database.md)
