@@ -13,13 +13,6 @@ A2 and A3 have 2 options, so participants will help to evaluate and provide peer
 Participants will get an introductory lecture (video) to both options to support their choice (Adamu & Thorpe, 2016). In this way, the modelling groups will receive guidance from the analysis groups and provide feedback on that guidance back to them. This feedback should also include how it supported them to make decisions and ultimately if it was clear enough to help them to know how to change their model.
 
 
-
-## A3B: Ontology
-### Learning Objectives
-5. Apply domain specific linked data ontologies.
-11. Apply and improve programming skills in Python to develop an OpenBIM tool or modelling skills in OpenBIM using your engineering domain expertise.
-   
-The focus of this assignment is to support the Ontologist role. This should cover both Open Linked building data and traditional classification systems.
 ## A4: OpenBIM Champion
 ### Learning Objectives
 8. Teach an advanced BIM concept you have learned in the course to your peers and reflect on peer feedback on this.
