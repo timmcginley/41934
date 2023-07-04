@@ -7,6 +7,8 @@ Advanced BIM enables you to get the information you need to analyse and design b
 
 The course is divided into 5 modules, each module builds on the previous one to guide you through identifying your use case and the data you need to analyse to create your tool or workflow. The course focuses on the IFC schema to provide you with a robust, future proof and interoperable understanding of BIM.
 
+An overview of the course on DTU Kurserbase for the year 2023/2024 is available [here](https://kurser.dtu.dk/course/2023-2024/41934).
+
 ## OpenBIM [Roles](/Roles)
 The OpenBIM roles are an extension of the original three BIM roles, (modeller, analyst, manager / coordinator).
 
@@ -27,23 +29,18 @@ Overview of the course calender is available [here](/Schedule)
 5. [ProjectReflection](/Assignments/A5)
 
 ## Learning Objectives
-The course learning objectives are organised into three main priniciples.
-### Principle 1. Open, FAIR and Standardised
-~~1. Develop a BIM Execution Plan for a specific use case based on the OpenBIM standard ISO 19650.~~
-~~2. Identify, locate and extract information for a specific use case from an IFC model.~~
-~~3. Apply appropriate OpenBIM standards and guidelines to support open and FAIR data, tools and processes in a specific use case.~~
-~~4. Provide professional disciplinary guidance based on OpenBIM analysis for a specific use case.~~
-
-### Principle 2. Reusable and Maintainable
-~~5. Develop expertise in two of four OpenBIM roles (Modelling, Analysis tool development, management / coordination or Ontologist)~~
-~~6. Create, Fork, branch and collaborate with peers in a code repository.~~
-~~7. Identify BIM challenges by analysing OpenBIM data (i.e. IFC files and project reports from previous advanced building design projects or models produced by peers in this course).~~
-~~8. Teach an advanced BIM concept you have learnt in the course to your peers.~~
-### Principle 3. Agnostic and Guiding
-~~9. Identify and model a BIM use case based on the BIM challenges identified from analysis of an OpenBIM project in BPMN.~~
-~~10. Identify an appropriate development methodology for an OpenBIM tool or model to satisfy the identified use case.~~
-~~11. Apply and improve programming skills in Python to develop an OpenBIM tool or modelling skills in OpenBIM using your engineering domain expertise to address a specific use case.~~
-~~12. Evaluate software licensing suitability and implications for the OpenBIM tool you develop or modelling tool you use.~~
+1. Create and manage a BIM Execution Plan based on the OpenBIM standard ISO 19650
+2. Identify, locate and extract information from an IFC model in OpenBIM tools
+3. Apply appropriate OpenBIM standards and guidelines to support open and FAIR data, tools and processes.
+4. Provide professional disciplinary guidance based on OpenBIM analysis.
+5. Apply domain specific linked data ontologies.
+6. Create, fork, branch and collaborate on the development of an OpenBIM tool in Python with peers in a code repository.
+7. Identify BIM challenges by analysing OpenBIM data.
+8. Teach an advanced BIM concept you have learned in the course to your peers and reflect on peer feedback on this.
+9. Identify and model a BIM use case based on the BIM challenges identified from analysis of an OpenBIM project in BPMN.
+10. Identify an appropriate development methodology for an OpenBIM tool or model to different use cases.
+11. Apply and improve programming skills in Python to develop an OpenBIM tool or modelling skills in OpenBIM using your engineering domain expertise.
+12. Evaluate software licensing suitability and implications for the OpenBIM tool you develop or modelling tool you use.
 
 ## Focus on problems you care about
 This course has been designed so that the emphasis is on learning FROM BIM rather than learning HOWTO BIM [(McGinley & Krijnen, 2021)](https://itc.scix.net/paper/w78-2021-paper-070). Also, from the perspective of BIM us in the early design stages of tall buildings, [Omrany, et. al, (2023)](https://www.sciencedirect.com/science/article/pii/S0926580523001942#s0020) provide an excellent overview on the literature for 7 use cases. However it is not possible to support every possible use case, therefore the course focuses on the following:
