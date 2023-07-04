@@ -2,6 +2,7 @@
 
 This course is possible because of a large community of humans who have been passionate about supporting standards in the AEC for a very long time. The main organisation representing these people and the needs for standardisaiton in the AEC is the awesome [BuildingSmart](https://www.buildingsmart.org/). BuildingSmart are responsible for the development of several core interoperability tools that make this course possible they include. The table below shows the 5 main standards supported by BuildingSMART. 
 
+
 ### IFC [Industry Foundation Classes](IFC/README.md)
 
 *An industry-specific data model schema*
@@ -39,7 +40,7 @@ The BIM Collaboration Format (BCF) allows different BIM applications to communic
 
 A detailed explanation of BCF can be found [here.](https://technical.buildingsmart.org/standards/bcf/)
 
-### bSDD [buildingSMART Data Dictionary](https://www.buildingsmart.org/users/services/buildingsmart-data-dictionary/)
+### bSDD [buildingSMART Data Dictionary](bsDD/README.md)
 
 *A standard library of general definitions of BIM objects and their attributes*
 
