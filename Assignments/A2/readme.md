@@ -1,4 +1,4 @@
-# A2: FutureBIM
+# A2: OpenBIM Modeller
 We introduce potential future BIM tools and then in class we investigate their connections and the roles they will play in your future careers. This assignment is linked to the following learning objectives.
 
 * L03: Design rules to check conformance of an IFC mode
