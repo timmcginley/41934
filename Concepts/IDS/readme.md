@@ -14,3 +14,6 @@ Technical info is available on https://github.com/buildingSMART/IDS
 This is a web interface for filling in IDS schemas updated to the latest version v0.5
 You can test it at https://www.xbim.it/xids?bs=true
 This is a web assembly application that is running entirely in your browser, and no information is exchanged with the xbim server. Taken from post by [CBenghi](https://github.com/CBenghi).
+
+## Documentation
+Documentation and an IDS tutorial can be found [here](https://github.com/buildingSMART/IDS/tree/master/Documentation)
