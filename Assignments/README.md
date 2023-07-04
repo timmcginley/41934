@@ -1,7 +1,5 @@
 # Assignments
 
-activity options the students can choose (based on Figure 2)
-#	Learning Activity
 * A1	Learning from BIM 
 * A2	OpenBIM Modeler / Analysis
 * A3	OpenBIM Manager / Ontologist
