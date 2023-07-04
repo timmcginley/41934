@@ -15,6 +15,8 @@ Warm up project to get your teeth into OpenBIM standards. This assignment is lin
 
 Previously we have focused on the IFC file and helping you to understand how it is structured, this year we will push this idea further by exploring the file in the awesome OpenBIM tool blender. This allows us the opportunity to pull several exercises together into the same environment.
 
+In this activity you will be introduced to a [‘metadisciplinary framework’ for BIM (McGinley Krijnen, 2022)](https://www.researchgate.net/publication/363579368_A_framework_for_meta-disciplinary_building_analysis/stats). 
+
 ## Assignment
 Install Blender and the BlenderBIM plugin.
 Import one of the course example files into Blender and explore the IFC file and its properties.
