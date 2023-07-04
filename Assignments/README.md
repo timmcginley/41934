@@ -12,13 +12,7 @@ A2 and A3 have 2 options, so participants will help to evaluate and provide peer
 
 Participants will get an introductory lecture (video) to both options to support their choice (Adamu & Thorpe, 2016). In this way, the modelling groups will receive guidance from the analysis groups and provide feedback on that guidance back to them. This feedback should also include how it supported them to make decisions and ultimately if it was clear enough to help them to know how to change their model.
 
-## A3A: Manage
-Aim: 
-Learning Objectives
-1. Create and manage a BIM Execution Plan based on the OpenBIM standard [ISO 19650](/Concepts/ISO19650/README.md)
-7. Identify and model a BIM use case based on the BIM challenges identified from analysis of an OpenBIM project in BPMN.
-   
-This task focuses on ISO 19650. The intention for autumn 2022 was to integrate real examples of 19650 into the course with practical examples, for instance by prototyping a total process using Speckle that complied to ISO 19650. However, time constraints in planning the course meant that this was ultimately replaced with traditional lectures from external parties. These provided informative content to the students but on their own were not enough for them to see the alignment to the other activities. A future BIM course should be focused on thinking in and gaining experience using ISO 19650 rather than just ‘teaching’ it. The experience of the autumn 2022 course enabled a proposal to map the development methodology (Figure 3) to ISO 19650 (Figure 4).
+
 
 ## A3B: Ontology
 ### Learning Objectives
