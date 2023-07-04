@@ -1,11 +1,11 @@
 # A1: Learning from BIM
 Warm up project to get your teeth into OpenBIM standards. This assignment is linked to the following learning objectives.
 
-* L03: Design rules to check conformance of an IFC mode
+~~L03: Design rules to check conformance of an IFC mode
 * L04: Identify, locate and extract the required information for the proposed use case from an IFC model
-* L06: Evaluate the suitability of software licensing options for digital tools.
+* L06: Evaluate the suitability of software licensing options for digital tools.~~
 
-The aim of this assignment is to become familiar with the core concepts of OpenBIM. This is done  through a deep dive into the IFC file format and associated Open BIM standards. The [IFC data model](https://publications.cms.bgu.tum.de/books/bim_2018/06_IFC_07.pdf) is the industry standard for BIM, but many BIM practioners (and some BIM experts) still don't really understand it.
+  The aim of this assignment is to become familiar with the core concepts of OpenBIM. This is done  through a deep dive into the IFC file format and associated Open BIM standards. The [IFC data model](/Concepts/IFC/README.md) is the industry standard for BIM, but many BIM practioners (and some BIM experts) still don't really understand it.
 
 Previously we have focused on the IFC file and helping you to understand how it is structured, this year we will push this idea further by exploring the file in the awesome OpenBIM tool blender. This allows us the opportunity to pull several exercises together into the same environment.
 
@@ -17,9 +17,10 @@ You will identify a simple BIM Use case examples could be gathering:
 areas of the building,
 quantities of materials,
 could you estimate cost? - if so how?
-what else can you think of?
-Develop a script (based on examples and support from the teachers) to satisfy the identified use case.
-Get a github account, (at least one per team), this will make it possible to host your code on the github and make it easier for us to provide you support and also get feedback and help from your peers. Ultimately we are trying to build a strong community or OpenBIM learning at DTU and this is a great way to do it 😊
+
+Now review the project reports - can you check that the values they say they acheived are actually acheived?
+
+Develop a script (based on examples and support from the teachers) to check a specific calim in one of the reports.
 
 ## Activity Completion
 Your group must submit your modified script file for the use case, this should be provided in a ‘repo’ in the github account linked to your group. The repo will include:
