@@ -1,6 +1,6 @@
 # Assignments
 
-* A1	Learning from BIM 
+* A1	Learning from OpenBIM 
 * A2	OpenBIM Modeler / Analysis
 * A3	OpenBIM Manager / Ontologist
 * A4	OpenBIM Champion
