@@ -27,7 +27,7 @@ This could include information and processes from other digital sources and plat
 9. Identify and model a BIM use case based on the BIM challenges identified from analysis of an OpenBIM project in [BPMN](/Concepts/BPMN/README.md).
 10. Identify an appropriate [development methodology](Concepts/Development_methodology/README.md) for an OpenBIM tool or model to different use cases.
 11. Apply and improve programming skills in Python to develop an OpenBIM tool or modelling skills in OpenBIM using your engineering domain expertise.
-12. Evaluate software licensing suitability and implications for the OpenBIM tool you develop or modelling tool you use.
+12. Evaluate [software licensing](/Concepts/Software_licences/README.md) suitability and implications for the OpenBIM tool you develop or modelling tool you use.
    
 This task would focus on analysing the models using scripts as in the previous years using BlenderBIM as an IDE (integrated development environment) incorporating a console, 3d view, IFC data model hierarchy, and IFC property views in one place. Additionally, this assignment would provide the opportunity for the student to develop their own OpenBIM tools in Python.
 
