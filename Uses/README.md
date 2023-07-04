@@ -10,7 +10,7 @@ It is necessary to determine on which facility elements the BIM Use(s) will be e
 The point in the facility’s lifecycle at which the BIM Use will be implemented.
 ## Discipline
 The discipline is also synonymous with the responsible party for the BIM Use. OmniClass Table 33: Disciplines7 presents standard disciplines. These disciplines could also correspond with the various project roles. At a top level, the disciplines currently in this table include planning, design, investigation, project management, construction, facility use, and support. While the primary discipline may be identified, this does not preclude other disciplines from being responsible for part of the BIM Use. Additionally it is possible to have multiple disciplines responsible for the BIM Use. This would then make for separate BIM Uses.
-## Level of Development
+## [Level of Development](/Concepts/LOD/README.md)
 The degree of granularity to which the BIM Use will be implemented.
 For each of the BIM Uses, the level of development should be identified in order to maximize the benefit from the BIM Use. The Level of Development describes the level of detail / granularity to which a Model Element is developed. AIA / BIMForum has recently released a major revision to the level of development specification. This revision further specifies level of development for specific elements of the facility. Table 3-2 shows a description of the Level of Development definitions.
 
