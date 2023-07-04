@@ -4,6 +4,7 @@
 * A2	OpenBIM Modeler / Analysis
 * A3	OpenBIM Manager / Ontologist
 * A4	OpenBIM Champion
+* A5  Reflection
 
 A2 and A3 have 2 options, so participants will help to evaluate and provide peer feedback on each other’s work. 
 
