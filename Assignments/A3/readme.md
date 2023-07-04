@@ -1,8 +1,7 @@
-# A3 Use Case
-This activity is linked to the following learning objectives.
-* LO1: Analyse a current BIM use case in BPMN.
-* LO2: Propose a tool or workflow for a BIM use case in BPMN
-* LO3: Design an OpenBIM tool or workflow to address the challenges of a specific use case based on international and national standards and best practice.
+# A3 OpenBIM Manage / Ontology
+
+
+
 
 ### Overview
 We want you to think of BIM as a method for you to get information and perform analysis on models for things that interest you. Therefore, in this assignment we want you to work on a use case that you are really passionate about and want to explore further which you can develop further in your final project. For this activity you need to further develop and analyse your BIM Use Case. Advanced BIM isn’t about changing everything at once. It is about focusing on a specific use case, and starting to think about how you would test a potential solution to that use case before you build the solutions. It is about considering, the information that you need - what can you get from the IFC for instance? In this activity you will
