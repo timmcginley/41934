@@ -15,7 +15,7 @@ The degree of granularity to which the BIM Use will be implemented.
 For each of the BIM Uses, the level of development should be identified in order to maximize the benefit from the BIM Use. The Level of Development describes the level of detail / granularity to which a Model Element is developed. AIA / BIMForum has recently released a major revision to the level of development specification. This revision further specifies level of development for specific elements of the facility. Table 3-2 shows a description of the Level of Development definitions.
 
 
-## Gather
+## [Gather](Gather/README.md)
 This is an initial stage of BIM analysis.
 * Capture
 * Quanitify
