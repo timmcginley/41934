@@ -11,9 +11,15 @@ This could include information and processes from other digital sources and plat
 We introduce potential future BIM tools and then in class we investigate their connections and the roles they will play in your future careers. This assignment is linked to the following learning objectives.
 
 
-
-In this activity you will be introduced to a [‘metadisciplinary framework’ for BIM (McGinley Krijnen, 2022)](https://www.researchgate.net/publication/363579368_A_framework_for_meta-disciplinary_building_analysis/stats). 
-
+## A2: Analyse
+Aim: 
+4. Provide professional disciplinary guidance based on OpenBIM analysis.
+9. Identify and model a BIM use case based on the BIM challenges identified from analysis of an OpenBIM project in [BPMN](/Concepts/BPMN/README.md).
+10. Identify an appropriate [development methodology](Concepts/Development_methodology/README.md) for an OpenBIM tool or model to different use cases.
+11. Apply and improve programming skills in Python to develop an OpenBIM tool or modelling skills in OpenBIM using your engineering domain expertise.
+12. Evaluate [software licensing](/Concepts/Software_licences/README.md) suitability and implications for the OpenBIM tool you develop or modelling tool you use.
+   
+This task would focus on analysing the models using scripts as in the previous years using BlenderBIM as an IDE (integrated development environment) incorporating a console, 3d view, IFC data model hierarchy, and IFC property views in one place. Additionally, this assignment would provide the opportunity for the student to develop their own OpenBIM tools in Python.
 
 
 ## Aim
