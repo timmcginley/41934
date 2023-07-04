@@ -3,9 +3,9 @@ We introduce potential future BIM tools and then in class we investigate their c
 
 
 
-In this activity you will be introduced to a [‘metadisciplinary framework’ for BIM (McGinley Krijnen, 2022)](https://www.researchgate.net/publication/363579368_A_framework_for_meta-disciplinary_building_analysis/stats). Building on the investigation of BlenderBIM and Speckle in Activity 1, in A2 we will introduce IFC.JS and Linked Data.
+In this activity you will be introduced to a [‘metadisciplinary framework’ for BIM (McGinley Krijnen, 2022)](https://www.researchgate.net/publication/363579368_A_framework_for_meta-disciplinary_building_analysis/stats). 
 
-As an advanced course in BIM our intention is not to ‘teach’ software but to introduce concepts and tools that you can then develop expertise in and we can help you when you run into challenges.
+
 
 ## Aim
 
