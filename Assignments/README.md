@@ -12,17 +12,6 @@ A2 and A3 have 2 options, so participants will help to evaluate and provide peer
 
 Participants will get an introductory lecture (video) to both options to support their choice (Adamu & Thorpe, 2016). In this way, the modelling groups will receive guidance from the analysis groups and provide feedback on that guidance back to them. This feedback should also include how it supported them to make decisions and ultimately if it was clear enough to help them to know how to change their model.
 
-
-## A2: Analyse
-Aim: 
-4. Provide professional disciplinary guidance based on OpenBIM analysis.
-9. Identify and model a BIM use case based on the BIM challenges identified from analysis of an OpenBIM project in [BPMN](/Concepts/BPMN/README.md).
-10. Identify an appropriate [development methodology](Concepts/Development_methodology/README.md) for an OpenBIM tool or model to different use cases.
-11. Apply and improve programming skills in Python to develop an OpenBIM tool or modelling skills in OpenBIM using your engineering domain expertise.
-12. Evaluate [software licensing](/Concepts/Software_licences/README.md) suitability and implications for the OpenBIM tool you develop or modelling tool you use.
-   
-This task would focus on analysing the models using scripts as in the previous years using BlenderBIM as an IDE (integrated development environment) incorporating a console, 3d view, IFC data model hierarchy, and IFC property views in one place. Additionally, this assignment would provide the opportunity for the student to develop their own OpenBIM tools in Python.
-
 ## A3A: Manage
 Aim: 
 Learning Objectives
