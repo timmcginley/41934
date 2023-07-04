@@ -21,23 +21,23 @@ This is an initial stage of BIM analysis.
 * Quanitify
 * Monitor
 * Qualify
-## Generate
+## [Generate](Generate/README.md)
 This could also be thought of as the process of constructing the *model*
 * Prescribe
 * Arrange
 * Size
-## Analyse
+## [Analyse](Analyse/README.md)
 This includes botht eh classic BIM *analysis* and also how the gathering of data supports disciplinary analysis.
 * Coordinate
 * Forecast
 * Validate
-## Communicate
+## [Communicate](Communicate/README.md)
 This could also be thought of as the *guidance* that the BIM provides the members of the design team and or asset manager.
 * Visualise
 * Transform
 * Draw
 * Document
-## Realize
+## [Realize](Realize/README.md)
 This is a traditonal focus of BIM - to proved a model to support construction.
 * Fabricate
 * Assemble
