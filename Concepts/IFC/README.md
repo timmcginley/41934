@@ -38,7 +38,8 @@ Who uses IFC?
 
 Hundreds of software applications for use by many different stakeholders in the process can send and receive IFC data (see [_Community > Software Implementation_](https://technical.buildingsmart.org/community/software-implementations/) ). Since 1997, IFC has been tried and tested through many iterations, gaining worldwide trust as a means to deliver projects from all over the world.
 
-## [Future of IFC](https://github.com/buildingSMART/NextGen-IFC/wiki/Ten-principles-for-a-future-IFC)
+## Future of IFC
+[10 Principles of the future of IFC](https://github.com/buildingSMART/NextGen-IFC/wiki/Ten-principles-for-a-future-IFC)
 
 License
 -------
