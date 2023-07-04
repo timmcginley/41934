@@ -21,7 +21,7 @@ The OpenBIM roles are an extension of the original three BIM roles, (modeller, a
 ## Course Calender
 Overview of the course calender is available [here](/Schedule)
 
-## Assignments
+## [Assignments](Assignments/README.md)
 1. [LearningFromOpenBIM](/Assignments/A1)
 2. [FutureBIM](/Assignments/A2)
 3. [UseCase](/Assignments/A3)
