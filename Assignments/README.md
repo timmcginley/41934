@@ -1,5 +1,7 @@
 # Assignments
 
+>As an advanced course in BIM our intention is not to ‘teach’ software but to introduce concepts and tools that you can then develop expertise in and we can help you when you run into challenges.
+
 * A1	Learning from OpenBIM 
 * A2	OpenBIM Modeler / Analysis
 * A3	OpenBIM Manager / Ontologist
