@@ -41,6 +41,8 @@ Hundreds of software applications for use by many different stakeholders in the 
 ## Future of IFC
 [10 Principles of the future of IFC](https://github.com/buildingSMART/NextGen-IFC/wiki/Ten-principles-for-a-future-IFC)
 
+link to buildingSMART website about [IFC]((https://www.buildingsmart.org/standards/bsi-standards/industry-foundation-classes/))
+
 License
 -------
 
