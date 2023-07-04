@@ -24,8 +24,8 @@ This could include information and processes from other digital sources and plat
 
 ## A2: Analyse
 4. Provide professional disciplinary guidance based on OpenBIM analysis.
-9. Identify and model a BIM use case based on the BIM challenges identified from analysis of an OpenBIM project in BPMN.
-10. Identify an appropriate development methodology for an OpenBIM tool or model to different use cases.
+9. Identify and model a BIM use case based on the BIM challenges identified from analysis of an OpenBIM project in [BPMN](/Concepts/BPMN/README.md).
+10. Identify an appropriate [development methodology](Concepts/Development_methodology/README.md) for an OpenBIM tool or model to different use cases.
 11. Apply and improve programming skills in Python to develop an OpenBIM tool or modelling skills in OpenBIM using your engineering domain expertise.
 12. Evaluate software licensing suitability and implications for the OpenBIM tool you develop or modelling tool you use.
    
