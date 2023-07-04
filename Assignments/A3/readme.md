@@ -8,6 +8,12 @@ Learning Objectives
    
 This task focuses on ISO 19650. The intention for autumn 2022 was to integrate real examples of 19650 into the course with practical examples, for instance by prototyping a total process using Speckle that complied to ISO 19650. However, time constraints in planning the course meant that this was ultimately replaced with traditional lectures from external parties. These provided informative content to the students but on their own were not enough for them to see the alignment to the other activities. A future BIM course should be focused on thinking in and gaining experience using ISO 19650 rather than just ‘teaching’ it. The experience of the autumn 2022 course enabled a proposal to map the development methodology (Figure 3) to ISO 19650 (Figure 4).
 
+## A3B: Ontology
+### Learning Objectives
+5. Apply domain specific linked data ontologies.
+11. Apply and improve programming skills in Python to develop an OpenBIM tool or modelling skills in OpenBIM using your engineering domain expertise.
+   
+The focus of this assignment is to support the Ontologist role. This should cover both Open Linked building data and traditional classification systems.
 
 ### Overview
 We want you to think of BIM as a method for you to get information and perform analysis on models for things that interest you. Therefore, in this assignment we want you to work on a use case that you are really passionate about and want to explore further which you can develop further in your final project. For this activity you need to further develop and analyse your BIM Use Case. Advanced BIM isn’t about changing everything at once. It is about focusing on a specific use case, and starting to think about how you would test a potential solution to that use case before you build the solutions. It is about considering, the information that you need - what can you get from the IFC for instance? In this activity you will
