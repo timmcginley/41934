@@ -8,7 +8,7 @@ Focus on IFC analysis of real (previous) student building design projects from a
 ### Modeler
 This could include information and processes from other digital sources and platforms, i.e. 3D printing / rapid prototyping, as well as drone, mixed reality and laser scanning (Wang Liyuan et al., 2020). The main challenge here is to validate the BIM model and use current tools or tools of their own to fix issues efficiently. The model group would thoroughly check the received IFC file and fix missing or incorrect geometric and non-geometric information. This should be in collaboration with an analysis (A2B) group. Furthermore, they could develop their own models, but the emphasis in this assignment would be on maintaining, reusing and further developing existing models or sub systems (OpenBIM principle 2) for a specific disciplinary use case.
 ### Analyst
-This task would focus on analysing the models using scripts as in the previous years using BlenderBIM as an IDE (integrated development environment) incorporating a console, 3d view, IFC data model hierarchy, and IFC property views in one place. Additionally, this assignment would provide the opportunity for the student to develop their own OpenBIM tools in Python.![image](https://github.com/timmcginley/41934/assets/1415855/d956aaad-3634-4c75-929a-bb1b55e98848)
+This task would focus on analysing the models using scripts as in the previous years using BlenderBIM as an IDE (integrated development environment) incorporating a console, 3d view, IFC data model hierarchy, and IFC property views in one place. Additionally, this assignment would provide the opportunity for the student to develop their own OpenBIM tools in Python.
 
 ## A3	[OpenBIM Manager / Ontologist](A3/README.md)
 ### Manager
