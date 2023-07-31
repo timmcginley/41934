@@ -23,10 +23,10 @@ Overview of the course calender is available [here](/Schedule)
 
 ## [Assignments](Assignments/README.md)
 1. [LearningFromOpenBIM](/Assignments/A1)
-2. [FutureBIM](/Assignments/A2)
-3. [UseCase](/Assignments/A3)
-4. [FinalProject](/Assignments/A4)
-5. [ProjectReflection](/Assignments/A5)
+2. [OpenBIM Modeller / Analyst](/Assignments/A2)
+3. [OpenBIM Manager / Ontologist](/Assignments/A3)
+4. [OpenBIM Champion](/Assignments/A4)
+5. [Reflection](/Assignments/A5)
 
 ## Learning Objectives
 1. Create and manage a BIM Execution Plan based on the OpenBIM standard ISO 19650
