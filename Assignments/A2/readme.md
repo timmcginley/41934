@@ -30,3 +30,6 @@ Therefore, the aim of this assignment is in your groups to explore focused parts
 
 ## Activity Completion
 
+## ideas
+* i would be really interested to see if we could change values in an SVG file and use this to edit and append the information in drawings.
+

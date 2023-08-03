@@ -8,10 +8,10 @@ Warm up project to get your teeth into OpenBIM standards. This assignment is lin
 6. Create, fork, branch and collaborate on the development of an OpenBIM tool in Python with peers in a [code repository](/Concepts/Github/README.md).
 7. Identify BIM challenges by analysing OpenBIM data.
    
- The Identify what the projects analysed, how did they test this? What was the domain focus of the investigation? Was it structural, energy and indoor, daylight, acoustic, LCA/LCC or something else? They should then be introduced to BPMN and use it to document the use case and explore the role of experts in OpenBIM. Following this, the students should review OpenBIM tools made in the previous year of the OpenBIM course and identify which tools could be used or adapted to solve the problem identified in the design project in the previous part. Finally, they could check the information validity of the models against the use case requirements they identified. 
+Identify what the projects analysed, how did they test this? What was the domain focus of the investigation? Was it structural, energy and indoor, daylight, acoustic, LCA/LCC or something else? They should then be introduced to BPMN and use it to document the use case and explore the role of experts in OpenBIM. Following this, the students should review OpenBIM tools made in the previous year of the OpenBIM course and identify which tools could be used or adapted to solve the problem identified in the design project in the previous part. Finally, they could check the information validity of the models against the use case requirements they identified. 
 
 
-  The aim of this assignment is to become familiar with the core concepts of OpenBIM. This is done  through a deep dive into the IFC file format and associated Open BIM standards. The [IFC data model](/Concepts/IFC/README.md) is the industry standard for BIM, but many BIM practioners (and some BIM experts) still don't really understand it.
+The aim of this assignment is to become familiar with the core concepts of OpenBIM. This is done  through a deep dive into the IFC file format and associated Open BIM standards. The [IFC data model](/Concepts/IFC/README.md) is the industry standard for BIM, but many BIM practioners (and some BIM experts) still don't really understand it.
 
 Previously we have focused on the IFC file and helping you to understand how it is structured, this year we will push this idea further by exploring the file in the awesome OpenBIM tool blender. This allows us the opportunity to pull several exercises together into the same environment.
 
@@ -47,6 +47,11 @@ Your group must submit your modified script file for the use case, this should b
 * What (use cases) need to be done before you can start your use case?	
 * What is the input data for your use case?	
 * What other use cases are waiting for your use case to complete?
+
+### Select a focus Area
+* Which of the [focus areas](/41934/Focus) will you choose?
+* What information did you find that helped you to see this would be a good choice?
+* In the next assignment will you focus on modelling or analysis?
 
 ### 03 A BPMN file
 * Describes the use case
