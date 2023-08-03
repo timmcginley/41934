@@ -49,7 +49,7 @@ Your group must submit your modified script file for the use case, this should b
 * What other use cases are waiting for your use case to complete?
 
 ### Select a focus Area
-* Which of the [focus areas](Focus) will you choose?
+* Which of the [focus areas](../Focus) will you choose?
 * What information did you find that helped you to see this would be a good choice?
 * In the next assignment will you focus on modelling or analysis?
 
