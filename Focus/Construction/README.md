@@ -1,6 +1,10 @@
-# Cost Focus
+# Construction Focus
+Previously students have focused on the use case of costing a BIM model, but maybe you are inspired to look at other examples? these could include:
+* construction planning
+* automated building permits
+* building regulation compliance
 
-If you have a cost focus you could approach the course in the following way...
+If you have a construction focus the following provides an examples of how you could approach the course.
 
 ## Assignment 1
 You are probably going to want to find out pretty early what informaiton is available
