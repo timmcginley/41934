@@ -19,14 +19,14 @@ The OpenBIM roles are an extension of the original three BIM roles, (modeller, a
 * R5: OpenBIM [Guru](Roles/Guru)
 
 ## Course Calender
-Overview of the course calender is available [here](/Schedule)
+Overview of the course calender is available [here](Schedule)
 
 ## [Assignments](Assignments/README.md)
-1. [LearningFromOpenBIM](/Assignments/A1)
-2. [OpenBIM Modeller / Analyst](/Assignments/A2)
-3. [OpenBIM Manager / Ontologist](/Assignments/A3)
-4. [OpenBIM Champion](/Assignments/A4)
-5. [Reflection](/Assignments/A5)
+1. [LearningFromOpenBIM](Assignments/A1)
+2. [OpenBIM Modeller / Analyst](Assignments/A2)
+3. [OpenBIM Manager / Ontologist](Assignments/A3)
+4. [OpenBIM Champion](Assignments/A4)
+5. [Reflection](Assignments/A5)
 
 ## Learning Objectives
 1. Create and manage a BIM Execution Plan based on the OpenBIM standard ISO 19650
@@ -45,10 +45,10 @@ Overview of the course calender is available [here](/Schedule)
 ## Focus on problems you care about
 This course has been designed so that the emphasis is on learning FROM BIM rather than learning HOWTO BIM [(McGinley & Krijnen, 2021)](https://itc.scix.net/paper/w78-2021-paper-070). Also, from the perspective of BIM us in the early design stages of tall buildings, [Omrany, et. al, (2023)](https://www.sciencedirect.com/science/article/pii/S0926580523001942#s0020) provide an excellent overview on the literature for 7 use cases. However it is not possible to support every possible use case, therefore the course focuses on the following:
 
-1. [LCA](/Focus/Sustainability) / Materials / Sustainability Assessment
-2. [Structure](/Focus/Structure)
-3. [Indoor](/Focus/Indoor) & Energy / Acoustic / Daylight
-4. [Construction](/Focus/Construction) / Cost / Buildability / Permits
+1. [LCA](Focus/Sustainability) / Materials / Sustainability Assessment
+2. [Structure](Focus/Structure)
+3. [Indoor](Focus/Indoor) & Energy / Acoustic / Daylight
+4. [Construction](Focus/Construction) / Cost / Buildability / Permits
 
 ## Code examples
 The super exciting thing about this course is that it tries to move from the old way of running linear courses, where students repeat the same standard exercise each year and try and change it.
