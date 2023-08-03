@@ -9,7 +9,7 @@ The course is divided into 5 modules, each module builds on the previous one to 
 
 An overview of the course on DTU Kurserbase for the year 2023/2024 is available [here](https://kurser.dtu.dk/course/2023-2024/41934).
 
-## OpenBIM [Roles](Roles)
+## OpenBIM [Roles](Roles/README.md)
 The OpenBIM roles are an extension of the original three BIM roles, (modeller, analyst, manager / coordinator).
 
 * R1: OpenBIM [Modeller](Roles/Modeller)
