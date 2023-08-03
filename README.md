@@ -12,11 +12,11 @@ An overview of the course on DTU Kurserbase for the year 2023/2024 is available 
 ## OpenBIM [Roles](/Roles)
 The OpenBIM roles are an extension of the original three BIM roles, (modeller, analyst, manager / coordinator).
 
-* R1: OpenBIM [Modeller](./Roles/Modeller)
-* R2: OpenBIM [Analyst](./Roles/Analyst)
-* R3: OpenBIM [Manager](./Roles/Manager)
-* R4: OpenBIM [Ontologist](./Roles/Ontologist)
-* R5: OpenBIM [Guru](./Roles/Guru)
+* R1: OpenBIM [Modeller](Roles/Modeller)
+* R2: OpenBIM [Analyst](Roles/Analyst)
+* R3: OpenBIM [Manager](Roles/Manager)
+* R4: OpenBIM [Ontologist](Roles/Ontologist)
+* R5: OpenBIM [Guru](Roles/Guru)
 
 ## Course Calender
 Overview of the course calender is available [here](/Schedule)
