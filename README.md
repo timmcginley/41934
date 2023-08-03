@@ -45,12 +45,10 @@ Overview of the course calender is available [here](/Schedule)
 ## Focus on problems you care about
 This course has been designed so that the emphasis is on learning FROM BIM rather than learning HOWTO BIM [(McGinley & Krijnen, 2021)](https://itc.scix.net/paper/w78-2021-paper-070). Also, from the perspective of BIM us in the early design stages of tall buildings, [Omrany, et. al, (2023)](https://www.sciencedirect.com/science/article/pii/S0926580523001942#s0020) provide an excellent overview on the literature for 7 use cases. However it is not possible to support every possible use case, therefore the course focuses on the following:
 
-* LCA
-* Structure
-* Cost
-* Indoor & Energy
-* Acoustic
-* Daylight
+1. LCA / Materials / Sustainability Assessment
+2. Structure
+3. Indoor & Energy / Acoustic / Daylight
+4. Cost / Construction / Buildability / Permits
 
 ## Code examples
 The super exciting thing about this course is that it tries to move from the old way of running linear courses, where students repeat the same standard exercise each year and try and change it.
