@@ -7,7 +7,7 @@ Previously students have focused on the use case of costing a BIM model, but may
 If you have a construction focus the following provides an examples of how you could approach the course.
 
 ## Assignment 1
-You are probably going to want to find out pretty early what informaiton is available
+You are probably going to want to find out pretty early what informaiton is available. At this stage you might not be sure what you are going to focus on and will not have to define it until the end of this assignment (but then your group is locked).
 
 ## Assignment 2
 From the information that you haev found available - what use case could you solve with the model you have?
