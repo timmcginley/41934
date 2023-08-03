@@ -54,32 +54,6 @@ Your group must submit your modified script file for the use case, this should b
 * Helps you to define the scope of your script
 * Helps you to see what inputs and outputs your use case has.
 
-## Submissions
-### Cost
-* [Group 01](https://github.com/kfjordt/11034-advanced-bim) - Cost (structural)
-* [Group 02](https://github.com/AndersTraeland/A1---Open-BIM) - Cost (Structural)
-* [Group 11](https://github.com/AnjaHolmquist/GROUP-11.) - Cost
-* [Group 19](https://github.com/simonciversen/A1-OpenBIM) - Cost (early design phase)
-### Structure
-* [Group 09](https://github.com/katrinekolbjornsen/UsecaseA1) - Structural
-* [Group 10](https://github.com/juliev1234/A1_OpenBim_Group10) - Structural
-* Group 14 - no link - Structural
-* Group 17 - no link - Structural
-* [Group 20](https://github.com/Hajarb11/BIM--Group20) - Structural
-* [Group 21](https://github.com/loicsan272/Advenced-BIM2022-G21) - Structural
-### LCA
-* [Group 03](https://github.com/WilliamEskildsen/41934_group3) - LCA
-* [Group 04](https://github.com/MathildeDTU/41934-Advanced-BIM-F22) - LCA
-* Group 16 - no link - LCA
-### Energy / Indoor / Daylight / Acoustics
-* [Group 06](https://github.com/gabrielamiti/BIM) - Indoor Energy and Daylight
-* Group 15 - no link - Indoor climate analysis
-* [Group 18](https://github.com/RikkeKHansen/Markdown-file) - Indoor climate
-* [Group 22](https://github.com/s183578/41934-Advanced-BIM-Group-22) - Indoor Climate
-* [Group 23](https://github.com/Enzuesta/41934-Advanced-BIM-Group23) - Daylight
-* [Group 12](https://github.com/Jubelicool/A1-OpenBimGroup12) - Acoustics
-
-
 
 
 
