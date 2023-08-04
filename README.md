@@ -3,9 +3,9 @@
 
 The primary aim of the course is to teach you how to gather, analyze and communicate building information from [IFC](Concepts/IFC) models for real architectural engineering challenges. The course has three main principles.
 
-1) Open, FAIR and Standardised
-2) Reusable and Maintainable
-3) Agnostic and Guiding
+1. Open, FAIR and Standardised
+2. Reusable and Maintainable
+3. Agnostic and Guiding
 
 This requires interoperability and standardisation; therefore this course focuses on Open BIM data and standards. Excitingly there is an emerging emerging ecosystem of OpenBIM tools supported by [IfcOpenShell](Concepts/IfcOpenShell) and others that provide an OpenBIM alternative to contemporary inoperable closed BIM tools and data. We believe that University education has a responsibility to support the transition in the AEC to OpenBIM data and standards.  To achieve this, the Advanced BIM course at DTU supports five emerging OpenBIM Roles.
 
