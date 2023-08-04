@@ -1,9 +1,13 @@
 
 # 41934 Advanced BIM
 
-*The aim of the course is to teach you how to gather, analyze and communicate building information from IFC models for real architectural engineering challenges.* 
-<hr>
-This requires interoperability and standardisation; therefore this course focuses on Open BIM data and standards. Excitingly there is an emerging emerging ecosystem of OpenBIM tools supported by IfcOpenShell for instance that are starting to provide an OpenBIM alternative to contemporary inoperable closed BIM tools and data. We believe that University education has a responsibility to support the transition in the AEC to OpenBIM data and standards.  To achieve this, the Advanced BIM course at DTU supports five emerging OpenBIM [Roles](Roles/README.md)
+The primary aim of the course is to teach you how to gather, analyze and communicate building information from [IFC](Concepts/IFC) models for real architectural engineering challenges. The course has three main principles.
+
+1) Open, FAIR and Standardised
+2) Reusable and Maintainable
+3) Agnostic and Guiding
+
+This requires interoperability and standardisation; therefore this course focuses on Open BIM data and standards. Excitingly there is an emerging emerging ecosystem of OpenBIM tools supported by [IfcOpenShell](Concepts/IfcOpenShell) and others that provide an OpenBIM alternative to contemporary inoperable closed BIM tools and data. We believe that University education has a responsibility to support the transition in the AEC to OpenBIM data and standards.  To achieve this, the Advanced BIM course at DTU supports five emerging OpenBIM [Roles](Roles/README.md)
 <br>
 * R1: OpenBIM [Modeller](Roles/Modeller)
 * R2: OpenBIM [Analyst](Roles/Analyst)
@@ -11,17 +15,7 @@ This requires interoperability and standardisation; therefore this course focuse
 * R4: OpenBIM [Ontologist](Roles/Ontologist)
 * R5: OpenBIM [Guru](Roles/Guru)
 
-including: modelling, analysis tool development, management/coordination and ontology development. The aim of the course is to support you to become an OpenBIM champion (guru) in your chosen role(s) in the course supported by your disciplinary expertise i.e. LCA or structural analysis for instance. At the end of the course your group is required to develop a tutorial to teach one of these concepts to a group of peers to demonstrate your expertise in the area. The course has three main principles.
-1) Open, FAIR and Standardised
-2) Reusable and Maintainable
-3) Agnostic and Guiding
-
-The course is divided into 5 modules, each module builds on the previous one to guide you through identifying your use case and the data you need to analyse to create your tool or workflow. The course focuses on the IFC schema to provide you with a robust, future proof and interoperable understanding of BIM.
-
-An overview of the course on DTU Kurserbase for the year 2023/2024 is available [here](https://kurser.dtu.dk/course/2023-2024/41934).
-
-## Course Calender
-Overview of the course calender is available [here](Schedule)
+The secondary aim of the course is to support you to become an OpenBIM champion (guru) in your chosen role(s) in the course supported by your disciplinary expertise i.e. LCA or structural analysis for instance. At the end of the course your group is required to develop a tutorial to teach one of these concepts to a group of peers to demonstrate your expertise in the area. The course is divided into 5 modules, each module builds on the previous one to guide you through identifying your use case and the data you need to analyse to create your tool or workflow. The course focuses on the IFC schema to provide you with a robust, future proof and interoperable understanding of BIM. Overview of the course calender is available [here](Schedule)
 
 ## [Assignments](Assignments/README.md)
 1. [LearningFromOpenBIM](Assignments/A1)
