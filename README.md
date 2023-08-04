@@ -1,3 +1,7 @@
+---
+id: getting-started
+---
+
 # 41934 Advanced BIM
 
 Advanced BIM enables you to get the information you need to analyse and design building systems in your disciplinary specialism. This requires interoperability and standardisation; therefore this course focuses on Open BIM data and standards. Excitingly there is an emerging emerging ecosystem of OpenBIM tools supported by IfcOpenShell for instance that are starting to provide an OpenBIM alternative to contemporary inoperable closed BIM tools and data. We believe that University education has a responsibility to support the transition in the AEC to OpenBIM data and standards.  To achieve this, the Advanced BIM course at DTU therefore supports five emerging OpenBIM roles including: modelling, analysis tool development, management/coordination and ontology development. The aim of the course is to support you to become an OpenBIM champion (guru) in your chosen role(s) in the course supported by your disciplinary expertise i.e. LCA or structural analysis for instance. At the end of the course your group is required to develop a tutorial to teach one of these concepts to a group of peers to demonstrate your expertise in the area. The course has three main principles.
