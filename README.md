@@ -40,7 +40,7 @@ The secondary aim of the course is to support you to become an OpenBIM champion 
 11. Apply and improve programming skills in Python to develop an OpenBIM tool or modelling skills in OpenBIM using your engineering domain expertise.
 12. Evaluate software licensing suitability and implications for the OpenBIM tool you develop or modelling tool you use.
 
-## Architectural Engineering Focus Area
+## Architectural Engineering Focus Areas
 This course has been designed so that the emphasis is on learning FROM BIM rather than learning HOWTO BIM [(McGinley & Krijnen, 2021)](https://itc.scix.net/paper/w78-2021-paper-070). Also, from the perspective of BIM us in the early design stages of tall buildings, [Omrany, et. al, (2023)](https://www.sciencedirect.com/science/article/pii/S0926580523001942#s0020) provide an excellent overview on the literature for 7 use cases. However it is not possible to support every possible use case, therefore the course focuses on the following:
 
 1. [LCA](Focus/Sustainability) / Materials / Sustainability Assessment
