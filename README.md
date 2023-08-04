@@ -1,7 +1,7 @@
 
 # 41934 Advanced BIM
 
-The primary aim of the course is to teach you how to gather, analyze and communicate building information from [IFC](Concepts/IFC) models for real architectural engineering challenges. The course has three main principles.
+The primary aim of the course is to teach you how to gather, analyze and communicate building information from [IFC](Concepts/IFC) models for real architectural engineering challenges. Finally you will teach your peers a concept you ahev learnt in the course. To acheive this, the course ahs the following principles.
 
 1. Open, FAIR and Standardised
 2. Reusable and Maintainable
