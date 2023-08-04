@@ -3,7 +3,7 @@
 
 *The aim of the course is to teach you how to gather, analyze and communicate building information from IFC models for real architectural engineering challenges.* 
 <hr>
-This requires interoperability and standardisation; therefore this course focuses on Open BIM data and standards. Excitingly there is an emerging emerging ecosystem of OpenBIM tools supported by IfcOpenShell for instance that are starting to provide an OpenBIM alternative to contemporary inoperable closed BIM tools and data. We believe that University education has a responsibility to support the transition in the AEC to OpenBIM data and standards.  To achieve this, the Advanced BIM course at DTU therefore supports five emerging OpenBIM [Roles](Roles/README.md):
+This requires interoperability and standardisation; therefore this course focuses on Open BIM data and standards. Excitingly there is an emerging emerging ecosystem of OpenBIM tools supported by IfcOpenShell for instance that are starting to provide an OpenBIM alternative to contemporary inoperable closed BIM tools and data. We believe that University education has a responsibility to support the transition in the AEC to OpenBIM data and standards.  To achieve this, the Advanced BIM course at DTU supports five emerging OpenBIM [Roles](Roles/README.md)
 
 * R1: OpenBIM [Modeller](Roles/Modeller)
 * R2: OpenBIM [Analyst](Roles/Analyst)
