@@ -1,6 +1,7 @@
 # Course Schedule  2023
 ----------------------------------------------------------------
-# Learning from (Open)BIM
+# A1_ Learning from (Open)BIM
+More details about this assignment can be found [here](Assingments/A1)
 ## Week 1 - [Learning from (open)BIM](/Concepts/Learn_from_BIM)
 - [SoftwareLicenses](Concepts/SoftwareLicenses)
 - [IFC](Concepts/IFC)
@@ -20,7 +21,8 @@
 - [IDS](Concepts/IDS)
 - Sub A1
 ----------------------------------------------------------------
-# Assignment 2 Model / Analyse
+# A2: Assignment 2 Model / Analyse
+More details about this assignment can be found [here](Assingments/A2)
 
 ## Week 4 - OpenBIM Analysis Tool Development
 - FOCUS # 1 [Github](Concepts/Github)
@@ -38,7 +40,8 @@
 
 ------------------------------------------------------
 
-# Assignment 3 Manage / Ontologist
+# A3: Assignment 3 Manage / Ontologist
+More details about this assignment can be found [here](Assingments/A3)
 
 ## Week 7 - Linked Data
 - FOCUS # 1 [Linked Data](Concepts/LinkedData)
@@ -54,9 +57,14 @@
 
 ------------------------------------------------------
 
-# Assignment 4
+# A4: Assignment 4
+More details about this assignment can be found [here](Assingments/A4)
+
 ## Week 10 - 
+
 ## Week 11 - Interim Presentation with feedback
+
 ## Week 12 - 
+
 ## Week 13 - Sub A4 - Final [Presentation](Concepts/Presentation)
 
