@@ -15,7 +15,7 @@
 - [BPMN](Concepts/BPMN)
 
 ## Week 3 - OpenBIM Classification etc.
-- [IDM](Concepts/IDM)
+
 - [Classification](Concepts/Classification)
 - [IDS](Concepts/IDS)
 - Sub A1
@@ -32,6 +32,7 @@
 - [MarkDown](Concepts/MarkDown)
 
 ## Week 6 - BIM Use Cases
+- [IDM](Concepts/IDM)
 - UCM? - ADD LINK
 - Prompt Model [MachineLearning](Concepts/MachineLearning)
 
@@ -41,20 +42,21 @@
 
 ## Week 7 - Linked Data
 - FOCUS # 1 [Linked Data](Concepts/LinkedData)
+- [bsDD](Concepts/bsDD)
 
 ## Week 8 - Streaming BIM
 - FOCUS # 2 - **Stream** - [Speckle](Concepts/Speckle)
   
 ## Week 9 - OpenBIM Drawings
 - Meta Draw - [SVG](Concepts/SVG)
+
 - Sub A3
 
 ------------------------------------------------------
 
 # Assignment 4
 ## Week 10 - 
-- [bsDD](Concepts/bsDD)
-## Week 11 -
+## Week 11 - Interim Presentation with feedback
 ## Week 12 - 
 ## Week 13 - Sub A4 - Final [Presentation](Concepts/Presentation)
 
