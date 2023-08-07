@@ -1,4 +1,4 @@
-# Course Schedule
+# Course Schedule  2023
 ----------------------------------------------------------------
 # Learning from (Open)BIM
 ## Week 1 - [Learning from (open)BIM](/Concepts/Learn_from_BIM)
