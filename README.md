@@ -17,7 +17,7 @@ This requires interoperability and standardisation; therefore this course focuse
 * R4: OpenBIM [Ontologist](Roles/Ontologist)
 * R5: OpenBIM [Guru](Roles/Guru)
 
-The secondary aim of the course is to support you to become an OpenBIM champion (guru) in your chosen role(s) in the course supported by your disciplinary expertise i.e. LCA or structural analysis for instance. At the end of the course your group is required to develop a tutorial to teach one of these concepts to a group of peers to demonstrate your expertise in the area. The course is divided into 5 modules, each module builds on the previous one to guide you through identifying your use case and the data you need to analyse to create your tool or workflow. The course focuses on the IFC schema to provide you with a robust, future proof and interoperable understanding of BIM. Check the course [Schedule].
+The secondary aim of the course is to support you to become an OpenBIM champion (guru) in your chosen role(s) in the course supported by your disciplinary expertise i.e. LCA or structural analysis for instance. At the end of the course your group is required to develop a tutorial to teach one of these concepts to a group of peers to demonstrate your expertise in the area. The course is divided into 5 [Assignments], each module builds on the previous one to guide you through identifying your use case and the data you need to analyse to create your tool or workflow. The course focuses on the IFC schema to provide you with a robust, future proof and interoperable understanding of BIM. Check the course [Schedule].
 
 ## Course [Assignments](Assignments/README.md)
 1. [LearningFromOpenBIM](Assignments/A1)
@@ -59,6 +59,7 @@ The information booklets are in the process of being converted to markdown. In t
 
 We are at an exciting point in BIM at the moment, it is a real moment where the future is being defined in front of our eyes. We are trying to bring together some of these developments in a list repo called [bim awesome].
 
+[Assignments]: /Assignments
 [IFC]: Concepts/IFC
 [bim awesome]: https://dtu-byg.github.io/BIM-awesome/
 [BPMN]: Concepts/BPMN
