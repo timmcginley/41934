@@ -5,22 +5,19 @@ More details about this assignment can be found [here](/Assingments/A1)
 ## Week 1 - [Learning from (open)BIM](/Concepts/Learn_from_BIM)
 1. Course rules / focus / uncertainty etc.
 1. What is BIM?
-1. Benefits
-1. What can we learn from (Open)BIM?
-1. [Roles](/Roles)
-1. [Uses of BIM](/Uses)
-1. Challenges of BIM
-  - Silos
-1. [IFC](/Concepts/IFC)
-1. [MVD](/Concepts/MVD)?
+1. What are the Benefits and challenges of BIM? (Inc. Silos)
+1. What is Open and Standardised (Open)BIM and what can we learn from it?
+1. What are the [Roles](/Roles) of OpenBIM?
+1. What are the [Uses](/Uses) of OpenBIM?
+1. What is [IFC](/Concepts/IFC)?
 1. [IFC File Analyzer](/Concepts/IFCFileAnalyzer)
-1. [SoftwareLicenses](/Concepts/SoftwareLicenses)
+1. What are [FOSS](/Concepts/SoftwareLicenses) tools and FAIR data?
 1. [BlenderBIM](/Concepts/BlenderBIM) Explore old models - also see the IFC properties
-1. [Assignments](/Assignments)
-1. Feedback on your learning through the course.
+1. [Assignments and Feedback](/Assignments)
   
 ## Week 2 - OpenBIM Management
 1. [BIMExecutionPlan](/Concepts/BIMExecutionPlan)
+2. [MVD](/Concepts/MVD)?
 1. [ISO 19650](/Concepts/ISO19650)
 1. [BCF](/Concepts/BCF)
 1. [LOD](/Concepts/LOD)
