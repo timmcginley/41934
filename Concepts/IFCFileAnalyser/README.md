@@ -8,4 +8,4 @@
 3. ...
 
 ## Install
-IFC File Analyzer [Installation](installationhttps://www.nist.gov/services-resources/software/ifc-file-analyzer)
+IFC File Analyzer [Installation](https://www.nist.gov/services-resources/software/ifc-file-analyzer)
