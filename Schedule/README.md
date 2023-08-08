@@ -3,7 +3,13 @@
 # A1_ Learning from (Open)BIM
 More details about this assignment can be found [here](/Assingments/A1)
 ## Week 1 - [Learning from (open)BIM](/Concepts/Learn_from_BIM)
+- What is BIM?
 - What can we learn from (Open)BIM?
+- Roles
+- Uses of BIM
+- Challenges of BIM
+  - Silos
+- IFC File Analyzer
 - [Assignments](/Assignments)
 - [SoftwareLicenses](/Concepts/SoftwareLicenses)
 - [IFC](/Concepts/IFC)
