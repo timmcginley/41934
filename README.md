@@ -35,7 +35,7 @@ The secondary aim of the course is to support you to become an OpenBIM champion 
 6. Create, fork, branch and collaborate on the development of an OpenBIM tool in Python with peers in a [code repository](Concepts/Github).
 7. Identify BIM challenges by analysing OpenBIM data.
 8. Teach an advanced BIM concept you have learned in the course to your peers and reflect on peer feedback on this.
-9. Identify and model a BIM use case based on the BIM challenges identified from analysis of an OpenBIM project in [BPMN](Concepts/BPMN).
+9. Identify and model a BIM use case based on the BIM challenges identified from analysis of an OpenBIM project in [BPMN].
 10. Identify an appropriate development methodology for an OpenBIM tool or model to different use cases.
 11. Apply and improve programming skills in Python to develop an OpenBIM tool or modelling skills in OpenBIM using your engineering domain expertise.
 12. Evaluate [software licensing](Concepts/SoftwareLicences) suitability and implications for the OpenBIM tool you develop or modelling tool you use.
@@ -43,10 +43,10 @@ The secondary aim of the course is to support you to become an OpenBIM champion 
 ## Architectural Engineering Focus Areas
 This course has been designed so that the emphasis is on learning FROM BIM rather than learning HOWTO BIM [(McGinley & Krijnen, 2021)](https://itc.scix.net/paper/w78-2021-paper-070). Also, from the perspective of BIM us in the early design stages of tall buildings, [Omrany, et. al, (2023)](https://www.sciencedirect.com/science/article/pii/S0926580523001942#s0020) provide an excellent overview on the literature for 7 use cases. However it is not possible to support every possible use case, therefore the course focuses on the following:
 
-1. [LCA](Focus/Sustainability) / Materials / Sustainability Assessment
-2. [Structure](Focus/Structure)
-3. [Indoor](Focus/Indoor) & Energy / Acoustic / Daylight
-4. [Construction](Focus/Construction) / Cost / Buildability / Permits
+1. [LCA] / Materials / Sustainability Assessment
+2. [Structure]
+3. [Indoor] & Energy / Acoustic / Daylight
+4. [Construction] / Cost / Buildability / Permits
 
 ## Code examples
 The super exciting thing about this course is that it tries to move from the old way of running linear courses, where students repeat the same standard exercise each year and try and change it.
@@ -57,4 +57,12 @@ The information booklets are in the process of being converted to markdown. In t
 
 ##  BIM Awesome
 
-We are at an exciting point in BIM at the moment, it is a real moment where the future is being defined in front of our eyes. We are trying to bring together some of these developments in a list repo called [bim awesome](https://dtu-byg.github.io/BIM-awesome/).
+We are at an exciting point in BIM at the moment, it is a real moment where the future is being defined in front of our eyes. We are trying to bring together some of these developments in a list repo called [bim awesome].
+
+[IFC]: Concepts/IFC
+[bim awesome]: https://dtu-byg.github.io/BIM-awesome/
+[BPMN]: Concepts/BPMN
+[Construction]: Focus/Construction
+[Structure]: Focus/Structure
+[LCA]: Focus/Sustainability
+[Indoor]: Focus/Indoor
