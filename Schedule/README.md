@@ -5,7 +5,7 @@ More details about this assignment can be found [here](/Assignments/A1)
 
 ## Week 1 - [Learning from (open)BIM](/Concepts/Learn_from_BIM)
 Start working with IFC File Analyzer
-1. >>> What is BIM and what is the focus of the course?
+1. ___ What is BIM and what is the focus of the course?
 1. >>> What are the Benefits and challenges of BIM? (Inc. Silos)
 1. >>> What is Open and Standardised (Open)BIM and what are what are [FOSS](/Concepts/SoftwareLicenses) tools and FAIR data?
 1. XXX What are the [Roles](/Roles) of OpenBIM?
