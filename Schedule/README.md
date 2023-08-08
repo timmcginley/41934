@@ -12,7 +12,7 @@ More details about this assignment can be found [here](/Assingments/A1)
 1. What is [IFC](/Concepts/IFC) and how can I see the data( [IFC File Analyzer](/Concepts/IFCFileAnalyzer) )?
 
 1. [BlenderBIM](/Concepts/BlenderBIM) Explore old models - also see the IFC properties
-1. [Assignments and Feedback](/Assignments)
+1. Course [Assignments](/Assignments) and Feedback
   
 ## Week 2 - OpenBIM Management
 1. [BIMExecutionPlan](/Concepts/BIMExecutionPlan)
