@@ -7,17 +7,26 @@ Warm up project to get your teeth into OpenBIM standards. This assignment is lin
 3. Apply appropriate OpenBIM standards and guidelines to support open and FAIR data, tools and processes.
 6. Create, fork, branch and collaborate on the development of an OpenBIM tool in Python with peers in a [code repository](/Concepts/Github/README.md).
 7. Identify BIM challenges by analysing OpenBIM data.
-   
+
 Identify what the projects analysed, how did they test this? What was the domain focus of the investigation? Was it structural, energy and indoor, daylight, acoustic, LCA/LCC or something else? They should then be introduced to BPMN and use it to document the use case and explore the role of experts in OpenBIM. Following this, the students should review OpenBIM tools made in the previous year of the OpenBIM course and identify which tools could be used or adapted to solve the problem identified in the design project in the previous part. Finally, they could check the information validity of the models against the use case requirements they identified. 
 
-
-The aim of this assignment is to become familiar with the core concepts of OpenBIM. This is done  through a deep dive into the IFC file format and associated Open BIM standards. The [IFC data model](/Concepts/IFC/README.md) is the industry standard for BIM, but many BIM practioners (and some BIM experts) still don't really understand it.
+**The aim of this assignment is to become familiar with the core concepts of OpenBIM**. This is done through a deep dive into the IFC file format and associated Open BIM standards. The [IFC data model](/Concepts/IFC/README.md) is the industry standard for BIM, but many BIM practioners (and some BIM experts) still don't really understand it.
 
 Previously we have focused on the IFC file and helping you to understand how it is structured, this year we will push this idea further by exploring the file in the awesome OpenBIM tool blender. This allows us the opportunity to pull several exercises together into the same environment.
 
 In this activity you will be introduced to a [‘metadisciplinary framework’ for BIM (McGinley Krijnen, 2022)](https://www.researchgate.net/publication/363579368_A_framework_for_meta-disciplinary_building_analysis/stats). 
 
 ## Assignment
+
+2 options:
+1. BlenderBIM
+2. IFC Analyser
+
+Building Options
+1. Advanced Building Design
+2. Skylab
+
+## BlenderBIM
 Install Blender and the BlenderBIM plugin.
 Import one of the course example files into Blender and explore the IFC file and its properties.
 In the scripting window you can then use IfcOpenShell to further explore the model (we provide examples)
