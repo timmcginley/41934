@@ -3,6 +3,7 @@
 # A1_ Learning from (Open)BIM
 More details about this assignment can be found [here](Assingments/A1)
 ## Week 1 - [Learning from (open)BIM](/Concepts/Learn_from_BIM)
+- What can we learn from (Open)BIM?
 - [SoftwareLicenses](Concepts/SoftwareLicenses)
 - [IFC](Concepts/IFC)
 - [MVD](Concepts/MVD)?
