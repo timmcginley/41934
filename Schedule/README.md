@@ -3,8 +3,7 @@
 # A1_ Learning from (Open)BIM
 More details about this assignment can be found [here](/Assingments/A1)
 ## Week 1 - [Learning from (open)BIM](/Concepts/Learn_from_BIM)
-1. Course rules / focus / uncertainty etc.
-1. What is BIM?
+1. What is BIM and what is the foucs of the course?
 1. What are the Benefits and challenges of BIM? (Inc. Silos)
 1. What is Open and Standardised (Open)BIM and what are what are [FOSS](/Concepts/SoftwareLicenses) tools and FAIR data?
 1. What are the [Roles](/Roles) of OpenBIM?
