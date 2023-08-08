@@ -28,7 +28,7 @@ Start working with BlenderBIM
 1. [BlenderBIM](/Concepts/BlenderBIM) Explore old models - also see the IFC properties
 
 ## Week 4 - extra blenderBIM
-Continue working with BlemderBIM.
+Continue working with BlenderBIM.
 1. get property sets
 
 ----------------------------------------------------------------
@@ -36,14 +36,17 @@ Continue working with BlemderBIM.
 More details about this assignment can be found [here](/Assingnments/A2)
 
 ## Week 5 - OpenBIM Analysis Tool Development
+Start working with IfcOpenShell
 1. [IDS](/Concepts/IDS)
 1. FOCUS # 1 [Github](/Concepts/Github)
 1. FOCUS # 2 [IfcOpenShell](/Concepts/IfcOpenShell)
 - Custom Tools [DevelopmentMethod](/Concepts/DevelopmentMethod)
 
 ## Week 6 - Machine Learning and BIM
+Continue working with IfcOpenShell
 - [Rules](/Concepts/Rules)
 - [MarkDown](/Concepts/MarkDown)
+- Prompt Model [MachineLearning](/Concepts/MachineLearning)
 
 ------------------------------------------------------
 
@@ -53,28 +56,21 @@ More details about this assignment can be found [here](/Assingnments/A3)
 ## Week 7 - BIM Use Cases
 - [IDM](/Concepts/IDM)
 - UCM? - ADD LINK
-- Prompt Model [MachineLearning](/Concepts/MachineLearning)
+
+## Week 8 - Linked Data
+- FOCUS # 1 [Linked Data](/Concepts/LinkedData)
+- [bsDD](/Concepts/bsDD)
 
 ------------------------------------------------------
 
 # A4: Assignment 4
 More details about this assignment can be found [here](/Assingmments/A4)
 
-## Week 8 - Linked Data
-- FOCUS # 1 [Linked Data](/Concepts/LinkedData)
-- [bsDD](/Concepts/bsDD)
-
 ## Week 9 - Streaming BIM
 - FOCUS # 2 - **Stream** - [Speckle](/Concepts/Speckle)
   
 ## Week 10 - OpenBIM Drawings
 - Meta Draw - [SVG](/Concepts/SVG)
-
-- Sub A3
-
-
-
-## Week 10 - 
 
 ## Week 11 - Interim Presentation with feedback
 
