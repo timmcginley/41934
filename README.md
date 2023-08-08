@@ -17,7 +17,7 @@ This requires interoperability and standardisation; therefore this course focuse
 * R4: OpenBIM [Ontologist](Roles/Ontologist)
 * R5: OpenBIM [Guru](Roles/Guru)
 
-The secondary aim of the course is to support you to become an OpenBIM champion (guru) in your chosen role(s) in the course supported by your disciplinary expertise i.e. LCA or structural analysis for instance. At the end of the course your group is required to develop a tutorial to teach one of these concepts to a group of peers to demonstrate your expertise in the area. The course is divided into 5 modules, each module builds on the previous one to guide you through identifying your use case and the data you need to analyse to create your tool or workflow. The course focuses on the IFC schema to provide you with a robust, future proof and interoperable understanding of BIM. Overview of the course calender is available [here](Schedule)
+The secondary aim of the course is to support you to become an OpenBIM champion (guru) in your chosen role(s) in the course supported by your disciplinary expertise i.e. LCA or structural analysis for instance. At the end of the course your group is required to develop a tutorial to teach one of these concepts to a group of peers to demonstrate your expertise in the area. The course is divided into 5 modules, each module builds on the previous one to guide you through identifying your use case and the data you need to analyse to create your tool or workflow. The course focuses on the IFC schema to provide you with a robust, future proof and interoperable understanding of BIM. Check the course [Schedule].
 
 ## Course [Assignments](Assignments/README.md)
 1. [LearningFromOpenBIM](Assignments/A1)
@@ -31,7 +31,7 @@ The secondary aim of the course is to support you to become an OpenBIM champion 
 2. Identify, locate and extract information from an IFC model in OpenBIM tools
 3. Apply appropriate OpenBIM standards and guidelines to support open and FAIR data, tools and processes.
 4. Provide professional disciplinary guidance based on OpenBIM analysis.
-5. Apply domain specific [linked data ontologies](Concepts/LinkedData).
+5. Apply domain specific [linked data] ontologies(Concepts/LinkedData).
 6. Create, fork, branch and collaborate on the development of an OpenBIM tool in Python with peers in a [code repository](Concepts/Github).
 7. Identify BIM challenges by analysing OpenBIM data.
 8. Teach an advanced BIM concept you have learned in the course to your peers and reflect on peer feedback on this.
@@ -64,5 +64,6 @@ We are at an exciting point in BIM at the moment, it is a real moment where the 
 [BPMN]: Concepts/BPMN
 [Construction]: Focus/Construction
 [Structure]: Focus/Structure
+[Schedule]: Schedule
 [LCA]: Focus/Sustainability
 [Indoor]: Focus/Indoor
