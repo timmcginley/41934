@@ -7,9 +7,9 @@ The primary aim of the course is to teach you how to gather, analyze and communi
 2. Reusable and Maintainable
 3. Agnostic and Guiding
 
-This requires interoperability and standardisation; therefore this course focuses on Open BIM data and standards. Excitingly there is an emerging emerging ecosystem of OpenBIM tools supported by [IfcOpenShell](Concepts/IfcOpenShell) and others that provide an OpenBIM alternative to contemporary inoperable closed BIM tools and data. We believe that University education has a responsibility to support the transition in the AEC to OpenBIM data and standards.  To achieve this, the Advanced BIM course at DTU supports five emerging OpenBIM Roles.
+This requires interoperability and standardisation; therefore this course focuses on Open BIM data and standards. Excitingly there is an emerging emerging ecosystem of OpenBIM tools supported by [IfcOpenShell](Concepts/IfcOpenShell) and others that provide an OpenBIM alternative to contemporary inoperable closed BIM tools and data. We believe that University education has a responsibility to support the transition in the AEC to OpenBIM data and standards.  To achieve this, the Advanced BIM course at DTU supports five emerging OpenBIM [Roles].
 
-## OpenBIM [Roles](Roles/README.md)
+## OpenBIM [Roles]
 
 * R1: OpenBIM [Modeller](Roles/Modeller)
 * R2: OpenBIM [Analyst](Roles/Analyst)
@@ -64,6 +64,7 @@ We are at an exciting point in BIM at the moment, it is a real moment where the 
 [bim awesome]: https://dtu-byg.github.io/BIM-awesome/
 [BPMN]: Concepts/BPMN
 [Construction]: Focus/Construction
+[Roles]: Roles/README.md
 [Structure]: Focus/Structure
 [Schedule]: Schedule
 [LCA]: Focus/Sustainability
