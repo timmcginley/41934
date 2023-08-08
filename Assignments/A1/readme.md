@@ -20,7 +20,7 @@ In this activity you will be introduced to a [‘metadisciplinary framework’ f
 
 2 options:
 1. BlenderBIM
-2. IFC Analyser
+2. [IFC Analyser](Concepts/IFCFileAnalyzer)
 
 Building Options
 1. Advanced Building Design
