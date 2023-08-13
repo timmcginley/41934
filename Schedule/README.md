@@ -54,8 +54,9 @@ TOOL Continue working with IfcOpenShell
 1. ___ Prompt Model [MachineLearning](/Concepts/MachineLearning)
 
 ## Week 7 - OpenBIM Drawings
-TOOL IfcOpenShell
+TOOL IFC.js / IfcOpenShell
 1. STANDARD___ Meta Draw - [SVG](/Concepts/SVG)
+2. [IFC.js](/Concepts/IFC.js)
 
 ------------------------------------------------------
 # A3: Assignment 3 Manage / Ontologist
