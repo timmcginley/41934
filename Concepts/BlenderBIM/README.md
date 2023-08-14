@@ -1,6 +1,8 @@
 ## BlenderBIM
 
-BlenderBIM is a plug into to Blender an awesomely powerful 3d modelling and rendering tool that has been open source since [2002](https://www.blender.org/about/history/#:~:text=On%20Sunday%2C%20October%2013th%2C%202002,used%20for%20any%20purpose%20whatsoever.)
+BlenderBIM is a plug into to Blender an awesomely powerful 3d modelling and rendering tool.
+It has been open source since [2002](https://www.blender.org/about/history/#:~:text=On%20Sunday%2C%20October%2013th%2C%202002,used%20for%20any%20purpose%20whatsoever.)
+
 
 [OSArch BlenderBIM entry](https://wiki.osarch.org/index.php?title=BlenderBIM_Add-on#:~:text=The%20BlenderBIM%20Add%2Don%20can%20be%20used%20to%20analyse%20and,corrected%20data%20from%20the%20spreadsheet.)
 
