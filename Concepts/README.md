@@ -4,6 +4,8 @@ This course is possible because of a large community of humans who have been pas
 
 Dion Moult's summary of [OpenBIM and FOSS tools in the AEC](https://www.youtube.com/watch?v=h2Rv9iu7yDk&t=32s&ab_channel=DionMoult).
 
+Also check our [OSArch.org](https://osarch.org/)
+
 ### IFC [Industry Foundation Classes](IFC/README.md)
 
 *An industry-specific data model schema*
