@@ -1,6 +1,6 @@
 ## Tutorials
 
-Exercise - please do videos 1 - 5 from [this set of tutorials](https://osarch.org/2022/11/12/%f0%9f%93%ba-ifc-101-a-free-ifc-crash-course-with-python/)
+Exercise - please do videos 1 - 5 from [this set of tutorials] (https://osarch.org/2022/11/12/%f0%9f%93%ba-ifc-101-a-free-ifc-crash-course-with-python/) from the awesome Yassine Oualid.
 
 
 - [video] [BlenderBIM full free course](https://www.youtube.com/watch?v=pjO_Nh6yaYw&list=PLbFY94gzUJhGXh9tEZIuq-a8BSWddSPz2) from scratch to pro
