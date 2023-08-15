@@ -4,6 +4,12 @@
 
 >As an advanced course in BIM our intention is not to ‘teach’ software but to introduce concepts and tools that you can then develop expertise in and we can help you when you run into challenges. Ultimately the aim of the course is that you will develop new OpenBIM tools and techniques and be able to teach your future colleagues how to learn from OpenBIM too.
 
+1. [LearningFromOpenBIM](Assignments/A1)
+2. [OpenBIM Modeller / Analyst](Assignments/A2)
+3. [OpenBIM Manager / Ontologist](Assignments/A3)
+4. [OpenBIM Champion](Assignments/A4)
+5. [Reflection](Assignments/A5)
+
 ## A1	[Learning from OpenBIM](A1/README.md)
 Focus on IFC analysis of real (previous) student building design projects from an advanced building design course that runs in the previous semester. Identify what the projects analysed, how did they test this? What was the domain focus of the investigation? Was it structural, energy and indoor, daylight, acoustic, LCA/LCC or something else? They should then be introduced to BPMN and use it to document the use case and explore the role of experts in OpenBIM. Following this, the students should review OpenBIM tools made in the previous year of the OpenBIM course and identify which tools could be used or adapted to solve the problem identified in the design project in the previous part. Finally, they could check the information validity of the models against the use case requirements they identified.
 ## A2	[OpenBIM Modeler / Analysis](A2/README.md)
