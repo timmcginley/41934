@@ -1,4 +1,4 @@
-#BIM Collaboration Format (BCF)
+# BIM Collaboration Format (BCF)
 
 BCF solves the problem of communicating BIM issues between different softwares.
 
