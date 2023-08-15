@@ -4,7 +4,7 @@
 
 >As an advanced course in BIM our intention is not to ‘teach’ software but to introduce concepts and tools that you can then develop expertise in and we can help you when you run into challenges. Ultimately the aim of the course is that you will develop new OpenBIM tools and techniques and be able to teach your future colleagues how to learn from OpenBIM too.
 
-1. [LearningFromOpenBIM](Assignments/A1)
+1. [Learning From OpenBIM](Assignments/A1)
 2. [OpenBIM Modeller / Analyst](Assignments/A2)
 3. [OpenBIM Manager / Ontologist](Assignments/A3)
 4. [OpenBIM Champion](Assignments/A4)
