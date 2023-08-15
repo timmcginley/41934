@@ -19,16 +19,13 @@ This requires interoperability and standardisation; therefore this course focuse
 
 The aim of the course is to support you to become an OpenBIM champion (guru) in your chosen role(s) in the course supported by your disciplinary expertise i.e. LCA or structural analysis for instance. At the end of the course your group is required to develop a tutorial to teach one of these concepts to a group of peers to demonstrate your expertise in the area. The course is divided into 5 [Assignments], each module builds on the previous one to guide you through identifying your use case and the data you need to analyse to create your tool or workflow. The course focuses on the IFC schema to provide you with a robust, future proof and interoperable understanding of BIM. Check the course [Schedule].
 
-## Code examples
-The super exciting thing about this course is that it tries to move from the old way of running linear courses, where students repeat the same standard exercise each year and try and change it.
 
 ##  BIM Awesome
 
-We are at an exciting point in BIM at the moment, it is a real moment where the future is being defined in front of our eyes. We are trying to bring together some of these developments in a list repo called [bim awesome].
+
 
 [Assignments]: /Assignments
 [IFC]: Concepts/IFC
-[bim awesome]: https://dtu-byg.github.io/BIM-awesome/
 [BPMN]: Concepts/BPMN
 [Construction]: Focus/Construction
 [Roles]: Roles/README.md
