@@ -1,3 +1,4 @@
+[41934](/)
 # Advanced BIM Tech Stack
 
 We will use different technologies in this course but for starters you should.
