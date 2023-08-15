@@ -1,5 +1,7 @@
 ### IFC [Industry Foundation Classes](https://www.buildingsmart.org/standards/bsi-standards/industry-foundation-classes/)
 
+IFC solves the problem of unstandardised BIM data. Through its data model it defines building entities and properties and thr relationships in an international standard.
+
 *An industry-specific data model schema*
 
 IFC is a standardized, digital description of the built asset industry.  It is an open, international standard ([ISO 16739-1:2018](https://www.iso.org/standard/70303.html)) and promotes vendor-neutral, or agnostic, and usable capabilities across a wide range of hardware devices, software platforms, and interfaces for many different use cases.
