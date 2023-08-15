@@ -1,3 +1,4 @@
+[41934](/)
 ## Learning Objectives
 1. Create and manage a BIM Execution Plan based on the OpenBIM standard ISO 19650
 2. Identify, locate and extract information from an IFC model in OpenBIM tools
