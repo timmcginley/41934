@@ -10,16 +10,19 @@
 8. Teach an advanced [BIM concept] you have learned in the course to your peers and reflect on peer feedback on this.
 9. Identify and model a BIM use case based on the BIM challenges identified from analysis of an OpenBIM project in [BPMN].
 10. Identify an appropriate [development methodology] for an [OpenBIM] tool or model to different [use cases].
-11. Apply and improve programming skills in Python to develop an OpenBIM tool or modelling skills in OpenBIM using your engineering domain expertise.
+11. Apply and improve programming skills in [Python] to develop an OpenBIM tool or [modelling] skills in OpenBIM using your engineering domain expertise.
 12. Evaluate [software licensing](Concepts/SoftwareLicences) suitability and implications for the OpenBIM tool you develop or modelling tool you use.
 
+<!-- links -->
 [BIM Execution Plan]: /Concepts/BIMExecutionPlan
 [BPMN]: /Concepts/BPMN
 [development methodology]: /Concepts/DevelopmentMethodology
-[disciplinary]: /Roles
+[disciplinary]: /Focus
 [IFC]: /Concepts/IFC
 [OpenBIM]: /Concepts/OpenBIM
+[Python]: /Concepts/Python
 [FAIR]: /Concepts/FAIR
 [code repository]: /Concepts/Github
 [BIM concept]: /Concepts
 [use cases]: /Uses
+[modeller]: /Roles/
