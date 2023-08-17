@@ -1,9 +1,10 @@
 # IfcOpenShell
-This tutorial site bundles tutorials on IfcOpenShell, including the collection of small reference scripts and how to execute them. This repository is work in progress, so please be flexible and patient with scripts that are not working. Your suggestions are also hugely appreciated in the Issues tab!
+This tutorial site bundles tutorials on IfcOpenShell, including the collection of small reference scripts and how to execute them. This repository is work in progress, so please be flexible and patient with scripts that are not working properly. Your suggestions are also hugely appreciated in the Issues tab!
 
 ## Learn IfcOpenShell
 
 - [Installing and Getting Started](installation/setup_standalone_cmdline/)
+- Check out the exmaples [here](Examples)
 - Selecting elements of a particular type
 - Retrieve attributes
 - Retrieve properties
