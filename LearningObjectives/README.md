@@ -1,8 +1,8 @@
 [41934](/)
 ## Learning Objectives
-1. Create and manage a BIM Execution Plan based on the OpenBIM standard ISO 19650
-2. Identify, locate and extract information from an IFC model in OpenBIM tools
-3. Apply appropriate OpenBIM standards and guidelines to support open and FAIR data, tools and processes.
+1. Create and manage a [BIM Execution Plan](Concepts/BIMExecutionPlan) based on the OpenBIM standard ISO 19650
+2. Identify, locate and extract information from an [IFC](Concepts/IFC) model in [OpenBIM](Concepts/BuildingSmart) tools
+3. Apply appropriate [OpenBIM standards](Concepts/BuildingSmart) and guidelines to support open and [FAIR](Concepts/FAIR) data, tools and processes.
 4. Provide professional disciplinary guidance based on OpenBIM analysis.
 5. Apply domain specific [linked data] ontologies(Concepts/LinkedData).
 6. Create, fork, branch and collaborate on the development of an OpenBIM tool in Python with peers in a [code repository](Concepts/Github).
