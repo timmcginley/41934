@@ -1,0 +1,30 @@
+# Contributing to this repo
+
+Hi, really excited you interested in contributing to this repo.
+
+If you know how to contirbute a page then please go for it.
+
+Otherwise if not send me a mail at timmc at dtu dot dk and I can guide you through it.
+
+## Format for concepts
+### Introduction
+* Couple of sentences about the problem the concept solves (why should student care)
+
+### Strengths
+* Main features - why its awesome.
+
+### Weaknesses
+* things that suck about it.
+
+### Installation
+* How to install / get started with it – could just be a link.
+
+### Tutorials
+* Tutorials – could just be links but maybe with a sentence description.
+
+### Domain Specific Use
+* Then I can put some discipline specific stuff about it.
+* i.e. How we use it Probably domain specific (architectural engineering)
+* I can write some exercises - unless you have some? if so put links to them here.
+
+Thanks :)
