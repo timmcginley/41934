@@ -2,19 +2,19 @@
 
 # Course Schedule  2023
 ----------------------------------------------------------------
-[week 1](#Week-1-OpenBIM) |
-[week 2](#Week-2-OpenBIM-Management) |
-[week 3](#Week-3-OpenBIM-Classification) |
-[week 4](#Week-4-OpenBIM-Use-Cases) |
-[week 5](#Week-5-OpenBIM-Analysis) |
-[week 6](#Week-6-Machine-Learning-and-BIM) |
-[week 7](#Week-7-Drawings) |
-[week 8](#Week-8-Linked-Data) |
-[week 9](#Week-9-Streaming-BIM) |
-[week 10](#Week-10) |
-[week 11](#Week-11) |
-[week 12](#Week-12) |
-[week 13](#Week-13)
+[Week 1](#Week-1-OpenBIM) |
+[Week 2](#Week-2-OpenBIM-Management) |
+[Week 3](#Week-3-OpenBIM-Classification) |
+[Week 4](#Week-4-OpenBIM-Use-Cases) |
+[Week 5](#Week-5-OpenBIM-Analysis) |
+[Week 6](#Week-6-Machine-Learning-and-BIM) |
+[Week 7](#Week-7-Drawings) |
+[Week 8](#Week-8-Linked-Data) |
+[Week 9](#Week-9-Streaming-BIM) |
+[Week 10](#Week-10) |
+[Week 11](#Week-11) |
+[Week 12](#Week-12) |
+[Week 13](#Week-13)
 
 # A1_ Learning from (Open)BIM
 More details about this assignment can be found [here](/Assignments/A1)
