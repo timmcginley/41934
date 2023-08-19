@@ -1,6 +1,10 @@
 ## BlenderBIM
 
-The problem with traditional proprietary BIM tools is that it is not possible to read the source code of the tools to find out how they really work. Furthermore Developing tools for them is difficult because they can change how they work between the versions. furthermore the businessodel is to frequently ship new versions of many different software which is expensive, frustrating and makes existing silos in the AEC worse.
+BlenderBIM solves the problem of expensive, siloed, segmented, differentiated software written in different nature models that then need to be converted to other models in order to collaborate.
+
+it is currently limited in its capacity but it's growing. It'd strength I to use IFC as the native model, so there is no need for conversion.
+
+The problem with traditional proprietary BIM tools is that it is not possible to read the source code of the tools to find out how they really work. Furthermore Developing tools for them is difficult because they can change how they work between the versions. furthermore the business model is to frequently ship new versions of many different software which is expensive, frustrating and makes existing silos in the AEC worse.
 
 BlenderBIM solves this as an IFC based plugin to the open source modelling and render software [Blender]. this enables BIM modelling natively in IFC wch is not possible in any other BIM software.
 
