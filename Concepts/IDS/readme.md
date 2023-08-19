@@ -1,4 +1,4 @@
-### IdS [Information Delivery Specification](https://technical.buildingsmart.org/projects/information-delivery-specification-ids/)
+# IdS [Information Delivery Specification](https://technical.buildingsmart.org/projects/information-delivery-specification-ids/)
 
 *A computer interpretable document that defines the Exchange Requirements of model based exchange.*
 
