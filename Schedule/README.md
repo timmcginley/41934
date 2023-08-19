@@ -2,7 +2,7 @@
 
 # Course Schedule  2023
 ----------------------------------------------------------------
-[week 1](#Week-1-OpenBIM) 
+[week 1](#Week-1-OpenBIM) |
 [week 2](#Week-2-OpenBIM-Management)
 
 # A1_ Learning from (Open)BIM
