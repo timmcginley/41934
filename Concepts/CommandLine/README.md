@@ -1,5 +1,7 @@
 # Command Line
 
+The command line solves the problem of installing packages into specific folders and naviagting your commputer without having to use the mouse. 
+
 This is written for windows, but we will update for mac / linux soon.
 
 We like the command line - the firt versions of this code focused OpenBIM course focused on exclusively using the command line.
