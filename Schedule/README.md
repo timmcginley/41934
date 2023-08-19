@@ -19,8 +19,7 @@ TOOL: Start working with IFC File Analyzer
 Continue working with IFC File Analyzer
 1. ___ [BIMExecutionPlan](/Concepts/BIMExecutionPlan)
 1. STANDARD [ISO 19650](/Concepts/ISO19650)
-
-1. Sub A1a
+1. Submit A1a
 
 ## Week 3 - OpenBIM Classification
 Start working with BlenderBIM
@@ -28,19 +27,21 @@ Start working with BlenderBIM
 1. TOOL ___ [BlenderBIM](/Concepts/BlenderBIM) Explore old models - also see the IFC properties
 2. [LOD](/Concepts/LOD)
 1. ___ meta disciplinary objects
-
-## Week 4 - OpenBIM Use Cases
-TOOL Continue working with BlenderBIM.
-1. ___ get property sets
-2. ___ [BCF](/Concepts/BCF)
-3. ___ micro[MVD](/Concepts/MVD)?
-4. STANDARD___ [IDM](/Concepts/IDM)
-5. ___ UCM? - ADD LINK
-6. ___ [BPMN](/Concepts/BPMN)
+2. 1. Submit A1b
 
 ----------------------------------------------------------------
 # A2: Assignment 2 Model / Analyse
 More details about this assignment can be found [here](/Assingnments/A2)
+
+## Week 4 - OpenBIM Use Cases
+TOOL Continue working with BlenderBIM.
+1. Introduction to [A2](/Assingnments/A2)
+1. ___ get property sets
+1. ___ [BCF](/Concepts/BCF)
+1. ___ micro[MVD](/Concepts/MVD)?
+1. STANDARD___ [IDM](/Concepts/IDM)
+1. ___ UCM? - ADD LINK
+1. ___ [BPMN](/Concepts/BPMN)
 
 ## Week 5 - OpenBIM Analysis Tool Development
 TOOL Start working with IfcOpenShell
@@ -54,32 +55,38 @@ TOOL Continue working with IfcOpenShell
 1. ___ [Rules](/Concepts/Rules)
 1. STANDARD___ [MarkDown](/Concepts/MarkDown)
 1. ___ Prompt Model [MachineLearning](/Concepts/MachineLearning)
+1. Submit [A2](/Assingnments/A2)
+
+------------------------------------------------------
+# A3: Assignment 3 Manage / Ontologist
+More details about this assignment can be found [here](/Assingnments/A3)
 
 ## Week 7 - OpenBIM Drawings
 TOOL IFC.js / IfcOpenShell
 1. STANDARD___ Meta Draw - [SVG](/Concepts/SVG)
 2. [IFC.js](/Concepts/IFC.js)
 
-------------------------------------------------------
-# A3: Assignment 3 Manage / Ontologist
-More details about this assignment can be found [here](/Assingnments/A3)
-
-## Week 9 - Linked Data
+## Week 8 - Linked Data
+1. Introduction to [A3](/Assingnments/A3)
 1. ___ Ontologies
 1. FOCUS # 1 [Linked Data](/Concepts/LinkedData)
 1. ___ BOT / FSO
 
 ## Week 9 - Streaming BIM
 1. ___ FOCUS # 2 - **Stream** - [Speckle](/Concepts/Speckle)
-
-## Week 10 - Helpdesk / support
+1. Submit [A3](/Assingnments/A3)
 
 ------------------------------------------------------
 
 # A4: Assignment 4
 More details about this assignment can be found [here](/Assingmments/A4)
 
+## Week 10 - Helpdesk / support
+1. Introduction to [A4](/Assingnments/A4)
+1. Introduction to [A5](/Assingnments/A5)
+
 ## Week 11 - Helpdesk / support
+
 
 ## Week 12 - Helpdesk / support
    
