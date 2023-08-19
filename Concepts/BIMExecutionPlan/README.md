@@ -9,3 +9,4 @@ They provide clarity on what,when,to what detail and who is responsible to deliv
 ## who is it for?
 BXPs are then an essential tool of [managers] and coordinators and valuable resource to [modellers] and [analysts]. 
 
+[managers]: /Roles/Manager
