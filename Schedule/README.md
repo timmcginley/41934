@@ -2,10 +2,11 @@
 
 # Course Schedule  2023
 ----------------------------------------------------------------
+[week 1](#Week-1-OpenBIM) | [week 1](#Learning from (open)BIM) |
 # A1_ Learning from (Open)BIM
 More details about this assignment can be found [here](/Assignments/A1)
 
-## Week 1 - [Learning from (open)BIM](/Concepts/Learn_from_BIM)
+## Week 1 - OpenBIM
 TOOL: Start working with IFC File Analyzer
 1. What is BIM and what is the focus of the course?
 1. What are the Benefits and challenges of BIM? (Inc. Silos)
