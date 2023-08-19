@@ -1,4 +1,6 @@
 # Machine Learning
+Machine learning can solve lots of problems. However if not used responsibly it could also be described as a 'problem in search of a solution'.
+
 There are lots of interesting developments in BIM from Machine Learning / AI.
 
 In relation to this course, they include:
