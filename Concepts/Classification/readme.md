@@ -1,6 +1,12 @@
-## Classification
+# Classification
 
-Classification systems solve the problem of 
+Classification systems solve the problem of non standard entity descriptions. They enable different countries and regions to have their own names for objects.
+
+## Challenges
+* conversion between Classification systems [manager]
+* Model Classification completeness checking  [manager]
+* selecting the correct descrition with certainty [modeller]
+* choosing which classification system to specify for your project [manager]
 
 
 
