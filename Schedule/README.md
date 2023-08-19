@@ -6,6 +6,15 @@
 [week 2](#Week-2-OpenBIM-Management) |
 [week 3](#Week-3-OpenBIM-Classification) |
 [week 4](#Week-4-OpenBIM-Use-Cases) |
+[week 5](#Week-5-OpenBIM-Analysis) |
+[week 6](#Week-6-Machine-Learning-and-BIM) |
+[week 7](#Week-7-Drawings) |
+[week 8](#Week-8-Linked-Data) |
+[week 9](#Week-9-Streaming-BIM) |
+[week 10](#Week-10) |
+[week 11](#Week-11) |
+[week 12](#Week-12) |
+[week 13](#Week-13)
 
 # A1_ Learning from (Open)BIM
 More details about this assignment can be found [here](/Assignments/A1)
@@ -26,7 +35,7 @@ Continue working with IFC File Analyzer
 1. STANDARD [ISO 19650](/Concepts/ISO19650)
 1. Submit A1a
 
-## Week 3 - OpenBIM Classification
+## Week 3 OpenBIM Classification
 Start working with BlenderBIM
 1. STANDARD? [Classification](/Concepts/Classification)
 1. TOOL ___ [BlenderBIM](/Concepts/BlenderBIM) Explore old models - also see the IFC properties
@@ -38,7 +47,7 @@ Start working with BlenderBIM
 # A2: Assignment 2 Model / Analyse
 More details about this assignment can be found [here](/Assingnments/A2)
 
-## Week 4 - OpenBIM Use Cases
+## Week 4 OpenBIM Use Cases
 TOOL Continue working with BlenderBIM.
 1. Introduction to [A2](/Assingnments/A2)
 1. ___ get property sets
@@ -48,14 +57,14 @@ TOOL Continue working with BlenderBIM.
 1. ___ UCM? - ADD LINK
 1. ___ [BPMN](/Concepts/BPMN)
 
-## Week 5 - OpenBIM Analysis Tool Development
+## Week 5 OpenBIM Analysis
 TOOL Start working with IfcOpenShell
 1. STANDARD ___ [IDS](/Concepts/IDS)
 1. ___ FOCUS # 1 [Github](/Concepts/Github)
 1. ___ FOCUS # 2 [IfcOpenShell](/Concepts/IfcOpenShell)
 1. ___ Custom Tools [DevelopmentMethod](/Concepts/DevelopmentMethod)
 
-## Week 6 - Machine Learning and BIM
+## Week 6 Machine Learning and BIM
 TOOL Continue working with IfcOpenShell
 1. ___ [Rules](/Concepts/Rules)
 1. STANDARD___ [MarkDown](/Concepts/MarkDown)
@@ -86,14 +95,18 @@ TOOL IFC.js / IfcOpenShell
 # A4: Assignment 4
 More details about this assignment can be found [here](/Assingmments/A4)
 
-## Week 10 - Helpdesk / support
+## Week 10
 1. Introduction to [A4](/Assingnments/A4)
 1. Introduction to [A5](/Assingnments/A5)
 
-## Week 11 - Helpdesk / support
+## Week 11
+* Helpdesk / Tutorial
 
 
-## Week 12 - Helpdesk / support
+## Week 12
+* Helpdesk / Tutorial
+
    
-## Week 13 - Sub A4 - Final [Presentation](Concepts/Presentation)
+## Week 13
+* Sub A4 - Final [Presentation](Concepts/Presentation)
 
