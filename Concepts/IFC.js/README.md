@@ -1,5 +1,6 @@
 # IFC.js
 
+IFC.js solves the problem of getting BIM data into javascript objects which can then be easily manipulated in your own web tools that you can develop.
 
 ## Introdution 
 This is the best introduction we have foudn so far.
