@@ -1,7 +1,8 @@
 # A2: OpenBIM Modeller / Analyst
 
 ## A2A: OpenBIM Modelling
-Aim: 
+Aim: To learn from the experience of either modelling or analysing OpenBIM models collaboratively.
+
 ### Learning Objectives
 12. Evaluate [software licensing](/Concepts/Software_licences/README.md) suitability and implications for the OpenBIM tool you develop or modelling tool you use.
     
