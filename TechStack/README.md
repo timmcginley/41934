@@ -10,3 +10,11 @@ Install [BlenderBIM](/Concepts/BlenderBIM)
 Install [Visual Studio](/Concepts/VisualStudio)
 
 Install [IfcOpenShell](/Concepts/IfcOpenShell)
+
+Install [Inkscape]
+
+Install [GIMP]
+
+[Inkscape]: https://inkscape.org/
+[GIMP]: https://www.gimp.org/
+
