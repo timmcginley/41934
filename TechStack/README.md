@@ -1,7 +1,7 @@
 [41934](/)
 # Advanced BIM Tech Stack
 
-We will use different technologies in this course but for starters you should.
+We will use different technologies in this course but for starters you should. in this course we only teach Free and Open Source Software. You are welcome to work with other tools, but the emphasis will be on Open Data and Standards. 
 
 Install [Blender](/Concepts/Blender)
 
