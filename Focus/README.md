@@ -1,4 +1,7 @@
 # Focus Areas
+
+* this should become examples *
+  
 This course has been designed so that the emphasis is on learning FROM BIM rather than learning HOWTO BIM [(McGinley & Krijnen, 2021)]. Also, from the perspective of BIM us in the early design stages of tall buildings, [Omrany, et. al, (2023)]provide an excellent overview on the literature for 7 use cases. However it is not possible to support every possible use case, therefore the course focuses on the following:
 
 1. [LCA] / Materials / Sustainability Assessment
