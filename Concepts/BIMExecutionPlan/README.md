@@ -1,7 +1,7 @@
 # BIM Execution Plan
 
 ## why do we need it?
-BIM execution plans (BXPs) solve the problem of stakeholders not knowing what is expected from their building information modelling.
+BIM execution plans (BEPs) solve the problem of stakeholders not knowing what is expected from their building information modelling.
 
 ### Overview
 https://www.breakwithanarchitect.com/post/iso-196650-in-3-minutes-bim-execution-plan
