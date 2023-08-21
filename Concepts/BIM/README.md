@@ -2,7 +2,7 @@
 
 Building Information Modelling (BIM) is a digital process that encompasses creating and managing a building's information throughout its entire lifecycle, enabling multiple stakeholders to collaboratively design, construct and operate a Facility in a virtual space.
 
-ISO 19650 defines BIM as the "use of a shared digital representation of a built asset to facilitate design, construction and operation processes to form a reliable basis for decisions“. 
+[ISO 19650] defines BIM as the "use of a shared digital representation of a built asset to facilitate design, construction and operation processes to form a reliable basis for decisions“. 
 
 ## BIM Benefits
 BIM enables better communication, coordination, and collaboration among project teams, reducing errors and improving efficiency throughout the entire building lifecycle, from design and construction to operation and maintenance. ​
@@ -21,3 +21,6 @@ In summary, BIM is a digital approach to building design, construction, and oper
 ## Traditional BIM roles
 
 This page is based on information from the [IBIMD](https://www.ct.upt.ro/IBIMD/) project of whihc DTU is a participant.
+
+
+[ISO 19650]: /Concepts/ISO19650
