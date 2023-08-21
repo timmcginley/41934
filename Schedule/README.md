@@ -2,7 +2,7 @@
 
 # Course Schedule  2023
 ----------------------------------------------------------------
-A1 Learning from OpenBIM | 
+A1 [Learning from OpenBIM](/Assignments/A1) | 
 [Week 1](#Week-1-OpenBIM) |
 [Week 2](#Week-2-OpenBIM-Management) |
 [Week 3](#Week-3-OpenBIM-Classification) |
@@ -23,8 +23,7 @@ A4 Champion |
 [Week 12](#Week-12) |
 [Week 13](#Week-13)
 
-# A1_ Learning from (Open)BIM
-More details about this assignment can be found [here](/Assignments/A1)
+
 
 ## Week 1 OpenBIM
 
