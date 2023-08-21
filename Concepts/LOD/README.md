@@ -92,7 +92,20 @@ Quantitative:​
 Analysis:​
 * Clash detection and construction execution plan.
 
+### LOD 500
+Corresponds to the As-Built Model​.
 
+Modelling:​
+* Updated 3D model according to As Built project.​
+
+Parameters:​
+* Parameters updated according to the As Built project.​
+
+Quantitative:​
+* Updated with the actual amounts spent during construction.​
+
+Analysis:​
+* Updated element assists in the management of facilities for the constructed building.
 
 ### Attribution:
 This page is partly based on information from the [IBIMD](https://www.ct.upt.ro/IBIMD/) project of which DTU is a participant.
