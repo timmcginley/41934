@@ -6,9 +6,9 @@
 
 ### [A1] Learning from OpenBIM | 
 
-[Week 1](#Week-1-OpenBIM) |
-[Week 2](#Week-2-OpenBIM-Management) |
-[Week 3](#Week-3-OpenBIM-Classification) |
+[Week 1](#Week-1-OpenBIM)  OpenBIM  |
+[Week 2](#Week-2-OpenBIM-Management)  Management |
+[Week 3](#Week-3-OpenBIM-Classification) Analysis |
 
 ### [A2] Modeler / Analyst | 
 
