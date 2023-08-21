@@ -4,7 +4,8 @@
 BIM execution plans (BEPs) solve the problem of stakeholders not knowing what is expected from their building information modelling.
 
 ### Overview
-https://www.breakwithanarchitect.com/post/iso-196650-in-3-minutes-bim-execution-plan
+* Cohesive BIM Wiki [link](https://www.designingbuildings.co.uk/wiki/BIM_execution_plan_BEP) for BEP.
+* https://www.breakwithanarchitect.com/post/iso-196650-in-3-minutes-bim-execution-plan
 
 The BIM Execution Plan is a document that defines the BIM strategy and processes for the successful completion of the project. Will detail project deliverables stipulated by the contract and information exchange requirements.​
 
