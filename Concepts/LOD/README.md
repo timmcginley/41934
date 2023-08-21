@@ -39,6 +39,61 @@ Quantitative:​
 Analysis:​
 * Only the 3D drawing can be used for analysis of clash detection and construction execution plan.
 
+### LOD 200
+Objects graphically represented as a generic system. A simple representation of the real structure of the object.​
+
+Modelling:​
+* 2D drawing (plan, section or view), used to generate a generic component detail model that will be included in a family with the correct category;​
+* 3D with the generic representation of the constructed element;​
+Generation of constructive details through legends drawn in the template file itself.​
+
+Parameters:​
+* It does not contain additional parameters and materials definitions;​
+* Objects with editable height, width and length.​
+
+Quantitative:​
+* It only counts the quantity and cost of objects entered in the model by categories and areas.​
+
+Analysis:​
+* Clash detection and construction execution plan.
+
+### LOD 300/350
+Objects are graphed more accurately in terms of quantity, size, shape, location, and orientation
+
+Modelling:​
+* 3D with exact representation of the shape of the built element but does not contain manufacturing or installation details;​
+* Construction details generation through subtitles drawn in the template file.​
+
+Parameters:​
+* Contains additional information and visualization parameters, shared parameters and material definitions;​
+* Objects with parameterization of dimensions according to the need of the element;​
+* Object identification information such as manufacturer, model, cost, etc. can be added.​
+
+Quantitative:​
+* The categories and costs of the element can be composed, generating a more accurate table of quantities;​
+* The shared parameters created in the family can serve as a basis for the preparation of the table of quantities.
+
+### LOD 400
+Objects represented in terms of size, shape, location, quantity and orientation, with details, fabrication, assembly and installation information​.
+
+Modelling:​
+
+3D with exact representation of the shape of the built element. The representation will aid in the development of details and tables.​
+
+Parameters:​
+* Additional information and visualization parameters, parameters shared and material definitions;​
+* Model with parameterization of dimensions according to the need of the element;​
+* Information to identify the element's manufacture, such as manufacturer, model, cost, etc.​
+
+Quantitative:​
+* The element's categories and costs can be composed, generating a more accurate quantitative table;​
+* The shared parameters created in the family can serve as a basis for the preparation of the quantitative table in the project.​
+
+Analysis:​
+* Clash detection and construction execution plan.
+
+
+
 ### Attribution:
 This page is partly based on information from the [IBIMD](https://www.ct.upt.ro/IBIMD/) project of which DTU is a participant.
 
