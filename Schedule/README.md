@@ -34,15 +34,15 @@
 ## Week 1 OpenBIM
 
 TOOL: Start working with IFC File Analyzer
-1. What is [BIM] and what is the focus of the course?
-1. What are the Benefits and challenges of [BIM]? (Inc. Silos)
+1. ___ What is [BIM] and what is the focus of the course?
+1. ___ What are the Benefits and challenges of [BIM]? (Inc. Silos)
 2. ___ [BIM Maturity Levels](/Concepts/Levels)
 3. ___ [FAIR](/Concepts/FAIR) Principles
 3. ___ [Interoperability](/Concepts/Interoperability) Principles
-1. What is Open and Standardised [(Open)BIM] and what are what are [FOSS](/Concepts/SoftwareLicences) tools and FAIR data?
+4. ___ [Standards](/Concepts/Standards), Technical Specifications and Guides
+1. ___ What is [(Open)BIM] and what are what are [FOSS](/Concepts/SoftwareLicences) tools and FAIR data?
 1. ___ What are the [Roles](/Roles) of OpenBIM?
 1. ___ What are the [Uses](/Uses) of OpenBIM?
-2. ___ [Standards](/Concepts/Standards), Technical Specifications and Guides
 1. ___ What is [IFC](/Concepts/IFC) and how can I see its [entities] and [properties] ( [IFC File Analyzer](/Concepts/IFCFileAnalyzer) )?
 1. ___ IFC [Entities](/Concepts/Entities)
 4. ___ Course [Assignments](/Assignments) and Feedback
