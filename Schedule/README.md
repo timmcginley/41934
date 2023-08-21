@@ -12,15 +12,15 @@
 
 ### [A2] Modeler / Analyst | 
 
-[Week 4](#Week-4-OpenBIM-Use-Cases) Use cases|
-[Week 5](#Week-5-OpenBIM-Analysis) Anlaysis|
-[Week 6](#Week-6-Machine-Learning-and-BIM) ML/AI|
+[Week 4](#Week-4-OpenBIM-Use-Cases) Use cases |
+[Week 5](#Week-5-OpenBIM-Analysis) Anlaysis |
+[Week 6](#Week-6-Machine-Learning-and-BIM) ML/AI |
 
 ### [A3] Manager / Ontologist | 
 
-[Week 7](#Week-7-Drawings) drawings|
-[Week 8](#Week-8-Linked-Data) Linked Data|
-[Week 9](#Week-9-Streaming-BIM) Speckle|
+[Week 7](#Week-7-Drawings) Drawings |
+[Week 8](#Week-8-Linked-Data) Linked Data |
+[Week 9](#Week-9-Streaming-BIM) Speckle |
 
 ### [A4] Champion | 
 
