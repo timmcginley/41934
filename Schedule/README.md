@@ -64,6 +64,7 @@ Start working with BlenderBIM
 1. STANDARD? [Classification](/Concepts/Classification)
 1. TOOL ___ [BlenderBIM](/Concepts/BlenderBIM) Explore old models - also see the IFC properties
 2. [LOD](/Concepts/LOD)
+1. Common Data Environment [(CDE)](/Concepts/CDE)
 1. ___ meta disciplinary objects
 2. 1. Submit A1b
 
