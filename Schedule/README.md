@@ -4,7 +4,7 @@
 
 <!-- a menu for the schedule-->
 
-A1 [Learning from OpenBIM](/Assignments/A1) | 
+[A1] Learning from OpenBIM | 
 [Week 1](#Week-1-OpenBIM) |
 [Week 2](#Week-2-OpenBIM-Management) |
 [Week 3](#Week-3-OpenBIM-Classification) |
@@ -140,5 +140,9 @@ More details about this assignment can be found [here](/Assingmments/A4)
 
 
 <!-- LINKS -->
+[A1]: /Assignments/A1
+[A2]: /Assignments/A2
+[A3]: /Assignments/A3
+[A4]: /Assignments/A4
 [BIM]: /Concepts/BIM
 [(Open)BIM]: /Concepts/OpenBIM
