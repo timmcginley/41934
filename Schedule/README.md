@@ -42,7 +42,7 @@ TOOL: Start working with IFC File Analyzer
 2. [Standards](/Concept/Standards)
 1. STANDARD ___ What is [IFC](/Concepts/IFC) and how can I see the data( [IFC File Analyzer](/Concepts/IFCFileAnalyzer) )?
 1. IFC [Entities](/Concept/Entities)
-2. [Levels](/Concepts/Levels)
+2. [BIM Maturity Levels](/Concepts/Levels)
 3. [FAIR](/Concept/FAIR) Principles
     * [Interoperability](/Concept/FAIR) Principles
 4. Course [Assignments](/Assignments) and Feedback
