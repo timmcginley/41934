@@ -36,23 +36,24 @@
 TOOL: Start working with IFC File Analyzer
 1. What is [BIM] and what is the focus of the course?
 1. What are the Benefits and challenges of BIM? (Inc. Silos)
+2. ___ [BIM Maturity Levels](/Concepts/Levels)
+3. ___ [FAIR](/Concept/FAIR) Principles
+    * [Interoperability](/Concept/FAIR) Principles
 1. What is Open and Standardised [(Open)BIM] and what are what are [FOSS](/Concepts/SoftwareLicenses) tools and FAIR data?
 1. ___ What are the [Roles](/Roles) of OpenBIM?
-1. What are the [Uses](/Uses) of OpenBIM?
-2. [Standards](/Concept/Standards)
-1. STANDARD ___ What is [IFC](/Concepts/IFC) and how can I see the data( [IFC File Analyzer](/Concepts/IFCFileAnalyzer) )?
-1. IFC [Entities](/Concept/Entities)
-2. [BIM Maturity Levels](/Concepts/Levels)
-3. [FAIR](/Concept/FAIR) Principles
-    * [Interoperability](/Concept/FAIR) Principles
-4. Course [Assignments](/Assignments) and Feedback
+1. ___ What are the [Uses](/Uses) of OpenBIM?
+2. ___ [Standards](/Concept/Standards)
+1. ___ What is [IFC](/Concepts/IFC) and how can I see the data( [IFC File Analyzer](/Concepts/IFCFileAnalyzer) )?
+1. ___ IFC [Entities](/Concept/Entities)
+
+4. ___ Course [Assignments](/Assignments) and Feedback
 
   
 ## Week 2 OpenBIM Management
 
 Continue working with IFC File Analyzer
 1. ___ BIM Execution Plan [(BEP)](/Concepts/BIMExecutionPlan)
-1. STANDARD [ISO 19650](/Concepts/ISO19650)
+1. ___ [ISO 19650](/Concepts/ISO19650)
    * Asset Information Model [(AIM)](/Concepts/AIM)
    * Asset Information Requirements [(AIR)](/Concepts/AIR)
    * Building Implementation Plan [(BIP)](/Concepts/BIP)
@@ -66,13 +67,13 @@ Continue working with IFC File Analyzer
 ## Week 3 OpenBIM Classification / LOD / CDE
 
 Start working with BlenderBIM
-1. STANDARD? [Classification](/Concepts/Classification)
-2. [Properties](/Concept/Properties)
-3. [bsDD](/Concepts/bsDD)
-1. TOOL ___ [BlenderBIM](/Concepts/BlenderBIM) Explore old models - also see the IFC properties
-2. [Dimensions](/Concepts/Dimensions) of BIM.
-3. [LOD](/Concepts/LOD)
-1. Common Data Environment [(CDE)](/Concepts/CDE)
+1. ___ [Classification](/Concepts/Classification)
+2. ___ [Properties](/Concept/Properties)
+3. ___ [bsDD](/Concepts/bsDD)
+1. ___ [BlenderBIM](/Concepts/BlenderBIM) Explore old models - also see the IFC properties
+2. ___ [Dimensions](/Concepts/Dimensions) of BIM.
+3. ___ [LOD](/Concepts/LOD)
+1. ___ Common Data Environment [(CDE)](/Concepts/CDE)
 1. ___ meta disciplinary objects
 2. 1. Submit A1b
 
@@ -84,14 +85,13 @@ TOOL Continue working with BlenderBIM.
 1. Introduction to [A2](/Assingnments/A2)
 2. ___ [UCM](/Concepts/UCM)
 1. ___ get property sets
-2. [Command Line](/Concepts/CommandLine)
-3. [Github](/Concepts/Github)
-4. [Python](/Concepts/Python)
+2. ___ [Command Line](/Concepts/CommandLine)
+3. ___ [Github](/Concepts/Github)
+4. ___ [Python](/Concepts/Python)
 1. ___ [BCF](/Concepts/BCF)
 1. ___ micro[MVD](/Concepts/MVD)?
-1. STANDARD___ [IDM](/Concepts/IDM)
+1. ___ [IDM](/Concepts/IDM)
 2. ___ [IDE](/Concepts/IDE)
-3. 
 1. ___ [BPMN](/Concepts/BPMN)
 2. ___ [IfcOpenShell](/Concepts/IfcOpenShell)
 
@@ -109,7 +109,7 @@ TOOL Start working with IfcOpenShell
 
 TOOL Continue working with IfcOpenShell
 1. ___ [Rules](/Concepts/Rules)
-1. STANDARD___ [MarkDown](/Concepts/MarkDown)
+1. ___ [MarkDown](/Concepts/MarkDown)
 1. ___ Prompt Model [MachineLearning](/Concepts/MachineLearning)
 1. Submit [A2](/Assingnments/A2)
 
@@ -118,22 +118,23 @@ TOOL Continue working with IfcOpenShell
 ## Week 7 - OpenBIM Drawings
 
 TOOL IFC.js / IfcOpenShell
-1. STANDARD___ Meta Draw - [SVG](/Concepts/SVG)
-2. [Node-RED](/Concepts/NodeRed)
-3. [IFC.js](/Concepts/IFC.js)
+1. ___ Meta Draw - [SVG](/Concepts/SVG)
+2. ___ [Node-RED](/Concepts/NodeRed)
+3. ___ [IFC.js](/Concepts/IFC.js)
 
 
 ## Week 8 - Linked Data
 
 1. Introduction to [A3](/Assingnments/A3)
 1. ___ Ontologies
-1. FOCUS # 1 [Linked Data](/Concepts/LinkedData)
-1. ___ BOT / FSO
+1. ___ [Linked Data](/Concepts/LinkedData)
+1. ___ [BOT](/Concepts/BOT)
+2. ___ [FSO](/Concepts/FSO)
 
 
 ## Week 9 - Streaming BIM
 
-1. ___ FOCUS # 2 - **Stream** - [Speckle](/Concepts/Speckle)
+1. ___ [Speckle](/Concepts/Speckle)
 1. Submit [A3](/Assingnments/A3)
 
 ------------------------------------------------------
