@@ -67,6 +67,7 @@ Start working with BlenderBIM
 1. ___ meta disciplinary objects
 2. 1. Submit A1b
 
+------------------------------------------------------
 
 ## Week 4 OpenBIM Use Cases
 
