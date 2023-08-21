@@ -1,6 +1,7 @@
 ## BIM Levels
 
 ![BIM Levels](https://github.com/timmcginley/41934/assets/1415855/415d4105-3a00-48e5-8da8-2f19ffd9ac37)
+image taken from the documentation for the [IBIMD](https://www.ct.upt.ro/IBIMD/) project of which DTU is a participant.
 
 ## Level 0 - Zero or low collaboration. 2D CAD drafting utilised​
 In Level 0, the use of BIM is minimal or non-existent. The collaboration is limited, based on paper or electronic prints and 2D CAD drafting techniques. ​
@@ -13,3 +14,6 @@ In Level 2, the use of 3D models is more integrated, and the information is stor
 ​
 ## Level 3 - Total collaboration. 3D models and information integrated in one server​
 In Level 3, all project information is integrated into a single 3D model, which is shared in real time between all parties involved. Usually termed as OpenBIM, at this level, the collaboration is even more intensive with the possibility of real-time updates and access to detailed project information, including scheduling, automation, data analysis, and maintenance information.​
+
+### Attribution:
+This page is based on information from the [IBIMD](https://www.ct.upt.ro/IBIMD/) project of which DTU is a participant.
