@@ -19,7 +19,25 @@ $LoD+LoI=Level of Development (LOD)$
 
 ![image](https://github.com/timmcginley/41934/assets/1415855/2a2cc648-6e70-4639-a5a6-66ad2c46b1f9)
 
-Image taken fomr the course documentation for the [IBIMD](https://www.ct.upt.ro/IBIMD/) project.
+Image taken from the course documentation for the [IBIMD](https://www.ct.upt.ro/IBIMD/) project.
+
+### LOD 100
+Objects represented by symbols or simplified 3D, without indication of real physical geometry.
+
+Modelling:​
+* 2D drawing (plan, section or view), used to generate generic model of component detail or annotations;​
+* 3D simple or imported from CAD software;​
+* Generation of constructive details based on drawings already established in CAD software.​
+
+Parameters:​
+* It does not contain additional parameters and definitions of materials;​
+* Non-parametric model.​
+
+Quantitative:​
+* It only counts the quantity and cost of objects entered in the model by categories and areas.​
+  
+Analysis:​
+* Only the 3D drawing can be used for analysis of clash detection and construction execution plan.
 
 ### Attribution:
 This page is partly based on information from the [IBIMD](https://www.ct.upt.ro/IBIMD/) project of which DTU is a participant.
