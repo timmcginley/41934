@@ -58,7 +58,7 @@ Continue working with IFC File Analyzer
 1. Submit A1a
 
 
-## Week 3 OpenBIM Classification
+## Week 3 OpenBIM Classification / LOD / CDE
 
 Start working with BlenderBIM
 1. STANDARD? [Classification](/Concepts/Classification)
