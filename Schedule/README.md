@@ -75,7 +75,7 @@ Start working with BlenderBIM
 3. ___ [LOD](/Concepts/LOD)
 1. ___ Common Data Environment [(CDE)](/Concepts/CDE)
 1. ___ meta disciplinary objects
-2. 1. Submit A1b
+2. Submit A1b
 
 ------------------------------------------------------
 
@@ -148,7 +148,7 @@ TOOL IFC.js / IfcOpenShell
 ## Week 11
 
 * Helpdesk / Tutorial
-* 1. [Digital Twins](/Concepts/DigitalTwin)
+* [Digital Twins](/Concepts/DigitalTwin)
 
 
 ## Week 12
