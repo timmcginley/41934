@@ -1,6 +1,7 @@
 ## BIM Levels
 
 ![BIM Levels](https://github.com/timmcginley/41934/assets/1415855/415d4105-3a00-48e5-8da8-2f19ffd9ac37)
+
 image taken from the documentation for the [IBIMD](https://www.ct.upt.ro/IBIMD/) project of which DTU is a participant.
 
 ## Level 0 - Zero or low collaboration. 2D CAD drafting utilised​
