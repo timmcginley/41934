@@ -67,9 +67,6 @@ Start working with BlenderBIM
 1. ___ meta disciplinary objects
 2. 1. Submit A1b
 
-----------------------------------------------------------------
-# A2: Assignment 2 Model / Analyse
-More details about this assignment can be found [here](/Assingnments/A2)
 
 ## Week 4 OpenBIM Use Cases
 
@@ -101,8 +98,6 @@ TOOL Continue working with IfcOpenShell
 1. Submit [A2](/Assingnments/A2)
 
 ------------------------------------------------------
-# A3: Assignment 3 Manage / Ontologist
-More details about this assignment can be found [here](/Assingnments/A3)
 
 ## Week 7 - OpenBIM Drawings
 
@@ -125,9 +120,6 @@ TOOL IFC.js / IfcOpenShell
 1. Submit [A3](/Assingnments/A3)
 
 ------------------------------------------------------
-
-# A4: Assignment 4
-More details about this assignment can be found [here](/Assingmments/A4)
 
 ## Week 10
 
