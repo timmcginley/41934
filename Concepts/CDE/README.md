@@ -2,4 +2,9 @@
 
 CDEs solve the problem of having data in different places and making it harder to coordinate and manage building information.
 
+The CDE is a repository of all the information about a project. This central source of information enhances collaboration and helps to avoid mistakes like duplication.
+
 A bit like an [IDE](Concepts/IDE) but for BIM models.
+
+### Attribution:
+This page is based on information from the [IBIMD](https://www.ct.upt.ro/IBIMD/) project of which DTU is a participant.
