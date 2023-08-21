@@ -2,6 +2,8 @@
 
 *A methodology for defining and documenting business processes and data requirements*
 
+An IDM is a standard methodology that identifies when specific information is required during the construction or operation phase of a project. It is now known as the buildingSMART standard for processes.
+
 The built asset industry is characterized by bringing many different stakeholders together in a project-specific organization. In order to work efficiently, it is necessary for all participants to know which and when different kinds of information have to be communicated. The **ISO 29481-1:2010** “Building Information Modelling - Information Delivery Manual - Part 1: Methodology and Format” standard has been developed by buildingSMART in order to have a methodology to capture and specify processes and information flow during the lifecycle of a facility.
 
 ## Projects to try
