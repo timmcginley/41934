@@ -1,3 +1,5 @@
+## BIM Dimensions
+
 BIM is a multidimensional approach to digital construction management that encompasses dimensions that refer to different aspects of a building model and how information is stored, managed, and visualized within the BIM software. The dimensions of BIM typically include:​
 
 ## 3D - Virtual walkthrough and project visualization, clash detection, 3D electronic and prefabricated models of elements.​
