@@ -25,6 +25,15 @@ BIM promotes a collaborative environment where stakeholders can work together in
 
 In summary, BIM is a digital approach to building design, construction, and operation that utilizes a collaborative and data-driven model to improve communication, coordination, and efficiency, leading to better project outcomes and more sustainable built assets.
 
+## MacLeamy Curve
+![image](https://github.com/timmcginley/41934/assets/1415855/e428adae-b332-47f9-b889-4ad9ca71c03a)
+
+graph redrawn from original by [(Davis, 2011)]
+
+The MacLeamy Curve shows that the cost of making design changes is lowest in the early stages and increases exponentially as the project progresses. Therefore, it is more cost-effective and efficient to make changes and adjustments during the early design phases, when it is still easier and less expensive to implement changes.
+
+For more context please read the amazing post by Daniel Davis on the MacLeamy Curve [(Davis, 2011)].
+
 
 ## BIM Challenges
 
@@ -43,3 +52,4 @@ This page is based on information from the [IBIMD](https://www.ct.upt.ro/IBIMD/)
 
 [ISO 19650]: /Concepts/ISO19650
 [clash detection]: /Concepts
+[(Davis, 2011)]: https://www.danieldavis.com/macleamy/
