@@ -8,7 +8,7 @@
 
 [Week 1](#Week-1-OpenBIM)  OpenBIM  |
 [Week 2](#Week-2-OpenBIM-Management)  Management |
-[Week 3](#Week-3-OpenBIM-Classification) Analysis |
+[Week 3](#Week-3-OpenBIM-Classification) Classification |
 
 ### [A2] Modeler / Analyst | 
 
