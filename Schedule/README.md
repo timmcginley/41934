@@ -12,20 +12,20 @@
 
 ### [A2] Modeler / Analyst | 
 
-[Week 4](#Week-4-OpenBIM-Use-Cases) |
-[Week 5](#Week-5-OpenBIM-Analysis) |
-[Week 6](#Week-6-Machine-Learning-and-BIM) |
+[Week 4](#Week-4-OpenBIM-Use-Cases) Use cases|
+[Week 5](#Week-5-OpenBIM-Analysis) Anlaysis|
+[Week 6](#Week-6-Machine-Learning-and-BIM) ML/AI|
 
 ### [A3] Manager / Ontologist | 
 
-[Week 7](#Week-7-Drawings) |
-[Week 8](#Week-8-Linked-Data) |
-[Week 9](#Week-9-Streaming-BIM) |
+[Week 7](#Week-7-Drawings) drawings|
+[Week 8](#Week-8-Linked-Data) Linked Data|
+[Week 9](#Week-9-Streaming-BIM) Speckle|
 
 ### [A4] Champion | 
 
-[Week 10](#Week-10) |
-[Week 11](#Week-11) |
+[Week 10](#Week-10-Node-RED) Node-RED|
+[Week 11](#Week-11-Digital-Twin) |
 [Week 12](#Week-12) |
 [Week 13](#Week-13)
 
@@ -119,7 +119,6 @@ TOOL Continue working with IfcOpenShell
 
 TOOL IFC.js / IfcOpenShell
 1. ___ Meta Draw - [SVG](/Concepts/SVG)
-2. ___ [Node-RED](/Concepts/NodeRed)
 3. ___ [IFC.js](/Concepts/IFC.js)
 
 
@@ -139,10 +138,11 @@ TOOL IFC.js / IfcOpenShell
 
 ------------------------------------------------------
 
-## Week 10
+## Week 10 - Node-RED
 
 1. Introduction to [A4](/Assingnments/A4)
 1. Introduction to [A5](/Assingnments/A5)
+2. ___ [Node-RED](/Concepts/NodeRed)
 
 
 ## Week 11
