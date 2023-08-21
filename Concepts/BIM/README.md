@@ -11,6 +11,18 @@ The BIM is the process and concept of creating and managing the physical and fun
 ## BIM Benefits
 BIM enables better communication, coordination, and collaboration among project teams, reducing errors and improving efficiency throughout the entire building lifecycle, from design and construction to operation and maintenance. ​
 
+* Visualization and analysis in the same phase of the project;​
+* Better constructive solutions;​
+* Efficiency in coordination and compatibility;​
+* Improvement of the design and construction process;​
+* Energy performance analysis;​
+* Compliance with legal requirements;​
+* Greater precision and reliability in the project;​
+* Increased productivity;​
+* Collisions and overlaps detection;​
+* Decrease in working time;​
+* Decrease in costs.​
+
 It allows for better visualization, simulation, and analysis of building performance, helping to optimize design decisions, detect clashes and conflicts, and identify and resolve issues early in the process. Also supports the integration of various disciplines and trades, such as architecture, structural engineering, mechanical, electrical, and hydraulic (MEP) systems, and construction sequencing, resulting in more accurate cost estimation, improved project scheduling, and enhanced sustainability and energy analysis.​
 
 BIM allows for the creation of a virtual model that integrates various design and construction disciplines, such as architecture, structure, and MEP systems. Without BIM, coordination among different stakeholders may be more challenging, as it relies on manual exchange of information through drawings and documents. This can result in clashes, conflicts, and delays during construction, leading to costly rework and project delays.​
@@ -29,7 +41,6 @@ In summary, BIM is a digital approach to building design, construction, and oper
 ![image](https://github.com/timmcginley/41934/assets/1415855/e428adae-b332-47f9-b889-4ad9ca71c03a)
 
 graph redrawn from original by [(Davis, 2011)]
-
 The MacLeamy Curve shows that the cost of making design changes is lowest in the early stages and increases exponentially as the project progresses. Therefore, it is more cost-effective and efficient to make changes and adjustments during the early design phases, when it is still easier and less expensive to implement changes.
 
 For more context please read the amazing post by Daniel Davis on the MacLeamy Curve [(Davis, 2011)].
@@ -40,9 +51,14 @@ For more context please read the amazing post by Daniel Davis on the MacLeamy Cu
 * Silos
 * highly differentiated software and tools.
 
-## BIM Methodology
-
-
+## BIM Adoption
+BIM adoption requires a holistic approach that encompasses people, processes, and technology and involves the integration of digital models and data throughout the entire building project lifecycle. It involves integrated digital models and data throughout the entire building project lifecycle, which implicates collaboration, digital modeling, information integration, lifecycle approach, process efficiency, and standardization. BIM process must include:
+Automatic manipulation of analyses;​
+* Automatic updates;​
+* Simulations;​
+* Parametric objects;​
+* Integrated database manager;​
+* Interoperability.
 
 ## Traditional BIM roles
 
