@@ -39,10 +39,13 @@ TOOL: Start working with IFC File Analyzer
 1. What is Open and Standardised [(Open)BIM] and what are what are [FOSS](/Concepts/SoftwareLicenses) tools and FAIR data?
 1. ___ What are the [Roles](/Roles) of OpenBIM?
 1. What are the [Uses](/Uses) of OpenBIM?
+2. [Standards](/Concept/Standards)
 1. STANDARD ___ What is [IFC](/Concepts/IFC) and how can I see the data( [IFC File Analyzer](/Concepts/IFCFileAnalyzer) )?
 1. IFC [Entities](/Concept/Entities)
-2. [FAIR] Principles
-3. Course [Assignments](/Assignments) and Feedback
+2. [Levels](/Concepts/Levels)
+3. [FAIR](/Concept/FAIR) Principles
+    * [Interoperability](/Concept/FAIR) Principles
+4. Course [Assignments](/Assignments) and Feedback
 
   
 ## Week 2 OpenBIM Management
@@ -64,6 +67,8 @@ Continue working with IFC File Analyzer
 
 Start working with BlenderBIM
 1. STANDARD? [Classification](/Concepts/Classification)
+2. [Properties](/Concept/Properties)
+3. [bsDD](/Concepts/bsDD)
 1. TOOL ___ [BlenderBIM](/Concepts/BlenderBIM) Explore old models - also see the IFC properties
 2. [Dimensions](/Concepts/Dimensions) of BIM.
 3. [LOD](/Concepts/LOD)
@@ -80,22 +85,23 @@ TOOL Continue working with BlenderBIM.
 1. ___ get property sets
 2. [Command Line](/Concepts/CommandLine)
 3. [Github](/Concepts/Github)
+4. [Python](/Concepts/Python)
 1. ___ [BCF](/Concepts/BCF)
 1. ___ micro[MVD](/Concepts/MVD)?
 1. STANDARD___ [IDM](/Concepts/IDM)
 2. ___ [IDE](/Concepts/IDE)
 1. ___ UCM? - ADD LINK
 1. ___ [BPMN](/Concepts/BPMN)
+2. ___ [IfcOpenShell](/Concepts/IfcOpenShell)
 
 
 ## Week 5 OpenBIM Analysis
 
 TOOL Start working with IfcOpenShell
-1. STANDARD ___ [IDS](/Concepts/IDS)
-1. ___ FOCUS # 1 [Github](/Concepts/Github)
-1. ___ FOCUS # 2 [IfcOpenShell](/Concepts/IfcOpenShell)
+
 1. ___ Custom Tools [DevelopmentMethod](/Concepts/DevelopmentMethod)
 2. ___ Information Delivery Specification [(IDS)](/Concepts/IDS)
+3. ___ Virtual Design and Construction [(VDC)](/Concepts/VDC)
 
 
 ## Week 6 Machine Learning and BIM
@@ -112,7 +118,8 @@ TOOL Continue working with IfcOpenShell
 
 TOOL IFC.js / IfcOpenShell
 1. STANDARD___ Meta Draw - [SVG](/Concepts/SVG)
-2. [IFC.js](/Concepts/IFC.js)
+2. [Node-RED](/Concepts/NodeRed)
+3. [IFC.js](/Concepts/IFC.js)
 
 
 ## Week 8 - Linked Data
