@@ -2,15 +2,19 @@
 
 # Course Schedule  2023
 ----------------------------------------------------------------
+A1 | 
 [Week 1](#Week-1-OpenBIM) |
 [Week 2](#Week-2-OpenBIM-Management) |
 [Week 3](#Week-3-OpenBIM-Classification) |
+A2 | 
 [Week 4](#Week-4-OpenBIM-Use-Cases) |
 [Week 5](#Week-5-OpenBIM-Analysis) |
 [Week 6](#Week-6-Machine-Learning-and-BIM) |
+A3 | 
 [Week 7](#Week-7-Drawings) |
 [Week 8](#Week-8-Linked-Data) |
 [Week 9](#Week-9-Streaming-BIM) |
+A4 | 
 [Week 10](#Week-10) |
 [Week 11](#Week-11) |
 [Week 12](#Week-12) |
