@@ -42,9 +42,9 @@ TOOL: Start working with IFC File Analyzer
 1. What is Open and Standardised [(Open)BIM] and what are what are [FOSS](/Concepts/SoftwareLicences) tools and FAIR data?
 1. ___ What are the [Roles](/Roles) of OpenBIM?
 1. ___ What are the [Uses](/Uses) of OpenBIM?
-2. ___ [Standards](/Concept/Standards)
+2. ___ [Standards](/Concepts/Standards)
 1. ___ What is [IFC](/Concepts/IFC) and how can I see the data( [IFC File Analyzer](/Concepts/IFCFileAnalyzer) )?
-1. ___ IFC [Entities](/Concept/Entities)
+1. ___ IFC [Entities](/Concepts/Entities)
 4. ___ Course [Assignments](/Assignments) and Feedback
 
   
@@ -67,7 +67,7 @@ Continue working with IFC File Analyzer
 
 Start working with BlenderBIM
 1. ___ [Classification](/Concepts/Classification)
-2. ___ [Properties](/Concept/Properties)
+2. ___ [Properties](/Concepts/Properties)
 3. ___ [bsDD](/Concepts/bsDD)
 1. ___ [BlenderBIM](/Concepts/BlenderBIM) Explore old models - also see the IFC properties
 2. ___ [Dimensions](/Concepts/Dimensions) of BIM.
@@ -83,7 +83,7 @@ Start working with BlenderBIM
 TOOL Continue working with BlenderBIM.
 1. Introduction to [A2](/Assingnments/A2)
 2. ___ [UCM](/Concepts/UCM)
-1. ___ get [property](/Concept/Properties) sets
+1. ___ get [property](/Concepts/Properties) sets
 2. ___ [Command Line](/Concepts/CommandLine)
 3. ___ [Github](/Concepts/Github)
 4. ___ [Python](/Concepts/Python)
