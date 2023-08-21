@@ -16,3 +16,6 @@ A 3D model with additional information that analyzes the construction's impact o
 
 ## 7D - Management of building operations and facilities.​
 An expanded 3D model with the necessary information for the management and operation of the construction project. The model is often used as a basis for specialized Facility Management (FM) platforms and other concepts like the Internet of Things (IoT).
+
+### Attribution:
+This page is based on information from the [IBIMD](https://www.ct.upt.ro/IBIMD/) project of whihc DTU is a participant.
