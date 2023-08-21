@@ -5,3 +5,6 @@ OpenBIM solves the problem of closed propritory BIM in the AEC that locks us int
 Universal approach to collaborative design, implementation, and operation of buildings. It is founded on open standards and workflows, and entails utilizing the most appropriate BIM software solution for each project within each discipline's local context.
 
 OpenBIM is a set of principles that guide a set of standards that solve the problem of interoperability of data in the AEC.
+
+### Attribution:
+This page is partly based on information from the [IBIMD](https://www.ct.upt.ro/IBIMD/) project of which DTU is a participant.
