@@ -1,4 +1,4 @@
-[41934](/)
+[41934](/) Retuen to main menu.
 
 # Course Schedule  2023
 
