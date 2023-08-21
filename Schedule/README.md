@@ -82,6 +82,7 @@ Start working with BlenderBIM
 
 TOOL Continue working with BlenderBIM.
 1. Introduction to [A2](/Assingnments/A2)
+2. ___ [UCM](/Concepts/UCM)
 1. ___ get property sets
 2. [Command Line](/Concepts/CommandLine)
 3. [Github](/Concepts/Github)
@@ -90,7 +91,7 @@ TOOL Continue working with BlenderBIM.
 1. ___ micro[MVD](/Concepts/MVD)?
 1. STANDARD___ [IDM](/Concepts/IDM)
 2. ___ [IDE](/Concepts/IDE)
-1. ___ UCM? - ADD LINK
+3. 
 1. ___ [BPMN](/Concepts/BPMN)
 2. ___ [IfcOpenShell](/Concepts/IfcOpenShell)
 
@@ -100,8 +101,8 @@ TOOL Continue working with BlenderBIM.
 TOOL Start working with IfcOpenShell
 
 1. ___ Custom Tools [DevelopmentMethod](/Concepts/DevelopmentMethod)
-2. ___ Information Delivery Specification [(IDS)](/Concepts/IDS)
-3. ___ Virtual Design and Construction [(VDC)](/Concepts/VDC)
+3. ___ Information Delivery Specification [(IDS)](/Concepts/IDS)
+4. ___ Virtual Design and Construction [(VDC)](/Concepts/VDC)
 
 
 ## Week 6 Machine Learning and BIM
