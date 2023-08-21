@@ -13,6 +13,16 @@ BIM enables better communication, coordination, and collaboration among project 
 
 It allows for better visualization, simulation, and analysis of building performance, helping to optimize design decisions, detect clashes and conflicts, and identify and resolve issues early in the process. Also supports the integration of various disciplines and trades, such as architecture, structural engineering, mechanical, electrical, and hydraulic (MEP) systems, and construction sequencing, resulting in more accurate cost estimation, improved project scheduling, and enhanced sustainability and energy analysis.​
 
+BIM allows for the creation of a virtual model that integrates various design and construction disciplines, such as architecture, structure, and MEP systems. Without BIM, coordination among different stakeholders may be more challenging, as it relies on manual exchange of information through drawings and documents. This can result in clashes, conflicts, and delays during construction, leading to costly rework and project delays.​
+
+BIM enables [clash detection] and automated error checking, helping to identify and resolve issues early in the design and construction phases. Without BIM, errors may go unnoticed until the construction phase, resulting in costly rework and delays. Misinterpretation of design intent or lack of coordination among different disciplines may lead to discrepancies in construction documents, resulting in changes and modifications during construction, further impacting project costs and timeline.​
+
+BIM allows for efficient collaboration among stakeholders in a virtual environment, enabling real-time updates, revisions, and coordination. Without BIM, communication and coordination may be slower, relying on traditional methods such as meetings, emails, and manual markups on drawings, which can result in delays and inefficiencies in decision-making and project progress.​
+
+BIM provides 3D visualization and simulation capabilities, allowing stakeholders to better understand the design intent and make informed decisions. Without BIM, stakeholders may have limited visualization, relying on 2D drawings, which can be harder to understand, leading to misinterpretation, miscommunication, and potential design issues.​
+
+BIM promotes a collaborative environment where stakeholders can work together in a coordinated manner. Without BIM, collaboration may be limited, relying on traditional communication methods, which can hinder effective teamwork, coordination, and information sharing among stakeholders, potentially leading to misunderstandings and delays in the project.
+
 In summary, BIM is a digital approach to building design, construction, and operation that utilizes a collaborative and data-driven model to improve communication, coordination, and efficiency, leading to better project outcomes and more sustainable built assets.
 
 
@@ -20,6 +30,9 @@ In summary, BIM is a digital approach to building design, construction, and oper
 
 * Silos
 * highly differentiated software and tools.
+
+## BIM Methodology
+
 
 
 ## Traditional BIM roles
@@ -29,3 +42,4 @@ This page is based on information from the [IBIMD](https://www.ct.upt.ro/IBIMD/)
 
 
 [ISO 19650]: /Concepts/ISO19650
+[clash detection]: /Concepts
