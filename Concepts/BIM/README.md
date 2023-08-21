@@ -63,7 +63,7 @@ Automatic manipulation of analyses;​
 ## Traditional BIM roles
 
 ### Attribution:
-This page is based on information from the [IBIMD](https://www.ct.upt.ro/IBIMD/) project of whihc DTU is a participant.
+This page is based on information from the [IBIMD](https://www.ct.upt.ro/IBIMD/) project of which DTU is a participant.
 
 
 [ISO 19650]: /Concepts/ISO19650
