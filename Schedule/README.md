@@ -114,7 +114,7 @@ TOOL Continue working with IfcOpenShell
 
 ------------------------------------------------------
 
-## Week 7 - OpenBIM Drawings
+## Week 7 - IFC.JS / Drawings 
 
 TOOL IFC.js / IfcOpenShell
 1. ___ Meta Draw - [SVG](/Concepts/SVG)
