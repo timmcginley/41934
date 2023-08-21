@@ -35,7 +35,7 @@
 
 TOOL: Start working with IFC File Analyzer
 1. What is [BIM] and what is the focus of the course?
-1. What are the Benefits and challenges of BIM? (Inc. Silos)
+1. What are the Benefits and challenges of [BIM]? (Inc. Silos)
 2. ___ [BIM Maturity Levels](/Concepts/Levels)
 3. ___ [FAIR](/Concept/FAIR) Principles
     * [Interoperability](/Concept/FAIR) Principles
