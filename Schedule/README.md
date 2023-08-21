@@ -4,25 +4,25 @@
 
 <!-- a menu for the schedule-->
 
-[A1] Learning from OpenBIM | 
+### [A1] Learning from OpenBIM | 
 
 [Week 1](#Week-1-OpenBIM) |
 [Week 2](#Week-2-OpenBIM-Management) |
 [Week 3](#Week-3-OpenBIM-Classification) |
 
-[A2] Modeler / Analyst | 
+### [A2] Modeler / Analyst | 
 
 [Week 4](#Week-4-OpenBIM-Use-Cases) |
 [Week 5](#Week-5-OpenBIM-Analysis) |
 [Week 6](#Week-6-Machine-Learning-and-BIM) |
 
-[A3] Manager / Ontologist | 
+### [A3] Manager / Ontologist | 
 
 [Week 7](#Week-7-Drawings) |
 [Week 8](#Week-8-Linked-Data) |
 [Week 9](#Week-9-Streaming-BIM) |
 
-[A4] Champion | 
+### [A4] Champion | 
 
 [Week 10](#Week-10) |
 [Week 11](#Week-11) |
