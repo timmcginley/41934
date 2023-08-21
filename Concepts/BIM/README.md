@@ -20,6 +20,7 @@ In summary, BIM is a digital approach to building design, construction, and oper
 
 ## Traditional BIM roles
 
+## ATTRIBUTION:
 This page is based on information from the [IBIMD](https://www.ct.upt.ro/IBIMD/) project of whihc DTU is a participant.
 
 
