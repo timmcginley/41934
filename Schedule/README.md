@@ -48,6 +48,13 @@ TOOL: Start working with IFC File Analyzer
 Continue working with IFC File Analyzer
 1. ___ [BIMExecutionPlan](/Concepts/BIMExecutionPlan)
 1. STANDARD [ISO 19650](/Concepts/ISO19650)
+   * [AIM](/Concepts/AIM)
+   * [AIR](/Concepts/AIR)
+   * [BIP](/Concepts/BIP)
+   * [EIR](/Concepts/EIR)
+   * [MIDP](/Concepts/MIDP)
+   * [OIR](/Concepts/OIR)
+   * [PIM](/Concepts/PIM)
 1. Submit A1a
 
 
