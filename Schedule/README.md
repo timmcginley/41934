@@ -84,7 +84,7 @@ Start working with BlenderBIM
 TOOL Continue working with BlenderBIM.
 1. Introduction to [A2](/Assingnments/A2)
 2. ___ [UCM](/Concepts/UCM)
-1. ___ get property sets
+1. ___ get [property](/Concept/Properties) sets
 2. ___ [Command Line](/Concepts/CommandLine)
 3. ___ [Github](/Concepts/Github)
 4. ___ [Python](/Concepts/Python)
