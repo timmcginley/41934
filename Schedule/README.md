@@ -42,7 +42,7 @@ TOOL: Start working with IFC File Analyzer
 1. What is Open and Standardised [(Open)BIM] and what are what are [FOSS](/Concepts/SoftwareLicences) tools and FAIR data?
 1. ___ What are the [Roles](/Roles) of OpenBIM?
 1. ___ What are the [Uses](/Uses) of OpenBIM?
-2. ___ [Standards](/Concepts/Standards)
+2. ___ [Standards](/Concepts/Standards), Technical Specifications and Guides
 1. ___ What is [IFC](/Concepts/IFC) and how can I see the data( [IFC File Analyzer](/Concepts/IFCFileAnalyzer) )?
 1. ___ IFC [Entities](/Concepts/Entities)
 4. ___ Course [Assignments](/Assignments) and Feedback
