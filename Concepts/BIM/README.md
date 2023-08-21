@@ -60,12 +60,22 @@ Automatic manipulation of analyses;​
 * Integrated database manager;​
 * Interoperability.
 
+## Federated Models
+A BIM model that combines multiple single-discipline models into one, but they remain linked rather than integrated, meaning that the files of each discipline are separate. The Federated Model keeps the models of different disciplines separate, with links established between them. This can allow for more independence and flexibility in managing individual disciplines' models, with less potential for unintended changes or clashes affecting other disciplines. However, it may require more effort to manage the coordination and synchronization between the linked models, and clashes may need to be resolved manually.
+
+## Integrated Models
+A BIM model that combines multiple single-discipline models into one. Unlike the Federated Model, it consolidates all the properties of individual models into a single database. The Integrated Model combines all the properties of individual models into a single database, allowing for a more streamlined and coordinated approach to designing, analyzing, and managing the project. It facilitates interdisciplinary coordination, clash detection, and can result in a more seamless collaboration between different disciplines. However, it may require more effort to establish and maintain the integration, and updates to one discipline's model may impact other disciplines.​
+
+## Integrated of Federated?
+The choice between an Integrated Model and a Federated Model depends on the specific project requirements, the team's expertise and workflow, and the available software and tools for coordination and collaboration. Both approaches can be effective, and the suitability of either depends on the project's unique needs and the preferences of the project team.
+
+
 ## Traditional BIM roles
 
 ### Attribution:
 This page is based on information from the [IBIMD](https://www.ct.upt.ro/IBIMD/) project of which DTU is a participant.
 
-
+<!-- links -->
 [ISO 19650]: /Concepts/ISO19650
 [clash detection]: /Concepts
 [(Davis, 2011)]: https://www.danieldavis.com/macleamy/
