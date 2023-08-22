@@ -1,15 +1,3 @@
----
-layout: page
-title: Page Title
-subtitle: Page Subtitle
-image: /img/roles.png
-description: The pages meta description
-hero_image: /img/roles.png
-hero_height: is-fullheight
----
-
-[41934](/)
-
 # Assignments
 
 >As an advanced course in BIM our intention is not to ‘teach’ software but to introduce concepts and tools that you can then develop expertise in and we can help you when you run into challenges. Ultimately the aim of the course is that you will develop new OpenBIM tools and techniques and be able to teach your future colleagues how to learn from OpenBIM too.
