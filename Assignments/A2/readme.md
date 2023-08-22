@@ -3,6 +3,8 @@
 ## A2A: OpenBIM Modelling
 Aim: To learn from the experience of either modelling or analysing OpenBIM models collaboratively.
 
+*Aim: This assignment Focus on IFC analysis of real (previous) student building design projects from an [advanced building design course](https://github.com/timmcginley/41936) that runs in the previous semester.*
+
 ### Learning Objectives
 12. Evaluate [software licensing](/Concepts/Software_licences/README.md) suitability and implications for the OpenBIM tool you develop or modelling tool you use.
     
