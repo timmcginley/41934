@@ -1,5 +1,5 @@
 # A1: Learning from OpenBIM (Forensic BIM)
-Warm up project to get your teeth into OpenBIM standards. This assignment is linked to the following learning objectives.
+Warm up project to get your teeth into OpenBIM standards. This assignment has 2 parts that are linked to the following [learning objectives]:
 
 ### Learning Objectives
 2. Identify, locate and extract information from an IFC model in OpenBIM tools
@@ -66,7 +66,7 @@ Your group must submit your modified script file for the use case, this should b
 * Helps you to define the scope of your script
 * Helps you to see what inputs and outputs your use case has.
 
-
+[learning objectives](/LearningObjectives)
 
 
 
