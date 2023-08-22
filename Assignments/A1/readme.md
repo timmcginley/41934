@@ -1,12 +1,10 @@
 # A1: Learning from OpenBIM (Forensic BIM)
-Warm up project to get your teeth into OpenBIM standards. This assignment has 2 parts that are linked to the following [learning objectives]
+Warm up project to get your teeth into OpenBIM standards. This assignment has 2 parts that are linked to the following [learning objectives].
 
 ### Learning Objectives
 2. Identify, locate and extract information from an IFC model in OpenBIM tools
 3. Apply appropriate OpenBIM standards and guidelines to support open and FAIR data, tools and processes.
 7. Identify BIM challenges by analysing OpenBIM data.
-
-Identify what the projects analysed, how did they test this? What was the domain focus of the investigation? Was it structural, energy and indoor, daylight, acoustic, LCA/LCC or something else? They should then be introduced to BPMN and use it to document the use case and explore the role of experts in OpenBIM. Following this, the students should review OpenBIM tools made in the previous year of the OpenBIM course and identify which tools could be used or adapted to solve the problem identified in the design project in the previous part. Finally, they could check the information validity of the models against the use case requirements they identified. 
 
 **The aim of this assignment is to become familiar with the core concepts of OpenBIM**. This is done through a deep dive into the IFC file format and associated Open BIM standards. The [IFC data model](/Concepts/IFC/README.md) is the industry standard for BIM, but many BIM practioners (and some BIM experts) still don't really understand it.
 
