@@ -9,3 +9,4 @@ Firstly, the transition to OpenBIM modelling tools will affect BIM Modellers by 
 
 * [Author Design B-20](https://psu.pb.unizin.org/bimprojectexecutionplanning/back-matter/use-deisgn-authoring/)
 * [Author Construction Site Logistics Model B-9](https://psu.pb.unizin.org/bimprojectexecutionplanning/back-matter/use-site-planning/)
+* [Author Temporary Construction Systems Model B-9](https://psu.pb.unizin.org/bimprojectexecutionplanning/back-matter/use-author-temp-construction-systems-model/)
