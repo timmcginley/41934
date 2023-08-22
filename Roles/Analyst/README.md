@@ -11,3 +11,7 @@ If you need to brush up on your maths skills, please check out [this link](https
 * [Review Design Model(s) B-12](https://psu.pb.unizin.org/bimprojectexecutionplanning/back-matter/use-review-design-model/)
 * [Analyze Structural Performance B-15](https://psu.pb.unizin.org/bimprojectexecutionplanning/back-matter/use-structural-analysis/)
 * [Analyze lighting Performance B-14](https://psu.pb.unizin.org/bimprojectexecutionplanning/back-matter/use-lighting-analysis/)
+* [Analyze Energy Performance B-16](https://psu.pb.unizin.org/bimprojectexecutionplanning/back-matter/use-energy-analysis/)
+* [Analyze Engineering Performance B-23](https://psu.pb.unizin.org/bimprojectexecutionplanning/back-matter/use-engineering-analysis/)
+* [Analyze Sustainability Performance B-11](https://psu.pb.unizin.org/bimprojectexecutionplanning/back-matter/use-sustainability-analysis/)
+* 
