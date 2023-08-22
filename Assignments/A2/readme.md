@@ -23,6 +23,8 @@ We introduce potential future BIM tools and then in class we investigate their c
 
 ## A2: Analyse
 
+Identify what the projects analysed, how did they test this? What was the domain focus of the investigation? Was it structural, energy and indoor, daylight, acoustic, LCA/LCC or something else? They should then be introduced to BPMN and use it to document the use case and explore the role of experts in OpenBIM. Following this, the students should review OpenBIM tools made in the previous year of the OpenBIM course and identify which tools could be used or adapted to solve the problem identified in the design project in the previous part. Finally, they could check the information validity of the models against the use case requirements they identified. 
+
 ### Learning Objectives:
 6. Create, fork, branch and collaborate on the development of an OpenBIM tool in Python with peers in a [code repository](/Concepts/Github/README.md).
 
