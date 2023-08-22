@@ -5,4 +5,4 @@ The OpenBIM analyst role supports the modeller in the analysis and interoperabil
 * Level 2: Analyse the property sets of an IFC file in the BlenderBIM GUI and develop a simple Python Script in BlenderBIM using ifcOpenShell.
 * Level 3: Develop standalone Python programmes using ifcOpenShell for specific use cases.
 
-If you need to bruush up on your maths skills, please check out [this link](https://www.rhino3d.com/download/rhino/6/essentialmathematics/) from McNeel, posted by [Timo Harboe](linkedin.com/in/timohn).
+If you need to brush up on your maths skills, please check out [this link](https://www.rhino3d.com/download/rhino/6/essentialmathematics/) from McNeel, posted by [Timo Harboe](linkedin.com/in/timohn).
