@@ -66,7 +66,7 @@ Your group must submit your modified script file for the use case, this should b
 * Helps you to define the scope of your script
 * Helps you to see what inputs and outputs your use case has.
 
-[learning objectives](/LearningObjectives)
+[learning objectives]: /LearningObjectives
 
 
 
