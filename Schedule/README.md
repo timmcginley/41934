@@ -66,6 +66,7 @@ Continue working with IFC File Analyzer
 ## Week 3 OpenBIM Classification / LOD / CDE
 
 Start working with BlenderBIM
+Kristian Brink Awesome BIM presentation.
 1. ___ [Classification](/Concepts/Classification)
 2. ___ [Properties](/Concepts/Properties)
 3. ___ [bsDD](/Concepts/bsDD)
