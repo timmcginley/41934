@@ -60,7 +60,7 @@ Continue working with IFC File Analyzer
    * Master Information Delivery Plan [(MIDP)](/Concepts/MIDP)
    * Organizational Information Requirements [(OIR)​](/Concepts/OIR)
    * Project Information Model [(PIM)](/Concepts/PIM)
-1. Submit A1a
+1. Submit A1a - Excel dashboard.
 
 
 ## Week 3 OpenBIM Classification / LOD / CDE
