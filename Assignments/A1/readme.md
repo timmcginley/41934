@@ -5,7 +5,6 @@ Warm up project to get your teeth into OpenBIM standards. This assignment is lin
 ### Learning Objectives
 2. Identify, locate and extract information from an IFC model in OpenBIM tools
 3. Apply appropriate OpenBIM standards and guidelines to support open and FAIR data, tools and processes.
-6. Create, fork, branch and collaborate on the development of an OpenBIM tool in Python with peers in a [code repository](/Concepts/Github/README.md).
 7. Identify BIM challenges by analysing OpenBIM data.
 
 Identify what the projects analysed, how did they test this? What was the domain focus of the investigation? Was it structural, energy and indoor, daylight, acoustic, LCA/LCC or something else? They should then be introduced to BPMN and use it to document the use case and explore the role of experts in OpenBIM. Following this, the students should review OpenBIM tools made in the previous year of the OpenBIM course and identify which tools could be used or adapted to solve the problem identified in the design project in the previous part. Finally, they could check the information validity of the models against the use case requirements they identified. 
