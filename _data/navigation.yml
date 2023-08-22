@@ -23,6 +23,17 @@
   link: /Schedule
 - name: Assignments
   link: /Assignments
+  dropdown: 
+    - name: Assignment 1
+      link: /Roles/A1
+    - name: Assignment 2
+      link: /Roles/A2
+    - name: Assignment 3
+      link: /Roles/A3
+    - name: Assignment 4
+      link: /Roles/A4
+    - name: Assignment 5
+      link: /Roles/A5
 - name: Examples
   link: /Examples
 - name: Learning
