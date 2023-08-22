@@ -14,4 +14,5 @@ If you need to brush up on your maths skills, please check out [this link](https
 * [Analyze Energy Performance B-16](https://psu.pb.unizin.org/bimprojectexecutionplanning/back-matter/use-energy-analysis/)
 * [Analyze Engineering Performance B-23](https://psu.pb.unizin.org/bimprojectexecutionplanning/back-matter/use-engineering-analysis/)
 * [Analyze Sustainability Performance B-11](https://psu.pb.unizin.org/bimprojectexecutionplanning/back-matter/use-sustainability-analysis/)
-* 
+* [Fabricate Product B-7](https://psu.pb.unizin.org/bimprojectexecutionplanning/back-matter/use-fabricate-product/)
+  
