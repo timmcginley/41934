@@ -8,3 +8,4 @@ Firstly, the transition to OpenBIM modelling tools will affect BIM Modellers by 
 ## Penn State
 
 * [Author Design B-20](https://psu.pb.unizin.org/bimprojectexecutionplanning/back-matter/use-deisgn-authoring/)
+* [Author Construction Site Logistics Model B-9](https://psu.pb.unizin.org/bimprojectexecutionplanning/back-matter/use-site-planning/)
