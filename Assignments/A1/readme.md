@@ -1,7 +1,6 @@
 # A1: Learning from OpenBIM (Forensic BIM)
 Warm up project to get your teeth into OpenBIM standards. This assignment is linked to the following learning objectives.
 
-*Aim: This assignment Focus on IFC analysis of real (previous) student building design projects from an [advanced building design course](https://github.com/timmcginley/41936) that runs in the previous semester.*
 ### Learning Objectives
 2. Identify, locate and extract information from an IFC model in OpenBIM tools
 3. Apply appropriate OpenBIM standards and guidelines to support open and FAIR data, tools and processes.
