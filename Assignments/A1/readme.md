@@ -8,7 +8,7 @@ Warm up project to get your teeth into OpenBIM standards. This assignment has 2 
 
 **The aim of this assignment is to become familiar with the core concepts of OpenBIM**. This is done through a deep dive into the IFC file format and associated Open BIM standards. The [IFC data model](/Concepts/IFC/README.md) is the industry standard for BIM, but many BIM practioners (and some BIM experts) still don't really understand it.
 
-Previously we have focused on the IFC file and helping you to understand how it is structured, this year we will push this idea further by exploring the file in the awesome OpenBIM tool blender. This allows us the opportunity to pull several exercises together into the same environment.
+Previously we have focused on the IFC file and helping you to understand how it is structured, this year we will push this idea further by exploring the file in the awesome OpenBIM tool [Blender] and its openBIM plugin [BlenderBIM]. This allows us the opportunity to pull several exercises together into the same environment.
 
 In this activity you will be introduced to a [‘metadisciplinary framework’ for BIM (McGinley Krijnen, 2022)](https://www.researchgate.net/publication/363579368_A_framework_for_meta-disciplinary_building_analysis/stats). 
 
@@ -64,7 +64,10 @@ Your group must submit your modified script file for the use case, this should b
 * Helps you to define the scope of your script
 * Helps you to see what inputs and outputs your use case has.
 
-[learning objectives]: /LearningObjectives
+<!-- links --> 
 
+[learning objectives]: /LearningObjectives
+[Blender]: /Concepts/Blender
+[BlenderBIM]: /Concepts/BlenderBIM
 
 
