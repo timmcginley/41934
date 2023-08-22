@@ -6,3 +6,6 @@ The OpenBIM analyst role supports the modeller in the analysis and interoperabil
 * Level 3: Develop standalone Python programmes using ifcOpenShell for specific use cases.
 
 If you need to brush up on your maths skills, please check out [this link](https://www.rhino3d.com/download/rhino/6/essentialmathematics/) from McNeel, posted by [Timo Harboe](linkedin.com/in/timohn).
+
+## Penn State Uses of BIM
+* [Review Design Model(s) B-12](https://psu.pb.unizin.org/bimprojectexecutionplanning/back-matter/use-review-design-model/)
