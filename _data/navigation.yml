@@ -2,10 +2,21 @@
 - name: Concepts
   link: /Concepts
   dropdown: 
-    - name: Concept 1
+    - name: BIM
       link: /Concepts/BIM
 - name: Roles
   link: /Roles
+  dropdown: 
+    - name: Modeller
+      link: /Roles/Modeller
+    - name: Analyst
+      link: /Roles/Analyst
+    - name: Manager
+      link: /Roles/Manager
+    - name: Ontologist
+      link: /Roles/Ontologist
+    - name: Guru
+      link: /Roles/Guru
 - name: Examples
   link: /Examples
 - name: Uses
