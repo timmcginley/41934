@@ -22,7 +22,7 @@
 - name: Schedule
   link: /Schedule
 - name: Assignments
-  link: /Assignments
+  link: /Assignments/README.md
   dropdown: 
     - name: Assignment 1
       link: /Assignments/A1
