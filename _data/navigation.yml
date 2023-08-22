@@ -17,13 +17,13 @@
       link: /Roles/Ontologist
     - name: Guru
       link: /Roles/Guru
-- name: Examples
-  link: /Examples
 - name: Uses
   link: /Uses
 - name: Schedule
   link: /Schedule
 - name: Assignments
   link: /Assignments
+- name: Examples
+  link: /Examples
 - name: Learning
   link: /learningObjectives
