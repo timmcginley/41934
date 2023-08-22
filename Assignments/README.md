@@ -1,3 +1,13 @@
+--------
+layout: page
+title: Page Title
+subtitle: Page Subtitle
+image: /img/roles.png
+description: The pages meta description
+hero_image: /img/roles.png
+hero_height: is-fullheight
+--------
+
 [41934](/)
 
 # Assignments
