@@ -9,3 +9,5 @@ If you need to brush up on your maths skills, please check out [this link](https
 
 ## Penn State Uses of BIM
 * [Review Design Model(s) B-12](https://psu.pb.unizin.org/bimprojectexecutionplanning/back-matter/use-review-design-model/)
+* [Analyze Structural Performance B-15](https://psu.pb.unizin.org/bimprojectexecutionplanning/back-matter/use-structural-analysis/)
+* [Analyze lighting Performance B-14](https://psu.pb.unizin.org/bimprojectexecutionplanning/back-matter/use-lighting-analysis/)
