@@ -6,6 +6,7 @@ Aim: To learn from the experience of either modelling or analysing OpenBIM model
 ### Learning Objectives
 12. Evaluate [software licensing](/Concepts/Software_licences/README.md) suitability and implications for the OpenBIM tool you develop or modelling tool you use.
     
+### AIM:
 The world of BIM modelling is also changing fast.
 
 - Trad tools: I.e. Revit - please google it...
