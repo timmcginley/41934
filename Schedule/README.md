@@ -108,7 +108,9 @@ TOOL Continue working with BlenderBIM.
 
 ## Week 5 OpenBIM Analysis
 
-*23rd September 2023*
+*25th September 2023*
+
+Molio visit
 
 TOOL Start working with IfcOpenShell
 
