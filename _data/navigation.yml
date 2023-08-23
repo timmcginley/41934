@@ -2,8 +2,22 @@
 - name: Concepts
   link: /Concepts
   dropdown: 
-    - name: BIM
-      link: /Concepts/BIM
+    - name: OpenBIM
+      link: /Concepts/OpenBIM
+    - name: IFC
+      link: /Concepts/IFC
+    - name: ISO 19650
+      link: /Concepts/ISO19650
+    - name: BIM Execution Plan
+      link: /Concepts/BIMExecutionPlan
+    - name: BlenderBIM
+      link: /Concepts/BlenderBIM
+    - name: CDE
+      link: /Concepts/CDE
+    - name: Classification
+      link: /Concepts/Classification
+    - name: IfcOpenShell
+      link: /Concepts/IfcOpenShell
 - name: Roles
   link: /Roles
   dropdown: 
