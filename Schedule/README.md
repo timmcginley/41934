@@ -33,6 +33,8 @@
 
 ## Week 1 OpenBIM
 
+*28th August 2023*
+
 TOOL: Start working with IFC File Analyzer
 1. ___ What is [BIM] and what is the focus of the course?
 1. ___ What are the Benefits and challenges of [BIM]? (Inc. Silos)
@@ -50,6 +52,8 @@ TOOL: Start working with IFC File Analyzer
   
 ## Week 2 OpenBIM Management
 
+*4th September 2023*
+
 Continue working with IFC File Analyzer
 1. ___ BIM Execution Plan [(BEP)](/Concepts/BIMExecutionPlan)
 1. ___ [ISO 19650](/Concepts/ISO19650)
@@ -64,6 +68,8 @@ Continue working with IFC File Analyzer
 
 
 ## Week 3 OpenBIM Classification / LOD / CDE
+
+*11th September 2023*
 
 Start working with BlenderBIM
 
@@ -83,6 +89,8 @@ Kristian Brink [Kribri404] Awesome BIM presentation.
 
 ## Week 4 OpenBIM Use Cases
 
+*18th September 2023*
+
 TOOL Continue working with BlenderBIM.
 1. Introduction to [A2](/Assingnments/A2)
 2. ___ [UCM](/Concepts/UCM)
@@ -100,6 +108,8 @@ TOOL Continue working with BlenderBIM.
 
 ## Week 5 OpenBIM Analysis
 
+*23rd September 2023*
+
 TOOL Start working with IfcOpenShell
 
 1. ___ Custom Tools [DevelopmentMethod](/Concepts/DevelopmentMethod)
@@ -108,6 +118,8 @@ TOOL Start working with IfcOpenShell
 
 
 ## Week 6 Machine Learning and BIM
+
+*2nd October 2023*
 
 TOOL Continue working with IfcOpenShell
 1. ___ [Rules](/Concepts/Rules)
@@ -119,12 +131,16 @@ TOOL Continue working with IfcOpenShell
 
 ## Week 7 - IFC.JS / Drawings 
 
+*9th October 2023*
+
 TOOL IFC.js / IfcOpenShell
 1. ___ Meta Draw - [SVG](/Concepts/SVG)
 3. ___ [IFC.js](/Concepts/IFC.js)
 
 
 ## Week 8 - Linked Data
+
+*23rd October 2023*
 
 1. Introduction to [A3](/Assingnments/A3)
 1. ___ Ontologies
@@ -135,12 +151,16 @@ TOOL IFC.js / IfcOpenShell
 
 ## Week 9 - Streaming BIM
 
+*30th October 2023*
+
 1. ___ [Speckle](/Concepts/Speckle)
 1. Submit [A3](/Assingnments/A3)
 
 ------------------------------------------------------
 
 ## Week 10 - Node-RED
+
+*6th November 2023*
 
 1. Introduction to [A4](/Assingnments/A4)
 1. Introduction to [A5](/Assingnments/A5)
@@ -149,16 +169,22 @@ TOOL IFC.js / IfcOpenShell
 
 ## Week 11
 
+*13th November 2023*
+
 * Helpdesk / Tutorial
 * [Digital Twins](/Concepts/DigitalTwin)
 
 
 ## Week 12
 
+*20th November 2023*
+
 * Helpdesk / Tutorial
 
    
 ## Week 13
+
+*27th November 2023*
 
 * Sub A4 - Final [Presentation](Concepts/Presentation)
 
