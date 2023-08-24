@@ -55,6 +55,7 @@ IFC is licensed under the Creative Commons Attribution-NoDerivatives 4.0 Interna
 * [IFC History](https://itc.scix.net/pdfs/w78-2015-paper-004.pdf)
 * [Industrial Foundation Classes paper](https://publications.cms.bgu.tum.de/books/bim_2018/06_IFC_07.pdf)
 * [IFC Formats](https://github.com/buildingSMART/technical.buildingsmart.org/blob/main/IFC-Formats.md)
+* [Technical IFC Implementation - Advanced](https://github.com/buildingSMART/technical.buildingsmart.org/blob/main/IFC-Implementation-Guidance.md)
 
 ## Tutorials
 
