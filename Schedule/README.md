@@ -13,7 +13,7 @@
 ### [A2] Modeler / Analyst 
 
 [Week 4](#Week-4-OpenBIM-Use-Cases) Use cases |
-[Week 5](#Week-5-OpenBIM-Analysis) Anlaysis |
+[Week 5](#Week-5-OpenBIM-Analysis) Analysis |
 [Week 6](#Week-6-Machine-Learning-and-BIM) ML/AI |
 
 ### [A3] Manager / Ontologist 
