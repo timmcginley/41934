@@ -64,7 +64,7 @@ Continue working with IFC File Analyzer
    * Master Information Delivery Plan [(MIDP)](/Concepts/MIDP)
    * Organizational Information Requirements [(OIR)​](/Concepts/OIR)
    * Project Information Model [(PIM)](/Concepts/PIM)
-1. Submit A1a - Excel dashboard.
+
 
 
 ## Week 3 OpenBIM Classification / LOD / CDE
@@ -72,6 +72,8 @@ Continue working with IFC File Analyzer
 *11th September 2023*
 
 Start working with BlenderBIM
+
+A2: Introduce
 
 Kristian Brink [Kribri404] Awesome BIM presentation.
 
@@ -83,7 +85,8 @@ Kristian Brink [Kribri404] Awesome BIM presentation.
 3. ___ [LOD](/Concepts/LOD)
 1. ___ Common Data Environment [(CDE)](/Concepts/CDE)
 1. ___ meta disciplinary objects
-2. Submit A1b
+
+* Submit [A1](/Assingnments/A1) - Excel dashboard. - 17th September
 
 ------------------------------------------------------
 
@@ -127,7 +130,8 @@ TOOL Continue working with IfcOpenShell
 1. ___ [Rules](/Concepts/Rules)
 1. ___ [MarkDown](/Concepts/MarkDown)
 1. ___ Prompt Model [MachineLearning](/Concepts/MachineLearning)
-1. Submit [A2](/Assingnments/A2)
+
+* Submit [A2](/Assingnments/A2) - 8th October 2023
 
 ------------------------------------------------------
 
@@ -156,7 +160,8 @@ TOOL IFC.js / IfcOpenShell
 *30th October 2023*
 
 1. ___ [Speckle](/Concepts/Speckle)
-1. Submit [A3](/Assingnments/A3)
+
+* Submit [A3](/Assingnments/A3) - 5th November 2023
 
 ------------------------------------------------------
 
@@ -183,12 +188,15 @@ TOOL IFC.js / IfcOpenShell
 
 * Helpdesk / Tutorial
 
-   
+ * Submit [A4](/Assingnments/A4) - 26th November 2023  
+
 ## Week 13
 
 *27th November 2023*
 
-* Sub A4 - Final [Presentation](Concepts/Presentation)
+You will pick concepts to learn and then assess the material based on the criteria provided previously in class.
+
+* Sub [A5](/Assingnments/A5) - Final Reflection - 3rd December 2023
 
 
 <!-- LINKS -->
