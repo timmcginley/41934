@@ -12,10 +12,3 @@ Figure 2. OpenBIM roles (the two new OpenBIM roles in dashed lines)
 * R3: OpenBIM [Manager](https://timmcginley.github.io/41934/Roles/Manager)
 * R4: OpenBIM [Ontologist](https://timmcginley.github.io/41934/Roles/Ontologist)
 * R5: OpenBIM [Champion](https://timmcginley.github.io/41934/Roles/Champion)
-
-* R1: OpenBIM [Modeller](Roles/Modeller)
-* R2: OpenBIM [Analyst](Roles/Analyst)
-* R3: OpenBIM [Manager](Roles/Manager)
-* R4: OpenBIM [Ontologist](Roles/Ontologist)
-* R5: OpenBIM [Guru](Roles/Guru)
-
