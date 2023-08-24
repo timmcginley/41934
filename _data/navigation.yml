@@ -35,6 +35,34 @@
   link: /Uses
 - name: Schedule
   link: /Schedule
+  dropdown: 
+    - name: 01 - OpenBIM
+      link: /Schedule/01.md
+    - name: 02 - Management
+      link: /Schedule/02.md
+    - name: 03 - Classification
+      link: /Schedule/03.md
+    - name: 04 - use Cases
+      link: /Schedule/04.md
+    - name: 05 - Analysis
+      link: /Schedule/05.md
+    - name: 06 - ML/AI
+      link: /Schedule/06.md
+    - name: 07 - Drawings
+      link: /Schedule/07.md
+    - name: 08 - linked Data
+      link: /Schedule/08.md
+    - name: 09 - Speckle
+      link: /Schedule/09.md
+    - name: 10 - Node-RED
+      link: /Schedule/10.md
+    - name: 11 - Project
+      link: /Schedule/11.md
+    - name: 12 - Project
+      link: /Schedule/12.md
+    - name: 13 - Presentation
+      link: /Schedule/13.md
+      
 - name: Assignments
   link: /Assignments
   dropdown: 
