@@ -5,10 +5,10 @@
 TOOL: Start working with IFC File Analyzer
 1. ___ What is [BIM] and what is the focus of the course?
 1. ___ What are the Benefits and challenges of [BIM]? (Inc. Silos)
-2. ___ [BIM Maturity Levels] [-]
-3. ___ [FAIR] Principles [ ]
-3. ___ [Interoperability] Principles [ ]
-4. ___ [Standards], Technical Specifications and Guides [ ]
+1. ___ [BIM Maturity Levels] [-]
+1. ___ [FAIR] Principles [ ]
+1. ___ [Interoperability] Principles [ ]
+1. ___ [Standards], Technical Specifications and Guides [ ]
 1. ___ What is [(Open)BIM] and what are what are [FOSS](/Concepts/SoftwareLicences) tools and FAIR data?  [ ]
 
 1. ___ What is [IFC](/Concepts/IFC) and how can I see its [entities] and [properties] ( [IFC File Analyzer](/Concepts/IFCFileAnalyzer) )? [ ]
