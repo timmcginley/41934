@@ -9,7 +9,6 @@ A2: Introduce
 Kristian Brink [Kribri404] Awesome BIM presentation.
 
 1. ___ [Classification](/Concepts/Classification)
-2. ___ [Properties](/Concepts/Properties)
 3. ___ [bsDD](/Concepts/bsDD)
 1. ___ [BlenderBIM](/Concepts/BlenderBIM) Explore old models - also see the IFC properties
 2. ___ [Dimensions](/Concepts/Dimensions) of BIM.
