@@ -4,7 +4,7 @@
 
 Continue working with IFC File Analyzer
 
-Presentation covers....
+### Presentation covers....
 
 1. ___ What are the [Roles] of OpenBIM? [ ]
 1. ___ IFC [Properties](/Concepts/Properties)
@@ -18,7 +18,7 @@ Presentation covers....
    * Organizational Information Requirements [(OIR)​](/Concepts/OIR)
    * Project Information Model [(PIM)](/Concepts/PIM)
   
-In class activity covers...
+### In class activity covers...
 
 We will also help this week with.
 * questions about the assignment
