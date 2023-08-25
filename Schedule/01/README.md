@@ -10,10 +10,9 @@ TOOL: Start working with IFC File Analyzer
 1. ___ [Interoperability] Principles [ ]
 1. ___ [Standards], Technical Specifications and Guides [ ]
 1. ___ What is [(Open)BIM] and what are what are [FOSS](/Concepts/SoftwareLicences) tools and FAIR data?  [ ]
-
 1. ___ What is [IFC](/Concepts/IFC) and how can I see its [entities] and [properties] ( [IFC File Analyzer](/Concepts/IFCFileAnalyzer) )? [ ]
 1. ___ IFC [Entities](/Concepts/Entities) [ ]
-4. ___ Course [Assignments](/Assignments) and Feedback [ ]
+1. ___ Course [Assignments](/Assignments) and Feedback [ ]
 
 
 [BIM]: /Concepts/BIM
@@ -21,4 +20,3 @@ TOOL: Start working with IFC File Analyzer
 [FAIR]: /Concepts/FAIR
 [Interoperability]: /Concepts/Interoperability
 [Standards]: /Concepts/Standards
-[Roles]: /Roles
