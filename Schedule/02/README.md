@@ -3,6 +3,7 @@
 *4th September 2023*
 
 Continue working with IFC File Analyzer
+1. ___ What are the [Roles] of OpenBIM? [ ]
 1. IFC [Properties](/Concepts/Properties)
 1. ___ BIM Execution Plan [(BEP)](/Concepts/BIMExecutionPlan)
 1. ___ [ISO 19650](/Concepts/ISO19650)
@@ -13,3 +14,5 @@ Continue working with IFC File Analyzer
    * Master Information Delivery Plan [(MIDP)](/Concepts/MIDP)
    * Organizational Information Requirements [(OIR)​](/Concepts/OIR)
    * Project Information Model [(PIM)](/Concepts/PIM)
+
+[Roles]: /Roles
