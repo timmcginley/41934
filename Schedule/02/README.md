@@ -3,6 +3,7 @@
 *4th September 2023*
 
 Continue working with IFC File Analyzer
+1. IFC [Properties](/Concepts/Properties)
 1. ___ BIM Execution Plan [(BEP)](/Concepts/BIMExecutionPlan)
 1. ___ [ISO 19650](/Concepts/ISO19650)
    * Asset Information Model [(AIM)](/Concepts/AIM)
