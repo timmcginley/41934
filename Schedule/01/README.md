@@ -17,7 +17,10 @@ introduction video covers:
 
 In class activity with Introduction from Martina.
 
-1. ___ IFC [entities] and [properties] in [IFC File Analyzer] [ ]
+1. ___ IFC [entities] and [properties] in [IFC File Analyzer] [ ]t
+
+* download the [Skylab IFC models](https://learn.inside.dtu.dk/d2l/le/content/167582/Home) *[enrolled students only]*.
+* install IfcAnalyzserrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
 
 <!-- links -->
 
