@@ -14,4 +14,4 @@ This course has been designed so that the emphasis is on learning FROM BIM rathe
 [Structure]: .././Focus/Structure
 [LCA]: .././Focus/Sustainability
 [Indoor]: .././Focus/Indoor
-[Build]: ./Focus/Build
+[Build]: .././Focus/Build
