@@ -4,7 +4,7 @@ International Standard ISO 19650 solves the problem of defining standard names a
 
 Components include:
 
-* [BIM Execution Plan](/Concepts/BIMExecutionPlan)
+* [BIM Execution Plan](/41934/Concepts/BIMExecutionPlan)
 * [RACI] Responsible, Accountable, Consulted, Informed.
 
 

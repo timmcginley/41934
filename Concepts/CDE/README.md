@@ -8,7 +8,7 @@ The CDE is a repository of all the information about a project. This central sou
 Cohesive BIM Wiki [link](designingbuildings.co.uk/wiki/Common_data_environment_CDE) for CDE.
 
 
-A bit like an [IDE](Concepts/IDE) but for BIM models.
+A bit like an [IDE](/41934/Concepts/IDE) but for BIM models.
 
 ### Attribution:
 This page is based on information from the [IBIMD](https://www.ct.upt.ro/IBIMD/) project of which DTU is a participant.

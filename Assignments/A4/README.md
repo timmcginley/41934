@@ -1,6 +1,4 @@
-# A4: Final Project
-
-## A4: OpenBIM Champion
+# A4: OpenBIM Champion
 ### Learning Objectives
 8. Teach an advanced BIM concept you have learned in the course to your peers and reflect on peer feedback on this.
    
@@ -19,5 +17,5 @@ The tutorial should include
 * be tested by your peers
 * be reviewed and feedback provided by your peers.
 
-[roles]: /Roles
-[role learning level]: /Roles
+[roles]: /41934/Roles
+[role learning level]: /41934/Roles
