@@ -1,6 +1,4 @@
 ---
-title: Focus dude focus!!!
-subtitle: This is really focused - it helps
 show_hero: false
 ---
 
