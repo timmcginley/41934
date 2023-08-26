@@ -4,4 +4,4 @@
 
 You will pick concepts to learn and then assess the material based on the criteria provided previously in class.
 
-* Sub [A5](/41934/Assingnments/A5) - Final Reflection - 3rd December 2023
+* Sub [A5](/41934/Assignments/A5) - Final Reflection - 3rd December 2023

@@ -4,4 +4,4 @@
 
 1. ___ [Speckle](/41934/Concepts/Speckle)
 
-* Submit [A3](/41934/Assingnments/A3) - 5th November 2023
+* Submit [A3](/41934/Assignments/A3) - 5th November 2023

@@ -5,13 +5,13 @@ We will use different technologies in this course but for starters you should. i
 
 *you need these*
 
-Install [Blender](/Concepts/Blender)
+Install [Blender](/41934/Concepts/Blender)
 
-Install [BlenderBIM](/Concepts/BlenderBIM)
+Install [BlenderBIM](/41934/Concepts/BlenderBIM)
 
-Install [Visual Studio Code](/Concepts/VisualStudio) or an alternative [IDE](/Concepts/IDE)
+Install [Visual Studio Code](/41934/Concepts/VisualStudio) or an alternative [IDE](/41934/Concepts/IDE)
 
-Install [IfcOpenShell](/Concepts/IfcOpenShell)
+Install [IfcOpenShell](/41934/Concepts/IfcOpenShell)
 
 *additonally, you could install these*
 

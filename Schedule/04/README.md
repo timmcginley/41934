@@ -3,7 +3,7 @@
 *18th September 2023*
 
 TOOL Continue working with BlenderBIM.
-1. Introduction to [A2](/41934/Assingnments/A2)
+1. Introduction to [A2](/41934/Assignments/A2)
 2. ___ What are the [Uses](/41934/Uses) of OpenBIM? [ ]
 3. ___ [UCM](/41934/Concepts/UCM)
 1. ___ get [property](/41934/Concepts/Properties) sets
