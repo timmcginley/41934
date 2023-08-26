@@ -3,4 +3,4 @@
 *13th November 2023*
 
 * Helpdesk / Tutorial
-* [Digital Twins](/Concepts/DigitalTwin)
+* [Digital Twins](/41934/Concepts/DigitalTwin)

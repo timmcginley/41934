@@ -6,6 +6,6 @@ Molio visit
 
 TOOL Start working with IfcOpenShell
 
-1. ___ Custom Tools [DevelopmentMethod](/Concepts/DevelopmentMethod)
-3. ___ Information Delivery Specification [(IDS)](/Concepts/IDS)
-4. ___ Virtual Design and Construction [(VDC)](/Concepts/VDC)
+1. ___ Custom Tools [DevelopmentMethod](/41934/Concepts/DevelopmentMethod)
+3. ___ Information Delivery Specification [(IDS)](/41934/Concepts/IDS)
+4. ___ Virtual Design and Construction [(VDC)](/41934/Concepts/VDC)

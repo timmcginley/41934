@@ -33,7 +33,7 @@ introduction video covers:
 * ___ [FAIR] Principles [ ]
 * ___ [Interoperability] Principles [ ]
 * ___ [Standards], Technical Specifications and Guides [ ]
-* ___ Course [Assignments](/Assignments) and Feedback [ ]
+* ___ Course [Assignments](/41934/Assignments) and Feedback [ ]
 * ___ What is [(Open)BIM] and what are what are [FOSS] tools and FAIR data?  [ ]
 * ___ What is [IFC]?
 
@@ -51,14 +51,14 @@ You are now one step closer in your journey to becoming an OpenBIM guru. Check o
 
 <!-- links -->
 
-[BIM]: /Concepts/BIM
-[BIM Maturity Levels]: /Concepts/Levels
-[IFC]: /Concepts/IFC
-[FAIR]: /Concepts/FAIR
-[FOSS]: /Concepts/SoftwareLicences
-[focus area]: /Focus
-[Interoperability]: /Concepts/Interoperability
-[Standards]: /Concepts/Standards
-[entities]: /Concepts/Entities
-[properties]: /Concepts/Properties
-[IFC File Analyzer]: /Concepts/IFCFileAnalyzer
+[BIM]: /41934/Concepts/BIM
+[BIM Maturity Levels]: /41934/Concepts/Levels
+[IFC]: /41934/Concepts/IFC
+[FAIR]: /41934/Concepts/FAIR
+[FOSS]: /41934/Concepts/SoftwareLicences
+[focus area]: /41934/Focus
+[Interoperability]: /41934/Concepts/Interoperability
+[Standards]: /41934/Concepts/Standards
+[entities]: /41934/Concepts/Entities
+[properties]: /41934/Concepts/Properties
+[IFC File Analyzer]: /41934/Concepts/IFCFileAnalyzer

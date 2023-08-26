@@ -3,8 +3,8 @@
 *2nd October 2023*
 
 TOOL Continue working with IfcOpenShell
-1. ___ [Rules](/Concepts/Rules)
-1. ___ [MarkDown](/Concepts/MarkDown)
-1. ___ Prompt Model [MachineLearning](/Concepts/MachineLearning)
+1. ___ [Rules](/41934/Concepts/Rules)
+1. ___ [MarkDown](/41934/Concepts/MarkDown)
+1. ___ Prompt Model [MachineLearning](/41934/Concepts/MachineLearning)
 
-* Submit [A2](/Assingnments/A2) - 8th October 2023
+* Submit [A2](/41934/Assignments/A2) - 8th October 2023
