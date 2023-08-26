@@ -1,3 +1,9 @@
+---
+title: Focus dude focus!!!
+subtitle: This is really focused - it helps
+show_hero: false
+---
+
 # Focus Areas
 
 *this should become examples*
