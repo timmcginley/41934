@@ -1,4 +1,4 @@
-# LCA
+# Sustainability
 
 ### LCA
 * [22 Group 03](https://github.com/WilliamEskildsen/41934_group3) - LCA
