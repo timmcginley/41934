@@ -1,13 +1,7 @@
-<style>
-.hero-body
-  {
-    padding:20px;
-  }
-</style>
-
+# Course Schedule  2023
 [41934](/) Return to main menu.
 
-# Course Schedule  2023
+
 
 <!-- a menu for the schedule-->
 
