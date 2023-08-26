@@ -18,6 +18,17 @@
       link: /Concepts/Classification
     - name: IfcOpenShell
       link: /Concepts/IfcOpenShell
+- name: Focus Area
+  link: /Focus
+  dropdown: 
+    - name: Sustainability
+      link: /Focus/Sustainability
+    - name: Structure
+      link: /Focus/Structure
+    - name: Indoor
+      link: /Focus/Indoor
+    - name: Build
+      link: /Focus/Build
 - name: Roles
   link: /Roles
   dropdown: 
