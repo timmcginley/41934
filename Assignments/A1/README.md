@@ -1,6 +1,13 @@
 # A1: Learning from OpenBIM (Forensic BIM)
 Warm up project to get your teeth into OpenBIM standards. This assignment has 2 parts that are linked to the following [learning objectives].
 
+[option 01 .././ ](.././Concepts/IFC)
+[option 02  ./../ ](./../Concepts/IFC)
+[option 03  ./ ](./Concepts/IFC)
+[option 04  (root) ](/(root)/Concepts/IFC)
+
+
+
 ### Learning Objectives
 2. Identify, locate and extract information from an IFC model in OpenBIM tools
 3. Apply appropriate OpenBIM standards and guidelines to support open and FAIR data, tools and processes.
