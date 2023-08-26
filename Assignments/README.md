@@ -19,7 +19,7 @@ This task would focus on analysing the models using scripts as in the previous y
 ## A3	[OpenBIM Manager / Ontologist](A3)
 ### Manager
 This task focuses on ISO 19650. The intention for autumn 2022 was to integrate real examples of 19650 into the course with practical examples, for instance by prototyping a total process using Speckle that complied to ISO 19650. However, time constraints in planning the course meant that this was ultimately replaced with traditional lectures from external parties. These provided informative content to the students but on their own were not enough for them to see the alignment to the other activities. A future BIM course should be focused on thinking in and gaining experience using ISO 19650 rather than just ‘teaching’ it. The experience of the autumn 2022 course enabled a proposal to map the development methodology (Figure 3) to ISO 19650 (Figure 4).
-### Ontology
+### Ontologist
 The focus of this assignment is to support the Ontologist role. This should cover both Open Linked building data and traditional classification systems.
 
 ## A4	[OpenBIM Champion](A4)
