@@ -1,3 +1,10 @@
+<style>
+.hero-body
+  {
+    padding:20px;
+  }
+</style>
+
 [41934](/) Return to main menu.
 
 # Course Schedule  2023
