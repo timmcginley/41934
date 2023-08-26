@@ -19,4 +19,4 @@ BXPs are then an essential tool of [managers] and coordinators and valuable reso
 ### Attribution:
 This page is partly based on information from the [IBIMD](https://www.ct.upt.ro/IBIMD/) project of which DTU is a participant.
 
-[managers]: /Roles/Manager
+[managers]: /41934/Roles/Manager
