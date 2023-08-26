@@ -1,5 +1,11 @@
 # A2: OpenBIM Modeller / Analyst
 
+In this assignment we will develop a tool / workflow based on the use case you defined in the [previous assignment](https://github.com/timmcginley/41934/tree/main/A1).<br>
+
+You can choose between working in the assignment in
+1. the modelling role or
+2. the analysing role.
+
 ## A2A: OpenBIM Modelling
 Aim: To learn from the experience of either modelling or analysing OpenBIM models collaboratively.
 
@@ -87,3 +93,5 @@ Therefore, the aim of this assignment is in your groups to explore focused parts
 ## ideas
 * i would be really interested to see if we could change values in an SVG file and use this to edit and append the information in drawings.
 
+[modelling]: /Roles/Modeller
+[analysing]: /Roles/Analyst
