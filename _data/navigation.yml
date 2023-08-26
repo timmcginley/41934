@@ -42,8 +42,8 @@
       link: /Roles/Ontologist
     - name: Guru
       link: /Roles/Guru
-- name: Uses
-  link: /Uses
+#- name: Uses
+#  link: /Uses
 - name: Schedule
   link: /Schedule
   dropdown: 
