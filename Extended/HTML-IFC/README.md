@@ -1,12 +1,11 @@
-# A2: FutureBIM
+# Extra Exercise: HTML-IFC - FutureBIM
 We introduce potential future BIM tools and then in class we investigate their connections and the roles they will play in your future careers. This assignment is linked to the following learning objectives.
 
 ## Aim
 
-Therefore, the aim of this assignment is in your groups to explore focused parts of this future (open) BIM ecosystem, supported by theory, frameworks and examples provided in the course lectures.
+Therefore, the aim of this EXTRA NON CREDIT assignment is in your groups to explore focused parts of this future (open) BIM ecosystem, supported by theory, frameworks and examples provided in the course lectures.
 
 ## Activity Completion
-
 
 ### 1) [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) / download as zip the code in [HTML-Build-IFC-Converter](https://github.com/timmcginley/HTML-Build-IFC-Converter)
 We are starting from the [HTML-Build-IFC-Converter](https://github.com/timmcginley/HTML-Build-IFC-Converter) repo as it provides a prototype BIM system that yuou can adapt. The aim is that you think about how the use case you indentified in the previous submission could be applied here to guide the receivers of that guidance. Specifically you should consider:
@@ -31,7 +30,7 @@ This does not need to be a world changing thing, it could jsut be adding text to
 ### 6) Identify a licence for your script and apply this to the github code
 This is based on the conversation from last week. There is a link here to the [licence chooser](https://choosealicense.com/)
 
-### 7) be proud of what you ahve acheived, its pretty awesome that you have mangaged to build your own BIM system :)
+### 7) be proud of what you have acheived, its pretty awesome that you have mangaged to build your own BIM system :)
 
 ## Submissions 22
 - [Team 1](https://github.com/kfjordt/11034-advanced-bim/tree/main/Assignment%202) - Ported the original code to JS, adding an input function, need to think about how to keep the resulting HTML source clean - but a really, really great start!
