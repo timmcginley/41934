@@ -4,6 +4,7 @@
 Could also include Energy / Indoor / Daylight / Acoustics.
 
 
+## Previous examples
 
 * [22 Group 06](https://github.com/gabrielamiti/BIM) - Indoor Energy and Daylight
 * Group 15 - no link - Indoor climate analysis
