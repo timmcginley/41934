@@ -1,4 +1,8 @@
-### Structure
+# Structure Focus Area
+
+Could also include structural fire safety.
+
+
 * [22 Group 09](https://github.com/katrinekolbjornsen/UsecaseA1) - Structural
 * [22 Group 10](https://github.com/juliev1234/A1_OpenBim_Group10) - Structural
 * Group 14 - no link - Structural
