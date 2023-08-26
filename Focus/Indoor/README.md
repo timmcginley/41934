@@ -1,5 +1,10 @@
 
-### Energy / Indoor / Daylight / Acoustics
+# Indoor Focus Area
+
+Could also include Energy / Indoor / Daylight / Acoustics.
+
+
+
 * [22 Group 06](https://github.com/gabrielamiti/BIM) - Indoor Energy and Daylight
 * Group 15 - no link - Indoor climate analysis
 * [22 Group 18](https://github.com/RikkeKHansen/Markdown-file) - Indoor climate
