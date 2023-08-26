@@ -13,12 +13,8 @@ The final assignment focuses on the ability to transfer knowledge in an organiza
 Furthermore, there would be a chance for them to develop custom content that could be linked to in the course learning environment that, with the student’s permission, could be used in future iterations of the course to support student learning as part of the circular education system.
 
 The tutorial should include
-* Idenitification of the [role learning level] that you are targeting 1,2 or 3. please check the different [roles] to see the levels.
-
-In this assignment we will develop a tool / workflow based on the use case you defined in the [previous assignment](https://github.com/timmcginley/41934/tree/main/A3__UseCase).<br>
-The tutorial must:
+* Identification of the [role learning level] that you are targeting 1,2 or 3. please check the different [roles] to see the levels.
 * Address your a specific [focus area] and BIM use.
-
 * If using code, Ideally be written in Python, but can be other approaches in special cases if agreed with the course responsible.
 * be tested by your peers
 * be reviewed and feedback provided by your peers.
