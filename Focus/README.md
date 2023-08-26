@@ -1,8 +1,8 @@
 ---
-show_hero: false
+food: Pizza
 ---
 
-# Focus Areas
+# Focus Areas - {{ page.food }}
 
 *this should become examples*
   
