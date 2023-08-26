@@ -9,6 +9,7 @@ Continue working with IFC File Analyzer
 1. ___ What are the [Roles] of OpenBIM? [ ]
 1. ___ IFC [Properties](/Concepts/Properties)
 1. ___ BIM Execution Plan [(BEP)](/Concepts/BIMExecutionPlan)
+2. ___ Choose you disciplinary [Focus] Areas
 1. ___ [ISO 19650](/Concepts/ISO19650)
    * Asset Information Model [(AIM)](/Concepts/AIM)
    * Asset Information Requirements [(AIR)](/Concepts/AIR)
@@ -25,3 +26,4 @@ We will also help this week with.
 * your expectations and motivations for the course.
 
 [Roles]: /Roles
+[Focus]: /Focus
