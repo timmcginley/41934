@@ -1,8 +1,8 @@
 # A2: OpenBIM Modeller / Analyst
 
-In this assignment we will develop a tool / workflow based on the use case you defined in the [previous assignment](/41934/Assignment/A1).<br>
+Focus on IFC analysis of real (previous) student building design projects from an advanced building design course that runs in the previous semester. Identify what the projects analysed, how did they test this? What was the domain focus of the investigation? Was it structural, energy and indoor, daylight, acoustic, LCA/LCC or something else? They should then be introduced to BPMN and use it to document the use case and explore the role of experts in OpenBIM. Following this, the students should review OpenBIM tools made in the previous year of the OpenBIM course and identify which tools could be used or adapted to solve the problem identified in the design project in the previous part. Finally, they could check the information validity of the models against the use case requirements they identified.
 
-In this activity you will be introduced to a [‘metadisciplinary framework’ for BIM (McGinley Krijnen, 2022)](https://www.researchgate.net/publication/363579368_A_framework_for_meta-disciplinary_building_analysis/stats). 
+
 
 You can choose between working in the assignment in
 1. the modelling role or

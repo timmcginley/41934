@@ -11,8 +11,8 @@ This task focuses on ISO 19650. The intention for autumn 2022 was to integrate r
 
 The structure of this depends on the tool you have chosen to develop but it should:
 1. be written in Python (mostly) so should contain a main.py file
-2. if you hev used blender as the target for the tool, please also include a .blend file that we can load to check your project.
-3. clearly seperated the code from the input data and resulting guidance (output) (if your output is a file).
+2. if you have used blender as the target for the tool, please also include a .blend file that we can load to check your project.
+3. have clearly seperated the code from the input data and resulting guidance (output) (if your output is a file).
 
 The structure of this depends on the tool you have chosen but a base structure for your folder / github repository should be: 
 

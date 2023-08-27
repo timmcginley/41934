@@ -2,6 +2,18 @@
 
 LOD is tricky as it can mean different things. These can be summarised as LOX....
 
+According to Dikon....
+Level of Development (LOD) describes explicitly which information about model elements must be present in the BIM at different stages during the design and construction process. In Denmark this can be defined using DiKon.
+
+LOD for building parts is comprised of: 
+* Level of Reliability (LOR) describes the reliability of the information provided for the building part and it’s properties. 
+* Level of Geometry (LOG) describes the building parts’ geometric representations and the extent of secondary components/parts.
+* Level of Information (LOI) describes the building parts’ properties contained in, linked to, or in some other way connected.
+
+In a recent thesis we realised that LOI is relatively easy to assess in a model based on DiKon but LOG and LOR are more difficult. If you select the Quality use case you could focus on how to get the LOI of the element and check this against the DiKon specification. 
+
+However, whilst Dikon is common in Denmark, other countries use other definitions.
+
 ## Level of Detail
 solves the problem of uncertainty about the level of detail to include in a model. For simplicity this course focuses on DIKON LOD guidelines, although this could be applied to other LOD specifications.
 

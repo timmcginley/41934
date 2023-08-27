@@ -1,11 +1,13 @@
 # A1: Learning from OpenBIM (Forensic BIM)
-Warm up project to get your teeth into OpenBIM standards. This assignment has 2 parts that are linked to the following [learning objectives].
+Warm up project to get your teeth into OpenBIM standards. This assignment supports the following [learning objectives].
 
 
 ### Learning Objectives
-2. Identify, locate and extract information from an IFC model in OpenBIM tools
-3. Apply appropriate OpenBIM standards and guidelines to support open and FAIR data, tools and processes.
-7. Identify BIM challenges by analysing OpenBIM data.
+2. Identify, locate and extract information from an [IFC] model in [OpenBIM] tools
+3. Apply appropriate [OpenBIM standards] and guidelines to support open and [FAIR] data, tools and processes.
+7. Identify [BIM] challenges by analysing [OpenBIM] data.
+
+
 
 **The aim of this assignment is to become familiar with the core concepts of OpenBIM**. This is done through a deep dive into the IFC file format and associated Open BIM standards. The [IFC data model](/Concepts/IFC) is the industry standard for BIM, but many BIM practioners (and some BIM experts) still don't really understand it.
 
@@ -15,15 +17,18 @@ In this activity you will be introduced to a [‘metadisciplinary framework’ f
 
 ## Assignment
 
-2 options:
-1. BlenderBIM
-2. [IFC Analyser](/Concepts/IFCFileAnalyzer)
+* make a group (2 people - exceptionally could be 3)
+* define a [focus area]
+* 
+
+1 options:
+1. [IFC Analyser](/Concepts/IFCFileAnalyzer)
 
 Building Options
 1. Advanced Building Design
 2. Skylab
 
-## BlenderBIM
+## 1B: BlenderBIM
 Install Blender and the BlenderBIM plugin.
 Import one of the course example files into Blender and explore the IFC file and its properties.
 In the scripting window you can then use IfcOpenShell to further explore the model (we provide examples)
@@ -67,8 +72,11 @@ Your group must submit your modified script file for the use case, this should b
 
 <!-- links --> 
 
-[learning objectives]: /LearningObjectives
-[Blender]: /Concepts/Blender
-[BlenderBIM]: /Concepts/BlenderBIM
-
-
+[learning objectives]: /41934/LearningObjectives
+[Blender]: /41934/Concepts/Blender
+[BlenderBIM]: /41934/Concepts/BlenderBIM
+[OpenBIM standards]: /41934/Concepts/Standards
+[BIM]: /41934/Concepts/BIM
+[OpenBIM]: /41934/Concepts/OpenBIM
+[FAIR]: /41934/Concepts/FAIR
+[focus area]: /41934/Focus

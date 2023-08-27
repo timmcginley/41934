@@ -2,11 +2,13 @@
 ### Learning Objectives
 8. Teach an advanced BIM concept you have learned in the course to your peers and reflect on peer feedback on this.
    
-The final assignment focuses on the ability to transfer knowledge in an organization. It aims to address; how do we ‘learn from BIM’ at an organizational level? This is a new component for autumn 2023. For autumn 2023, participants will therefore have to consider how to teach what they have learnt in the process to another group of students. Ideally this would support those that choose Analysis in the 2nd assignment to learn about modelling, or for the ontologists to learn about management. Suggested tools include:
+This assignment supports you to develop the skills to transfer knowledge in an organization. It aims to address; how do we ‘learn from BIM’ at an organizational level? You will therefore have to consider how to teach what you have learnt in the process to another group of students. Ideally this would give students a chance to learn a concept thye otherwise would not have time for in the course. Suggested tools include:
 * short tutorial videos,
 * markdown files,
 * carefully commented code and or
 * Jupyter notebooks.
+
+The peer lesson will take place in the [final session of the course].
 
 Furthermore, there would be a chance for them to develop custom content that could be linked to in the course learning environment that, with the student’s permission, could be used in future iterations of the course to support student learning as part of the circular education system.
 
@@ -19,3 +21,4 @@ The tutorial should include
 
 [roles]: /41934/Roles
 [role learning level]: /41934/Roles
+[final session of the course]: /41934/Schedule/13
