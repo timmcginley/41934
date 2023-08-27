@@ -7,7 +7,7 @@ Warm up project to get your teeth into OpenBIM standards. This assignment has 2 
 3. Apply appropriate OpenBIM standards and guidelines to support open and FAIR data, tools and processes.
 7. Identify BIM challenges by analysing OpenBIM data.
 
-**The aim of this assignment is to become familiar with the core concepts of OpenBIM**. This is done through a deep dive into the IFC file format and associated Open BIM standards. The [IFC data model](/41934/Concepts/IFC) is the industry standard for BIM, but many BIM practioners (and some BIM experts) still don't really understand it.
+**The aim of this assignment is to become familiar with the core concepts of OpenBIM**. This is done through a deep dive into the IFC file format and associated Open BIM standards. The [IFC data model](/Concepts/IFC) is the industry standard for BIM, but many BIM practioners (and some BIM experts) still don't really understand it.
 
 Previously we have focused on the IFC file and helping you to understand how it is structured, this year we will push this idea further by exploring the file in the awesome OpenBIM tool [Blender] and its openBIM plugin [BlenderBIM]. This allows us the opportunity to pull several exercises together into the same environment.
 
@@ -17,7 +17,7 @@ In this activity you will be introduced to a [‘metadisciplinary framework’ f
 
 2 options:
 1. BlenderBIM
-2. [IFC Analyser](/41934/Concepts/IFCFileAnalyzer)
+2. [IFC Analyser](/Concepts/IFCFileAnalyzer)
 
 Building Options
 1. Advanced Building Design
@@ -55,7 +55,7 @@ Your group must submit your modified script file for the use case, this should b
 * What other use cases are waiting for your use case to complete?
 
 ### Select a focus Area
-* Which of the [focus areas](/41934/Focus) will you choose?
+* Which of the [focus areas](/Focus) will you choose?
 * What information did you find that helped you to see this would be a good choice?
 * In the next assignment will you focus on modelling or analysis?
 
@@ -67,8 +67,8 @@ Your group must submit your modified script file for the use case, this should b
 
 <!-- links --> 
 
-[learning objectives]: /41934/LearningObjectives
-[Blender]: /41934/Concepts/Blender
-[BlenderBIM]: /41934/Concepts/BlenderBIM
+[learning objectives]: /LearningObjectives
+[Blender]: /Concepts/Blender
+[BlenderBIM]: /Concepts/BlenderBIM
 
 
