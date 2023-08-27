@@ -2,6 +2,8 @@
 
 In this assignment we will develop a tool / workflow based on the use case you defined in the [previous assignment](/41934/Assignment/A1).<br>
 
+In this activity you will be introduced to a [‘metadisciplinary framework’ for BIM (McGinley Krijnen, 2022)](https://www.researchgate.net/publication/363579368_A_framework_for_meta-disciplinary_building_analysis/stats). 
+
 You can choose between working in the assignment in
 1. the modelling role or
 2. the analysing role.
