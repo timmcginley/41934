@@ -6,6 +6,8 @@ Previously we have focused on the IFC file and helping you to understand how it 
 
 In this activity you will be introduced to a [‘metadisciplinary framework’ for BIM (McGinley Krijnen, 2022)](https://www.researchgate.net/publication/363579368_A_framework_for_meta-disciplinary_building_analysis/stats). 
 
+
+
 ## Install Blender and the BlenderBIM plugin.
 * Import one of the course example files into Blender and explore the IFC file and its properties.
 * In the scripting window you can then use IfcOpenShell to further explore the model (we provide examples)
@@ -13,6 +15,27 @@ In this activity you will be introduced to a [‘metadisciplinary framework’ f
 * areas of the building,
 * quantities of materials,
 * could you estimate cost? - if so how?
+
+## Convert Old Advanced Building Design Models
+* Select one of the provided models.
+* Translate the models to IFC4 following the Dikon method.
+* Read the reports.
+![image](https://github.com/timmcginley/41934/assets/1415855/741ab321-fe1c-43a6-ae79-057d4ee9e6e9)
+
+## Check the numbers
+* Check the numbers – for this we will develop IfcOpenShell scripts to help teams in future analyse their buildings.
+
+## Guide
+* Report – is it accurate?
+* What are the problems with
+* The Bim
+* The Building
+* The Process
+* The Engineering
+
+
+
+
 
 Now review the project reports - can you check that the values they say they acheived are actually acheived?
 
