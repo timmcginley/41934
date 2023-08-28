@@ -21,7 +21,8 @@ In this activity you will be introduced to a [‘metadisciplinary framework’ f
 ### define a [focus area].
 * find a focus area that you are interested in - it could be two that overlap if you cannot decide on one.
 ## choose the relevant model form the skylab models
-[skylab models](https://learn.inside.dtu.dk/d2l/le/content/167582/Home) - *Enrolled Students Only*
+* Download the [skylab models](https://learn.inside.dtu.dk/d2l/le/content/167582/Home) - *Enrolled Students Only*
+* Select the model that best represents your focus area.
 
 ## Convert the IFC to an Excel work book using the IFA tool
 [IFA Tool](/41934/Concepts/IFCAnalyzerTool)
@@ -50,57 +51,6 @@ What you choose to represent in your dashboard is up to you. but you could consi
 Your group must submit your modified excel including the dashboard sheet as the first sheet in the workbook.
 
 You are not submitting any reports with this, so make sure that your dashboard is easy to understand - how do we know what we are looking at, and what you tried to do?
-
-1 options:
-1. [IFC Analyser](/Concepts/IFCFileAnalyzer)
-
-Building Options
-2. Skylab
-
-Task
-
-
-## 1B: BlenderBIM
-Install Blender and the BlenderBIM plugin.
-Import one of the course example files into Blender and explore the IFC file and its properties.
-In the scripting window you can then use IfcOpenShell to further explore the model (we provide examples)
-You will identify a simple BIM Use case examples could be gathering:
-areas of the building,
-quantities of materials,
-could you estimate cost? - if so how?
-
-Now review the project reports - can you check that the values they say they acheived are actually acheived?
-
-Develop a script (based on examples and support from the teachers) to check a specific calim in one of the reports.
-
-## Activity Completion
-Your group must submit your modified script file for the use case, this should be provided in a ‘repo’ in the github account linked to your group. The repo will include:
-
-### 01 Python script
-* Your main.py file that is a copy of the script we can run in Blender.
-* *THIS CAN BE WORK IN PROGRESS* 
-
-### 02 A markdown file that describes: 
-* Describe the use case you have chosen
-* Who is the use case for?	
-* What disciplinary (non BIM) expertise did you use to solve the use case
-* What IFC concepts did you use in your script (would you use in your script)
-* What disciplinary analysis does it require?	
-* What building elements are you interested in?	
-* What (use cases) need to be done before you can start your use case?	
-* What is the input data for your use case?	
-* What other use cases are waiting for your use case to complete?
-
-### Select a focus Area
-* Which of the [focus areas](/Focus) will you choose?
-* What information did you find that helped you to see this would be a good choice?
-* In the next assignment will you focus on modelling or analysis?
-
-### 03 A BPMN file
-* Describes the use case
-* Shows the exchange of information between the stakeholders in the use case
-* Helps you to define the scope of your script
-* Helps you to see what inputs and outputs your use case has.
 
 <!-- links --> 
 
