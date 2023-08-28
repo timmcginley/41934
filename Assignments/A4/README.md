@@ -10,6 +10,8 @@ This assignment supports you to develop the skills to transfer knowledge in an o
 
 The peer lesson will take place in the [final session of the course].
 
+Aim: To learn from the experience of managing an OpenBIM project or develop ontologies to support the collaboration with knowledge from different domains. These activities are done in parallel. 
+
 Furthermore, there would be a chance for them to develop custom content that could be linked to in the course learning environment that, with the student’s permission, could be used in future iterations of the course to support student learning as part of the circular education system.
 
 The tutorial should include
