@@ -9,10 +9,10 @@
 
 [Week 1](#Week-1-OpenBIM)  OpenBIM  |
 [Week 2](#Week-2-OpenBIM-Management)  Management |
-[Week 3](#Week-3-OpenBIM-Classification) Classification |
 
 ### [A2] Analyze 
 
+[Week 3](#Week-3-OpenBIM-Classification) Classification |
 [Week 4](#Week-4-OpenBIM-Use-Cases) Use cases |
 [Week 5](#Week-5-OpenBIM-Analysis) Analysis |
 [Week 6](#Week-6-Machine-Learning-and-BIM) ML/AI |
@@ -22,10 +22,10 @@
 [Week 7](#Week-7-Drawings) Drawings |
 [Week 8](#Week-8-Linked-Data) Linked Data |
 [Week 9](#Week-9-Streaming-BIM) Speckle |
+[Week 10](#Week-10-Node-RED) Node-RED|
 
 ### [A4] Champion 
 
-[Week 10](#Week-10-Node-RED) Node-RED|
 [Week 11](#Week-11-Digital-Twin) |
 [Week 12](#Week-12) |
 [Week 13](#Week-13)
