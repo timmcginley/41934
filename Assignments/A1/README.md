@@ -12,25 +12,25 @@ Warm up project to get your teeth into OpenBIM standards. This assignment suppor
 
 ## Assignment Details
 
-### make a group 
+### 1) Make a group 
 * 2 people - exceptionally could be 3
-### define a [focus area].
+### 2) Define a [focus area].
 * find a focus area that you are interested in - it could be two that overlap if you cannot decide on one.
-## choose the relevant model form the skylab models
-* Download the [skylab models](https://learn.inside.dtu.dk/d2l/le/content/167582/Home) - *Enrolled Students Only*
+### 3) Choose the relevant model form the Stanford models
+* Download the [Stanford models](https://learn.inside.dtu.dk/d2l/le/content/167582/Home) (on Learn -> "IFC Models" -> "Stanford models" - *Enrolled Students Only*
 * Select the model that best represents your focus area.
 
-## Convert the IFC to an Excel work book using the IFA tool
+### 4) Convert the IFC to an Excel work book using the IFA tool
 [IFA Tool](/41934/Concepts/IFCFileAnalyzer)
 
 * Install IFA
 * generate the spreadsheet
 
-## Have a look around
+### 5) Have a look around
 
 * You can use this [tool from Dion Moult](https://blenderbim.org/search-ifc-class.html) to help find the entities you are looks for also you can [search the IFC4 schema here](https://ifc43-docs.standards.buildingsmart.org/)
      
-## 4) Add a sheet to the work book you have generated, then use data from the other sheets to provide a dashboard of the building.
+### 6) Add a sheet to the work book you have generated, then use data from the other sheets to provide a dashboard of the building.
 
 What you choose to represent in your dashboard is up to you. but you could consider trying to represent:
 
@@ -42,7 +42,7 @@ What you choose to represent in your dashboard is up to you. but you could consi
 
 * what else can you find in the IFC data that you could use in your dashboard?
 
-## 5) Submission
+### 7) Submission
 
 Your group must submit your modified excel including the dashboard sheet as the first sheet in the workbook.
 
