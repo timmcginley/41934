@@ -6,7 +6,9 @@ IFC Analyser solves the problem of being able to 'see' the [IFC] data in an easy
 ## Features
 1. It can help understand what is and is not in an IFC file
 2. It can help debug an IFC file
-3. ...
+3. You can use this [tool from Dion Moult](https://blenderbim.org/search-ifc-class.html) to help find the entities you are looks for also you can [search the IFC4 schema here](https://ifc43-docs.standards.buildingsmart.org/)
+     
+5. ...
 
 ## Install
 IFC File Analyzer [Installation]
