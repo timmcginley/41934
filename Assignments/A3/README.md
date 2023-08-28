@@ -1,21 +1,21 @@
 # A3 OpenBIM Change
 
-## Reduce
+## A3A Reduce
 * Produce a [BIM execution plan] (BEP) for the assignment
 * Adapt the building to max 10 floors using [BlenderBIM]
 
-## Reflect
+## A3B Reflect
 * Check the new numbers – using your scripts from the previous assignment
 * Check your conformance to the BEP.
 
-## Remodel
+## A3B Remodel
 * Adjust the design in BlenderBIM to improve on the design at a smaller scale.
 
 
 
 
 ## A3A: Manage
-Aim: To learn from the experience of managing an OpenBIM project or develop ontologies to support the collaboration with knowledge from different domains. These activities are done in parallel. 
+
 
 ### Learning Objectives
 1. Create and manage a [BIM Execution Plan based](/41934/Concepts/BIMEexecutionPlan) on the OpenBIM standard [ISO 19650](/41934/Concepts/ISO19650/README.md)
