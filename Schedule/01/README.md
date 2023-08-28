@@ -15,20 +15,10 @@ Welcome to the advanced BIM course. The idea of the course is not to learn HOWTO
 
 ## Today's session
 
-- Open and closed BIM.
-- Traditional BIM
-- The OpenBIM Innovation Ecosystem
-- The people at the front of this effort
-
-https://speckle.systems/blog/speckle-and-ifc-js-team-up/
-
-Speckle and IFC.js team up to get IFC data into Speckle.
-
-TOOL: Start working with IFC File Analyzer
-
-introduction video covers:
+Please watch the introduction video which provides an introduction to:
 * ___ What is [BIM] and what is the focus of the course?
 * ___ What are the Benefits and challenges of [BIM]? (Inc. Silos)
+* ___ What is OpenBIM?
 * ___ [BIM Maturity Levels] [-]
 * ___ [FAIR] Principles [ ]
 * ___ [Interoperability] Principles [ ]
