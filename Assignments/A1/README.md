@@ -21,7 +21,7 @@ Warm up project to get your teeth into OpenBIM standards. This assignment suppor
 * Select the model that best represents your focus area.
 
 ## Convert the IFC to an Excel work book using the IFA tool
-[IFA Tool](/41934/Concepts/IFCAnalyzerTool)
+[IFA Tool](/41934/Concepts/IFCFileAnalyzer)
 
 * Install IFA
 * generate the spreadsheet
