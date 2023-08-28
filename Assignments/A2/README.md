@@ -16,16 +16,16 @@ In this activity you will be introduced to a [‘metadisciplinary framework’ f
 * quantities of materials,
 * could you estimate cost? - if so how?
 
-## Convert Old Advanced Building Design Models
+## A: Convert Old Advanced Building Design Models
 * Select one of the provided models.
-* Translate the models to IFC4 following the Dikon method.
+* Translate the models to [IFC4] following the Dikon method.
 * Read the reports.
 ![image](https://github.com/timmcginley/41934/assets/1415855/741ab321-fe1c-43a6-ae79-057d4ee9e6e9)
 
-## Check the numbers
-* Check the numbers – for this we will develop IfcOpenShell scripts to help teams in future analyse their buildings.
+## B: Check the numbers
+* Check the numbers – for this we will develop [IfcOpenShell] scripts to help teams in future analyse their buildings.
 
-## Guide
+## C: Guide
 * Report – is it accurate?
 * What are the problems with
 * The Bim
@@ -80,6 +80,8 @@ Your group must submit your modified script file for the use case, this should b
 [OpenBIM]: /41934/Concepts/OpenBIM
 [FAIR]: /41934/Concepts/FAIR
 [focus area]: /41934/Focus
+[IfcOpenShell]: /41934/Concepts/IfcOpenShell
+[IFC4]: /41934/Concepts/IFC
 
 
 
