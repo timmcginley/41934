@@ -1,31 +1,35 @@
 # A2: Analysis
 
-Focus on IFC analysis of real (previous) student building design projects from an advanced building design course that runs in the previous semester. Identify what the projects analysed, how did they test this? What was the domain [focus] of the investigation? Was it [structural], [energy and indoor, daylight, acoustic], [LCA/LCC], [construction planning] or something else? You will then be introduced to [BPMN] and use it to document the use case and explore the role of experts in [OpenBIM]. 
-
-Following this, you will review OpenBIM tools made in the previous year of the OpenBIM course and identify which tools could be used or adapted to solve the problem identified in the design project in the previous part. Finally, they could check the information validity of the models against the use case requirements they identified.
-
-Previously we have focused on the IFC file and helping you to understand how it is structured, this year we will push this idea further by exploring the file in the awesome OpenBIM tool [Blender] and its openBIM plugin [BlenderBIM]. This allows us the opportunity to pull several exercises together into the same environment.
+Focus on IFC analysis of real (previous) student building design projects from an advanced building design course that runs in the previous semester. 
 
 In this activity you will be introduced to a [‘metadisciplinary framework’ for BIM (McGinley Krijnen, 2022)](https://www.researchgate.net/publication/363579368_A_framework_for_meta-disciplinary_building_analysis/stats). 
 
-
-
 ## A2A Install Blender and the BlenderBIM plugin.
-* Import one of the course example files into Blender and explore the IFC file and its properties.
-* In the scripting window you can then use IfcOpenShell to further explore the model (we provide examples)
-* You will identify a simple BIM Use case examples could be gathering:
-* areas of the building,
-* quantities of materials,
-* could you estimate cost? - if so how?
+Previously we have focused on the IFC file and helping you to understand how it is structured, this year we will push this idea further by exploring the file in the awesome OpenBIM tool [Blender] and its openBIM plugin [BlenderBIM]. This allows us the opportunity to pull several exercises together into the same environment.
+
 
 ## A2B: Convert Old Advanced Building Design Models
 * Select one of the provided models.
 * Translate the models to [IFC4] following the Dikon method.
 * Read the project reports.
 ![image](https://github.com/timmcginley/41934/assets/1415855/741ab321-fe1c-43a6-ae79-057d4ee9e6e9)
+* Import one of the 41936 models into Blender and explore the IFC file and its properties.
+* In the scripting window you can then use IfcOpenShell to further explore the model (we provide examples)
+* You will identify a simple BIM Use case examples could be gathering:
+* areas of the building,
+* quantities of materials,
+* could you estimate cost? - if so how?
 
 ## B: Check the numbers
-* Check the numbers – for this we will develop [IfcOpenShell] scripts to help teams in future analyse their buildings.
+Identify what the projects analysed, how did they test this? What was the domain [focus] of the investigation? Was it [structural], [energy and indoor, daylight, acoustic], [LCA/LCC], [construction planning] or something else? You will then be introduced to [BPMN] and use it to document the use case and explore the role of experts in [OpenBIM]. 
+
+Following this, you will review [OpenBIM] tools made in the previous year of the OpenBIM course and identify which tools could be used or adapted to solve the problem identified in the design project in the previous part. Finally, they could check the information validity of the models against the use case requirements they identified.
+
+Now review the project reports - can you check that the values they say they acheived are actually acheived?
+
+Develop a script in [IfcOpenShell] (based on examples and support from the teachers) to check a specific claim one of the reports relevant to your [focus] area
+
+* Check the numbers – for this we will develop  scripts to help teams in future analyse their buildings.
 
 ## C: Guide
 * Report – is it accurate?
@@ -36,12 +40,6 @@ In this activity you will be introduced to a [‘metadisciplinary framework’ f
 * The Engineering
 
 
-
-
-
-Now review the project reports - can you check that the values they say they acheived are actually acheived?
-
-Develop a script (based on examples and support from the teachers) to check a specific calim in one of the reports.
 
 ## Activity Completion
 Your group must submit your modified script file for the use case, this should be provided in a ‘repo’ in the github account linked to your group. The repo will include:
@@ -72,6 +70,14 @@ Your group must submit your modified script file for the use case, this should b
 * Helps you to define the scope of your script
 * Helps you to see what inputs and outputs your use case has.
 
+## A2A: OpenBIM Modelling
+Aim: To learn from the experience of either modelling or analysing OpenBIM models collaboratively.
+
+*Aim: This assignment Focus on IFC analysis of real (previous) student building design projects from an [advanced building design course](https://github.com/timmcginley/41936) that runs in the previous semester.*
+
+### Learning Objectives
+12. Evaluate [software licensing](/41934/Concepts/Software_licences) suitability and implications for the OpenBIM tool you develop or modelling tool you use.
+    
 <!-- links --> 
 
 [learning objectives]: /41934/LearningObjectives
@@ -86,27 +92,6 @@ Your group must submit your modified script file for the use case, this should b
 [IFC4]: /41934/Concepts/IFC
 
 
-
-## A2A: OpenBIM Modelling
-Aim: To learn from the experience of either modelling or analysing OpenBIM models collaboratively.
-
-*Aim: This assignment Focus on IFC analysis of real (previous) student building design projects from an [advanced building design course](https://github.com/timmcginley/41936) that runs in the previous semester.*
-
-### Learning Objectives
-12. Evaluate [software licensing](/41934/Concepts/Software_licences) suitability and implications for the OpenBIM tool you develop or modelling tool you use.
-    
-### AIM:
-The world of BIM modelling is also changing fast.
-
-- Trad tools: I.e. Revit - please google it...
-- Emerging OpenSourse Alternatives i.e. BlenderBIM [hEART]
-- AI Augmented Modellers
-the implicaitons  of AI augmented modelling are currently unknown - for an idea you could check out [Snaptrude](https://www.snaptrude.com/) although there are also lots of other tools.
-Now includes Hypar and others.
-
-This could include information and processes from other digital sources and platforms, i.e. 3D printing / rapid prototyping, as well as drone, mixed reality and laser scanning (Wang Liyuan et al., 2020). The main challenge here is to validate the BIM model and use current tools or tools of their own to fix issues efficiently. The model group would thoroughly check the received IFC file and fix missing or incorrect geometric and non-geometric information. This should be in collaboration with an analysis (A2B) group. Furthermore, they could develop their own models, but the emphasis in this assignment would be on maintaining, reusing and further developing existing models or sub systems (OpenBIM principle 2) for a specific disciplinary use case.
-
-We introduce potential future BIM tools and then in class we investigate their connections and the roles they will play in your future careers. This assignment is linked to the following learning objectives.
 
 ## A2: Analyse
 
