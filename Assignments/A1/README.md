@@ -17,12 +17,38 @@ In this activity you will be introduced to a [‘metadisciplinary framework’ f
 
 ## Assignment
 
-* make a group (2 people - exceptionally could be 3)
-* define a [focus area]
-* Install
+##  make a group (2 people - exceptionally could be 3)
+## define a [focus area].
+## choose the relevant model form the skylab models
+[skylab models](
+
+## Convert the IFC to an Excel work book using the IFA tool
+[IFA Tool](/41934/Concepts/IFCAnalyzerTool)
+
+* Install IFA
+* generate the spreadsheet
+
+## Have a look around
 
 * You can use this [tool from Dion Moult](https://blenderbim.org/search-ifc-class.html) to help find the entities you are looks for also you can [search the IFC4 schema here](https://ifc43-docs.standards.buildingsmart.org/)
      
+## 4) Add a sheet to the work book you have generated, then use data from the other sheets to provide a dashboard of the building.
+
+What you choose to represent in your dashboard is up to you. but you could consider trying to represent:
+
+* areas of the building,
+
+* quantities of materials,
+
+* could you estimate cost? - if so how?
+
+* what else can you find in the IFC data that you could use in your dashboard?
+
+## 5) Submission
+
+Your group must submit your modified excel including the dashboard sheet as the first sheet in the workbook.
+
+You are not submitting any reports with this, so make sure that your dashboard is easy to understand - how do we know what we are looking at, and what you tried to do?
 
 1 options:
 1. [IFC Analyser](/Concepts/IFCFileAnalyzer)
