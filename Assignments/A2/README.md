@@ -1,12 +1,61 @@
-# A2: OpenBIM Modeller / Analyst
+# A2: Analysis
 
-Focus on IFC analysis of real (previous) student building design projects from an advanced building design course that runs in the previous semester. Identify what the projects analysed, how did they test this? What was the domain focus of the investigation? Was it structural, energy and indoor, daylight, acoustic, LCA/LCC or something else? They should then be introduced to BPMN and use it to document the use case and explore the role of experts in OpenBIM. Following this, the students should review OpenBIM tools made in the previous year of the OpenBIM course and identify which tools could be used or adapted to solve the problem identified in the design project in the previous part. Finally, they could check the information validity of the models against the use case requirements they identified.
+Focus on IFC analysis of real (previous) student building design projects from an advanced building design course that runs in the previous semester. Identify what the projects analysed, how did they test this? What was the domain focus of the investigation? Was it structural, energy and indoor, daylight, acoustic, LCA/LCC or something else? You will then be introduced to BPMN and use it to document the use case and explore the role of experts in OpenBIM. Following this, you will review OpenBIM tools made in the previous year of the OpenBIM course and identify which tools could be used or adapted to solve the problem identified in the design project in the previous part. Finally, they could check the information validity of the models against the use case requirements they identified.
 
 
+## Install Blender and the BlenderBIM plugin.
+* Import one of the course example files into Blender and explore the IFC file and its properties.
+* In the scripting window you can then use IfcOpenShell to further explore the model (we provide examples)
+* You will identify a simple BIM Use case examples could be gathering:
+* areas of the building,
+* quantities of materials,
+* could you estimate cost? - if so how?
 
-You can choose between working in the assignment in
-1. the modelling role or
-2. the analysing role.
+Now review the project reports - can you check that the values they say they acheived are actually acheived?
+
+Develop a script (based on examples and support from the teachers) to check a specific calim in one of the reports.
+
+## Activity Completion
+Your group must submit your modified script file for the use case, this should be provided in a ‘repo’ in the github account linked to your group. The repo will include:
+
+### 01 Python script
+* Your main.py file that is a copy of the script we can run in Blender.
+* *THIS CAN BE WORK IN PROGRESS* 
+
+### 02 A markdown file that describes: 
+* Describe the use case you have chosen
+* Who is the use case for?	
+* What disciplinary (non BIM) expertise did you use to solve the use case
+* What IFC concepts did you use in your script (would you use in your script)
+* What disciplinary analysis does it require?	
+* What building elements are you interested in?	
+* What (use cases) need to be done before you can start your use case?	
+* What is the input data for your use case?	
+* What other use cases are waiting for your use case to complete?
+
+### Select a focus Area
+* Which of the [focus areas](/Focus) will you choose?
+* What information did you find that helped you to see this would be a good choice?
+* In the next assignment will you focus on modelling or analysis?
+
+### 03 A BPMN file
+* Describes the use case
+* Shows the exchange of information between the stakeholders in the use case
+* Helps you to define the scope of your script
+* Helps you to see what inputs and outputs your use case has.
+
+<!-- links --> 
+
+[learning objectives]: /41934/LearningObjectives
+[Blender]: /41934/Concepts/Blender
+[BlenderBIM]: /41934/Concepts/BlenderBIM
+[OpenBIM standards]: /41934/Concepts/Standards
+[BIM]: /41934/Concepts/BIM
+[OpenBIM]: /41934/Concepts/OpenBIM
+[FAIR]: /41934/Concepts/FAIR
+[focus area]: /41934/Focus
+
+
 
 ## A2A: OpenBIM Modelling
 Aim: To learn from the experience of either modelling or analysing OpenBIM models collaboratively.
