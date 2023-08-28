@@ -50,6 +50,30 @@ BIM provides 3D visualization and simulation capabilities, allowing stakeholders
 
 BIM promotes a collaborative environment where stakeholders can work together in a coordinated manner. Without BIM, collaboration may be limited, relying on traditional communication methods, which can hinder effective teamwork, coordination, and information sharing among stakeholders, potentially leading to misunderstandings and delays in the project.
 
+### Pre-construction Benefits
+* Benefits to owners
+* Increased building performance and quality
+* Improved collaboration using Integrated Project Delivery
+### Design Benefits
+* Earlier and More Accurate  Visualisations of a design
+* Automatic low level corrections when Changes Are Made to Design
+* Generation of Accurate and Consistent 2D Drawings at Any Stage of the Design
+* Earlier Collaboration of Multiple Design Disciplines
+* Easy Verification of Consistency to the Design Intent
+* Extraction of Cost Estimates during the Design Stage
+* Improvement of Energy Effi ciency and Sustainabilityd87e3fe8d4e6)
+### Construction and Fabrication Benefits
+* Use of Design Model as Basis for Fabricated Components
+* Quick Reaction to Design Changes
+* Discovery of Design Errors and Omissions before Construction
+* Synchronization of Design and Construction Planning
+* Better Implementation of Lean Construction Techniques
+* Synchronization of Procurement with Design and Construction
+### Post Construction Benefits
+* Improved Commissioning and Handover of Facility Information
+* Better Management and Operation of Facilities
+* Integration with Facility Operation and Management Systems
+
 In summary, BIM is a digital approach to building design, construction, and operation that utilizes a collaborative and data-driven model to improve communication, coordination, and efficiency, leading to better project outcomes and more sustainable built assets.
 
 ## MacLeamy Curve
