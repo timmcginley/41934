@@ -2,7 +2,7 @@
 
 ## Reduce
 * Produce a [BIM execution plan] (BEP) for the assignment
-* Adapt the building to max 10 floors using BlenderBIM
+* Adapt the building to max 10 floors using [BlenderBIM]
 
 ## Reflect
 * Check the new numbers – using your scripts from the previous assignment
@@ -115,11 +115,11 @@ This is the common question when developing tools and processes as an [intrapren
 
 * N.B. If it doesn't do either of these things (ideally it should do both - don't do it!!)
 
-[BIM execution plan]: /41934/Concepts/BIMExecutionPlan
-
-
 ### 3E: Delivery
 
 In this assignment we will focus on the input data that you need for your final tool / workflow. 
 9. Your tool/workflow: Description of how your tool / workflow would solve the use case
 10. Delivery: Description of how you would make the tool / workflow - what steps would you go through?
+
+[BIM execution plan]: /41934/Concepts/BIMExecutionPlan
+[BlenderBIM]: /41934/Concepts/BlenderBIM
