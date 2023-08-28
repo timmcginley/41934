@@ -4,41 +4,46 @@ Focus on IFC analysis of real (previous) student building design projects from a
 
 In this activity you will be introduced to a [‘metadisciplinary framework’ for BIM (McGinley Krijnen, 2022)](https://www.researchgate.net/publication/363579368_A_framework_for_meta-disciplinary_building_analysis/stats). 
 
-## A2A Install Blender and the BlenderBIM plugin.
+## A2A: Install Blender and the BlenderBIM plugin.
 Previously we have focused on the IFC file and helping you to understand how it is structured, this year we will push this idea further by exploring the file in the awesome OpenBIM tool [Blender] and its openBIM plugin [BlenderBIM]. This allows us the opportunity to pull several exercises together into the same environment.
-
 
 ## A2B: Convert Old Advanced Building Design Models
 * Select one of the provided models.
 * Translate the models to [IFC4] following the Dikon method.
 * Read the project reports.
 ![image](https://github.com/timmcginley/41934/assets/1415855/741ab321-fe1c-43a6-ae79-057d4ee9e6e9)
+
+A2C: import the IFC into BlenderBIM
 * Import one of the 41936 models into Blender and explore the IFC file and its properties.
+
+## A2D: Explore the script
 * In the scripting window you can then use IfcOpenShell to further explore the model (we provide examples)
 * You will identify a simple BIM Use case examples could be gathering:
 * areas of the building,
 * quantities of materials,
 * could you estimate cost? - if so how?
 
-## B: Check the numbers
+## A2E: Check the numbers
 Identify what the projects analysed, how did they test this? What was the domain [focus] of the investigation? Was it [structural], [energy and indoor, daylight, acoustic], [LCA/LCC], [construction planning] or something else? You will then be introduced to [BPMN] and use it to document the use case and explore the role of experts in [OpenBIM]. 
 
+## A2F: Review previous code
 Following this, you will review [OpenBIM] tools made in the previous year of the OpenBIM course and identify which tools could be used or adapted to solve the problem identified in the design project in the previous part. Finally, they could check the information validity of the models against the use case requirements they identified.
 
-Now review the project reports - can you check that the values they say they acheived are actually acheived?
+## A2G: Analyze project Reports
+* Now review the project reports - can you check that the values they say they acheived are actually acheived?
 
-Develop a script in [IfcOpenShell] (based on examples and support from the teachers) to check a specific claim one of the reports relevant to your [focus] area
+## A2H: Develop your own script
+* Develop a script in [IfcOpenShell] (based on examples and support from the teachers) to check a specific claim one of the reports relevant to your [focus] area.
 
-* Check the numbers – for this we will develop  scripts to help teams in future analyse their buildings.
 
-## C: Guide
+
+## A2I: Produce a Guide
 * Report – is it accurate?
 * What are the problems with
 * The Bim
 * The Building
 * The Process
 * The Engineering
-
 
 
 ## Activity Completion
@@ -58,6 +63,10 @@ Your group must submit your modified script file for the use case, this should b
 * What (use cases) need to be done before you can start your use case?	
 * What is the input data for your use case?	
 * What other use cases are waiting for your use case to complete?
+
+>EDIT BELOW!!!!!
+
+* Check the numbers – for this we will develop  scripts to help teams in future analyse their buildings.
 
 ### Select a focus Area
 * Which of the [focus areas](/Focus) will you choose?
