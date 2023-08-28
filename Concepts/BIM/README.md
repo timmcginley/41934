@@ -16,8 +16,12 @@ The BIM is the process and concept of creating and managing the physical and fun
 * Digital representation of the physical and functional characteristics of a building over its life cycle. (BS 8536:20103)
 Digital representation of physical and functional characteristics of a facility creating a shared knowledge resource for information about it forming a reliable basis for decisions during its life cycle, from earliest conception to demolition. (RIBA, CPIC)
 * Digital representation of physical and functional characteristics of a facility. As such it serves as a shared knowledge resource for information about a facility forming a reliable basis for decisions during its lifecycle from inception onward. (NBIMS)
-* [ISO 19650] defines BIM as the "use of a shared digital representation of a built asset to facilitate design, construction and operation processes to form a reliable basis for decisions“. 
+* [ISO 19650] defines BIM as the "use of a shared digital representation of a built asset to facilitate design, construction and operation processes to form a reliable basis for decisions“.
 
+The definition used in this course
+>getting benefit through better specification and delivery of just the right amount of information concerning the design, construction, operation and maintenance of buildings and infrastructure, using appropriate technologies.
+>
+>Building information modelling (BIM) according to the ISO 19650 series
 
 ## BIM Benefits
 BIM enables better communication, coordination, and collaboration among project teams, reducing errors and improving efficiency throughout the entire building lifecycle, from design and construction to operation and maintenance. ​
