@@ -1,6 +1,6 @@
 # A2: Analysis
 
-Focus on IFC analysis of real (previous) student building design projects from an advanced building design course that runs in the previous semester. Identify what the projects analysed, how did they test this? What was the domain focus of the investigation? Was it structural, energy and indoor, daylight, acoustic, LCA/LCC or something else? You will then be introduced to BPMN and use it to document the use case and explore the role of experts in OpenBIM. Following this, you will review OpenBIM tools made in the previous year of the OpenBIM course and identify which tools could be used or adapted to solve the problem identified in the design project in the previous part. Finally, they could check the information validity of the models against the use case requirements they identified.
+Focus on IFC analysis of real (previous) student building design projects from an advanced building design course that runs in the previous semester. Identify what the projects analysed, how did they test this? What was the domain [focus] of the investigation? Was it structural, energy and indoor, daylight, acoustic, LCA/LCC or something else? You will then be introduced to [BPMN] and use it to document the use case and explore the role of experts in OpenBIM. Following this, you will review OpenBIM tools made in the previous year of the OpenBIM course and identify which tools could be used or adapted to solve the problem identified in the design project in the previous part. Finally, they could check the information validity of the models against the use case requirements they identified.
 
 Previously we have focused on the IFC file and helping you to understand how it is structured, this year we will push this idea further by exploring the file in the awesome OpenBIM tool [Blender] and its openBIM plugin [BlenderBIM]. This allows us the opportunity to pull several exercises together into the same environment.
 
@@ -8,7 +8,7 @@ In this activity you will be introduced to a [‘metadisciplinary framework’ f
 
 
 
-## Install Blender and the BlenderBIM plugin.
+## A2A Install Blender and the BlenderBIM plugin.
 * Import one of the course example files into Blender and explore the IFC file and its properties.
 * In the scripting window you can then use IfcOpenShell to further explore the model (we provide examples)
 * You will identify a simple BIM Use case examples could be gathering:
@@ -16,10 +16,10 @@ In this activity you will be introduced to a [‘metadisciplinary framework’ f
 * quantities of materials,
 * could you estimate cost? - if so how?
 
-## A: Convert Old Advanced Building Design Models
+## A2B: Convert Old Advanced Building Design Models
 * Select one of the provided models.
 * Translate the models to [IFC4] following the Dikon method.
-* Read the reports.
+* Read the project reports.
 ![image](https://github.com/timmcginley/41934/assets/1415855/741ab321-fe1c-43a6-ae79-057d4ee9e6e9)
 
 ## B: Check the numbers
@@ -174,3 +174,5 @@ Therefore, the aim of this assignment is in your groups to explore focused parts
 
 [modelling]: /41934/Roles/Modeller
 [analysing]: /41934/Roles/Analyst
+[focus]: /41934/Focus
+[BPMN]: /41934/Concepts/BPMN
