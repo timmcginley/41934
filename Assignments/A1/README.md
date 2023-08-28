@@ -1,7 +1,6 @@
 # A1: Learning from OpenBIM (Forensic BIM)
 Warm up project to get your teeth into OpenBIM standards. This assignment supports the following [learning objectives].
 
-
 ### Learning Objectives
 2. Identify, locate and extract information from an [IFC] model in [OpenBIM] tools
 3. Apply appropriate [OpenBIM standards] and guidelines to support open and [FAIR] data, tools and processes.
@@ -15,12 +14,14 @@ Previously we have focused on the IFC file and helping you to understand how it 
 
 In this activity you will be introduced to a [‘metadisciplinary framework’ for BIM (McGinley Krijnen, 2022)](https://www.researchgate.net/publication/363579368_A_framework_for_meta-disciplinary_building_analysis/stats). 
 
-## Assignment
+## Assignment Details
 
-##  make a group (2 people - exceptionally could be 3)
-## define a [focus area].
+### make a group 
+* 2 people - exceptionally could be 3
+### define a [focus area].
+* find a focus area that you are interested in - it could be two that overlap if you cannot decide on one.
 ## choose the relevant model form the skylab models
-[skylab models](
+[skylab models](https://learn.inside.dtu.dk/d2l/le/content/167582/Home) - *Enrolled Students Only*
 
 ## Convert the IFC to an Excel work book using the IFA tool
 [IFA Tool](/41934/Concepts/IFCAnalyzerTool)
