@@ -1,6 +1,8 @@
 # A2: Analysis
 
-Focus on IFC analysis of real (previous) student building design projects from an advanced building design course that runs in the previous semester. Identify what the projects analysed, how did they test this? What was the domain [focus] of the investigation? Was it structural, energy and indoor, daylight, acoustic, LCA/LCC or something else? You will then be introduced to [BPMN] and use it to document the use case and explore the role of experts in OpenBIM. Following this, you will review OpenBIM tools made in the previous year of the OpenBIM course and identify which tools could be used or adapted to solve the problem identified in the design project in the previous part. Finally, they could check the information validity of the models against the use case requirements they identified.
+Focus on IFC analysis of real (previous) student building design projects from an advanced building design course that runs in the previous semester. Identify what the projects analysed, how did they test this? What was the domain [focus] of the investigation? Was it [structural], [energy and indoor, daylight, acoustic], [LCA/LCC], [construction planning] or something else? You will then be introduced to [BPMN] and use it to document the use case and explore the role of experts in [OpenBIM]. 
+
+Following this, you will review OpenBIM tools made in the previous year of the OpenBIM course and identify which tools could be used or adapted to solve the problem identified in the design project in the previous part. Finally, they could check the information validity of the models against the use case requirements they identified.
 
 Previously we have focused on the IFC file and helping you to understand how it is structured, this year we will push this idea further by exploring the file in the awesome OpenBIM tool [Blender] and its openBIM plugin [BlenderBIM]. This allows us the opportunity to pull several exercises together into the same environment.
 
@@ -170,9 +172,14 @@ Therefore, the aim of this assignment is in your groups to explore focused parts
 ## Activity Completion
 
 ## ideas
-* i would be really interested to see if we could change values in an SVG file and use this to edit and append the information in drawings.
+* I would be really interested to see if we could change values in an SVG file and use this to edit and append the information in drawings.
 
 [modelling]: /41934/Roles/Modeller
 [analysing]: /41934/Roles/Analyst
 [focus]: /41934/Focus
+[OpenBIM]: /41934/OpenBIM
 [BPMN]: /41934/Concepts/BPMN
+[structural]: /41934/Focus/Structural
+[energy and indoor, daylight, acoustic]: /41934/Focus/Indoor
+[LCA/LCC]: /41934/Focus/Sustainability
+[construction planning]: /41934/Focus/Build
