@@ -19,14 +19,19 @@ In this activity you will be introduced to a [‘metadisciplinary framework’ f
 
 * make a group (2 people - exceptionally could be 3)
 * define a [focus area]
-* 
+* Install
+
+* You can use this [tool from Dion Moult](https://blenderbim.org/search-ifc-class.html) to help find the entities you are looks for also you can [search the IFC4 schema here](https://ifc43-docs.standards.buildingsmart.org/)
+     
 
 1 options:
 1. [IFC Analyser](/Concepts/IFCFileAnalyzer)
 
 Building Options
-1. Advanced Building Design
 2. Skylab
+
+Task
+
 
 ## 1B: BlenderBIM
 Install Blender and the BlenderBIM plugin.
