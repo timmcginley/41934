@@ -216,7 +216,6 @@ from blenderbim.bim.ifc import IfcStore
 
 file = IfcStore.get_file()
 
-
 ### GET PROPERTIES ###
 
 ## Get attributes directly from the element
