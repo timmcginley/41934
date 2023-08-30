@@ -109,7 +109,7 @@ print("\nThere are "+str(total_beam_length)+" meters of beam in the model")
 
 ## Advanced Python Scripts
 
-### Advanced Example 1: 
+### Advanced Example 1
 Get the property sets of an element.
 
 *remember to import ifcopenshell and load the model if you need to, see the [introduction](#Introduction) of this concept for more information.*
@@ -127,7 +127,7 @@ for definition in wall.IsDefinedBy:
 		print(property_set.Name)
 
 ```
-Example 2: 
+### Advanced Example 2 
 Get the doors that bound a space (BoundedBy) 
 
 This example works to get you the doors (line 13) that bound the space (line 8).
@@ -145,7 +145,7 @@ for space in model.by_type("IfcSpace"):
                 print(objects.RelatedBuildingElement.Name)
 
 ```
-### Example 3: 
+### Advanced Example 3
 Get the doors that bound a space (BoundedBy)
 
 For this example we have to include an additional library, but it provides a really cool approach. Also please note that this example uses the optimized version of the Duplex model. This is also available in your models folder. Optimised versions of files are much smaller, they are optimized using a great tool (Solibri IFC Optimizer) from Solibri. The idea is that it can be used to make IFC files easier to share.
@@ -183,7 +183,7 @@ for space in model.by_type("IfcSpace"):
             if (objects.RelatedBuildingElement.is_a('IfcDoor')):
                 print(objects.RelatedBuildingElement.Name)
 ```
-### Example 4: 
+### Advanced Example 4
 Define a class and function to load models (Hard)
 
 For this example we will work with classes and functions to load the model, the reason for this is it will make it much more simple when we try and load multiple models in the next example. 
@@ -245,7 +245,7 @@ f_geo = getGeometry('ARCHI',f_ifc, tree_settings)
 print("\n\t{} Model took {:06.2f} seconds to load".format(f_geo.name,f_geo.load_time))
 
 ```
-### Example 5: 
+### Advanced Example 5
 Compare geometry in different models
 
 This code enables you to load in different models into the same geometry model / tree (line 16). The arch model is added on line 20 and the MECH model is added on line 27. Line 31 and 32 define the Ifc classes that you will use for your clash detection, in this example we are identifying clashes between IfcSpace and IfcFlowSegment as the IfcFlowSegment is something that definitely appears in the MECH model.
@@ -301,7 +301,7 @@ load_time = time.time()-start_time
 print("\n\tClash detection took {:06.6f} seconds to complete".format(load_time))
 
 ```
-### Example 5a: 
+### Advanced Example 5a
 Other collision functions to explore
 
 Extend the previous examples with the following commands ….
@@ -324,7 +324,7 @@ t.select_box(((-1.,-1.,-1.),(1.,1.,1.)))
 # and is completely contained by it
 t.select_box(((-2.,-2.,-2.),(10.,10.,10.)), completely_within=True)
 ```
-### Example 6: 
+### Advanced Example 6
 Super fast property queries using selector (Currently working on this)
 
 Ok, so this is pretty straight forward, the only thing that might mess this is up, is that selector has a dependency called lark, to install lark you can follow the guide here. Or if feeling brave, just get the command line open and type:
@@ -370,7 +370,7 @@ wallsVol = selector.parse(model, '.IfcWallStandardCase[PSet_Revit_Dimensions.Vol
  noWallsVol = len(wallsVol)
  print("{} walls out of {} walls in the model have a volume above 5".format(noWallsVol,noWalls))
 ```
-### Example 7a: 
+### Advanced Example 7a
 Check the NUMBER of stories in different models
 
 This example checks to see if different models have the same number of stories. 
@@ -403,7 +403,7 @@ elif (len(a_stories) < len(m_stories)):
     print ('\n\tmodel_a has less stories than model_b')
 
 ```
-### Example 7b: 
+### Advanced Example 7b
 Compare the storey ELEVATIONS in different models 
 
 We use a while loop here which iterates through the len of a_stories. This could cause a problem if there are less b_stories than a_stories. So we use the try command here, this enables us to try a piece of code, and if it doesn’t work it will trigger except, and enable us to define an error message to help us debug our program or provide feedback to the user.
@@ -433,7 +433,7 @@ while count < len(a_stories):
         print ('something went wrong')
 count+= 1     
 ```
-Example 7c: 
+### Advanced Example 7c
 Are the ELEVATIONS in diff models the same?
 
 This example is a combination of the logic in 7a and 7b
@@ -477,7 +477,7 @@ Example output from 7c - does this match what you got? - why does it error? is t
 ![image](https://github.com/timmcginley/41934/assets/1415855/8b76f696-8371-4d31-b838-ab556bf43132)
 
 
-### Example 8a: 
+### Advanced Example 8a
 Property check
 
 Description and comments to follow.
@@ -499,7 +499,7 @@ for entity in model.by_type("IfcFooting"):
     else:
         print ('[ ] {}'.format(entity.Name)) 
 ```
-### Example 8b: 
+### Advanced Example 8b
 Generic Property list
 
 OK so this is my best bet its not perfect but you should be able to adapt it to your needs and it works for windows and doors 😊
@@ -524,7 +524,7 @@ for pset in model.by_type("IfcPropertySet"):
                     print ('{} : {}'.format(prop.Name,prop.NominalValue.wrappedValue)) 
 
 ```
-### Example 8c: 
+### Advanced Example 8c
 Find entities based on a singlevalue property
 
 I think this one is pretty cool, I was trying to write an example for 8b and ended up with this. The logic is that we  define  the property and value we are looking for , get it and then seeks its inverse entities. 
@@ -559,8 +559,8 @@ for pset in model.by_type("IfcPropertySet"):
 ![image](https://github.com/timmcginley/41934/assets/1415855/766062d9-9bab-4120-87a2-5aae71a8e4cf)
 
 
-### Example 9a: 
-Door code check
+### Advanced Example 9a
+Door code check.
 
 This is an edit of Kallina’s door code check, its a good example. 
 
