@@ -4,14 +4,18 @@
 
 There are lots of good places to learn python but [this one](https://www.learnpython.org/) looks fun and interactive.
 
-## IfcOpenShell
+## Python in Blender 
+
+Please check out [c-claus](https://github.com/C-Claus/BlenderScripts)'s python blender scripts. Also this [video](https://www.youtube.com/watch?v=8835RgwH-pM&ab_channel=C.Claus)
+
+## IfcOpenShell (what we use most)
 
 >these scripts need you to import ifcopenshell and load the model first...
 
-Rule: Check the number of spaces in the 3.
+Rule: Check the number of spaces in the model
 
 ### Example 1a: 
-loop through the entities and then add one to spaces_in_model each time we find an instance of that entity
+loop through the [entities] and then add one to the variable *spaces_in_model* each time we find an instance of that entity.
 
 ```python
 spaces_required = 21
@@ -29,7 +33,7 @@ else:
 ```
 
 ### Example 1b: 
-using len() to count the number of entities (without having to loop through all of them).
+Use len() to count the number of [entities] (without having to loop through all of them).
 
 ```python
 spaces_required = 21
@@ -47,7 +51,7 @@ else:
 Rule: In this example we will try to quantify the length of the beam. We will base this on the for loop we defined in example 1A.
 
 ### Example 2: 
-Quantify use case code example
+Quantify [use] case code example
 
 ```python
 
@@ -558,9 +562,8 @@ print("The width of {} doors is not according to the Danish Regulations".format(
 ![image](https://github.com/timmcginley/41934/assets/1415855/88274058-a001-455a-8b6b-b123fb7feb54)
 
 
-## Blender
-
-Please check out [c-claus](https://github.com/C-Claus/BlenderScripts)'s python blender scripts. Also this [video](https://www.youtube.com/watch?v=8835RgwH-pM&ab_channel=C.Claus)
+[entities]: /41934/Concepts/Entities
+[use]: /41934/Uses
 
 ## Glossary of terms (Work in progress)
 Format - we use this to make the output statements pretty and reduce the amount of logic that we need to include in the print statement -> check it out here https://pyformat.info/
@@ -573,3 +576,5 @@ Input - Get more information -> https://www.w3schools.com/python/ref_func_input.
 	print
 
 Function - sometimes we might have to define a function for code that we will reuse in our script for instance https://www.tutorialspoint.com/python/python_functions.htm
+
+
