@@ -16,3 +16,7 @@ TOOL Continue working with BlenderBIM.
 2. ___ [IDE](/41934/Concepts/IDE)
 1. ___ [BPMN](/41934/Concepts/BPMN)
 2. ___ [IfcOpenShell](/41934/Concepts/IfcOpenShell)
+
+Tutorials
+
+* IfcOpenShell [Basic examples](/41934/Examples/IfcOpenShell/Intermediate-Examples)
