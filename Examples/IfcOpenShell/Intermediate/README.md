@@ -18,6 +18,7 @@ If in the console / terminal do...
 import ifcopenshell
 model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
 ```
+
 ## Intermediate Examples
 * [Intermediate 1 - Get doors that bound a space (BoundedBy)](#Intermediate-Example-1) - check!
 * [Intermediate 2 - Get doors that bound a space (BoundedBy)](#Intermediate-Example-2) - is repeat?
@@ -229,7 +230,6 @@ cell = first_sheet.cell(0,0)
 print (cell)
 ## print the value contained in the first cell
 print (cell.value)
-
 ```
 
 ### Intermediate Example 5b
@@ -304,9 +304,11 @@ window.mainloop()
 ## Glossary of terms (Work in progress)
 Format - we use this to make the output statements pretty and reduce the amount of logic that we need to include in the print statement -> check it out here https://pyformat.info/
 Example
+
 ```Python
 print('-\t{}'.format(obj.Name))
 ```
+
 Input - Get more information -> https://www.w3schools.com/python/ref_func_input.asp
 	Example
 	print
