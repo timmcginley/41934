@@ -92,6 +92,13 @@
   dropdown: 
     - name: IfcOpenShell
       link: /Examples/IfcOpenShell
+      dropdown: 
+        - name: Basic
+        link: /Examples/IfcOpenShell/Basic
+        - name: Intermediate
+        link: /Examples/IfcOpenShell/Intermediate
+        - name: Advanced
+        link: /Examples/IfcOpenShell/Advanced
     - name: Models
       link: /Examples/IFC_models
     - name: IFA excel files
