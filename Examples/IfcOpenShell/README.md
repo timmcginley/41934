@@ -7,7 +7,13 @@
 1. If in Blender do....
 
 ```python
-# remember to append what you need here.
+
+import bpy
+from blenderbim.bim.ifc import IfcStore
+
+# We are using model or file depending on the scripts.
+model = IfcStore.get_file()
+
 ```
 
 3. If in the console / terminal do...
