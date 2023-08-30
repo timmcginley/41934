@@ -43,8 +43,8 @@ model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
 
 #### Intermediate Scripts
 
-* [Advanced 2 - Get doors that bound a space (BoundedBy)](#Advanced-Example-2) - check!
-* [Advanced 3 - Get doors that bound a space (BoundedBy)](#Advanced-Example-3) - is repeat?
+* [Intermediate 1 - Get doors that bound a space (BoundedBy)](#Intermediate-Example-1) - check!
+* [Intermediate 2 - Get doors that bound a space (BoundedBy)](#Intermediate-Example-2) - is repeat?
 
 #### Very Advanced
 * [Advanced 4 - Define class and function to load models](#Advanced-Example-4)
@@ -150,8 +150,6 @@ for definition in wall.IsDefinedBy:
 ### Basic Example 4
 Door code check.
 
-This is an edit of Kallina’s door code check, its a good example. 
-
 ```Python
  
 ###Doors### 
@@ -185,9 +183,9 @@ print("The width of {} doors is not according to the Danish Regulations".format(
 
 
 
-## Advanced Python Scripts
+## Intermediate Python Scripts
 
-### Advanced Example 2 
+### Intermediate Example 1 
 Get the doors that bound a space (BoundedBy) 
 
 This example works to get you the doors (line 13) that bound the space (line 8).
@@ -205,7 +203,7 @@ for space in model.by_type("IfcSpace"):
                 print(objects.RelatedBuildingElement.Name)
 
 ```
-### Advanced Example 3
+### Intermediate Example 2
 Get the doors that bound a space (BoundedBy)
 
 For this example we have to include an additional library, but it provides a really cool approach. Also please note that this example uses the optimized version of the Duplex model. This is also available in your models folder. Optimised versions of files are much smaller, they are optimized using a great tool (Solibri IFC Optimizer) from Solibri. The idea is that it can be used to make IFC files easier to share.
@@ -243,6 +241,9 @@ for space in model.by_type("IfcSpace"):
             if (objects.RelatedBuildingElement.is_a('IfcDoor')):
                 print(objects.RelatedBuildingElement.Name)
 ```
+
+## Advanced Python Scripts
+
 ### Advanced Example 4
 Define a class and function to load models (Hard)
 
