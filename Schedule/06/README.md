@@ -8,6 +8,6 @@ TOOL Continue working with IfcOpenShell
 
 * Submit [A2](/41934/Assignments/A2) - 8th October 2023
 
-# In class Activity
+### In class Activity
  * Machine Learning Activity
  * Experimenting Rules
