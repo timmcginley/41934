@@ -33,7 +33,8 @@ model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
 * [Intermediate 1 - Get doors that bound a space (BoundedBy)](#Intermediate-Example-1) - check!
 * [Intermediate 2 - Get doors that bound a space (BoundedBy)](#Intermediate-Example-2) - is repeat?
 * [Intermediate 3 - Open a file with a window using TKinter](#Intermediate-Example-3)
-* [Intermediate 4 - Write data to excel files (in a function)](#Intermediate-Example-4) 
+* [Intermediate 4 - Write data to excel files (in a function)](#Intermediate-Example-4)
+* [Intermediate 5 - tKinter GUI](#Intermediate-Example-5)
 
 #### Very Advanced
 * [Advanced 4 - Define class and function to load models](#Advanced-Example-4)
@@ -309,6 +310,32 @@ makeASheet('IfcCovering')
 makeASheet('IfcBeam')
 # it is important to close the workbook afterwards
 workbook.close()
+
+```
+
+### Intermediate Example 4
+tKinter GUI
+
+*This code is only a snippet*
+
+```Python
+
+# https://realpython.com/python-gui-tkinter/#building-your-first-python-gui-application-with-tkinter
+
+import tkinter as tk
+
+window = tk.Tk()
+
+frame1 = tk.Frame(master=window, width=200, height=100, bg="red")
+frame1.pack(fill=tk.Y, side=tk.LEFT)
+
+frame2 = tk.Frame(master=window, width=100, bg="yellow")
+frame2.pack(fill=tk.Y, side=tk.LEFT)
+
+frame3 = tk.Frame(master=window, width=50, bg="blue")
+frame3.pack(fill=tk.Y, side=tk.LEFT)
+
+window.mainloop()
 
 ```
 
