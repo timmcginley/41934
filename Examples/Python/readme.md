@@ -42,7 +42,7 @@ model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
 
 Rule: Check the number of spaces in the model
 
-### Example 1a: 
+### Basic Example 1a: 
 loop through the [entities] and then add one to the variable *spaces_in_model* each time we find an instance of that entity.
 
 *remember to import ifcopenshell and load the model if you need to, see the [introduction](#Introduction) of this concept for more information.*
