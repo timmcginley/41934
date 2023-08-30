@@ -20,7 +20,7 @@ If in the console / terminal do...
 import ifcopenshell
 model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
 ```
-
+## Summary
 * [Intermediate 1 - Get doors that bound a space (BoundedBy)](#Intermediate-Example-1) - check!
 * [Intermediate 2 - Get doors that bound a space (BoundedBy)](#Intermediate-Example-2) - is repeat?
 * [Intermediate 3 - Open a file with a window using TKinter](#Intermediate-Example-3)
