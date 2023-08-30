@@ -40,8 +40,8 @@ model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
 * [Intermediate 1 - Get doors that bound a space (BoundedBy)](#Intermediate-Example-1) - check!
 * [Intermediate 2 - Get doors that bound a space (BoundedBy)](#Intermediate-Example-2) - is repeat?
 * [Intermediate 3 - Open a file with a window using TKinter](#Intermediate-Example-3)
-* [Intermediate 4b - Write data to excel files](#Intermediate-Example-4a)
-* [Intermediate 4b - Write data to excel files (in a function)](#Intermediate-Example-4b)
+* [Intermediate 4A - Write data to excel files](#Intermediate-Example-4a)
+* [Intermediate 4B - Write data to excel files (in a function)](#Intermediate-Example-4b)
 * [Intermediate 5A - read data from excel files](#Intermediate-Example-5a)
 * [Intermediate 5B - read data from excel file and IFC file](#Intermediate-Example-5b)
 * [Intermediate 6 - tKinter GUI](#Intermediate-Example-6)
