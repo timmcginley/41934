@@ -20,7 +20,7 @@ Kristian Brink [Kribri404] Awesome BIM presentation.
 
 ### In class activity covers...
 
-In this activity you will be introduced to a [‘metadisciplinary framework’ for BIM (McGinley Krijnen, 2022)](https://www.researchgate.net/publication/363579368_A_framework_for_meta-disciplinary_building_analysis/stats). 
+* In this activity you will be introduced to a [‘metadisciplinary framework’ for BIM (McGinley Krijnen, 2022)](https://www.researchgate.net/publication/363579368_A_framework_for_meta-disciplinary_building_analysis/stats). 
 
 * IfcOpenShell [Basic examples](/41934/Examples/IfcOpenShell/Basic-Examples)
 
