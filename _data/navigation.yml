@@ -90,15 +90,12 @@
 - name: Examples
   link: /Examples
   dropdown: 
-    - name: IfcOpenShell
-      link: /Examples/IfcOpenShell
-      dropdown: 
-        - name: Basic
-        link: /Examples/IfcOpenShell/Basic
-        - name: Intermediate
-        link: /Examples/IfcOpenShell/Intermediate
-        - name: Advanced
-        link: /Examples/IfcOpenShell/Advanced
+    - name: Basic IfcOpenShell
+      link: /Examples/IfcOpenShell/Basic
+    - name: Intermediate IfcOpenshell
+      link: /Examples/IfcOpenShell/Intermediate
+    - name: Advanced IfcOpenShell
+      link: /Examples/IfcOpenShell/Advanced
     - name: Models
       link: /Examples/IFC_models
     - name: IFA excel files
