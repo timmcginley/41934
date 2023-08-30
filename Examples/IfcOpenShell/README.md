@@ -1,6 +1,6 @@
 # IfcOpenShell Examples
 
-* N.B. in these examples for consistency we name the model 'model'. if you are suing somethign different that is ok, but the idea here is to keep the code consistent to help you.
+* N.B. in these examples for consistency we name the model 'model'; if you are using somethign different that is ok, but the idea here is to keep the code consistent to help you.
 
 ## Loading and importing the model and ifcOpenShell into the [IDE] you are using
 
