@@ -1,0 +1,3 @@
+# Intermediate IfcOpenShell Examples
+
+....
