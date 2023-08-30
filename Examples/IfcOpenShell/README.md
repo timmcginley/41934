@@ -41,7 +41,8 @@ model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
 * [Intermediate 2 - Get doors that bound a space (BoundedBy)](#Intermediate-Example-2) - is repeat?
 * [Intermediate 3 - Open a file with a window using TKinter](#Intermediate-Example-3)
 * [Intermediate 4A - Write data to excel files](#Intermediate-Example-4a)
-* [Intermediate 4B - Write data to excel files (in a function)](#Intermediate-Example-4b)
+* [Intermediate 4B - Write ifc data to excel files](#Intermediate-Example-4b)
+* [Intermediate 4C - Write ifc data to excel files (in a function)](#Intermediate-Example-4c)
 * [Intermediate 5A - read data from excel files](#Intermediate-Example-5a)
 * [Intermediate 5B - read data from excel file and IFC file](#Intermediate-Example-5b)
 * [Intermediate 6 - tKinter GUI](#Intermediate-Example-6)
@@ -62,6 +63,8 @@ model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
 * [Advanced 9a - Door code check](#Advanced-Example-9a)
 
 Rule: Check the number of spaces in the model
+
+## Basic Examples
 
 ### Basic Example 1a
 loop through the [entities] and then add one to the variable *spaces_in_model* each time we find an instance of that entity.
@@ -342,7 +345,31 @@ print(filename)
 ```
 
 ### Intermediate Example 4a
-Write data to excel files
+
+Write data to excel.
+
+1) type in the cmd line
+
+<pre>pip install xlsxwriter</pre>
+
+2) in your python file  type
+
+```
+
+import xlsxwriter # https://xlsxwriter.readthedocs.io/tutorial01.html#tutorial1
+
+workbook = xlsxwriter.Workbook('output/future_format.xlsx')
+worksheet = workbook.add_worksheet()
+bold = workbook.add_format({'bold': True})
+
+worksheet.write(0,0, 'hello world')
+
+workbook.close()
+```
+
+### Intermediate Example 4b
+
+Write ifc data to excel files.
 
 *This code include the import and model loading as it is a special case.*
 
@@ -379,8 +406,9 @@ workbook.close()
 
 ```
 
-### Intermediate Example 4b 
-Write data to excel files (in a function)
+### Intermediate Example 4c
+
+Write ifc data to excel files (in a function)
 
 *This code include the import and model loading as it is a special case.*
 
