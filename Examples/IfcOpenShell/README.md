@@ -2,7 +2,7 @@
 
 * N.B. in these examples for consistency we name the model 'model'. if you are suing somethign different that is ok, but the idea here is to keep the code consistent to help you.
 
-* LOADING AND IMPORTING IFFOPENSHELL DEPENDS ON YOUR ENVIRONMENT:
+## Loading and importing the model and ifcOpenShell into the [IDE] you are using
 
 1. If in Blender do....
 
@@ -1136,6 +1136,7 @@ for pset in model.by_type("IfcPropertySet"):
 
 [entities]: /41934/Concepts/Entities
 [use]: /41934/Uses
+[IDE]: /41934/Concepts/IDE
 
 ## Glossary of terms (Work in progress)
 Format - we use this to make the output statements pretty and reduce the amount of logic that we need to include in the print statement -> check it out here https://pyformat.info/
