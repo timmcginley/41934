@@ -1,4 +1,4 @@
-# Basic IfcOpenshell Examples
+# Basic IfcOpenshell
 
 * N.B. in these examples for consistency we name the model 'model'; if you are using somethign different that is ok, but the idea here is to keep the code consistent to help you.
 
