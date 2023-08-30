@@ -35,12 +35,12 @@ model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
 
 #### Basic Scripts
 
-* [1a - Space count check](#Basic-Example-1a)
-* [1b - Space count check - with len()](#Basic-Example-1b)
-* [2 - Total beam length in model)](#Basic-Example-2)
+* [Basic 1a - Space count check](#Basic-Example-1a)
+* [Basic 1b - Space count check - with len()](#Basic-Example-1b)
+* [Basic 2 - Total beam length in model)](#Basic-Example-2)
 
 #### Advanced Scripts
-* [Example 1 - Get element properties](#Advanced-Example-1)
+* [Adv BIM 1 - Get element properties](#Advanced-Example-1)
 
 Rule: Check the number of spaces in the model
 
