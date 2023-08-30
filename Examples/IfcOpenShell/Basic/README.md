@@ -21,9 +21,9 @@ import ifcopenshell
 model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
 ```
 
-## Summary
 
-#### Basic Scripts
+
+## Basic Scripts
 
 * [Basic 1A - Space count check](#Basic-Example-1a)
 * [Basic 1B - Space count check - with len()](#Basic-Example-1b)
