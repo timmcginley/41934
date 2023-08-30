@@ -4,7 +4,7 @@
 
 ## Loading and importing the model and ifcOpenShell into the [IDE] you are using
 
-1. If in Blender do....
+If in Blender do....
 
 ```python
 
@@ -16,7 +16,7 @@ model = IfcStore.get_file()
 
 ```
 
-3. If in the console / terminal do...
+If in the console / terminal do...
 
 ```python
 import ifcopenshell
@@ -215,7 +215,6 @@ import bpy
 from blenderbim.bim.ifc import IfcStore
 
 file = IfcStore.get_file()
-
 
 ### GET PROPERTIES ###
 
