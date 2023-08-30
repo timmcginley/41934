@@ -45,6 +45,7 @@ for space in model.by_type("IfcSpace"):
             if (objects.RelatedBuildingElement.is_a('IfcDoor')):
                 print(objects.RelatedBuildingElement.Name)
 ```
+
 ### Intermediate Example 2
 Get the doors that bound a space (BoundedBy)
 
