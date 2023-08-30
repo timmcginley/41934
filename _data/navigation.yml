@@ -96,7 +96,7 @@
       link: /Examples/IfcOpenShell/Intermediate
     - name: Advanced IfcOpenShell
       link: /Examples/IfcOpenShell/Advanced
-    - name: Models
+    - name: IFC Models
       link: /Examples/IFC_models
     - name: IFA excel files
       link: /Examples/IFA_Excel_Files
