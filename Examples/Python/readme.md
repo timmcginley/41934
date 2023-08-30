@@ -10,5 +10,7 @@ Please check out [c-claus](https://github.com/C-Claus/BlenderScripts)'s python b
 
 ## IfcOpenShell Examples(what we use most)
 
->these scripts need you to import ifcopenshell and load the model first...
+you can explore the [IfcOpenShell Examples] for this course organised into competence levels.
 
+
+[IfcOpenShell Examples]: /Examples/IfcOpenShell
