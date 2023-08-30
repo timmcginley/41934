@@ -10,8 +10,6 @@ If in Blender do....
 
 import bpy
 from blenderbim.bim.ifc import IfcStore
-
-# We are using model or file depending on the scripts.
 model = IfcStore.get_file()
 
 ```
