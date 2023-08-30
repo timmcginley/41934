@@ -7,11 +7,9 @@
 If in Blender do....
 
 ```python
-
 import bpy
 from blenderbim.bim.ifc import IfcStore
 model = IfcStore.get_file()
-
 ```
 
 If in the console / terminal do...
@@ -41,7 +39,6 @@ This example works to get you the doors (line 13) that bound the space (line 8).
 *remember to import ifcopenshell and load the model if you need to, see the [introduction](#Introduction) of this concept for more information.*
 
 ```Python
-
 for space in model.by_type("IfcSpace"):
     near = space.BoundedBy
     print("\n\t####{}\n".format(space.Name))
@@ -49,7 +46,6 @@ for space in model.by_type("IfcSpace"):
         if (objects.RelatedBuildingElement != None):
             if (objects.RelatedBuildingElement.is_a('IfcDoor')):
                 print(objects.RelatedBuildingElement.Name)
-
 ```
 ### Intermediate Example 2
 Get the doors that bound a space (BoundedBy)
@@ -59,13 +55,11 @@ For this example we have to include an additional library, but it provides a rea
 *This code includes the import and model loading as it is a special case.*
 
 ```Python
-
 import ifcopenshell
 # That was normal the new bit is this geom lib below
 import ifcopenshell.geom
 # ok, so we are calling it fn (for file name here) - lets stick to that
 fn = "model/Duplex_A_20110907_optimized.ifc"
-
 
 # based on the fn we can now create the model which is called f
 f = ifcopenshell.open(fn)
@@ -96,7 +90,6 @@ Load file using tKinter
 *This code is only a snippet*
 
 ```Python
-
 # thanks to https://stackoverflow.com/questions/3579568/choosing-a-file-in-python-with-simple-dialog
 
 from Tkinter import Tk     # from tkinter import Tk for Python 3.x
@@ -105,7 +98,6 @@ from tkinter.filedialog import askopenfilename
 Tk().withdraw() # we don't want a full GUI, so keep the root window from appearing
 filename = askopenfilename() # show an "Open" dialog box and return the path to the selected file
 print(filename)
-
 ```
 
 ### Intermediate Example 4a
@@ -119,7 +111,6 @@ Write data to excel.
 2) in your python file  type
 
 ```Python
-
 import xlsxwriter # https://xlsxwriter.readthedocs.io/tutorial01.html#tutorial1
 
 workbook = xlsxwriter.Workbook('output/future_format.xlsx')
@@ -138,7 +129,6 @@ Write ifc data to excel files.
 *This code include the import and model loading as it is a special case.*
 
 ```Python
-
 # https://xlsxwriter.readthedocs.io/tutorial01.html#tutorial1
 
 import ifcopenshell
@@ -167,7 +157,6 @@ worksheet.write(0,0, 'hello', bold)
 # when you have finished editing the document it is essential to close the workbook.
 # these saves the document.
 workbook.close()
-
 ```
 
 ### Intermediate Example 4c
@@ -211,7 +200,6 @@ makeASheet('IfcCovering')
 makeASheet('IfcBeam')
 # it is important to close the workbook afterwards
 workbook.close()
-
 ```
 
 ### Intermediate Example 5a
@@ -223,7 +211,6 @@ Read data from excel files
 ```Python
 import xlrd
 import ifcopenshell
-
 
 ## open the workbook
 workbook = xlrd.open_workbook('output/future_format.xlsx')
@@ -284,7 +271,6 @@ for slab in model.by_type('IfcSlab'):
         if id == value:
             ## if the same id - print the value of the column B
             print(assumptions_sheet.cell(i,1).value)
-
 ```
 
 ### Intermediate Example 6
@@ -294,7 +280,6 @@ tKinter GUI
 *This code is only a snippet*
 
 ```Python
-
 # https://realpython.com/python-gui-tkinter/#building-your-first-python-gui-application-with-tkinter
 
 import tkinter as tk
@@ -311,10 +296,7 @@ frame3 = tk.Frame(master=window, width=50, bg="blue")
 frame3.pack(fill=tk.Y, side=tk.LEFT)
 
 window.mainloop()
-
 ```
-
-
 
 [entities]: /41934/Concepts/Entities
 [use]: /41934/Uses
