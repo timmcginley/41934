@@ -127,7 +127,7 @@ Get the property sets of an element.
 # feel free to change this to your needs
 # appending [0] to the end means that we only get the first entity
 # if you remove the [0] you will get all the ifcwall entitities in the model.
-* remember that IfcWall is only one of the ways that ifc describes walls (HINT: IfcWallStandardCase)
+# remember that IfcWall is only one of the ways that ifc describes walls (HINT: IfcWallStandardCase)
 
 wall = model.by_type('IfcWall')[0]
 for definition in wall.IsDefinedBy:
