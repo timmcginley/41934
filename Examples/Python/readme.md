@@ -8,9 +8,29 @@ There are lots of good places to learn python but [this one](https://www.learnpy
 
 Please check out [c-claus](https://github.com/C-Claus/BlenderScripts)'s python blender scripts. Also this [video](https://www.youtube.com/watch?v=8835RgwH-pM&ab_channel=C.Claus)
 
-## IfcOpenShell (what we use most)
+## IfcOpenShell Examples(what we use most)
 
 >these scripts need you to import ifcopenshell and load the model first...
+
+
+
+* N.B. in these examples for consistency we name the model 'model'. if you are suing somethign different that is ok, but the idea here is to keep the code consistent to help you.
+
+* LOADING AND IMPORTING IFFOPENSHELL DEPENDS ON YOUR ENVIRONMENT:
+
+1. If in Blender do....
+
+```python
+import ifcopenshell
+model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
+```
+
+3. If in the console / terminal do...
+
+```python
+import ifcopenshell
+model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
+```
 
 Rule: Check the number of spaces in the model
 
@@ -18,6 +38,9 @@ Rule: Check the number of spaces in the model
 loop through the [entities] and then add one to the variable *spaces_in_model* each time we find an instance of that entity.
 
 ```python
+import ifcopenshell
+model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
+
 spaces_required = 21
 spaces_in_model = 0
 
@@ -36,8 +59,11 @@ else:
 Use len() to count the number of [entities] (without having to loop through all of them).
 
 ```python
-spaces_required = 21
 
+import ifcopenshell
+model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
+
+spaces_required = 21
 spaces_in_model = len(model.by_type("IfcSpace"))
 
 print("\nThere are "+str(spaces_in_model)+" spaces in the model")
@@ -54,6 +80,8 @@ Rule: In this example we will try to quantify the length of the beam. We will ba
 Quantify [use] case code example
 
 ```python
+
+
 
 total_beam_Length = 0
 
@@ -106,9 +134,6 @@ This example works to get you the doors (line 13) that bound the space (line 8)
 # ########### this is required if running from console ############
 import ifcopenshell
 model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
-# ########### end of required if running from console #############
-
-# ############## code below needed in both cases ##################
 
 for space in model.by_type("IfcSpace"):
     near = space.BoundedBy
