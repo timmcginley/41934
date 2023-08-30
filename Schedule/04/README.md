@@ -19,4 +19,4 @@ TOOL Continue working with BlenderBIM.
 
 Tutorials
 
-* IfcOpenShell [Basic examples](/41934/Examples/IfcOpenShell/Intermediate-Examples)
+* IfcOpenShell [Intermediate examples](/41934/Examples/IfcOpenShell/Intermediate-Examples)
