@@ -40,7 +40,7 @@ model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
 * [2 - Total beam length in model)](#Basic-Example-2)
 
 #### Advanced Scripts
-* [Example 1 - Get element properties](#Advanced-Example-1:)
+* [Example 1 - Get element properties](#Advanced-Example-1)
 
 Rule: Check the number of spaces in the model
 
