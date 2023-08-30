@@ -21,8 +21,6 @@ import ifcopenshell
 model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
 ```
 
-
-
 ## Basic Scripts
 
 * [Basic 1A - Space count check](#Basic-Example-1a)
@@ -142,6 +140,7 @@ for door in model.by_type("IfcDoor"):
 print("\nThe width of {} doors is according to the Danish Regulations".format(valid_doors)) 
 print("The width of {} doors is not according to the Danish Regulations".format(doors_in_model-valid_doors)) 
 ```
+
 ![image](https://github.com/timmcginley/41934/assets/1415855/88274058-a001-455a-8b6b-b123fb7feb54)
 
 ### Basic Example 5
