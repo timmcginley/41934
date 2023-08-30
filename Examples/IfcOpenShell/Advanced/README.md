@@ -1,5 +1,4 @@
-# Advanced IfcOpenShell Scripts
-
+# Advanced IfcOpenShell
 # IfcOpenShell Examples
 
 * N.B. in these examples for consistency we name the model 'model'; if you are using somethign different that is ok, but the idea here is to keep the code consistent to help you.
@@ -23,7 +22,7 @@ import ifcopenshell
 model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
 ```
 
-## Summary
+## Examples
 
 #### Advanced
 * [Advanced 1 - element count by property and entity as function](#Advanced-Example-1)
