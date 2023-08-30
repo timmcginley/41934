@@ -35,9 +35,12 @@ model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
 
 ## Basic Scripts
 
-### [Example 1a - Space count check](#Basic-Example-1a:)
-### [Example 1b - Space count check - with len()](#Basic-Example-1b:)
+[Example 1a - Space count check](#Basic-Example-1a:)
+
+[Example 1b - Space count check - with len()](#Basic-Example-1b:)
+
 [Example 2 - Total beam length in model)](#Basic-Example-2:)
+
 ### Advanced Scripts
 * [Example 1 - Get element properties](#Advanced-Example-1:)
 
