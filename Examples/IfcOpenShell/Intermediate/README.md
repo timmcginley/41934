@@ -21,12 +21,6 @@ import ifcopenshell
 model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
 ```
 
-## [Basic Scripts](/41938/Examples/IfcOpenShell/Basic)
-## [Intermdiate Scripts](/41938/Examples/IfcOpenShell/Intermediate)
-## [Advanced Scripts](/41938/Examples/IfcOpenShell/Advanced)
-
-#### Intermediate Scripts
-
 * [Intermediate 1 - Get doors that bound a space (BoundedBy)](#Intermediate-Example-1) - check!
 * [Intermediate 2 - Get doors that bound a space (BoundedBy)](#Intermediate-Example-2) - is repeat?
 * [Intermediate 3 - Open a file with a window using TKinter](#Intermediate-Example-3)
