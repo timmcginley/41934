@@ -7,3 +7,7 @@ TOOL Continue working with IfcOpenShell
 1. ___ Prompt Model [MachineLearning](/41934/Concepts/MachineLearning)
 
 * Submit [A2](/41934/Assignments/A2) - 8th October 2023
+
+# In class Activity
+ * Machine Learning Activity
+ * Experimenting Rules
