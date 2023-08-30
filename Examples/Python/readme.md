@@ -35,26 +35,29 @@ model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
 
 #### Basic Scripts
 
-* [Basic 1a - Space count check](#Basic-Example-1a)
-* [Basic 1b - Space count check - with len()](#Basic-Example-1b)
+* [Basic 1A - Space count check](#Basic-Example-1a)
+* [Basic 1B - Space count check - with len()](#Basic-Example-1b)
 * [Basic 2 - Total beam length in model)](#Basic-Example-2)
+* [Basic 3 - Get element PropertySets](#Basic-Example-3)
+* [Basic 4 - Door code check](#Basic-Example-4)
 
-#### Advanced Scripts
-* [Advanced 1 - Get element PropertySets](#Advanced-Example-1)
-* [Advanced 1 - Get element properties](#Advanced-Example-1)
-* [Advanced 1 - Get element properties](#Advanced-Example-1)
-* [Advanced 1 - Get element properties](#Advanced-Example-1)
-* [Advanced 1 - Get element properties](#Advanced-Example-1)
-* [Advanced 1 - Get element properties](#Advanced-Example-1)
-* [Advanced 1 - Get element properties](#Advanced-Example-1)
-* [Advanced 1 - Get element properties](#Advanced-Example-1)
-* [Advanced 1 - Get element properties](#Advanced-Example-1)
-* [Advanced 1 - Get element properties](#Advanced-Example-1)
-* [Advanced 1 - Get element properties](#Advanced-Example-1)
-* [Advanced 1 - Get element properties](#Advanced-Example-1)
-* [Advanced 1 - Get element properties](#Advanced-Example-1)
-* [Advanced 1 - Get element properties](#Advanced-Example-1)
+#### Intermediate Scripts
 
+* [Advanced 2 - Get doors that bound a space (BoundedBy)](#Advanced-Example-2) - check!
+* [Advanced 3 - Get doors that bound a space (BoundedBy)](#Advanced-Example-3) - is repeat?
+
+#### Very Advanced
+* [Advanced 4 - Define class and function to load models](#Advanced-Example-4)
+* [Advanced 5A - Compare Geomtery in different models](#Advanced-Example-5a)
+* [Advanced 5B - Collision functions](#Advanced-Example-5b)
+* [Advanced 6 - (FAST) Property queries using selector](#Advanced-Example-6)
+* [Advanced 7A - Check number of stories in different models](#Advanced-Example-7a)
+* [Advanced 7B - Compare storey ELEVATIONS in different models](#Advanced-Example-7b)
+* [Advanced 7C - Are the ELEVATIONS the same?](#Advanced-Example-7c)
+* [Advanced 8A - Property check](#Advanced-Example-8a) - check!
+* [Advanced 8B - Generic Property list](#Advanced-Example-8b)
+* [Advanced 8C - Find entities from singlevalue property](#Advanced-Example-8c)
+* [Advanced 9a - Door code check](#Advanced-Example-9a)
 
 Rule: Check the number of spaces in the model
 
@@ -121,9 +124,7 @@ print("\nThere are "+str(total_beam_length)+" meters of beam in the model")
 
 ```
 
-## Advanced Python Scripts
-
-### Advanced Example 1
+### Basic Example 3
 Get the property sets of an element.
 
 *remember to import ifcopenshell and load the model if you need to, see the [introduction](#Introduction) of this concept for more information.*
@@ -145,6 +146,47 @@ for definition in wall.IsDefinedBy:
 		print(property_set.Name)
 
 ```
+
+### Basic Example 4
+Door code check.
+
+This is an edit of Kallina’s door code check, its a good example. 
+
+```Python
+ 
+###Doors### 
+ 
+doors_required = 14 ### <- Expected value of doors ### 
+doors_in_model = len(model.by_type("IfcDoor")) 
+min_width_door = 0.77 
+valid_doors=0 
+invalid_doors=0 
+ 
+print ('\n') 
+ 
+# initial check to establish if we have the 'correct' number of doors 
+if doors_required == doors_in_model: 
+    print("Result matches expected value ({})".format(doors_required)) 
+elif doors_required > doors_in_model: 
+    print("There are more doors than expected") 
+elif doors_required < doors_in_model: 
+    print("There are less doors than expected")      
+print ('\n')  
+# check each door to see if it complies and count the valid ones 
+for door in model.by_type("IfcDoor"): 
+    print ("door with width: "+str(door.OverallWidth))   
+    if door.OverallWidth>=min_width_door: 
+        valid_doors+=1       
+# now we have finished the counting we can pull back the indents and print the result         
+print("\nThe width of {} doors is according to the Danish Regulations".format(valid_doors)) 
+print("The width of {} doors is not according to the Danish Regulations".format(doors_in_model-valid_doors)) 
+```
+![image](https://github.com/timmcginley/41934/assets/1415855/88274058-a001-455a-8b6b-b123fb7feb54)
+
+
+
+## Advanced Python Scripts
+
 ### Advanced Example 2 
 Get the doors that bound a space (BoundedBy) 
 
@@ -263,7 +305,7 @@ f_geo = getGeometry('ARCHI',f_ifc, tree_settings)
 print("\n\t{} Model took {:06.2f} seconds to load".format(f_geo.name,f_geo.load_time))
 
 ```
-### Advanced Example 5
+### Advanced Example 5a
 Compare geometry in different models
 
 This code enables you to load in different models into the same geometry model / tree (line 16). The arch model is added on line 20 and the MECH model is added on line 27. Line 31 and 32 define the Ifc classes that you will use for your clash detection, in this example we are identifying clashes between IfcSpace and IfcFlowSegment as the IfcFlowSegment is something that definitely appears in the MECH model.
@@ -319,7 +361,7 @@ load_time = time.time()-start_time
 print("\n\tClash detection took {:06.6f} seconds to complete".format(load_time))
 
 ```
-### Advanced Example 5a
+### Advanced Example 5b
 Other collision functions to explore
 
 Extend the previous examples with the following commands ….
@@ -575,43 +617,6 @@ for pset in model.by_type("IfcPropertySet"):
                 count+=1
 ```
 ![image](https://github.com/timmcginley/41934/assets/1415855/766062d9-9bab-4120-87a2-5aae71a8e4cf)
-
-
-### Advanced Example 9a
-Door code check.
-
-This is an edit of Kallina’s door code check, its a good example. 
-
-```Python
- 
-###Doors### 
- 
-doors_required = 14 ### <- Expected value of doors ### 
-doors_in_model = len(model.by_type("IfcDoor")) 
-min_width_door = 0.77 
-valid_doors=0 
-invalid_doors=0 
- 
-print ('\n') 
- 
-# initial check to establish if we have the 'correct' number of doors 
-if doors_required == doors_in_model: 
-    print("Result matches expected value ({})".format(doors_required)) 
-elif doors_required > doors_in_model: 
-    print("There are more doors than expected") 
-elif doors_required < doors_in_model: 
-    print("There are less doors than expected")      
-print ('\n')  
-# check each door to see if it complies and count the valid ones 
-for door in model.by_type("IfcDoor"): 
-    print ("door with width: "+str(door.OverallWidth))   
-    if door.OverallWidth>=min_width_door: 
-        valid_doors+=1       
-# now we have finished the counting we can pull back the indents and print the result         
-print("\nThe width of {} doors is according to the Danish Regulations".format(valid_doors)) 
-print("The width of {} doors is not according to the Danish Regulations".format(doors_in_model-valid_doors)) 
-```
-![image](https://github.com/timmcginley/41934/assets/1415855/88274058-a001-455a-8b6b-b123fb7feb54)
 
 
 [entities]: /41934/Concepts/Entities
