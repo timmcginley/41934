@@ -118,7 +118,7 @@ Write data to excel.
 
 2) in your python file  type
 
-```
+```Python
 
 import xlsxwriter # https://xlsxwriter.readthedocs.io/tutorial01.html#tutorial1
 
