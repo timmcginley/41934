@@ -1,4 +1,6 @@
-### Python basics
+# Python / IfcOpenShell
+
+## Python basics
 
 There are lots of good places to learn python but [this one](https://www.learnpython.org/) looks fun and interactive.
 
