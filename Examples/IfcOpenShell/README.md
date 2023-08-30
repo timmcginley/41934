@@ -26,6 +26,7 @@ model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
 * [Basic 2 - Total beam length in model)](#Basic-Example-2)
 * [Basic 3 - Get element PropertySets](#Basic-Example-3)
 * [Basic 4 - Door code check](#Basic-Example-4)
+* [Basic 5 - model load time](#Basic-Example-5)
 
 #### Intermediate Scripts
 
@@ -167,7 +168,27 @@ print("The width of {} doors is not according to the Danish Regulations".format(
 ```
 ![image](https://github.com/timmcginley/41934/assets/1415855/88274058-a001-455a-8b6b-b123fb7feb54)
 
+### Basic Example 5
+This code gets the time taken to load a model.
 
+*This code includes the import and model loading as it is a special case.*
+
+```Python
+import ifcopenshell
+import time
+import pandas
+
+# starting time
+start = time.time()
+
+#model = ifcopenshell.open("model/BIM_3W_Team05_Sub01.ifc")
+model = ifcopenshell.open("model/Duplex_A_20110907.ifc")
+end = time.time()
+
+print()# total time taken
+print(f"model load time is... {end - start}\n")
+
+```
 
 ## Intermediate Python Scripts
 
