@@ -12,7 +12,7 @@ Please check out [c-claus](https://github.com/C-Claus/BlenderScripts)'s python b
 
 >these scripts need you to import ifcopenshell and load the model first...
 
-
+## Introduction
 
 * N.B. in these examples for consistency we name the model 'model'. if you are suing somethign different that is ok, but the idea here is to keep the code consistent to help you.
 
@@ -21,8 +21,7 @@ Please check out [c-claus](https://github.com/C-Claus/BlenderScripts)'s python b
 1. If in Blender do....
 
 ```python
-import ifcopenshell
-model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
+# remember to append what you need here.
 ```
 
 3. If in the console / terminal do...
@@ -37,9 +36,9 @@ Rule: Check the number of spaces in the model
 ### Example 1a: 
 loop through the [entities] and then add one to the variable *spaces_in_model* each time we find an instance of that entity.
 
+*remember to import ifcopenshell and load the model if you need to, see the [introduction](#Introduction) of this concept for more information.*
+
 ```python
-import ifcopenshell
-model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
 
 spaces_required = 21
 spaces_in_model = 0
@@ -58,10 +57,9 @@ else:
 ### Example 1b: 
 Use len() to count the number of [entities] (without having to loop through all of them).
 
-```python
+*remember to import ifcopenshell and load the model if you need to, see the [introduction](#Introduction) of this concept for more information.*
 
-import ifcopenshell
-model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
+```python
 
 spaces_required = 21
 spaces_in_model = len(model.by_type("IfcSpace"))
@@ -79,9 +77,9 @@ Rule: In this example we will try to quantify the length of the beam. We will ba
 ### Example 2: 
 Quantify [use] case code example
 
+*remember to import ifcopenshell and load the model if you need to, see the [introduction](#Introduction) of this concept for more information.*
+
 ```python
-
-
 
 total_beam_Length = 0
 
@@ -101,7 +99,9 @@ print("\nThere are "+str(total_beam_length)+" meters of beam in the model")
 ## Advanced Python Scripts
 
 ### Example 1: 
-Get the property sets of an element
+Get the property sets of an element.
+
+*remember to import ifcopenshell and load the model if you need to, see the [introduction](#Introduction) of this concept for more information.*
 
 ```Python
 # ########### this is required if running from console ############
@@ -128,7 +128,9 @@ for definition in wall.IsDefinedBy:
 Example 2: 
 Get the doors that bound a space (BoundedBy) 
 
-This example works to get you the doors (line 13) that bound the space (line 8)
+This example works to get you the doors (line 13) that bound the space (line 8).
+
+*remember to import ifcopenshell and load the model if you need to, see the [introduction](#Introduction) of this concept for more information.*
 
 ```Python
 # ########### this is required if running from console ############
@@ -149,13 +151,18 @@ for space in model.by_type("IfcSpace"):
 Get the doors that bound a space (BoundedBy)
 
 For this example we have to include an additional library, but it provides a really cool approach. Also please note that this example uses the optimized version of the Duplex model. This is also available in your models folder. Optimised versions of files are much smaller, they are optimized using a great tool (Solibri IFC Optimizer) from Solibri. The idea is that it can be used to make IFC files easier to share.
+
+*This code include the import and model loading as it is a special case.*
+
 ```Python
-# We need all this code and we can’t run it from RWTH viewer
+
 import ifcopenshell
 # That was normal the new bit is this geom lib below
 import ifcopenshell.geom
 # ok, so we are calling it fn (for file name here) - lets stick to that
 fn = "model/Duplex_A_20110907_optimized.ifc"
+
+
 # based on the fn we can now create the model which is called f
 f = ifcopenshell.open(fn)
 
@@ -183,8 +190,9 @@ Define a class and function to load models (Hard)
 
 For this example we will work with classes and functions to load the model, the reason for this is it will make it much more simple when we try and load multiple models in the next example. 
 
+*This code include the import and model loading as it is a special case.*
+
 ```Python
-# We need all this code and we can’t run it from RWTH viewer
 
 import ifcopenshell
 import ifcopenshell.geom
@@ -244,6 +252,7 @@ Compare geometry in different models
 
 This code enables you to load in different models into the same geometry model / tree (line 16). The arch model is added on line 20 and the MECH model is added on line 27. Line 31 and 32 define the Ifc classes that you will use for your clash detection, in this example we are identifying clashes between IfcSpace and IfcFlowSegment as the IfcFlowSegment is something that definitely appears in the MECH model.
 
+*This code include the import and model loading as it is a special case.*
 
 ```Python
 import ifcopenshell
@@ -367,6 +376,9 @@ wallsVol = selector.parse(model, '.IfcWallStandardCase[PSet_Revit_Dimensions.Vol
 Check the NUMBER of stories in different models
 
 This example checks to see if different models have the same number of stories. 
+
+*This code include the import and model loading as it is a special case.*
+
 ```Python
 import ifcopenshell
     
@@ -398,6 +410,8 @@ Compare the storey ELEVATIONS in different models
 
 We use a while loop here which iterates through the len of a_stories. This could cause a problem if there are less b_stories than a_stories. So we use the try command here, this enables us to try a piece of code, and if it doesn’t work it will trigger except, and enable us to define an error message to help us debug our program or provide feedback to the user.
 
+*This code include the import and model loading as it is a special case.*
+
 ```Python
 import ifcopenshell   
 # this gets the architectural model
@@ -425,6 +439,9 @@ Example 7c:
 Are the ELEVATIONS in diff models the same?
 
 This example is a combination of the logic in 7a and 7b
+
+*This code include the import and model loading as it is a special case.*
+
 ```Python
  
 import ifcopenshell   
@@ -465,10 +482,9 @@ Example output from 7c - does this match what you got? - why does it error? is t
 ### Example 8a: 
 Property check
 
-Descirption and comments to follow
+Description and comments to follow.
+
 ```Python
-import ifcopenshell
-model = ifcopenshell.open("model\Duplex_A_20110907.ifc")
 
 for entity in model.by_type("IfcFooting"): 
     ele_at_bottom = False
@@ -491,8 +507,6 @@ Generic Property list
 OK so this is my best bet its not perfect but you should be able to adapt it to your needs and it works for windows and doors 😊
 
 ```Python
-import ifcopenshell
-model = ifcopenshell.open("model\Duplex_A_20110907.ifc")
 
 print ('\n## search all properties of a type ##\n')
 
@@ -518,8 +532,6 @@ Find entities based on a singlevalue property
 I think this one is pretty cool, I was trying to write an example for 8b and ended up with this. The logic is that we  define  the property and value we are looking for , get it and then seeks its inverse entities. 
 
 ```Python
-import ifcopenshell
-model = ifcopenshell.open(" model\Duplex_A_20110907.ifc")
 
 propName ='Unbounded Height'
 value= 2.6
@@ -553,9 +565,8 @@ for pset in model.by_type("IfcPropertySet"):
 Door code check
 
 This is an edit of Kallina’s door code check, its a good example. 
+
 ```Python
-import ifcopenshell 
-model = ifcopenshell.open("model\Duplex_A_20110907.ifc")  
  
 ###Doors### 
  
