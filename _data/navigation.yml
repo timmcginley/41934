@@ -89,5 +89,12 @@
       link: /Assignments/A5
 - name: Examples
   link: /Examples
+    dropdown: 
+    - name: IfcOpenShell
+      link: /Examples/IfcOpenShell
+    - name: Models
+      link: /Examples/IFC_models
+    - name: IFA excel files
+      link: /Examples/IFA_Excel_Files
 - name: Learning
   link: /LearningObjectives
