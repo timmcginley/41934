@@ -34,9 +34,11 @@ model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
 ## Overview
 
 ## Basic Scripts
-## Yep yeah
+
 
 [yeah](#Yep-yeah)
+
+## Yep yeah
 
 [Example 1a - Space count check](#Basic-Example-1a:)
 
