@@ -32,6 +32,8 @@ model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
 
 * [Intermediate 1 - Get doors that bound a space (BoundedBy)](#Intermediate-Example-1) - check!
 * [Intermediate 2 - Get doors that bound a space (BoundedBy)](#Intermediate-Example-2) - is repeat?
+* [Intermediate 3 - Open a file with a window using TKinter](#Intermediate-Example-3)
+* [Intermediate 4 - Write data to excel files (in a function)](#Intermediate-Example-4) 
 
 #### Very Advanced
 * [Advanced 4 - Define class and function to load models](#Advanced-Example-4)
@@ -247,6 +249,65 @@ for space in model.by_type("IfcSpace"):
         if (objects.RelatedBuildingElement != None):
             if (objects.RelatedBuildingElement.is_a('IfcDoor')):
                 print(objects.RelatedBuildingElement.Name)
+```
+
+### Intermediate Example 3
+Load file using tKinter
+
+*This code is only a snippet*
+
+```Python
+
+from Tkinter import Tk     # from tkinter import Tk for Python 3.x
+from tkinter.filedialog import askopenfilename
+
+Tk().withdraw() # we don't want a full GUI, so keep the root window from appearing
+filename = askopenfilename() # show an "Open" dialog box and return the path to the selected file
+print(filename)
+
+```
+
+### Intermediate Example 4
+Write data to excel files (in a function)
+
+*This code include the import and model loading as it is a special case.*
+
+```Python
+import ifcopenshell
+# we will use the xlswriter library below to work with excel in python.
+import xlsxwriter # https://xlsxwriter.readthedocs.io/tutorial01.html#tutorial1
+# make a folder called output and then this line will make an 
+# excel in there if one doesn't exist already
+# N.B. remember to close the workbook if you have it open 
+# BEFORE you run this script!
+workbook = xlsxwriter.Workbook('output/test.xlsx')
+# open the model as normally
+model = ifcopenshell.open("model/Duplex_A_20110907.ifc")
+# this is a function it enables you to repeat the same command
+# and reduce the amount of code that you have :)
+# the function is called makeASheet - you can call it anything...
+# it has a brackets after it, this is where the argument goes...
+def makeASheet(ifcType):
+    sheet = workbook.add_worksheet(ifcType)
+    # define which row you want to start writing at.
+    row =1
+    for entity in model.by_type(ifcType):
+        # this writes the data to the sheet
+        # sheet.write(row, column, data)
+        sheet.write(row,0,str(entity.Name))
+        # this 'iterates' row so that each time we step down a row.
+        # otherwise each new entry would overwrite the previous entry.
+        row+=1
+# here we can call the function and put it the argument
+# in this case we are asking for the results of 
+# different IFC entities to be written to their own sheets       
+makeASheet('IfcSlab')
+makeASheet('IfcWall')
+makeASheet('IfcCovering')
+makeASheet('IfcBeam')
+# it is important to close the workbook afterwards
+workbook.close()
+
 ```
 
 ## Advanced Python Scripts
