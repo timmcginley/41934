@@ -9,11 +9,9 @@ Loading and importing the model and ifcOpenShell into the [IDE] you are using
 If in Blender do....
 
 ```python
-
 import bpy
 from blenderbim.bim.ifc import IfcStore
 model = IfcStore.get_file()
-
 ```
 
 If in the console / terminal do...
@@ -41,7 +39,6 @@ loop through the [entities] and then add one to the variable *spaces_in_model* e
 *remember to import ifcopenshell and load the model if you need to, see the [introduction](#Introduction) of this concept for more information.*
 
 ```python
-
 spaces_required = 21
 spaces_in_model = 0
 
@@ -62,7 +59,6 @@ Use len() to count the number of [entities] (without having to loop through all 
 *remember to import ifcopenshell and load the model if you need to, see the [introduction](#Introduction) of this concept for more information.*
 
 ```python
-
 spaces_required = 21
 spaces_in_model = len(model.by_type("IfcSpace"))
 
@@ -82,7 +78,6 @@ Quantify [use] case code example
 *remember to import ifcopenshell and load the model if you need to, see the [introduction](#Introduction) of this concept for more information.*
 
 ```python
-
 total_beam_Length = 0
 
 for entity in model.by_type("IfcBeam"):
@@ -95,7 +90,6 @@ for entity in model.by_type("IfcBeam"):
                 total_beam_length += prop.NominalValue.wrappedValue
 
 print("\nThere are "+str(total_beam_length)+" meters of beam in the model")
-
 ```
 
 ### Basic Example 3
@@ -104,7 +98,6 @@ Get the property sets of an element.
 *remember to import ifcopenshell and load the model if you need to, see the [introduction](#Introduction) of this concept for more information.*
 
 ```Python
-
 # this just gets you the entity, defined here as wall
 # feel free to change this to your needs
 # appending [0] to the end means that we only get the first entity
@@ -118,16 +111,12 @@ for definition in wall.IsDefinedBy:
 		property_set = definition.RelatingPropertyDefinition
 		# Might return Pset_WallCommon
 		print(property_set.Name)
-
 ```
 
 ### Basic Example 4
 Door code check.
 
 ```Python
- 
-###Doors### 
- 
 doors_required = 14 ### <- Expected value of doors ### 
 doors_in_model = len(model.by_type("IfcDoor")) 
 min_width_door = 0.77 
@@ -174,7 +163,6 @@ end = time.time()
 
 print()# total time taken
 print(f"model load time is... {end - start}\n")
-
 ```
 
 ### Basic Example 6
@@ -233,5 +221,4 @@ for beam in beams:
 for beam in beams:
     for relContainedInSpatialStructure in beam.ContainedInStructure:
         print(relContainedInSpatialStructure.RelatingStructure.Name)
-
 ```
