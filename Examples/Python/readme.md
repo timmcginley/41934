@@ -115,14 +115,6 @@ Get the property sets of an element.
 *remember to import ifcopenshell and load the model if you need to, see the [introduction](#Introduction) of this concept for more information.*
 
 ```Python
-# ########### this is required if running from console ############
-
-import ifcopenshell
-model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
-
-# ########### end of required if running from console #############
-
-# ############## code below needed in both cases ##################
 
 # this just gets you the entity, defined here as wall
 # feel free to change this to your needs
@@ -134,7 +126,6 @@ for definition in wall.IsDefinedBy:
 		# Might return Pset_WallCommon
 		print(property_set.Name)
 
-# ###################### end of example ###########################
 ```
 Example 2: 
 Get the doors that bound a space (BoundedBy) 
@@ -144,9 +135,6 @@ This example works to get you the doors (line 13) that bound the space (line 8).
 *remember to import ifcopenshell and load the model if you need to, see the [introduction](#Introduction) of this concept for more information.*
 
 ```Python
-# ########### this is required if running from console ############
-import ifcopenshell
-model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
 
 for space in model.by_type("IfcSpace"):
     near = space.BoundedBy
@@ -156,14 +144,13 @@ for space in model.by_type("IfcSpace"):
             if (objects.RelatedBuildingElement.is_a('IfcDoor')):
                 print(objects.RelatedBuildingElement.Name)
 
-# ###################### end of example ########################### 
 ```
 ### Example 3: 
 Get the doors that bound a space (BoundedBy)
 
 For this example we have to include an additional library, but it provides a really cool approach. Also please note that this example uses the optimized version of the Duplex model. This is also available in your models folder. Optimised versions of files are much smaller, they are optimized using a great tool (Solibri IFC Optimizer) from Solibri. The idea is that it can be used to make IFC files easier to share.
 
-*This code include the import and model loading as it is a special case.*
+*This code includes the import and model loading as it is a special case.*
 
 ```Python
 
