@@ -10,6 +10,6 @@ TOOL Start working with IfcOpenShell
 3. ___ Information Delivery Specification [(IDS)](/41934/Concepts/IDS)
 4. ___ Virtual Design and Construction [(VDC)](/41934/Concepts/VDC)
 
-Tutorials
+### In class activity covers...
 
 * IfcOpenShell [Advanced examples](/41934/Examples/IfcOpenShell/Advanced-Examples)
