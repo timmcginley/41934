@@ -21,7 +21,7 @@ import ifcopenshell
 model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
 ```
 
-## Examples
+## Advanced Examples
 
 #### Advanced
 * [Advanced 1 - element count by property and entity as function](#Advanced-Example-1)
