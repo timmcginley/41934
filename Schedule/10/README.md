@@ -5,3 +5,7 @@
 1. Introduction to [A4](/41934/Assignments/A4)
 1. Introduction to [A5](/41934/Assignments/A5)
 2. ___ [Node-RED](/41934/Concepts/NodeRed)
+
+### In class actvity
+* Project support / questions
+
