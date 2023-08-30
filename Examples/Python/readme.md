@@ -32,7 +32,7 @@ model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
 ```
 
 ## Overview
-[Example 1](#Example 1a:)
+[Example 1](#Example-1a:)
 
 Rule: Check the number of spaces in the model
 
