@@ -4,7 +4,6 @@
 
 TOOL Continue working with IfcOpenShell
 1. ___ [Rules](/41934/Concepts/Rules)
-1. ___ [MarkDown](/41934/Concepts/MarkDown)
 1. ___ Prompt Model [MachineLearning](/41934/Concepts/MachineLearning)
 
 * Submit [A2](/41934/Assignments/A2) - 8th October 2023
