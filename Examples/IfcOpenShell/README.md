@@ -258,6 +258,8 @@ Load file using tKinter
 
 ```Python
 
+# thanks to https://stackoverflow.com/questions/3579568/choosing-a-file-in-python-with-simple-dialog
+
 from Tkinter import Tk     # from tkinter import Tk for Python 3.x
 from tkinter.filedialog import askopenfilename
 
