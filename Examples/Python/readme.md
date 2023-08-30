@@ -40,7 +40,21 @@ model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
 * [Basic 2 - Total beam length in model)](#Basic-Example-2)
 
 #### Advanced Scripts
-* [Adv BIM 1 - Get element properties](#Advanced-Example-1)
+* [Advanced 1 - Get element PropertySets](#Advanced-Example-1)
+* [Advanced 1 - Get element properties](#Advanced-Example-1)
+* [Advanced 1 - Get element properties](#Advanced-Example-1)
+* [Advanced 1 - Get element properties](#Advanced-Example-1)
+* [Advanced 1 - Get element properties](#Advanced-Example-1)
+* [Advanced 1 - Get element properties](#Advanced-Example-1)
+* [Advanced 1 - Get element properties](#Advanced-Example-1)
+* [Advanced 1 - Get element properties](#Advanced-Example-1)
+* [Advanced 1 - Get element properties](#Advanced-Example-1)
+* [Advanced 1 - Get element properties](#Advanced-Example-1)
+* [Advanced 1 - Get element properties](#Advanced-Example-1)
+* [Advanced 1 - Get element properties](#Advanced-Example-1)
+* [Advanced 1 - Get element properties](#Advanced-Example-1)
+* [Advanced 1 - Get element properties](#Advanced-Example-1)
+
 
 Rule: Check the number of spaces in the model
 
@@ -118,6 +132,10 @@ Get the property sets of an element.
 
 # this just gets you the entity, defined here as wall
 # feel free to change this to your needs
+# appending [0] to the end means that we only get the first entity
+# if you remove the [0] you will get all the ifcwall entitities in the model.
+* remember that IfcWall is only one of the ways that ifc describes walls (HINT: IfcWallStandardCase)
+
 wall = model.by_type('IfcWall')[0]
 for definition in wall.IsDefinedBy:
 	# To support IFC2X3, we need to filter our results.
