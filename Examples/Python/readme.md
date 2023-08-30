@@ -32,7 +32,13 @@ model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
 ```
 
 ## Overview
-[Example 1](#Example-1a:)
+
+### Basic Scripts
+* [Example 1a - Space count check](#Basic-Example-1a:)
+* [Example 1b - Space count check - with len()](#Basic-Example-1b:)
+* [Example 2 - Total beam length in model)](#Basic-Example-2:)
+### Advanced Scripts
+* [Example 1 - Get element properties](#Advanced-Example-1:)
 
 Rule: Check the number of spaces in the model
 
@@ -57,7 +63,7 @@ else:
     print ('RESULT: The number of spaces is wrong')
 ```
 
-### Example 1b: 
+### Basic Example 1b: 
 Use len() to count the number of [entities] (without having to loop through all of them).
 
 *remember to import ifcopenshell and load the model if you need to, see the [introduction](#Introduction) of this concept for more information.*
@@ -77,7 +83,7 @@ else:
 
 Rule: In this example we will try to quantify the length of the beam. We will base this on the for loop we defined in example 1A.
 
-### Example 2: 
+### Basic Example 2: 
 Quantify [use] case code example
 
 *remember to import ifcopenshell and load the model if you need to, see the [introduction](#Introduction) of this concept for more information.*
@@ -101,7 +107,7 @@ print("\nThere are "+str(total_beam_length)+" meters of beam in the model")
 
 ## Advanced Python Scripts
 
-### Example 1: 
+### Advanced Example 1: 
 Get the property sets of an element.
 
 *remember to import ifcopenshell and load the model if you need to, see the [introduction](#Introduction) of this concept for more information.*
