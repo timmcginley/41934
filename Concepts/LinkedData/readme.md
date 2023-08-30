@@ -1,4 +1,4 @@
-## Linked Data
+# Linked Data
 
 Linked Data solves the problem of unstandardised BIM data. When combined with ontologies of specific domain knowledge it enables us to describe BIM entities and properties as a link to a URL endpoints. The structure of the ontologies helps to understand the rationahips between the objects in the ontology.
 
