@@ -40,7 +40,8 @@ model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
 * [Intermediate 1 - Get doors that bound a space (BoundedBy)](#Intermediate-Example-1) - check!
 * [Intermediate 2 - Get doors that bound a space (BoundedBy)](#Intermediate-Example-2) - is repeat?
 * [Intermediate 3 - Open a file with a window using TKinter](#Intermediate-Example-3)
-* [Intermediate 4 - Write data to excel files (in a function)](#Intermediate-Example-4)*
+* [Intermediate 4b - Write data to excel files](#Intermediate-Example-4b)
+* [Intermediate 4b - Write data to excel files (in a function)](#Intermediate-Example-4b)
 * [Intermediate 5A - read data from excel files](#Intermediate-Example-5a)
 * [Intermediate 5B - read data from excel file and IFC file](#Intermediate-Example-5b)
 * [Intermediate 6 - tKinter GUI](#Intermediate-Example-6)
@@ -340,7 +341,45 @@ print(filename)
 
 ```
 
-### Intermediate Example 4
+### Intermediate Example 4a
+Write data to excel files
+
+*This code include the import and model loading as it is a special case.*
+
+```Python
+
+# https://xlsxwriter.readthedocs.io/tutorial01.html#tutorial1
+
+import ifcopenshell
+import xlsxwriter 
+
+# this line opens the workbook, if it doesn't exist it makes it, otherwise
+# it will overwrite the existing file.
+# if it dpes already exist please close it otherwise it will not work (it cannot read open files)
+workbook = xlsxwriter.Workbook('output/future_format.xlsx')
+# you have the workbook open, now specify the sheet you want to write to
+worksheet = workbook.add_worksheet()
+# this is extra code that you can include to format the cells in your document. You could shange this to other examples. to create other effects.
+bold = workbook.add_format({'bold': True})
+
+# this line loads the ifc model into python. - careful most internet examples use ifc_model, 
+# but we are using model here, so that it also works in RWTH viewer.
+# When RWTH viewer loads the model in the GUI it calls it model.
+model = ifcopenshell.open("model/Duplex_A_20110907.ifc")
+
+# this is normally formatted
+worksheet.write(0,0, 'hello')
+
+# in this line we have added the bold argument defined previously with the add_format command to define the format of the cell.
+worksheet.write(0,0, 'hello', bold)
+
+# when you have finished editing the document it is essential to close the workbook.
+# these saves the document.
+workbook.close()
+
+```
+
+### Intermediate Example 4b 
 Write data to excel files (in a function)
 
 *This code include the import and model loading as it is a special case.*
