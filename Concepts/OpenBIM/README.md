@@ -6,5 +6,8 @@ Universal approach to collaborative design, implementation, and operation of bui
 
 OpenBIM is a set of principles that guide a set of standards that solve the problem of interoperability of data in the AEC.
 
+From Dion: 
+>Here's one resource on [open source in AEC](https://osarch.org/) and a large [list of open source software projects](https://wiki.osarch.org/index.php?title=AEC_Free_Software_directory) related to AEC.
+
 ### Attribution:
 This page is partly based on information from the [IBIMD](https://www.ct.upt.ro/IBIMD/) project of which DTU is a participant.
