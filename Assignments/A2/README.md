@@ -1,5 +1,7 @@
 # A2: Analysis
 
+*Aim: This assignment Focus on IFC analysis of real (previous) student building design projects from an [advanced building design course](https://github.com/timmcginley/41936) that runs in the previous semester.*
+
 Focus on IFC analysis of real (previous) student building design projects from an advanced building design course that runs in the previous semester. 
 
 In this activity you will be introduced to a [‘metadisciplinary framework’ for BIM (McGinley Krijnen, 2022)](https://www.researchgate.net/publication/363579368_A_framework_for_meta-disciplinary_building_analysis/stats). 
@@ -13,8 +15,8 @@ Previously we have focused on the IFC file and helping you to understand how it 
 * Read the project reports.
 ![image](https://github.com/timmcginley/41934/assets/1415855/741ab321-fe1c-43a6-ae79-057d4ee9e6e9)
 
-A2C: import the IFC into BlenderBIM
-* Import one of the 41936 models into Blender and explore the IFC file and its properties.
+## A2C: import the IFC into BlenderBIM
+* Import one of the 41936 models into [BlenderBIM] and explore the IFC file and its properties.
 
 ## A2D: Explore the script
 * In the scripting window you can then use IfcOpenShell to further explore the model (we provide examples)
@@ -24,34 +26,38 @@ A2C: import the IFC into BlenderBIM
 * could you estimate cost? - if so how?
 
 ## A2E: Check the numbers
+Identify what the projects analysed, how did they test this? What was the domain focus of the investigation? Was it structural, energy and indoor, daylight, acoustic, LCA/LCC or something else? They should then be introduced to BPMN and use it to document the use case and explore the role of experts in OpenBIM. Following this, the students should review OpenBIM tools made in the previous year of the OpenBIM course and identify which tools could be used or adapted to solve the problem identified in the design project in the previous part. Finally, they could check the information validity of the models against the use case requirements they identified. 
+* develop scripts to help teams in future analyse their buildings.
+  
 Identify what the projects analysed, how did they test this? What was the domain [focus] of the investigation? Was it [structural], [energy and indoor, daylight, acoustic], [LCA/LCC], [construction planning] or something else? You will then be introduced to [BPMN] and use it to document the use case and explore the role of experts in [OpenBIM]. 
+* Which of the [focus areas](/Focus) will you choose?
+* What information did you find that helped you to see this would be a good choice?
 
 ## A2F: Review previous code
 Following this, you will review [OpenBIM] tools made in the previous year of the OpenBIM course and identify which tools could be used or adapted to solve the problem identified in the design project in the previous part. Finally, they could check the information validity of the models against the use case requirements they identified.
+
+This task would focus on analysing the models using scripts as in the previous years using BlenderBIM as an IDE (integrated development environment) incorporating a console, 3d view, IFC data model hierarchy, and IFC property views in one place. Additionally, this assignment would provide the opportunity for the student to develop their own OpenBIM tools in Python.
 
 ## A2G: Analyze project Reports
 * Now review the project reports - can you check that the values they say they acheived are actually acheived?
 
 ## A2H: Develop your own script
+
 * Develop a script in [IfcOpenShell] (based on examples and support from the teachers) to check a specific claim one of the reports relevant to your [focus] area.
-
-
 
 ## A2I: Produce a Guide
 * Report – is it accurate?
 * What are the problems with
-* The Bim
+* The BIM
 * The Building
 * The Process
 * The Engineering
-
 
 ## Activity Completion
 Your group must submit your modified script file for the use case, this should be provided in a ‘repo’ in the github account linked to your group. The repo will include:
 
 ### 01 Python script
 * Your main.py file that is a copy of the script we can run in Blender.
-* *THIS CAN BE WORK IN PROGRESS* 
 
 ### 02 A markdown file that describes: 
 * Describe the use case you have chosen
@@ -64,59 +70,23 @@ Your group must submit your modified script file for the use case, this should b
 * What is the input data for your use case?	
 * What other use cases are waiting for your use case to complete?
 
->EDIT BELOW!!!!!
-
-* Check the numbers – for this we will develop  scripts to help teams in future analyse their buildings.
-
-### Select a focus Area
-* Which of the [focus areas](/Focus) will you choose?
-* What information did you find that helped you to see this would be a good choice?
-* In the next assignment will you focus on modelling or analysis?
-
 ### 03 A BPMN file
 * Describes the use case
 * Shows the exchange of information between the stakeholders in the use case
 * Helps you to define the scope of your script
 * Helps you to see what inputs and outputs your use case has.
 
-## A2A: OpenBIM Modelling
-Aim: To learn from the experience of either modelling or analysing OpenBIM models collaboratively.
-
-*Aim: This assignment Focus on IFC analysis of real (previous) student building design projects from an [advanced building design course](https://github.com/timmcginley/41936) that runs in the previous semester.*
-
 ### Learning Objectives
-12. Evaluate [software licensing](/41934/Concepts/Software_licences) suitability and implications for the OpenBIM tool you develop or modelling tool you use.
-    
-<!-- links --> 
 
-[learning objectives]: /41934/LearningObjectives
-[Blender]: /41934/Concepts/Blender
-[BlenderBIM]: /41934/Concepts/BlenderBIM
-[OpenBIM standards]: /41934/Concepts/Standards
-[BIM]: /41934/Concepts/BIM
-[OpenBIM]: /41934/Concepts/OpenBIM
-[FAIR]: /41934/Concepts/FAIR
-[focus area]: /41934/Focus
-[IfcOpenShell]: /41934/Concepts/IfcOpenShell
-[IFC4]: /41934/Concepts/IFC
-
-
-
-## A2: Analyse
-
-Identify what the projects analysed, how did they test this? What was the domain focus of the investigation? Was it structural, energy and indoor, daylight, acoustic, LCA/LCC or something else? They should then be introduced to BPMN and use it to document the use case and explore the role of experts in OpenBIM. Following this, the students should review OpenBIM tools made in the previous year of the OpenBIM course and identify which tools could be used or adapted to solve the problem identified in the design project in the previous part. Finally, they could check the information validity of the models against the use case requirements they identified. 
-
-### Learning Objectives:
-6. Create, fork, branch and collaborate on the development of an OpenBIM tool in Python with peers in a [code repository](/41934/Concepts/Github).
-
-### Aim: 
 4. Provide professional disciplinary guidance based on OpenBIM analysis.
+6. Create, fork, branch and collaborate on the development of an OpenBIM tool in Python with peers in a [code repository](/41934/Concepts/Github).
 9. Identify and model a BIM use case based on the BIM challenges identified from analysis of an OpenBIM project in [BPMN](/41934/Concepts/BPMN/README.md).
 10. Identify an appropriate [development methodology](/41934/Concepts/Development_methodology) for an OpenBIM tool or model to different use cases.
 11. Apply and improve programming skills in Python to develop an OpenBIM tool or modelling skills in OpenBIM using your engineering domain expertise.
 12. Evaluate [software licensing](/41934/Concepts/Software_licences/README.md) suitability and implications for the OpenBIM tool you develop or modelling tool you use.
-   
-This task would focus on analysing the models using scripts as in the previous years using BlenderBIM as an IDE (integrated development environment) incorporating a console, 3d view, IFC data model hierarchy, and IFC property views in one place. Additionally, this assignment would provide the opportunity for the student to develop their own OpenBIM tools in Python.
+    
+
+## ANALYSIS TOOL SPECIFICATION
 
 In this assignment we will develop a tool / workflow based on the use case you defined in the [previous assignment](/41934/Assignment/A3).<br>
 The tool must:
@@ -168,6 +138,16 @@ Therefore, the aim of this assignment is in your groups to explore focused parts
 ## ideas
 * I would be really interested to see if we could change values in an SVG file and use this to edit and append the information in drawings.
 
+<!-- links --> 
+
+[learning objectives]: /41934/LearningObjectives
+[Blender]: /41934/Concepts/Blender
+[OpenBIM standards]: /41934/Concepts/Standards
+[BIM]: /41934/Concepts/BIM
+[FAIR]: /41934/Concepts/FAIR
+[focus area]: /41934/Focus
+[IfcOpenShell]: /41934/Concepts/IfcOpenShell
+[IFC4]: /41934/Concepts/IFC
 [modelling]: /41934/Roles/Modeller
 [analysing]: /41934/Roles/Analyst
 [focus]: /41934/Focus
@@ -177,3 +157,4 @@ Therefore, the aim of this assignment is in your groups to explore focused parts
 [energy and indoor, daylight, acoustic]: /41934/Focus/Indoor
 [LCA/LCC]: /41934/Focus/Sustainability
 [construction planning]: /41934/Focus/Build
+[BlenderBIM]: /41934/Concepts/BlenderBIM
