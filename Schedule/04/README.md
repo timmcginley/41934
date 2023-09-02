@@ -11,8 +11,6 @@ TOOL Continue working with BlenderBIM.
 1. ___ [Command Line](/41934/Concepts/CommandLine)
 1. ___ [Github](/41934/Concepts/Github)
 1. ___ [Python](/41934/Concepts/Python)
-1. ___ [BCF](/41934/Concepts/BCF)
-1. ___ micro[MVD](/41934/Concepts/MVD)?
 1. ___ [IDM](/41934/Concepts/IDM)
 1. ___ [IDE](/41934/Concepts/IDE)
 1. ___ [BPMN](/41934/Concepts/BPMN)
