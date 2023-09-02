@@ -20,4 +20,7 @@ TOOL Continue working with BlenderBIM.
 
 ### In class activity covers...
 
+* [Github] repo managements
 * IfcOpenShell [Intermediate examples](/41934/Examples/IfcOpenShell/Intermediate-Examples)
+
+[Github]: /41934/Concepts/Github
