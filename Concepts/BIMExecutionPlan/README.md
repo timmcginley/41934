@@ -14,7 +14,7 @@ The BIM Execution Plan is a document that defines the BIM strategy and processes
 They provide clarity on what, when, where, how and to what detail as well as who is responsible to delivering and checking the information.
 
 ## Who is it for?
-BXPs are then an essential tool of [managers] and coordinators and valuable resource to [modellers] and [analysts]. 
+BEPs are then an essential tool of [managers] and coordinators and valuable resource to [modellers] and [analysts]. 
 
 ### Attribution:
 This page is partly based on information from the [IBIMD](https://www.ct.upt.ro/IBIMD/) project of which DTU is a participant.
