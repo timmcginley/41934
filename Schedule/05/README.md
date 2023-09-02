@@ -15,3 +15,4 @@ TOOL Start working with IfcOpenShell
 ### In class activity covers...
 
 * IfcOpenShell [Advanced examples](/41934/Examples/IfcOpenShell/Advanced-Examples)
+* Custom tool / script development workflows
