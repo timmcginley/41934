@@ -10,7 +10,7 @@ Kristian Brink [Kribri404] Awesome BIM presentation.
 
 1. ___ [Classification](/41934/Concepts/Classification)
 1. ___ IFC [Properties and PropertySets](/41934/Concepts/Properties)
-1. ___ BIM Execution Plan [(BEP)](/41934/Concepts/BIMExecutionPlan)
+1. ___ BIM Execution Plan [(BEP)](/41934/Concepts/BIMExecutionPlan) in the context of [IS0 19650](/41934/Concepts/ISO19650)
 1. ___ Choose you disciplinary [Focus] Areas
 3. ___ [bsDD](/41934/Concepts/bsDD)
 1. ___ [BlenderBIM](/41934/Concepts/BlenderBIM) Explore old models - also see the IFC properties
