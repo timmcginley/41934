@@ -35,6 +35,8 @@ The desired IFC data can be encoded in various formats, such as XML, JSON, and S
 
 Software vendors of building information modeling tools - including model authoring, design, simulation and analysis, viewing and more - will provide interfaces to end users to export, import, and transmit data in some IFC format. It is up to users to decide what they want to share from their tools via IFC.
 
+Dikon convesion guide (English) from [Revit to IFC](https://molio.dk/media/gn0fb0g5/ifc-guide_export_en_20200928_2.pdf)
+
 Who uses IFC?
 -------------
 
