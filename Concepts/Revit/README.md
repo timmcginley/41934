@@ -4,7 +4,7 @@ Revit is really useful for translating Closed BIM Revit files into [IFC] files.
 
 When doing this we need to be careful about the 'mapping' for the Revit objects and families to IFC entities.
 
-Graduate education in BIM does not include Revit training, for this there are pletny of available resources fro you to try.
+Graduate education in BIM does not include Revit training, for this there are plenty of available resources for you to try.
 
 ## Revit to IFC Translation
 
