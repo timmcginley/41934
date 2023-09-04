@@ -7,7 +7,6 @@ Warm up project to get your teeth into OpenBIM standards. This assignment suppor
 7. Identify [BIM] challenges by analysing [OpenBIM] data.
 
 
-
 **The aim of this assignment is to become familiar with the core concepts of OpenBIM**. This is done through a deep dive into the IFC file format and associated Open BIM standards. The [IFC data model](/Concepts/IFC) is the industry standard for BIM, but many BIM practioners (and some BIM experts) still don't really understand it.
 
 ## Assignment Details
@@ -16,8 +15,8 @@ Warm up project to get your teeth into OpenBIM standards. This assignment suppor
 * 2 people - exceptionally could be 3
 ### 2) Define a [focus area].
 * find a focus area that you are interested in - it could be two that overlap if you cannot decide on one.
-### 3) Choose the relevant model form the Stanford models
-* Download the [Stanford models](https://learn.inside.dtu.dk/d2l/le/content/167582/Home) (on Learn -> "IFC Models" -> "Stanford models" - *Enrolled Students Only*
+### 3) Choose the relevant model form the Stanford / Skylab models
+* Download the [Stanford models](https://learn.inside.dtu.dk/d2l/le/content/167582/Home) or Skylab models (on Learn -> "IFC Models" -> "Stanford models" - *Enrolled Students Only*
 * Select the model that best represents your focus area.
 
 ### 4) Convert the IFC to an Excel work book using the IFA tool
