@@ -10,7 +10,10 @@ Components include:
 
 Written Parts
 
-* ISO 19650-1 – Part 1: Concepts and principles.
+## ISO 19650-1 – Part 1: Concepts and principles.
+In here we define:
+1.  general terms and definition, space, actor, appointment etc.
+
 * ISO 19650-2 – Part 2: Delivery phase of assets.
 * ISO 19650-3 – Part 3: Operational Phase of assets.
 * ISO 19650-4 – Part 4: Information exchange.
