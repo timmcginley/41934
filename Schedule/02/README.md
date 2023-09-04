@@ -24,6 +24,13 @@ Continue working with IFC File Analyzer
   
 ### In class activity covers...
 
+hands on example with ISO 19650, covering:
+* [OIR] Organisational Informatioon ,[AIM] Asset Information ,[PIM]
+roles of:
+* Appointing Party
+* Lead Appointed Party
+* Appointed Party
+
 We will also help this week with.
 * questions about the assignment
 * your expectations and motivations for the course.
