@@ -6,13 +6,19 @@ Continue working with IFC File Analyzer
 
 ### Presentation covers....
 
+1. ___ ISO 19650
 1. ___ What are the [Roles] of OpenBIM according to [ISO 19650]?
-1. ___ [ISO 19650]
+1. ___ Project Team
+1. ___ Appointing Party
+1. ___ Delivery Team
+1. ___ Appointed Party
+1. ___ Information Requirements
    * Asset Information Model ([AIM])
    * Asset Information Requirements ([AIR])
    * Building Implementation Plan ([BIP])
    * Employer’s Information Requirements ([EIR​])
    * Master Information Delivery Plan ([MIDP])
+   * 
    * Organizational Information Requirements ([OIR​])
    * Project Information Model ([PIM])
   
