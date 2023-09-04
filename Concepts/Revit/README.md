@@ -13,3 +13,5 @@ Graduate education in BIM does not include Revit training, for this there are pl
 * [Help with translating IFC spaces](https://www.youtube.com/watch?v=JchQT5aLfp4&ab_channel=PracticalBIMResources)
 
 * [Advice from Autodesk](https://help.autodesk.com/view/RVT/2022/ENU/?guid=GUID-6EB68CEC-6C17-4B16-A509-30537F666C1F)
+
+[IFC]: /41934/Concepts/IFC
