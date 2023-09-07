@@ -17,6 +17,9 @@ TOOL Continue working with BlenderBIM.
 1. ___ [IfcOpenShell](/41934/Concepts/IfcOpenShell)
 
 ## External Lecture Christian Kongsgaard (Arkitema)
+1. Christian to add
+
+Chrstian will then be available in the following session to talk wiht you about your projects.
 
 ### In class activity covers...
 
