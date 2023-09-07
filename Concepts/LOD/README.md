@@ -1,5 +1,7 @@
 # LOD (Level of ....)
 
+>When starting in BIM there is a desire to model lots and a feeling that the more we model the more valuable the model will be and the better job we will have done. However it is not true. According to [iso 19650] the most important thing abotu BIM is not to model the maximum amount but actually the amount that is needed (and no more).
+
 LOD is tricky as it can mean different things. These can be summarised as LOX....
 
 According to Dikon....
