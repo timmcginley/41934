@@ -1,9 +1,9 @@
-## Session 4 OpenBIM Use Cases
+# Session 4 OpenBIM Use Cases
 
 *18th September 2023*
 
 TOOL Continue working with BlenderBIM.
-1. Introduction to [A2](/41934/Assignments/A2)
+1. ___ Introduction to [A2](/41934/Assignments/A2)
 1. ___ What are the [Uses](/41934/Uses) of OpenBIM? [ ]
 1. ___ [UCM](/41934/Concepts/UCM)
 1. ___ Introduction to [MarkDown](/41934/Concepts/MarkDown)
@@ -15,6 +15,8 @@ TOOL Continue working with BlenderBIM.
 1. ___ [IDE](/41934/Concepts/IDE)
 1. ___ [BPMN](/41934/Concepts/BPMN)
 1. ___ [IfcOpenShell](/41934/Concepts/IfcOpenShell)
+
+## External Lecture Christian Kongsgaard (Arkitema)
 
 ### In class activity covers...
 
