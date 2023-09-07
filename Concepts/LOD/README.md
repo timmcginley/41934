@@ -8,6 +8,13 @@
 
 LOD is tricky as it can mean different things. These can be summarised as LOX....
 
+We look here at three different guidelines:
+1. Dikon
+2. guideline 2
+3. guideline 3
+
+## Dikon
+
 According to Dikon....
 Level of Development (LOD) describes explicitly which information about model elements must be present in the BIM at different stages during the design and construction process. In Denmark this can be defined using DiKon.
 
