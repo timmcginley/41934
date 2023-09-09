@@ -10,3 +10,6 @@ The OpenBIM Manager is based on the traditional BIM manager role, such as managi
 * [Coordinate Design Models B-13](https://psu.pb.unizin.org/bimprojectexecutionplanning/back-matter/use-3d-coordination/)
 
 [clashes]: https://github.com/timmcginley/41934/blob/main/Concept/Clash
+
+## Thesis
+Zahra Al-Mosawhi (2022) [**Virtual Team Management with Focus on Trust, Motivation and Collaboration**](https://findit.dtu.dk/en/catalog/620ce9ae19de8c7274e03dba)
