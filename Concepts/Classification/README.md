@@ -14,14 +14,14 @@ Managing the challenges of classification systems is a key component of the [man
 Advanced Classification Problems
 * Automated Classification. Use of Machine Learning to support the automated classification of building information models.
 
-There are many different types of classification in BIM. In this session we will try to map the elements we identify in the Duplex model to 2 different classification systems.
+## Exercise: Classification in BlenderBIM
+
+There are many different types of classification in BIM. In this session we will try to map the elements we identify in the Skylab model to 2 different classification systems.
 
 * CCS (Popular in Denmark)
 * Uniclass (Popular in UK)
 * OnmiClass (Popular in North America)
 
-
-## Exercise: Classification in BlenderBIM
 
 Overview video from Dion Moult here. Dion did not intend the video to be a tutorial so we have outlined the steps and required links below.
 
