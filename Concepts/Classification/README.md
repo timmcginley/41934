@@ -10,7 +10,7 @@ Managing the challenges of classification systems is a key component of the [man
 * choosing which classification system to specify for your project.
 
 Advanced Classification Problems
-* Automated Classification. See Kristian Brinks thesis on this [here](
+* Automated Classification. Use of Machine Learning to support the automated classification of building information models.
 
 There are many different types of classification in BIM. In this session we will try to map the elements we identify in the Duplex model to 2 different classification systems.
 
