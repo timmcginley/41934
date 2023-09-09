@@ -11,3 +11,6 @@
 
 <!-- LINKS -->
 [LCA BYG API]: https://api.lcabyg.dk/da/
+
+## Thesis
+* Martyna Jakubowska (2021) [**New method for multi-objective indoor climateoptimisation**](https://findit.dtu.dk/en/catalog/6156eca9d9001d016b64533d)
