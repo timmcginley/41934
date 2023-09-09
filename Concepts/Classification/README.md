@@ -14,14 +14,14 @@ Advanced Classification Problems
 
 There are many different types of classification in BIM. In this session we will try to map the elements we identify in the Duplex model to 2 different classification systems.
 
-* Uniclass
-* OnmiClass 
+* CCS (Popular in Denmark)
+* Uniclass (Popular in UK)
+* OnmiClass (Popular in North America)
 
-are 2 options
 
 ## Classification in BlenderBIM
 
-Overview video from Dion Moult here.
+Overview video from Dion Moult here. Dion did not intend the video to be a tutorial so we have outlined the steps and required links below.
 
 <https://www.youtube.com/watch?v=bWe8GDzVTVQ&ab_channel=DionMoult>
 
