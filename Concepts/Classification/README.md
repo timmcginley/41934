@@ -19,7 +19,7 @@ There are many different types of classification in BIM. In this session we will
 * OnmiClass (Popular in North America)
 
 
-## Classification in BlenderBIM
+## Exercise: Classification in BlenderBIM
 
 Overview video from Dion Moult here. Dion did not intend the video to be a tutorial so we have outlined the steps and required links below.
 
