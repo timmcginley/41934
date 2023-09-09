@@ -15,5 +15,8 @@ Could also include Energy / Indoor / Daylight / Acoustics.
 
 ## Thesis Inspiration
 ### Acoustics
-Hannah Cathrine Wiid Jakobsen (2022) [**Hospital sound environment experienced by staff and patients and how it aligns with current legislation**](https://findit.dtu.dk/en/catalog/626d1904580469114609ae7d)
+* Hannah Cathrine Wiid Jakobsen (2022) [**Hospital sound environment experienced by staff and patients and how it aligns with current legislation**](https://findit.dtu.dk/en/catalog/626d1904580469114609ae7d)
+### Energy
+* Lar Emil Jakobsen (2023) [**Processing and visualization of user data from different building types for the purpose of identifying problematic buildings**](https://findit.dtu.dk/en/catalog/64e69fc2627b4320527676bb)
+* 
 
