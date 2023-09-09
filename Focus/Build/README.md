@@ -26,3 +26,7 @@ Ontologies: have you found that th
 * [22 Group 02](https://github.com/AndersTraeland/A1---Open-BIM) - Cost (Structural)
 * [22 Group 11](https://github.com/AnjaHolmquist/GROUP-11.) - Cost
 * [22 Group 19](https://github.com/simonciversen/A1-OpenBIM) - Cost (early design phase)
+
+## Thesis
+* Jacob Pedersen (2021) [**The Framework for Optimised Construction Progress Tracking**](https://findit.dtu.dk/en/catalog/604f4eb8d9001d0165750e3b)
+* Christian Carlos Mamede Hansen (2021) [**Automation in Construction; A Business Process Management Perspective**](https://findit.dtu.dk/en/catalog/60421fb4d9001d016e358134)
