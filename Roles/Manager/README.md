@@ -15,3 +15,4 @@ The OpenBIM Manager is based on the traditional BIM manager role, such as managi
 * Zahra Al-Mosawi (2022) [**Virtual Team Management with Focus on Trust, Motivation and Collaboration**](https://findit.dtu.dk/en/catalog/620ce9ae19de8c7274e03dba)
 * Christian Carlos Mamede Hansen (2021) [**Automation in Construction; A Business Process Management Perspective**](https://findit.dtu.dk/en/catalog/60421fb4d9001d016e358134)
 * Eric Kastl Jensen and Adam Søe Beilin (2020) [**Simplifying communication between AEC stakeholders to facilitate agile practices**](https://findit.dtu.dk/en/catalog/5f522104d9001d01694ab010)
+* Einar Loktu (2019) [**Early stage Collaboration in Architecture and Engineering**](https://findit.dtu.dk/en/catalog/5d3d8339d9001d32f558c126)
