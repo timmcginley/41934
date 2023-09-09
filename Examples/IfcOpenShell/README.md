@@ -16,7 +16,7 @@ model = IfcStore.get_file()
 
 If in the console / terminal do... 
 
-*N.B.please change the model for the one you are using :)*
+*N.B. please change the model for the one you are using :)*
 
 ```python
 import ifcopenshell
