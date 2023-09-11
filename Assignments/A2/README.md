@@ -135,8 +135,9 @@ Therefore, the aim of this assignment is in your groups to explore focused parts
 
 ## Activity Completion
 
-## ideas
-* I would be really interested to see if we could change values in an SVG file and use this to edit and append the information in drawings.
+## Ideas
+* How could we change values in an SVG file and use this to edit and append the information in drawings.
+* Hwo could future students in [Advanced Building Design] use your tool
 
 <!-- links --> 
 
@@ -160,3 +161,4 @@ Therefore, the aim of this assignment is in your groups to explore focused parts
 [BlenderBIM]: /41934/Concepts/BlenderBIM
 [use case]: /41934/Uses
 [Business and societal value]: /Concepts/BusinessAndSocietalValue
+[Advanced Building Design]: https://github.com/timmcginley/41936/tree/main
