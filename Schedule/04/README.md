@@ -16,6 +16,10 @@ TOOL Continue working with BlenderBIM.
 1. ___ [IDE](/41934/Concepts/IDE)
 1. ___ [BPMN](/41934/Concepts/BPMN)
 1. ___ [IfcOpenShell](/41934/Concepts/IfcOpenShell)
+2. ___ Common Data Environment [(CDE)](/41934/Concepts/CDE)
+2. ___ [Dimensions](/41934/Concepts/Dimensions) of BIM.
+1. ___ meta disciplinary objects
+
 
 ## External Lecture Christian Kongsgaard (Arkitema)
 1. Christian to add
