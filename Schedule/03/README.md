@@ -8,11 +8,10 @@ A2: Introduce
 
 Kristian Brink [Kribri404] Awesome BIM presentation.
 
-1. ___ [Classification](/41934/Concepts/Classification)
-1. ___ IFC [Properties and PropertySets](/41934/Concepts/Properties)
+1. ___ [Classification]
+1. ___ IFC [Properties and PropertySets]
 1. ___ BIM Execution Plan [(BEP)](/41934/Concepts/BIMExecutionPlan) in the context of [IS0 19650](/41934/Concepts/ISO19650)
 1. ___ Choose you disciplinary [Focus] Areas
-3. ___ [bsDD](/41934/Concepts/bsDD)
 1. ___ [BlenderBIM](/41934/Concepts/BlenderBIM) Explore old models - also see the IFC properties
 2. ___ [Dimensions](/41934/Concepts/Dimensions) of BIM.
 3. ___ [LOD](/41934/Concepts/LOD)
@@ -23,8 +22,7 @@ Kristian Brink [Kribri404] Awesome BIM presentation.
 
 ### In class activity covers...
 
-* In this activity you will be introduced to a [‘metadisciplinary framework’ for BIM (McGinley Krijnen, 2022)](https://www.researchgate.net/publication/363579368_A_framework_for_meta-disciplinary_building_analysis/stats). 
+* The activity from the [classification] concept.
+* Finish [A1] including any questins fyou may have from your dashboards.
 
-
-We will also help this week with.
-* questions about the assignment
+[Classification]: /41934/Concepts/Classification
