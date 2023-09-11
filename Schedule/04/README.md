@@ -24,6 +24,7 @@ Chrstian will then be available in the following session to talk wiht you about 
 ### In class activity covers...
 
 * [Github] repo managements
-* IfcOpenShell [Intermediate examples](/41934/Examples/IfcOpenShell/Intermediate-Examples)
+* IfcOpenShell [Beginner examples](/41934/Examples/IfcOpenShell/Basic)
+
 
 [Github]: /41934/Concepts/Github
