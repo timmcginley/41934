@@ -15,7 +15,7 @@ Previously we have focused on the IFC file and helping you to understand how it 
 * Read the project reports.
 ![image](https://github.com/timmcginley/41934/assets/1415855/741ab321-fe1c-43a6-ae79-057d4ee9e6e9)
 
-## A2C: import the IFC into BlenderBIM
+## A2C: Import the IFC into BlenderBIM
 * Import one of the 41936 models into [BlenderBIM] and explore the IFC file and its properties.
 
 ## A2D: Explore the script
@@ -30,7 +30,7 @@ Identify what the projects analysed, how did they test this? What was the domain
 * develop scripts to help teams in future analyse their buildings.
   
 Identify what the projects analysed, how did they test this? What was the domain [focus] of the investigation? Was it [structural], [energy and indoor, daylight, acoustic], [LCA/LCC], [construction planning] or something else? You will then be introduced to [BPMN] and use it to document the use case and explore the role of experts in [OpenBIM]. 
-* Which of the [focus areas](/Focus) will you choose?
+* Which  [focus area](s) will you choose?
 * What information did you find that helped you to see this would be a good choice?
 
 ## A2F: Review previous code
@@ -90,7 +90,7 @@ Your group must submit your modified script file for the use case, this should b
 
 In this assignment we will develop a tool / workflow based on the use case you defined in the [previous assignment](/41934/Assignment/A3).<br>
 The tool must:
-* Address your [use case](/41934/Uses):
+* Address your [use case] :
 
 * Ideally be written in Python, but can be other approaches in special cases if agreed with the course responsible.
 * Be summarised in a 2 minute video.
@@ -121,8 +121,8 @@ The structure of this depends on the tool you have chosen but a base structure f
 ````
 
 ## 2 Minute Video
-* Summary of the use case / why is this a challenge?
-* Who is you tool for?
+* Summary of the [use case] / why is this a challenge?
+* Who is your tool for?
 * Business and societal value
 * Demo of the tool (if interaction / processing takes longer – edit the video 😊)
 * details about the upload / submission of the videos will be given closer to the time.
@@ -158,3 +158,4 @@ Therefore, the aim of this assignment is in your groups to explore focused parts
 [LCA/LCC]: /41934/Focus/Sustainability
 [construction planning]: /41934/Focus/Build
 [BlenderBIM]: /41934/Concepts/BlenderBIM
+[use case]: /41934/Uses
