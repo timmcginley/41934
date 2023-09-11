@@ -19,6 +19,7 @@ Kristian Brink [Kribri404] Awesome BIM presentation.
 
 ### In class activity covers...
 
+* [Install](https://blenderbim.org/docs/users/installation.html) Blender and BlenderBIM following the instruction page, with the difference that you should follow the [unstable installation](https://blenderbim.org/docs/devs/installation.html#unstable-installation). Here is also a [video explaination](https://www.youtube.com/watch?v=I-937k6fvKk&t=0s) by Ifc Architect (notice that the new version of BlenderBIM looks a bit different).
 * The activity from the [classification] concept.
 * Finish [A1] including any questins fyou may have from your dashboards.
 
