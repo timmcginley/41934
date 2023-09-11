@@ -14,7 +14,10 @@ Warm up project to get your teeth into OpenBIM standards. This assignment suppor
 ### 1) Make a group 
 * 2 people - exceptionally could be 3
 ### 2) Define a [focus area].
-* find a focus area that you are interested in - it could be two that overlap if you cannot decide on one.
+* Find a focus area that you are interested in - it could be two that overlap if you cannot decide on one.
+### 2.a) Think about a use case.
+
+* Inside your focus area, find a use case or a "problem" you'd want to solve. If your focus area was "indoor climate", an example of a use case could be "calculate Daylight Autonomy for every space". 
 ### 3) Choose the relevant model form the Stanford / Skylab models
 * Download the [Stanford models](https://learn.inside.dtu.dk/d2l/le/content/167582/Home) or Skylab models (on Learn -> "IFC Models" -> "Stanford models" - *Enrolled Students Only*
 * Select the model that best represents your focus area.
@@ -31,7 +34,9 @@ Warm up project to get your teeth into OpenBIM standards. This assignment suppor
      
 ### 6) Add a sheet to the work book you have generated, then use data from the other sheets to provide a dashboard of the building.
 
-What you choose to represent in your dashboard is up to you. but you could consider trying to represent:
+What you choose to represent in your dashboard is up to you, but it should match the focus area and use case you have chosen. Think about what information would be necessary to solve your use case.
+
+You could consider trying to represent:
 
 * areas of the building,
 
@@ -40,6 +45,8 @@ What you choose to represent in your dashboard is up to you. but you could consi
 * could you estimate cost? - if so how?
 
 * what else can you find in the IFC data that you could use in your dashboard?
+
+### 6.a) Add a sentence about your use case at the top of your dashboard. Concider how the information you're showing supports your use case.
 
 ### 7) Submission
 

@@ -20,3 +20,5 @@ BEPs are then an essential tool of [managers] and coordinators and valuable reso
 This page is partly based on information from the [IBIMD](https://www.ct.upt.ro/IBIMD/) project of which DTU is a participant.
 
 [managers]: /41934/Roles/Manager
+[modellers]: /41934/Roles/Modeller
+[analysts]: /41934/Roles/Analyst

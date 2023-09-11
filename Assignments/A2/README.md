@@ -15,7 +15,7 @@ Previously we have focused on the IFC file and helping you to understand how it 
 * Read the project reports.
 ![image](https://github.com/timmcginley/41934/assets/1415855/741ab321-fe1c-43a6-ae79-057d4ee9e6e9)
 
-## A2C: import the IFC into BlenderBIM
+## A2C: Import the IFC into BlenderBIM
 * Import one of the 41936 models into [BlenderBIM] and explore the IFC file and its properties.
 
 ## A2D: Explore the script
@@ -30,7 +30,7 @@ Identify what the projects analysed, how did they test this? What was the domain
 * develop scripts to help teams in future analyse their buildings.
   
 Identify what the projects analysed, how did they test this? What was the domain [focus] of the investigation? Was it [structural], [energy and indoor, daylight, acoustic], [LCA/LCC], [construction planning] or something else? You will then be introduced to [BPMN] and use it to document the use case and explore the role of experts in [OpenBIM]. 
-* Which of the [focus areas](/Focus) will you choose?
+* Which  [focus area](s) will you choose?
 * What information did you find that helped you to see this would be a good choice?
 
 ## A2F: Review previous code
@@ -90,7 +90,7 @@ Your group must submit your modified script file for the use case, this should b
 
 In this assignment we will develop a tool / workflow based on the use case you defined in the [previous assignment](/41934/Assignment/A3).<br>
 The tool must:
-* Address your [use case](/41934/Uses):
+* Address your [use case] :
 
 * Ideally be written in Python, but can be other approaches in special cases if agreed with the course responsible.
 * Be summarised in a 2 minute video.
@@ -100,7 +100,7 @@ You will produce one final tool in the following folders, the structure of which
 
 The structure of this depends on the tool you have chosen to develop but it should:
 1. be written in Python (mostly) so should contain a main.py file
-2. if you hev used blender as the target for the tool, please also include a .blend file that we can load to check your project.
+2. if you have used blender as the target for the tool, please also include a .blend file that we can load to check your project.
 3. clearly seperated the code from the input data and resulting guidance (output) (if your output is a file).
 
 The structure of this depends on the tool you have chosen but a base structure for your folder / github repository should be: 
@@ -121,9 +121,9 @@ The structure of this depends on the tool you have chosen but a base structure f
 ````
 
 ## 2 Minute Video
-* Summary of the use case / why is this a challenge?
-* Who is you tool for?
-* Business and societal value
+* Summary of the [use case] / why is this a challenge?
+* Who is your tool for?
+* Specify the [Business and societal value] of your analysis tool / process.
 * Demo of the tool (if interaction / processing takes longer – edit the video 😊)
 * details about the upload / submission of the videos will be given closer to the time.
 
@@ -135,8 +135,9 @@ Therefore, the aim of this assignment is in your groups to explore focused parts
 
 ## Activity Completion
 
-## ideas
-* I would be really interested to see if we could change values in an SVG file and use this to edit and append the information in drawings.
+## Ideas
+* How could we change values in an SVG file and use this to edit and append the information in drawings.
+* Hwo could future students in [Advanced Building Design] use your tool
 
 <!-- links --> 
 
@@ -158,3 +159,6 @@ Therefore, the aim of this assignment is in your groups to explore focused parts
 [LCA/LCC]: /41934/Focus/Sustainability
 [construction planning]: /41934/Focus/Build
 [BlenderBIM]: /41934/Concepts/BlenderBIM
+[use case]: /41934/Uses
+[Business and societal value]: /Concepts/BusinessAndSocietalValue
+[Advanced Building Design]: https://github.com/timmcginley/41936/tree/main

@@ -1,6 +1,19 @@
 # LOD (Level of ....)
 
+>When starting in BIM there is a desire to model lots and a feeling that the more we model the more valuable the model will be and the better job we will have done. However it is not true. According to [iso 19650] the most important thing abotu BIM is not to model the maximum amount but actually the amount that is needed (and no more).
+>
+>Levels of (Detail / development) help us to be specific about what the Level of Information Need is
+
+## Level of Information Need (LOIN)
+
 LOD is tricky as it can mean different things. These can be summarised as LOX....
+
+We look here at three different guidelines:
+1. Dikon
+2. guideline 2
+3. guideline 3
+
+## Dikon
 
 According to Dikon....
 Level of Development (LOD) describes explicitly which information about model elements must be present in the BIM at different stages during the design and construction process. In Denmark this can be defined using DiKon.
