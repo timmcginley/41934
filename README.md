@@ -21,12 +21,12 @@ The aim of the course is to support you to become an OpenBIM champion (guru) in 
 
 <!-- links -->
 
-[Assignments]: 41934/Assignments
-[IFC]: 41934/Concepts/IFC
-[BPMN]: 41934/Concepts/BPMN
-[Construction]: 41934/Focus/Construction
-[Concepts]: 41934/Concepts
-[Roles]: 41934/Roles/README.md
-[building information]: 41934/Concepts/BIM
-[IfcOpenShell]: 41934/Concepts/IfcOpenShell
-[Schedule]: 41934/Schedule
+[Assignments]: /41934/Assignments
+[IFC]: /41934/Concepts/IFC
+[BPMN]: /41934/Concepts/BPMN
+[Construction]: /41934/Focus/Construction
+[Concepts]: /41934/Concepts
+[Roles]: /41934/Roles/README.md
+[building information]: /41934/Concepts/BIM
+[IfcOpenShell]: /41934/Concepts/IfcOpenShell
+[Schedule]: /41934/Schedule
