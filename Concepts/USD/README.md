@@ -1,4 +1,4 @@
-# Universal Scene Descriptor
+# Universal Scene Description
 
 [Universal Scene Description](https://en.wikipedia.org/wiki/Universal_Scene_Description) was originally developed at [Pixar](https://www.pixar.com/usd).
 
