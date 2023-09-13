@@ -22,7 +22,8 @@ TOOL Continue working with BlenderBIM.
 
 
 ## External Lecture Christian Kongsgaard (Arkitema)
-1. Christian to add
+- [Christian Kongsgaard](https://www.linkedin.com/in/christian-kongsgaard/) - [Open Source & Life Cycle Assesment](https://github.com/timmcginley/41934/files/12596455/OpenSource.LCA.-.Christian.Kongsgaard.-.Presentation.pdf)
+
 
 Chrstian will then be available in the following session to talk wiht you about your projects.
 
