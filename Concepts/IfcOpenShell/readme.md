@@ -11,7 +11,7 @@ This tutorial site bundles tutorials on IfcOpenShell, including the collection o
 
 ## Learn IfcOpenShell
 
-- [Installing and Getting Started](installation/setup_standalone_cmdline/)
+- [Installing and Getting Started](installation/updated_installation_instructions/)
 - Check out the exmaples [here](/41934/Examples)
 - Selecting elements of a particular type
 - Retrieve attributes
