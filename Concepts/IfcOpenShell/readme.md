@@ -12,7 +12,7 @@ This tutorial site bundles tutorials on IfcOpenShell, including the collection o
 ## Learn IfcOpenShell
 
 - [Installing and Getting Started](installation/updated_installation_instructions/)
-- Check out the exmaples [here](/41934/Examples)
+- Check out the exmaples [here](/41934/Examples/IfcOpenShell/)
 - Selecting elements of a particular type
 - Retrieve attributes
 - Retrieve properties
@@ -23,14 +23,11 @@ This tutorial site bundles tutorials on IfcOpenShell, including the collection o
 ## And then....
 
 Upon completing this, you could:
-- Check out a tutorial on identifying relevant [BIM use cases](https://github.com/DTU-Byg/BIM-USE) and developing ifcOpenShell tools in Python to address these.
-
-# More information
-Please reach out via the Git Issues.
+- Check out a tutorial on identifying relevant [BIM use cases](https://github.com/DTU-Byg/BIM-USE) and developing IfcOpenShell tools in Python to address these.
 
 # References:
-- IfcOpenShell Github-page: https://github.com/IfcOpenShell/IfcOpenShell
-- IfcOpenShell website: http://ifcopenshell.org/
-- IfcOpenShell-Python library documentation: https://ifcopenshell.github.io/docs/python/html/py-modindex.html
-- IfcOpenShell-Python API documentation: https://blenderbim.org/docs-python/autoapi/index.html
-- IFC 4x3 documentation: https://ifc43-docs.standards.buildingsmart.org/
+- IfcOpenShell Github-page: [https://github.com/IfcOpenShell/IfcOpenShell](https://github.com/IfcOpenShell/IfcOpenShell)
+- IfcOpenShell website: [http://ifcopenshell.org/](http://ifcopenshell.org/)
+- IfcOpenShell-Python library documentation: [https://ifcopenshell.github.io/docs/python/html/py-modindex.html](https://ifcopenshell.github.io/docs/python/html/py-modindex.html)
+- IfcOpenShell-Python API documentation: [https://blenderbim.org/docs-python/autoapi/index.html](https://blenderbim.org/docs-python/autoapi/index.html)
+- IFC 4x3 documentation: [https://ifc43-docs.standards.buildingsmart.org/](https://ifc43-docs.standards.buildingsmart.org/)
