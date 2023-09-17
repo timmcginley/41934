@@ -12,7 +12,7 @@ This article explaines how to both use the the interactive Python console and ho
 Writing and running scripts inside Blender is fine, but the text editor included with Blender is pretty basic. If you have to write longer scripts you might want the added functionalities that a dedicated code editor offers, like syntax highlighting, code hints, a debugger etc. 
 To run scripts outside of Blender, you have to install Python, a code editor and any other libraries yourself.
 
-You may want to write your file in an external code editor, but still run your script in Blender to have the visual connection to you model. To do that, follow [this tutorial](https://github.com/timmcginley/41934/blob/main/Concepts/BlenderBIM/E22_41934_How%20to%20run%20an%20external%20script%20in%20Blender.md) on running an external script in Blender. 
+You may want to write your file in an external code editor, but still run your script in Blender to have the visual connection to you model. To do that, follow [this tutorial](/41934/Concepts/BlenderBIM/E22_41934_How%20to%20run%20an%20external%20script%20in%20Blender.md) on running an external script in Blender. 
 
 ## Install Python
 Install Python 3.10 or 3.11 from [https://www.python.org/downloads/](https://www.python.org/downloads/ "https://www.python.org/downloads/") (don't install 3.12 as IfcOpenShell might not be available for this version yet). If you have an older OS, you might need to install an older version, which is also fine.
