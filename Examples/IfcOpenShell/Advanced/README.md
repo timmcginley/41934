@@ -1,10 +1,15 @@
 # Advanced IfcOpenShell
 
-* N.B. in these examples for consistency we name the model 'model'; if you are using somethign different that is ok, but the idea here is to keep the code consistent to help you.
+Advanced tutorials and resources:
+- Parametric house in Ifcopenshell - https://cvillagrasa.github.io/IfcOpenHouse/generation.html
+- Using IfcOpenShell to parse IFC files with Python - https://thinkmoult.com/using-ifcopenshell-parse-ifc-files-python.html
+- Jupyter notebook tutorial on geolocation - https://github.com/vulevukusej/Jupyter-IfcOpenShell
 
-## Loading and importing the model and ifcOpenShell into the [IDE] you are using
+*N.B. in these examples for consistency we name the model 'model'; if you are using somethign different that is ok, but the idea here is to keep the code consistent to help you.*
 
-If in Blender do....
+## Loading and importing the model and IfcOpenShell into the [IDE] you are using
+
+If you are in Blender and want to use the IFC model you have open in the model view:
 
 ```python
 
@@ -13,8 +18,7 @@ from blenderbim.bim.ifc import IfcStore
 model = IfcStore.get_file()
 
 ```
-
-If in the console / terminal do...
+If you are in an external code editor, terminal OR you are in Blender, but you want to use a different IFC model than the one you have loaded:
 
 ```python
 import ifcopenshell
@@ -691,16 +695,24 @@ for pset in model.by_type("IfcPropertySet"):
 [IDE]: /41934/Concepts/IDE
 
 ## Glossary of terms (Work in progress)
-Format - we use this to make the output statements pretty and reduce the amount of logic that we need to include in the print statement -> check it out here https://pyformat.info/
-Example
-```Python
-print('-\t{}'.format(obj.Name))
-```
-Input - Get more information -> https://www.w3schools.com/python/ref_func_input.asp
-	Example
-	print
+- **F-string** - a "new", easier way of formatting print statements. It is more readable than the previous versions. Check out [this article](https://realpython.com/python-f-strings/) for more info.
 
-Function - sometimes we might have to define a function for code that we will reuse in our script for instance https://www.tutorialspoint.com/python/python_functions.htm
+	**Example**:
+```Python
+print(f"Some string {my_non_string_variable}")
+```
+
+- **Format** - an older way of formatting print statements -> check it out here https://pyformat.info/
+
+	**Example**:
+
+```Python
+print("Some string {}".format(my_non_string_variable))
+```
+
+- **Input** - Get more information -> https://www.w3schools.com/python/ref_func_input.asp
+
+- **Function** - sometimes we might have to define a function for code that we will reuse in our script for instance https://www.tutorialspoint.com/python/python_functions.htm
 
 
 
