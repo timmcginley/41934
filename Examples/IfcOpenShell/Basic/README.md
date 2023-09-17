@@ -1,20 +1,34 @@
 # Basic IfcOpenshell
 
-* N.B. in these examples for consistency we name the model 'model'; if you are using somethign different that is ok, but the idea here is to keep the code consistent to help you.
+**N.B.!** IfcOpenShell is a library for Python and thus follows the logic and syntax of the language. Having at least some basic knowledge of Python will make scripting with IfcOpenShell much easier and less confusing. If you don't have any experience with Python, doing some exercises from a tutorial site like  [codecademy](https://www.codecademy.com/catalog/language/python "https://www.codecademy.com/catalog/language/python") or  [freecodecamp](https://www.freecodecamp.org/news/learn-python-free-python-courses-for-beginners/ "https://www.freecodecamp.org/news/learn-python-free-python-courses-for-beginners/") is strongly recommended. 
 
-## Introduction 
+You can also start with [this tutorial](https://github.com/jakob-beetz/ifcopenshell-notebooks) on IfcOpenShell, as it also includes a crash course on Python. If you are already familiar with Python, you can jump to file 04_hello_ifc. This tutorial is made as Jupyter notebooks and doesn't require you to install anything, simply click on the button "launch | binder" at the top of the README.md and wait for it to load.
 
-Loading and importing the model and ifcOpenShell into the [IDE] you are using
+Other excellent beginner tutorials and recourses on IfcOpenShell:
+- IfcOpenShell "Hello, world!" https://blenderbim.org/docs-python/ifcopenshell-python/hello_world.html (strongly recommended)
+- IfcOpenShell Code examples https://blenderbim.org/docs-python/ifcopenshell-python/code_examples.html. The first ones are beginner-friendly and increase in difficulty. A good resource for your projects.
+- Some more IfcOpenShell code examples https://wiki.osarch.org/index.php?title=IfcOpenShell_code_examples#Geometry_processing
+-  BlenderBIM code examples https://wiki.osarch.org/index.php?title=BlenderBIM_Add-on/BlenderBIM_Add-on_code_examples
+- IFC-101 – A Free IFC crash course with Yassine: https://osarch.org/2022/11/12/%f0%9f%93%ba-ifc-101-a-free-ifc-crash-course-with-python/. (you can focus on Episode 03-05B)
 
-If in Blender do....
+Below are small scripts and snippets that we've used over the run of this course. Try them out for yourself!
+
+*N.B. in these examples for consistency we name the model 'model'; if you are using somethign different that is ok, but the idea here is to keep the code consistent to help you.*
+
+## Loading and importing the model and IfcOpenShell into the code editor you are using
+
+If you are in Blender and want to use the IFC model you have open in the model view:
 
 ```python
+
 import bpy
 from blenderbim.bim.ifc import IfcStore
 model = IfcStore.get_file()
-```
 
-If in the console / terminal do...
+```
+If you are in an external code editor, terminal OR you are in Blender, but you want to use a different IFC model than the one you have loaded:
+
+*N.B. please change the model for the one you are using :)*
 
 ```python
 import ifcopenshell
@@ -32,7 +46,7 @@ model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
 * [Basic 6 - Get beam properties](#Basic-Example-6)
 
 ### Basic Example 1a
-loop through the [entities] and then add one to the variable *spaces_in_model* each time we find an instance of that entity.
+Loop through the [entities] and then add one to the variable *spaces_in_model* each time we find an instance of that entity.
 
 *remember to import ifcopenshell and load the model if you need to, see the [introduction](#Introduction) of this concept for more information.*
 
@@ -43,9 +57,9 @@ spaces_in_model = 0
 for entity in model.by_type("IfcSpace"):
     spaces_in_model+=1
 
-print("\nThere are "+str(spaces_in_model)+" spaces in the model")
+print(f"\nThere are {spaces_in_model} spaces in the model")
 
-if (spaces_required == spaces_in_model):
+if spaces_required is spaces_in_model:
     print ('RESULT: The number of spaces is correct')
 else:
     print ('RESULT: The number of spaces is wrong')
@@ -60,9 +74,9 @@ Use len() to count the number of [entities] (without having to loop through all 
 spaces_required = 21
 spaces_in_model = len(model.by_type("IfcSpace"))
 
-print("\nThere are "+str(spaces_in_model)+" spaces in the model")
+print(f"\nThere are {spaces_in_model} spaces in the model")
 
-if (spaces_required == spaces_in_model):
+if spaces_required is spaces_in_model:
     print ('RESULT: The number of spaces is correct')
 else:
     print ('RESULT: The number of doors is wrong')
@@ -87,7 +101,7 @@ for entity in model.by_type("IfcBeam"):
                 #add the length to the total length
                 total_beam_length += prop.NominalValue.wrappedValue
 
-print("\nThere are "+str(total_beam_length)+" meters of beam in the model")
+print(f"\nThere are {total_beam_Length} meters of beam in the model")
 ```
 
 ### Basic Example 3
@@ -100,7 +114,7 @@ Get the property sets of an element.
 # feel free to change this to your needs
 # appending [0] to the end means that we only get the first entity
 # if you remove the [0] you will get all the ifcwall entitities in the model.
-# remember that IfcWall is only one of the ways that ifc describes walls (HINT: IfcWallStandardCase)
+# If you are using a model in an older IFC version like 2x3, there are other classes that describe a wall (HINT: IfcWallStandardCase)
 
 wall = model.by_type('IfcWall')[0]
 for definition in wall.IsDefinedBy:
@@ -124,7 +138,7 @@ invalid_doors=0
 print ('\n') 
  
 # initial check to establish if we have the 'correct' number of doors 
-if doors_required == doors_in_model: 
+if doors_required is doors_in_model: 
     print("Result matches expected value ({})".format(doors_required)) 
 elif doors_required > doors_in_model: 
     print("There are more doors than expected") 
@@ -137,8 +151,8 @@ for door in model.by_type("IfcDoor"):
     if door.OverallWidth>=min_width_door: 
         valid_doors+=1       
 # now we have finished the counting we can pull back the indents and print the result         
-print("\nThe width of {} doors is according to the Danish Regulations".format(valid_doors)) 
-print("The width of {} doors is not according to the Danish Regulations".format(doors_in_model-valid_doors)) 
+print(f"\nThe width of {valid_doors} doors is according to the Danish Regulations") 
+print(f"The width of {doors_in_model-valid_doors} doors is not according to the Danish Regulations") 
 ```
 
 ![image](https://github.com/timmcginley/41934/assets/1415855/88274058-a001-455a-8b6b-b123fb7feb54)
@@ -156,7 +170,6 @@ import pandas
 # starting time
 start = time.time()
 
-#model = ifcopenshell.open("model/BIM_3W_Team05_Sub01.ifc")
 model = ifcopenshell.open("model/Duplex_A_20110907.ifc")
 end = time.time()
 
