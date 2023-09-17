@@ -6,7 +6,7 @@ There are a couple of different ways of installing the IfcOpenShell python libra
 
 The first one doesn't require you to install anything additional at all! Both Python and IfcOpenShell come with BlenderBIM already and can be used directly from the Blender Python console and text editor.
 
-This article explaines how to both use the the interactive Python console and how to write full scripts in Blender with BlenderBIM Add-on: https://wiki.osarch.org/index.php?title=BlenderBIM_Add-on/Using_the_Python_console_with_BlenderBIM_Add-on
+This article explaines how to both use the the interactive Python console and how to write full scripts in Blender with BlenderBIM Add-on: [https://wiki.osarch.org/index.php?title=BlenderBIM_Add-on/Using_the_Python_console_with_BlenderBIM_Add-on](https://wiki.osarch.org/index.php?title=BlenderBIM_Add-on/Using_the_Python_console_with_BlenderBIM_Add-on)
 
 # Stand-alone installation
 Writing and running scripts inside Blender is fine, but the text editor included with Blender is pretty basic. If you have to write longer scripts you might want the added functionalities that a dedicated code editor offers, like syntax highlighting, code hints, a debugger etc. 
@@ -30,7 +30,7 @@ So it can simply be installed by typing the following command in your command pr
 
 `pip install ifcopenshell`
 
-Follow this: https://blenderbim.org/docs-python/ifcopenshell-python/installation.html#pypi
+Follow this: [https://blenderbim.org/docs-python/ifcopenshell-python/installation.html#pypi](https://blenderbim.org/docs-python/ifcopenshell-python/installation.html#pypi)
 
 ### Install with Conda
 
@@ -43,4 +43,4 @@ in your terminal or command prompt. See: [https://github.com/IfcOpenShell/IfcOpe
 ### Install manually through site-packages
 
 You can also install IfcOpenShell by manually placing the folder in Python's `site-packages`  folder. 
-Download the version that fits your operating system and Python version from https://blenderbim.org/docs-python/ifcopenshell-python/installation.html#pre-built-packages and follow further instructions from there.
+Download the version that fits your operating system and Python version from [https://blenderbim.org/docs-python/ifcopenshell-python/installation.html#pre-built-packages](https://blenderbim.org/docs-python/ifcopenshell-python/installation.html#pre-built-packages) and follow further instructions from there.
