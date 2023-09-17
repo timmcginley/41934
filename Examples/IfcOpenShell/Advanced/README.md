@@ -1,10 +1,9 @@
 # Advanced IfcOpenShell
 
 Advanced tutorials and resources:
-- Parametric house in Ifcopenshell - https://cvillagrasa.github.io/IfcOpenHouse/generation.html
-- Using IfcOpenShell to parse IFC files with Python - https://thinkmoult.com/using-ifcopenshell-parse-ifc-files-python.html
-- Jupyter notebook tutorial on geolocation - https://github.com/vulevukusej/Jupyter-IfcOpenShell
-
+- Parametric house in Ifcopenshell - [https://cvillagrasa.github.io/IfcOpenHouse/generation.html](https://cvillagrasa.github.io/IfcOpenHouse/generation.html)
+- Using IfcOpenShell to parse IFC files with Python - [https://thinkmoult.com/using-ifcopenshell-parse-ifc-files-python.html](https://thinkmoult.com/using-ifcopenshell-parse-ifc-files-python.html)
+- Jupyter notebook tutorial on geolocation - [https://github.com/vulevukusej/Jupyter-IfcOpenShell](https://github.com/vulevukusej/Jupyter-IfcOpenShell)
 *N.B. in these examples for consistency we name the model 'model'; if you are using somethign different that is ok, but the idea here is to keep the code consistent to help you.*
 
 ## Loading and importing the model and IfcOpenShell into the [IDE] you are using
