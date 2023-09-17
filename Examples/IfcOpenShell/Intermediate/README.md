@@ -309,7 +309,7 @@ window.mainloop()
 print(f"Some string {my_non_string_variable}")
 ```
 
-- **Format** - an older way of formatting print statements -> check it out here https://pyformat.info/
+- **Format** - an older way of formatting print statements -> check it out here [https://pyformat.info/](https://pyformat.info/)
 
 	**Example**:
 
@@ -317,9 +317,10 @@ print(f"Some string {my_non_string_variable}")
 print("Some string {}".format(my_non_string_variable))
 ```
 
-- **Input** - Get more information -> https://www.w3schools.com/python/ref_func_input.asp
-
-- **Function** - sometimes we might have to define a function for code that we will reuse in our script for instance https://www.tutorialspoint.com/python/python_functions.htm
+- **Input** - Get more information -> [https://www.w3schools.com/python/ref_func_input.asp
+](https://www.w3schools.com/python/ref_func_input.asp
+)
+- **Function** - sometimes we might have to define a function for code that we will reuse in our script for instance [https://www.tutorialspoint.com/python/python_functions.htm](https://www.tutorialspoint.com/python/python_functions.htm)
 
 
 
