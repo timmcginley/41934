@@ -11,6 +11,7 @@
 * Introduction to [A2](/41934/Assignments/A2)
 * [Install IfcOpenShell, Python and a code editor](/41934/Concepts/IfcOpenShell/installation/updated_installation_instructions/)
 * Get a [Github] account
+* Do the [Exploring an IFC model](https://blenderbim.org/docs/users/exploring_an_ifc_model.html) tutorial.
 * Start with IfcOpenShell [beginner tutorials and examples](/41934/Examples/IfcOpenShell/Basic)
 
 Relevant concepts for today:
