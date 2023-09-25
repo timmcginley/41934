@@ -12,12 +12,14 @@ Examples of use cases could be:
 * Perform an LCA of the building.
 * Perform a daylight analysis of all the relevant spaces.
 
-## A2D: Create a diagram of the use case
-You can for example use this online tool to create a [BPMN file](https://bpmn.io/).
+## A2D: Create a BPMN diagram of the use case
+You can use this online tool to create a [BPMN file](https://bpmn.io/).
 A diagram should:
 * Describe all stages and processes of the use case
 * Show the inputs and outputs between your tool and other data models, experts, stakeholders etc.
 * Clearly show the exchange of information between your tool and the IFC model. Which specific classes are being checked or manipulated?
+
+See [this document](https://standards.buildingsmart.org/documents/IDM/IDM_guide-QuickGuideToBPMN-2007_01.pdf) from buildingSMART for more information about creating [IDM](/41934/Concepts/IDM) diagrams using BPMN.
 
 ## A2E: Define the scope of your script
 Using the diagram of your use case, identify the a part of it that you can execute in your script.
@@ -70,27 +72,29 @@ for space in spaces:
 
 ## Activity Completion
 
-### 01 Python script
-* Your main.py tool including the code snippet from above.
-* A `model`folder with a .ifc model inside of it.
+### 01 Your tool - A Python script
+* Your `main.py` tool including the code snippet from above. You can have multiple Python files, but then they should be imported into the `main.py` script.
 
-### 02 A markdown file that describes: 
-* Describe the use case you have chosen
+### 02 The IFC model
+* A `model` folder with a .ifc file inside of it. You can also have multiple IFC models placed here.
+
+### 03 A markdown file that describes: 
+* Describe the use case you have chosen.
 * Who is the use case for?	
-* What disciplinary (non BIM) expertise did you use to solve the use case
-* What IFC concepts did you use in your script (would you use in your script)
+* What disciplinary (non BIM) expertise did you use to solve the use case?
+* What IFC concepts did you use in your script (or would you use in the rest of the tool)?
 * What disciplinary analysis does it require?	
 * What building elements are you interested in?	
 * What (use cases) need to be done before you can start your use case?	
 * What is the input data for your use case?	
 * What other use cases are waiting for your use case to complete?
 
-### 03 A BPMN file (or other diagram) saved as SVG or PNG.
+### 04 A BPMN diagram saved as SVG or PNG.
 * Describes the use case
 * Shows the exchange of information between the stakeholders in the use case
 * Helps you to see what inputs and outputs your use case has.
 
-### 03.5 A modified BPMN file (or other diagram) saved as SVG or PNG that defines the scope of your tool.
+### 04.5 A modified BPMN diagram saved as SVG or PNG that defines the scope of your tool.
 * Helps you to define the scope of your script
 
 
