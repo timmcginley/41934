@@ -1,63 +1,78 @@
 # A2: Analysis
 
-*Aim: This assignment Focus on IFC analysis of real (previous) student building design projects from an [advanced building design course](https://github.com/timmcginley/41936) that runs in the previous semester.*
+## A2A: Import the IFC model into BlenderBIM
+* Import one of the Skylab models into [BlenderBIM] and explore the IFC file and its properties.
 
-Focus on IFC analysis of real (previous) student building design projects from an advanced building design course that runs in the previous semester. 
+## A2B: Explore the script
+* In the scripting window you can then use IfcOpenShell to further explore the model by following examples in the [tutorials](/41934/Examples/IfcOpenShell/Basic).
 
-In this activity you will be introduced to a [‘metadisciplinary framework’ for BIM (McGinley Krijnen, 2022)](https://www.researchgate.net/publication/363579368_A_framework_for_meta-disciplinary_building_analysis/stats). 
+## A2C: Identify a BIM use case.
+Examples of use cases could be:
+* Calculate structural integrity of beams and columns.
+* Perform an LCA of the building.
+* Perform a daylight analysis of all the relevant spaces.
 
-## A2A: Install Blender and the BlenderBIM plugin.
-Previously we have focused on the IFC file and helping you to understand how it is structured, this year we will push this idea further by exploring the file in the awesome OpenBIM tool [Blender] and its openBIM plugin [BlenderBIM]. This allows us the opportunity to pull several exercises together into the same environment.
+## A2D: Create a diagram of the use case
+You can for example use this online tool to create a [BPMN file](https://bpmn.io/).
+A diagram should:
+* Describe all stages and processes of the use case
+* Show the inputs and outputs between your tool and other data models, experts, stakeholders etc.
+* Clearly show the exchange of information between your tool and the IFC model. Which specific classes are being checked or manipulated?
 
-## A2B: Convert Old Advanced Building Design Models
-* Select one of the provided models.
-* Translate the models to [IFC4] following the Dikon method.
-* Read the project reports.
-![image](https://github.com/timmcginley/41934/assets/1415855/741ab321-fe1c-43a6-ae79-057d4ee9e6e9)
+## A2E: Define the scope of your script
+Using the diagram of your use case, identify the a part of it that you can execute in your script.
+You can either clearly mark the part of the diagram from A2D that defines your scope or you can produce a new diagram.
+Show the processes and logic of your tool in as much detail as possible (whithin reason). What information are you extracting and what happens with it throughout the script?
 
-## A2C: Import the IFC into BlenderBIM
-* Import one of the 41936 models into [BlenderBIM] and explore the IFC file and its properties.
+Focus on the early stage the larger use case, that is checking the model for information and either getting it ready for further simulations or maybe doing some simple calculations.
 
-## A2D: Explore the script
-* In the scripting window you can then use IfcOpenShell to further explore the model (we provide examples)
-* You will identify a simple BIM Use case examples could be gathering:
-* areas of the building,
-* quantities of materials,
-* could you estimate cost? - if so how?
 
-## A2E: Check the numbers
-Identify what the projects analysed, how did they test this? What was the domain focus of the investigation? Was it structural, energy and indoor, daylight, acoustic, LCA/LCC or something else? They should then be introduced to BPMN and use it to document the use case and explore the role of experts in OpenBIM. Following this, the students should review OpenBIM tools made in the previous year of the OpenBIM course and identify which tools could be used or adapted to solve the problem identified in the design project in the previous part. Finally, they could check the information validity of the models against the use case requirements they identified. 
-* develop scripts to help teams in future analyse their buildings.
-  
-Identify what the projects analysed, how did they test this? What was the domain [focus] of the investigation? Was it [structural], [energy and indoor, daylight, acoustic], [LCA/LCC], [construction planning] or something else? You will then be introduced to [BPMN] and use it to document the use case and explore the role of experts in [OpenBIM]. 
-* Which  [focus area](s) will you choose?
-* What information did you find that helped you to see this would be a good choice?
+## A2F: Develop your own script
 
-## A2F: Review previous code
-Following this, you will review [OpenBIM] tools made in the previous year of the OpenBIM course and identify which tools could be used or adapted to solve the problem identified in the design project in the previous part. Finally, they could check the information validity of the models against the use case requirements they identified.
+Now you can begin to develop an [IfcOpenShell] script that follows your script diagram from A2E.
 
-This task would focus on analysing the models using scripts as in the previous years using BlenderBIM as an IDE (integrated development environment) incorporating a console, 3d view, IFC data model hierarchy, and IFC property views in one place. Additionally, this assignment would provide the opportunity for the student to develop their own OpenBIM tools in Python.
+Insert this piece of code at the beginning of your script. It solves the issue of different path syntax on different operating systems etc.
+The only thing you have to do is to place your IFC model in a folder called `model` in the same place as your Python script.
 
-## A2G: Analyze project Reports
-* Now review the project reports - can you check that the values they say they acheived are actually acheived?
+```
+main folder
+├── your_script.py
+├── model
+│   ├── your_model.ifc
+```
+Change `modelname` to the name of your IFC model (notice no .ifc at the end!)
 
-## A2H: Develop your own script
+```python
+from pathlib import Path
+import ifcopenshell
 
-* Develop a script in [IfcOpenShell] (based on examples and support from the teachers) to check a specific claim one of the reports relevant to your [focus] area.
+modelname = "AC20-FZK-Haus2"
 
-## A2I: Produce a Guide
-* Report – is it accurate?
-* What are the problems with
-* The BIM
-* The Building
-* The Process
-* The Engineering
+try:
+    dir_path = Path(__file__).parent
+    model_url = Path.joinpath(dir_path, 'model', modelname).with_suffix('.ifc')
+    model = ifcopenshell.open(model_url)
+except OSError:
+    try:
+        import bpy
+        model_url = Path.joinpath(Path(bpy.context.space_data.text.filepath).parent, 'model', modelname).with_suffix('.ifc')
+        model = ifcopenshell.open(model_url)
+    except OSError:
+        print(f"ERROR: please check your model folder : {model_url} does not exist")
+
+# Your script goes here
+
+# Test if everything works:
+spaces = model.by_type("IfcSpace")
+for space in spaces:
+    print(space.LongName)
+```
 
 ## Activity Completion
-Your group must submit your modified script file for the use case, this should be provided in a ‘repo’ in the github account linked to your group. The repo will include:
 
 ### 01 Python script
-* Your main.py file that is a copy of the script we can run in Blender.
+* Your main.py tool including the code snippet from above.
+* A `model`folder with a .ifc model inside of it.
 
 ### 02 A markdown file that describes: 
 * Describe the use case you have chosen
@@ -70,11 +85,14 @@ Your group must submit your modified script file for the use case, this should b
 * What is the input data for your use case?	
 * What other use cases are waiting for your use case to complete?
 
-### 03 A BPMN file
+### 03 A BPMN file (or other diagram) saved as SVG or PNG.
 * Describes the use case
 * Shows the exchange of information between the stakeholders in the use case
-* Helps you to define the scope of your script
 * Helps you to see what inputs and outputs your use case has.
+
+### 03.5 A modified BPMN file (or other diagram) saved as SVG or PNG that defines the scope of your tool.
+* Helps you to define the scope of your script
+
 
 ### Learning Objectives
 
@@ -86,58 +104,6 @@ Your group must submit your modified script file for the use case, this should b
 12. Evaluate [software licensing](/41934/Concepts/Software_licences/README.md) suitability and implications for the OpenBIM tool you develop or modelling tool you use.
     
 
-## ANALYSIS TOOL SPECIFICATION
-
-In this assignment we will develop a tool / workflow based on the use case you defined in the [previous assignment](/41934/Assignment/A3).<br>
-The tool must:
-* Address your [use case] :
-
-* Ideally be written in Python, but can be other approaches in special cases if agreed with the course responsible.
-* Be summarised in a 2 minute video.
-You will produce one final tool in the following folders, the structure of which is summarised below.
-
-## Tool / Workflow
-
-The structure of this depends on the tool you have chosen to develop but it should:
-1. be written in Python (mostly) so should contain a main.py file
-2. if you have used blender as the target for the tool, please also include a .blend file that we can load to check your project.
-3. clearly seperated the code from the input data and resulting guidance (output) (if your output is a file).
-
-The structure of this depends on the tool you have chosen but a base structure for your folder / github repository should be: 
-
-````
-  - FILE: readme.md // the most important file :) 
-  + FOLDER *img* // folder to 
-  + FOLDER *model*
-    - FILE: duplex or something else (ifc)
-  + FOLDER *input* (examples given below)
-    - FILE: excel data for instance // could also be assumption data
-    - FILE: material cost data in json format?
-  + FOLDER: *output*
-    - FILE: this is if the output for your tool is a file, for instance an excel file.
-  - FILE: main.py // you may also have other python files in there, but make sure you start from main.py
-  - other python files folders and code as required.
-  
-````
-
-## 2 Minute Video
-* Summary of the [use case] / why is this a challenge?
-* Who is your tool for?
-* Specify the [Business and societal value] of your analysis tool / process.
-* Demo of the tool (if interaction / processing takes longer – edit the video 😊)
-* details about the upload / submission of the videos will be given closer to the time.
-
-## Aim
-
-We have gathered the four most exciting potential future (open)BIM technologies in this course however it is uncertain how they fit together and the design and engineering experience that they could provide you in your future careers.
-
-Therefore, the aim of this assignment is in your groups to explore focused parts of this future (open) BIM ecosystem, supported by theory, frameworks and examples provided in the course lectures.
-
-## Activity Completion
-
-## Ideas
-* How could we change values in an SVG file and use this to edit and append the information in drawings.
-* Hwo could future students in [Advanced Building Design] use your tool
 
 <!-- links --> 
 
