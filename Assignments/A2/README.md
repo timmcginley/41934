@@ -19,7 +19,7 @@ A diagram should:
 * Show the inputs and outputs between your tool and other data models, experts, stakeholders etc.
 * Clearly show the exchange of information between your tool and the IFC model. Which specific classes are being checked or manipulated?
 
-See [this document](https://standards.buildingsmart.org/documents/IDM/IDM_guide-QuickGuideToBPMN-2007_01.pdf) from buildingSMART for more information about creating [IDM](/41934/Concepts/IDM) diagrams using BPMN.
+See [this document](https://standards.buildingsmart.org/documents/IDM/IDM_guide-QuickGuideToBPMN-2007_01.pdf) and [this page](https://technical.buildingsmart.org/standards/information-delivery-manual/) from buildingSMART for more information about creating [IDM](/41934/Concepts/IDM) diagrams using BPMN.
 
 ## A2E: Define the scope of your script
 Using the diagram of your use case, identify the a part of it that you can execute in your script.
