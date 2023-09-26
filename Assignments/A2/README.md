@@ -4,7 +4,7 @@
 * Import one of the Skylab models into [BlenderBIM] and explore the IFC file and its properties.
 
 ### Optional: Add quantities to the IFC model
-Skylab IFC models don't have quantities (Quantity Sets) defined for any of the elements. Quantity Sets define physical dimensions of objects like lenght, width, area and volume. Quantities are very important to have access to in a model and they are luckly easy to add to a model in BlenderBIM. Watch [this video](/41934/Concepts/BlenderBIM/AddQuantitiesToIfcModelInBlenderBIM) to see how to do it. Remember to save your modified IFC model and include it in your assignment submission. 
+Skylab IFC models don't have quantities (Quantity Sets) defined for any of the elements. Quantity Sets define physical dimensions of objects like lenght, width, area and volume. Quantities are very important to have access to in a model and they are luckly easy to add to a model in BlenderBIM. Watch [this video](https://github.com/timmcginley/41934/blob/main/Concepts/BlenderBIM/AddQuantitiesToIfcModelInBlenderBIM/README.md) to see how to do it. Remember to save your modified IFC model and include it in your assignment submission. 
 
 > N.B.: Please don't modify the IFC models in any other way or add any other information to them in this assignment. 
 
