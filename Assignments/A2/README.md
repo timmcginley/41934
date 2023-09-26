@@ -3,10 +3,16 @@
 ## A2A: Import the IFC model into BlenderBIM
 * Import one of the Skylab models into [BlenderBIM] and explore the IFC file and its properties.
 
-## A2B: Explore the script
+### Optional: Add quantities to the IFC model
+Skylab IFC models don't have quantities (Quantity Sets) defined for any of the elements. Quantity Sets define physical dimensions of objects like lenght, width, area and volume. Quantities are very important to have access to in a model and they are luckly easy to add to a model in BlenderBIM. Watch [this video](/41934/Concepts/BlenderBIM/AddQuantitiesToIfcModelInBlenderBIM) to see how to do it. Remember to save your modified IFC model and include it in your assignment submission. 
+
+> N.B.: Please don't modify the IFC models in any other way or add any other information to them in this assignment. 
+
+## A2B: Explore the model with scripts
 * In the scripting window you can then use IfcOpenShell to further explore the model by following examples in the [tutorials](/41934/Examples/IfcOpenShell/Basic).
 
 ## A2C: Identify a BIM use case.
+Write a short description of your use case.
 Examples of use cases could be:
 * Calculate structural integrity of beams and columns.
 * Perform an LCA of the building.
@@ -17,7 +23,11 @@ You can use this online tool to create a [BPMN file](https://bpmn.io/).
 A diagram should:
 * Describe all stages and processes of the use case
 * Show the inputs and outputs between your tool and other data models, experts, stakeholders etc.
-* Clearly show the exchange of information between your tool and the IFC model. Which specific classes are being checked or manipulated?
+* Clearly show the exchange of information between your tool and the IFC model. Which specific IFC classes are being checked or manipulated?
+
+[Here](https://raw.githubusercontent.com/timmcginley/41934/f21cac124069f9fdfd79cfc0cd5869d8746bf40c/Assignments/images/EnergyAnalysisBPMN_whole.svg) is a simple example of a diagram for an Energy Analysis use case.
+
+[Here](https://raw.githubusercontent.com/timmcginley/41934/main/Assignments/images/EnergyAnalysisComplexIDMdiagram.png) is a more complex [IDM](/41934/Concepts/IDM) diagram of Energy Analysis.
 
 See [this document](https://standards.buildingsmart.org/documents/IDM/IDM_guide-QuickGuideToBPMN-2007_01.pdf) and [this page](https://technical.buildingsmart.org/standards/information-delivery-manual/) from buildingSMART for more information about creating [IDM](/41934/Concepts/IDM) diagrams using BPMN.
 
@@ -89,14 +99,15 @@ for space in spaces:
 * What is the input data for your use case?	
 * What other use cases are waiting for your use case to complete?
 
-### 04 A BPMN diagram saved as SVG or PNG.
+### 04 A BPMN diagram saved as SVG.
 * Describes the use case
 * Shows the exchange of information between the stakeholders in the use case
 * Helps you to see what inputs and outputs your use case has.
 
-### 04.5 A modified BPMN diagram saved as SVG or PNG that defines the scope of your tool.
+### 04.5 A modified BPMN diagram saved as SVG that defines the scope of your tool.
 * Helps you to define the scope of your script
 
+This can either be a new diagram, or the same diagram with your scope clearly marked with a colour. 
 
 ### Learning Objectives
 
