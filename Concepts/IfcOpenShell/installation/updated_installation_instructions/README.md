@@ -8,6 +8,12 @@ The first one doesn't require you to install anything additional at all! Both Py
 
 This article explaines how to both use the the interactive Python console and how to write full scripts in Blender with BlenderBIM Add-on: [https://wiki.osarch.org/index.php?title=BlenderBIM_Add-on/Using_the_Python_console_with_BlenderBIM_Add-on](https://wiki.osarch.org/index.php?title=BlenderBIM_Add-on/Using_the_Python_console_with_BlenderBIM_Add-on)
 
+The Blender text editor has basic line numbers, syntax highlighting, and line wrapping abilities. **The output will be printed to the system console (not to be mistaken with Blender Python Console). On Mac and Windows, the console may not be visible.** 
+
+To make it visible on Windows, go click on `Window > Toggle System Console`. This will open an external system console window where the outputs of the script will appear. 
+
+On Mac you need to start Blender from terminal with `"/Applications/Blender.app/Contents/MacOS/Blender" -con` (path can be different depending on your Blender installation). Simply copy and paste that command to your terminal and wait for Blender to start up. The outputs of the script will then be printed to that terminal window.
+
 # Stand-alone installation
 Writing and running scripts inside Blender is fine, but the text editor included with Blender is pretty basic. If you have to write longer scripts you might want the added functionalities that a dedicated code editor offers, like syntax highlighting, code hints, a debugger etc. 
 To run scripts outside of Blender, you have to install Python, a code editor and any other libraries yourself.
