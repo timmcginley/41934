@@ -80,6 +80,8 @@ Should include:
 1.	BPMN file of current use case (redrawn by you) + 
 2.	BPMN file for your proposed tool. 
 If you download this from bpmn.io as an svg you should be able to place this in an img folder in your github repo and then show it in the readme file.
+It may be beneficial to divide up or make multiple focused diagrams (BPMN files) showing an *Overview, Portions* or *Details* of the execution plan.
+
 ```
 ![Alt text](name of SVG file)
 <img src=" img/name_of_svg_file.svg ">
