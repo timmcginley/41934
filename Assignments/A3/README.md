@@ -2,16 +2,14 @@
 
 ## A3A Reduce
 * Produce a [BIM execution plan] (BEP) for the assignment
-* Adapt the building to max 10 floors using [BlenderBIM]
 
 ## A3B Reflect
 * Check the new numbers – using your scripts from the previous assignment
 * Check your conformance to the BEP.
 
 ## A3B Remodel
-* Adjust the design in BlenderBIM to improve on the design at a smaller scale.
-
-
+** Usecase: the Skylab-model (it is allowed to use other models, but they need to be IFC4 formatted)
+Purpose: *modify, add* or *subtract* information in the model by using IfcOpenShell (You decide what modification is needed)
 
 
 ### Learning Objectives
