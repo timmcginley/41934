@@ -58,11 +58,10 @@ You should use this activity to clearly scope your ambition and motivation for y
 In this assignment you will dig deeper into use cases and some tools and standards to support this and develop two BIM use case that extends provide a real example of a BIM use that you can then use to develop your final project (you will choose one of these BIM uses for the final project).
 
 ### Assignment Format
-Therefore, the core of the assignment is to produce a readme.md in markdown for your selected use case. For more information about markdown, please check out this awesome markdown tutorial.
+Therefore, the core of the assignment is to produce a readme.md in markdown for your selected use case. 
 Assignment should include
-Report (documenting sections 1-10)
-Readme.md
-Information exchange excel sheet (for section 4): Use_case_INFX_Team_XX.xlsx
+Report (documenting sections mentioned in this assignment) and call it: Readme.md
+
 IDM diagrams:
 1.	BPMN file of current use case (as implemented by you) + 
 2.	BPMN file of the use case with additional/modified improved functions (which you would like to see implemented) 
