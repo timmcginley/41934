@@ -8,7 +8,7 @@
 * Check your conformance to the BEP.
 
 ## A3B Remodel
-** Usecase: the Skylab-model (it is allowed to use other models, but they need to be IFC4 formatted)
+Usecase: the Skylab-model (it is allowed to use other models, but they need to be IFC4 formatted)
 Purpose: *modify, add* or *subtract* information in the model by using IfcOpenShell (You decide what modification is needed)
 
 
@@ -39,14 +39,6 @@ The structure of this depends on the tool you have chosen but a base structure f
   - other python files folders and code as required.
   
 ````
-
-> [Removed from delivery in this assignment] ## 2 Minute Video
- 
-> * Summary of the use case / why is this a challenge?
-> * Who is you tool for?
-> * Business and societal value
-> * Demo of the tool (if interaction / processing takes longer – edit the video 😊)
-> * details about the upload / submission of the videos will be given closer to the time.
 
 
 ## A3B: Ontology
@@ -95,13 +87,7 @@ You should produce a report written in markdown. The contents of the report are 
 3. Process: model the process diagram from your use case in BPMN.io please remember to save the .bpmn file and you can save a .svg file that you can insert into your report. 
 4. description of the process of your tool / workflow.
 
-### 3C: Information exchange
-
-5. Information Exchange: Fill out the excel template with the information for your planned tool / workflow. For this you will need access to the excel, and the Dikon document to help you specify the LOD (LOR,LOG,LOI) for each element you need for you tool / workflow. This can get confusing - don’t worry we can help 😊
-6. IFC: Describe the IFC entities and properties for each of the elements you identified in your information exchange. Describe the data that you need to:
-	* Find in the IFC
-	* Find in an external sources i.e. BR18
-	* Based on assumptions (useful when we don't have the 'real' data that we need for our tool)
+### 3C [removed for this assignment]
 
 ### 3D: Value What is the potential improvement offered by this tool?
 
