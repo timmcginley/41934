@@ -105,7 +105,6 @@ Requirements:
 + [X] **If you use another .ifc model please upload in the folder structure at github as described in the beginning of the assignment**
       
 The report should link to or include:
-- [x] An information exchange sheet  
 - [x] Two IDM-diagrams
 - [x] IFC model for the use case before the remodelling
 - [x] IFC model for the use case after the remodelling
