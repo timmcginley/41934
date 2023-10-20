@@ -101,7 +101,9 @@ This is the common question when developing tools and processes as an [intrapren
 
 Requirements:
 + [x] **Markdown-formated report: Describing your tool/workflow: upload link to your Github report on Learn**
-
++ [X] **If you use the Skylab model please do NOT upload it at github**
++ [X] **If you use another .ifc model please upload in the folder structure at github as described in the beginning of the assignment**
+      
 The report should link to or include:
 - [x] An information exchange sheet  
 - [x] Two IDM-diagrams
