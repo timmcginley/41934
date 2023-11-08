@@ -37,13 +37,16 @@ model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
 
 ## Basic Scripts
 
-* [Basic 1A - Space count check](#Basic-Example-1a)
-* [Basic 1B - Space count check - with len()](#Basic-Example-1b)
-* [Basic 2 - Total beam length in model)](#Basic-Example-2)
-* [Basic 3 - Get element PropertySets](#Basic-Example-3)
-* [Basic 4 - Door code check](#Basic-Example-4)
-* [Basic 5 - model load time](#Basic-Example-5)
-* [Basic 6 - Get beam properties](#Basic-Example-6)
+* [Basic 1A - Space count check](#basic-example-1a)
+* [Basic 1B - Space count check - with len()](#basic-example-1b)
+* [Basic 2 - Total beam length in model)](#basic-example-2)
+* [Basic 3 - Get element PropertySets](#basic-example-3)
+* [Basic 4 - Door code check](#basic-example-4)
+* [Basic 5 - model load time](#basic-example-5)
+* [Basic 6 - Get beam properties](#basic-example-6)
+* [Basic 7 - Add a new property and property set to a wall](#basic-example-7)
+* [Basic 8 - Change/add a new property to existing property set - using api](#basic-example-8)
+* [Basic 9 - Add a new property set to a wall's material - using api](#basic-example-9)
 
 ### Basic Example 1a
 Loop through the [entities] and then add one to the variable *spaces_in_model* each time we find an instance of that entity.
@@ -233,4 +236,124 @@ for beam in beams:
 for beam in beams:
     for relContainedInSpatialStructure in beam.ContainedInStructure:
         print(relContainedInSpatialStructure.RelatingStructure.Name)
+```
+
+### Basic Example 7
+*In this example the IFC file is imported as `model`*.
+
+This is the 'old' way of creating and assigning properties and property sets. Here you have to define the data type, GUID, owner history, relationships and other yourself. Property sets are assigned using the [IfcRelDefinesByProperties](https://ifc43-docs.standards.buildingsmart.org/IFC/RELEASE/IFC4x3/HTML/lexical/IfcRelDefinesByProperties.htm) relationship. 
+
+In this example two properties are created; one property with the name "Some Property Name" and with the type "IfcText", and one with the name "ThermalTransmittance" and with the type "IfcReal". If you want to store another type of value than arbitrary text, take a look at the types defined here: [IfcSimpleValue](https://ifc43-docs.standards.buildingsmart.org/IFC/RELEASE/IFC4x3/HTML/lexical/IfcSimpleValue.htm) and [IfcMeasureValue](https://ifc43-docs.standards.buildingsmart.org/IFC/RELEASE/IFC4x3/HTML/lexical/IfcMeasureValue.htm). 
+
+If you want to add properties already defined in the IFC schema (recommended) you should use the exact names and data types defined for them in the documentation.
+If you want to add more properties to the same property set, just add them them to the list called property_values.
+
+``` python
+# Assign a property set to a wall - old method
+walls = model.by_type("IfcWall")
+wall = walls[0]
+# get the owner history of the model
+owner_history = model.by_type("IfcOwnerHistory")[0]
+# define new properties and place them inside a list
+property_values = [
+    model.createIfcPropertySingleValue(
+        "Some Property Name",
+        None,
+        model.create_entity("IfcText", "Some Value"),
+        None,
+    ),
+    model.createIfcPropertySingleValue(
+        "ThermalTransmittance",
+        None,
+        model.create_entity("IfcReal", 2.569),
+        None,
+    ),
+]
+
+# create a new property set and add properties to it
+property_set = model.createIfcPropertySet(
+    ifcopenshell.guid.new(),
+    owner_history,
+    "Some Property Set Name",
+    None,
+    property_values,
+)
+# create a ralationship between the property set and the wall
+model.createIfcRelDefinesByProperties(
+    ifcopenshell.guid.new(), owner_history, None, None, [wall], property_set
+)
+
+# print wall property sets including your new property set
+wall_psets = ifcopenshell.util.element.get_psets(wall)
+print(wall_psets)
+```
+### Basic Example 8
+*In this example the IFC file is imported as `model`*.
+
+An easier way of changing getting and changing properties is using the `util` and `api` functions. For the `api` functions to work, you first need to import them with:
+`import ifcopenshell.api`
+
+Here, we're using the [ifcopenshell.util.element.get_pset](https://blenderbim.org/docs-python/autoapi/ifcopenshell/util/element/index.html#ifcopenshell.util.element.get_pset) function to retrieve the wall's property set and [ifcopenshell.api.pset.edit_pset](https://blenderbim.org/docs-python/autoapi/ifcopenshell/api/pset/edit_pset/index.html) function to edit an existing property set without having to define GUIDs, relationships, data types etc. on our own.
+
+The `should_inherit` parameter of `ifcopenshell.util.element.get_pset` function defines if the element's property sets should also be inherited from the type, eg. IfcWallType (`should_inherit = True`) or only from the element, eg. IfcWall (`should_inherit = False`).
+
+`ifcopenshell.api.pset.edit_pset` function will change the value of a property if it's already defined for an element and add it as a new property if it's not.
+
+```python
+# Change the value of an existing property/add a new property to an existing property set (using api)
+walls = model.by_type("IfcWall")
+wall = walls[0]
+# get the properties inside the Pset_WallCommon property set on the element level.
+# Returns a dictionary with the property name as key and the property value as value.
+wall_common_pset = ifcopenshell.util.element.get_pset(
+    wall, "Pset_WallCommon", should_inherit=False
+)
+# edit the property set by providing the property set as an IFC object and a dictionary with the properties to change.
+# existing properties will be changed, new properties will be added.
+ifcopenshell.api.run(
+    "pset.edit_pset",
+    model,
+    pset=model.by_id(wall_common_pset["id"]),
+    properties={"LoadBearing": False, "FireRating": "R30"},
+)
+
+# print Pset_WallCommon property set before and after the change
+print(wall_common_pset)
+wall_common_pset_after = ifcopenshell.util.element.get_pset(
+    wall, "Pset_WallCommon", should_inherit=False
+)
+print(wall_common_pset)
+```
+
+### Basic Example 9
+*In this example the IFC file is imported as `model`*.
+
+You can add a new property set to any IfcProduct by using the [ifcopenshell.api.pset.add_pset](https://blenderbim.org/docs-python/autoapi/ifcopenshell/api/pset/add_pset/index.html) function. Custom property sets and official property sets that are part of the IFC are created in the same way. If you want to add an official property set, just follow the naming defined in the schema exactly.
+
+Remember that any custom property sets cannot start with the "Pset_" prefix.
+
+In this example we're getting the material of a specific wall using the `ifcopenshell.util.element.get_material` function, but you can also get the materials directly with `model.by_type("IfcMaterial")`. See more functions related to materials [here](https://blenderbim.org/docs-python/autoapi/ifcopenshell/api/material/).
+
+```python
+# Assign a property set to a material of a wall
+walls = model.by_type("IfcWall")
+wall = walls[0]
+
+# get the material of the wall
+wall_material = ifcopenshell.util.element.get_material(wall)
+# create a new property set and add it to the material
+new_material_pset = ifcopenshell.api.run(
+    "pset.add_pset", model, product=wall_material, name="Your Property Set Name"
+)
+# edit the property set by providing a dictionary with the properties to define
+ifcopenshell.api.run(
+    "pset.edit_pset",
+    model,
+    pset=new_material_pset,
+    properties={"PropertyName1": "TextValue", "PropertyName2": 2.0},
+)
+
+# print materials property sets including your new property set
+material_psets = ifcopenshell.util.element.get_psets(wall_material)
+print(material_psets)
 ```
