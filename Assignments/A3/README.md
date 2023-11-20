@@ -3,6 +3,17 @@
 ## A3A Reduce
 * Produce a [BIM execution plan] (BEP) for the assignment
 
+For this assignment it is suggested you should focus on the:
+
+- Model Uses, e.g. what is the tool/setup meant to do? Who will use it? In relation to what goals?
+- Process, e.g. what other roles and people are you relying on before, and after using the tool/setup? who will take the information from you? and use it for what? Is it an iterative process? is it defined linearly?
+- Information Exchange. e.g. What is the level of detailing (expected) for your tool/setup to work as intended? what is the LOD after running your tool/setup? Are you relying on classification systems? standards?
+There are many other areas you can look into, but some are less relevant to your implementation, so rather than trying to write about everything, please try to focus on what your tool/setup really tries to achieve. 
+
+![image](https://github.com/timmcginley/41934/assets/3524250/54d13fb0-41f1-4649-9d31-be027f654a5f)
+
+The figure includes a five-step procedure including goals, model uses, process, information exchanges and infrastructure.
+
 ## A3B Reflect
 * Check the new numbers – using your scripts from the previous assignment
 * Check your conformance to the BEP.
