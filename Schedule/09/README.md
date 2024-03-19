@@ -1,6 +1,6 @@
 ## Week 9 - Streaming BIM
 
-*30th October 2023*
+*4th November 2024*
 
 1. ___ [Speckle](/41934/Concepts/Speckle)
 2. ___ Design Templating in Speckle
