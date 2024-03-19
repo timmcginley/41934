@@ -1,6 +1,6 @@
 ## Session 13
 
-*27th November 2023*
+*2nd December 2024*
 
 
 You will pick concepts to learn and then assess the material based on the criteria provided previously in class.
