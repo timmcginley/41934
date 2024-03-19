@@ -1,6 +1,6 @@
 ## Session 2 OpenBIM Management
 
-*4th September 2023*
+*9th September 2024*
 
 Continue working with IFC File Analyzer
 
