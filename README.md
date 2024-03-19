@@ -11,7 +11,7 @@ This requires interoperability and standardisation; therefore this course focuse
 
 ## Research Based
 This course is research based and the result of the following papers.
-* [McGinley Krijnen (2021)] *Multi Disciplinary Learning from OpenBIM*, CIB W78 2021, Luxemburg.
+* [McGinley, Krijnen (2021)] *Multi Disciplinary Learning from OpenBIM*, CIB W78 2021, Luxemburg.
 * 
 
 ## Course Features
@@ -37,4 +37,4 @@ The aim of the course is to support you to become an OpenBIM champion (guru) in 
 [Schedule]: /41934/Schedule
 
 <!--- papers ---> 
-[McGinley Krijnen (2021)]://www.researchgate.net/publication/355218194_Multi-disciplinary_learning_from_OpenBIM
+[McGinley, Krijnen (2021)]://www.researchgate.net/publication/355218194_Multi-disciplinary_learning_from_OpenBIM
