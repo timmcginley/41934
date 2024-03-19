@@ -1,6 +1,6 @@
 ## Session 5 OpenBIM Analysis
 
-*25th September 2023*
+*30th September 2024*
 
 Molio visit
 
