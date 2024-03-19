@@ -1,6 +1,6 @@
 ## Session 8 - Linked Data
 
-*23rd October 2023*
+*28th October 2024*
 
 1. Introduction to [A3](/Assingnments/A3)
 1. ___ Ontologies
