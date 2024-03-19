@@ -1,6 +1,6 @@
 # Session 4 OpenBIM Use Cases
 
-*18th September 2023*
+*23rd September 2024*
 
 
 ### In class activity covers...
