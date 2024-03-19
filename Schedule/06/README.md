@@ -1,6 +1,6 @@
 ## Session 6 Machine Learning and BIM
 
-*2nd October 2023*
+*7th October 2024*
 
 TOOL Continue working with IfcOpenShell
 1. ___ [Rules](/41934/Concepts/Rules)
