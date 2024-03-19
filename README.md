@@ -9,6 +9,11 @@ The primary aim of the course is to teach you how to gather, analyze and communi
 
 This requires interoperability and standardisation; therefore this course focuses on Open BIM data and standards. Excitingly there is an emerging emerging ecosystem of OpenBIM tools supported by [IfcOpenShell] and others that provide an OpenBIM alternative to contemporary inoperable closed BIM tools and data. We believe that University education has a responsibility to support the transition in the AEC to OpenBIM data and standards.  To achieve this, the Advanced BIM course at DTU supports five emerging OpenBIM [Roles].
 
+## Research Based
+This course is research based and the result of the following papers.
+* [McGinley Krijnen (2021)] Multi Disciplinary Learning from OpenBIM, CIB W78 2021, Luxemburg.
+* 
+
 ## Course Features
 * 5 Emerging [Roles] for you to experience
 * 5 Stimulating [Assignments] that support you to become an OpenBIM Champion / Guru
@@ -30,3 +35,6 @@ The aim of the course is to support you to become an OpenBIM champion (guru) in 
 [building information]: /41934/Concepts/BIM
 [IfcOpenShell]: /41934/Concepts/IfcOpenShell
 [Schedule]: /41934/Schedule
+
+<!--- papers ---> 
+[McGinley Krijnen (2021)]://www.researchgate.net/publication/355218194_Multi-disciplinary_learning_from_OpenBIM
