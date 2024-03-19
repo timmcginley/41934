@@ -1,6 +1,6 @@
 ## Session 3 OpenBIM Classification / LOD
 
-*11th September 2023*
+*16th September 2024*
 
 Start working with BlenderBIM
 
