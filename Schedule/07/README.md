@@ -1,6 +1,6 @@
 ## Session 7 - IFC.JS / Drawings 
 
-*9th October 2023*
+*21st October 2024*
 
 TOOL IFC.js / IfcOpenShell
 1. ___ Meta Draw - [SVG]
