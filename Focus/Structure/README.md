@@ -9,3 +9,6 @@ Could also include structural fire safety.
 * Group 17 - no link - Structural
 * [22 Group 20](https://github.com/Hajarb11/BIM--Group20) - Structural
 * [22 Group 21](https://github.com/loicsan272/Advenced-BIM2022-G21) - Structural
+
+## Thesis
+* Marco Lombardi (2023) [Minimal web representation of tall building structural analysis](https://findit.dtu.dk/en/catalog/63fea5f93d59ce3bcad0977a)
