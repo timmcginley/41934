@@ -3,13 +3,13 @@
 Categorisation of concepts.
 
 ## Basics
-BIM | [Business & Societal Value] | Dimensions
+[BIM] | [Business & Societal Value] | [Dimensions]
 
 ## Models
-Entities | GUID | LOD | Levels | Properties
+[Entities] | [GUID] | [LOD] | [Levels] | [Properties]
 
 ## [OpenBIM]
-[Standards] | BsDD | IFC | FAIR | IDM | IDS | Interoperability | MVD | UCM | bsDD
+[Standards] | [BsDD] | [IFC] | [FAIR] | [IDM] | [IDS] | [Interoperability] | [MVD] | [UCM]
 
 ## Extended
 USD | Digital Twin
@@ -37,6 +37,24 @@ BCF | CDE
 
 
 <!--- the list of links --->
+[BIM]:(/41934/Concepts/BIM)
+[Entities]:(/41934/Concepts/Entities)
+[GUID]:(/41934/Concepts/GUID)
+[LOD]:(/41934/Concepts/LOD)
+[Levels]:(/41934/Concepts/Levels)
+[Properties]:(/41934/Concepts/Properties)
+
+[Standards]:(/41934/Concepts/Standards)
+[BsDD]:(/41934/Concepts/BsDD)
+[IFC]:(/41934/Concepts/IFC)
+[FAIR]:(/41934/Concepts/FAIR)
+[IDM]:(/41934/Concepts/IDM)
+[IDS]:(/41934/Concepts/IDS)
+[Interoperability]:(/41934/Concepts/Interoperability)
+[MVD]:(/41934/Concepts/MVD)
+[UCM]:(/41934/Concepts/UCM)
+
+[Dimensions]:(/41934/Concepts/Dimensions)
 [Standards]:(/41934/Concepts/Standards)
 [Software Licences]:(/41934/Concepts/SoftwareLicences)
 [OpenBIM]:(/41934/Concepts/OpenBIM)
