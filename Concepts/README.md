@@ -2,35 +2,26 @@
 
 Categorisation of concepts.
 
-## Basics
+## 1. Basics
 [BIM] | [Business & Societal Value] | [Dimensions]
 
-## Models
+## 2. Models
 [Entities] | [GUID] | [LOD] | [Levels] | [Properties]
 
-## [OpenBIM]
-[Standards] | [BsDD] | [IFC] | [FAIR] | [IDM] | [IDS] | [Interoperability] | [MVD] | [UCM] | [BCF]
+## 3. [OpenBIM]
+[Standards] | [BsDD] | [IFC] | [FAIR] | [IDM] | [IDS] | [Interoperability] | [MVD] | [UCM] | [BCF] | [SVG]
 
-## Extended
-USD | Digital Twin
+## 4. Future
+USD | Digital Twin | Linked Data | BOT | FSO | Graph
 
-## Documentation
-MarkDown | BPMN | SVG
+## 5. Process
+AIM | AIR | [BIM Execution Plan] | BIP |  EIR | ISO 19650 | MIDP | OIR | PIM | BPMN | CDE
 
-## Process
-AIM | AIR | [BIM Execution Plan] | BIP |  EIR | ISO 19650 | MIDP | OIR | PIM
+## 6. Tools (Emerging or established)
+| Speckle | NodeRed | IFC.js | BlenderBIM | IFCFileAnalyzer | Revit 
 
-## [Linked Data]
-BOT | FSO | Graph
-
-## Code
-Python | Github | IDE | IfcOpenShell | IFC.js | NodeRed | [Software Licences]
-
-## Tools / TechStack
-BlenderBIM |  IFCFileAnalyzer | Speckle | Revit | CDE
-
-## Methods
-ACCC | Clash | Classification | Machine Learning
+## 7. Code
+Python | Github | IDE | IfcOpenShell | [Software Licences] | MarkDown 
 
 
 <!--- the list of links --->
@@ -51,6 +42,7 @@ ACCC | Clash | Classification | Machine Learning
 [MVD]:(/41934/Concepts/MVD)
 [UCM]:(/41934/Concepts/UCM)
 [BCF]:(/41934/Concepts/BCF)
+[SVG]:(/41934/Concepts/SVG)
 
 [Dimensions]:(/41934/Concepts/Dimensions)
 [Standards]:(/41934/Concepts/Standards)
