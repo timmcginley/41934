@@ -9,7 +9,7 @@ Categorisation of concepts.
 [Entities] | [GUID] | [LOD] | [Levels] | [Properties]
 
 ## [OpenBIM]
-[Standards] | [BsDD] | [IFC] | [FAIR] | [IDM] | [IDS] | [Interoperability] | [MVD] | [UCM]
+[Standards] | [BsDD] | [IFC] | [FAIR] | [IDM] | [IDS] | [Interoperability] | [MVD] | [UCM] | [BCF]
 
 ## Extended
 USD | Digital Twin
@@ -27,13 +27,10 @@ BOT | FSO | Graph
 Python | Github | IDE | IfcOpenShell | IFC.js | NodeRed | [Software Licences]
 
 ## Tools / TechStack
-BlenderBIM |  IFCFileAnalyzer | Speckle | Revit 
+BlenderBIM |  IFCFileAnalyzer | Speckle | Revit | CDE
 
 ## Methods
 ACCC | Clash | Classification | Machine Learning
-
-## Collaboration
-BCF | CDE 
 
 
 <!--- the list of links --->
@@ -53,6 +50,7 @@ BCF | CDE
 [Interoperability]:(/41934/Concepts/Interoperability)
 [MVD]:(/41934/Concepts/MVD)
 [UCM]:(/41934/Concepts/UCM)
+[BCF]:(/41934/Concepts/BCF)
 
 [Dimensions]:(/41934/Concepts/Dimensions)
 [Standards]:(/41934/Concepts/Standards)
