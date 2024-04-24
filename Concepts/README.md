@@ -6,21 +6,18 @@ Categorisation of concepts.
 [BIM] | [Business & Societal Value] | [Dimensions]
 
 ## 2. Models
-[Entities] | [GUID] | [LOD] | [Levels] | [Properties]
+[Entities] | [GUID] | [LOD] | [Levels] | [Properties] | IFCFileAnalyzer | Revit 
 
 ## 3. [OpenBIM]
 [Standards] | [BsDD] | [IFC] | [FAIR] | [IDM] | [IDS] | [Interoperability] | [MVD] | [UCM] | [BCF] | [SVG]
 
-## 4. Future
-USD | Digital Twin | Linked Data | BOT | FSO | Graph
-
-## 5. Process
+## 4. Process
 AIM | AIR | [BIM Execution Plan] | BIP |  EIR | ISO 19650 | MIDP | OIR | PIM | BPMN | CDE
 
-## 6. Tools (Emerging or established)
-| Speckle | NodeRed | IFC.js | BlenderBIM | IFCFileAnalyzer | Revit 
+## 5. Future
+USD | Digital Twin | Linked Data | BOT | FSO | Graph | Speckle | NodeRed | IFC.js | BlenderBIM
 
-## 7. Code
+## 6. Code
 Python | Github | IDE | IfcOpenShell | [Software Licences] | MarkDown 
 
 
