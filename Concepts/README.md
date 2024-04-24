@@ -1,15 +1,15 @@
 # Advanced Building Information Modelling Concepts
 
-Categorisation of concepts into Basic, Model, OpenBIM, Process, Future and Code:
+Categorisation of concepts into Basic, OpenBIM, Model, Process, Future and Code:
 
 ## 1. Basic
 [BIM] | [Business & Societal Value] | [Dimensions]
 
-## 2. Model
-[Entities] | [GUID] | [LOD] | [Levels] | [Properties] | IFCFileAnalyzer | Revit etc.
-
-## 3. [OpenBIM]
+## 2. [OpenBIM]
 [Standards] | [BsDD] | [IFC] | [FAIR] | [IDM] | [IDS] | [Interoperability] | [MVD] | [UCM] | [BCF] | [SVG]
+
+## 3. Model
+[Entities] | [GUID] | [LOD] | [Levels] | [Properties] | IFCFileAnalyzer | Revit etc.
 
 ## 4. Process
 AIM | AIR | [BIM Execution Plan] | BIP |  EIR | ISO 19650 | MIDP | OIR | PIM | BPMN | CDE
