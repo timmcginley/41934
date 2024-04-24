@@ -6,33 +6,36 @@ Categorisation of concepts.
 BIM | [Business & Societal Value] | Dimensions
 
 ## Models
-Entities | 
+Entities | GUID | LOD | Levels
 
 ## OpenBIM
-[Standards] | BsDD | ifc | FAIR |
+[Standards] | BsDD | IFC | FAIR | IDM | IDS | Interoperability
 
-## Extenteed
+
+## Extented
 USD | Digital Twin
 
-## Process
-AIM | AIR | [BIM Execution Plan] | BIP | BPMN | EIR
+## Web
+IFC.js
 
-## Linked Data
-BOT | 
+## Process
+AIM | AIR | [BIM Execution Plan] | BIP | BPMN | EIR | ISO 19650
+
+## [Linked Data]
+BOT | FSO | Graph
 
 ## Tools / TechStack
-BlenderBIM |
-
-
+BlenderBIM | Github | IDE | IFCFileAnalyzer | IfcOpenShell
 
 ## Methods
 ACCC | Clash | Classification
 
 ## Collaboration
-BCF | CDE
+BCF | CDE 
 
 
 <!--- the list of links --->
 [Standards]:(/41934/Concepts/Standards)
 [BIM Execution Plan]:(/41934/Concepts/BIMExecutionPlan)
 [Business & Societal Value]: (/41934/Concepts/BusinessAndSocietalValue)
+[Linked Data]:(/41934/Concepts/LinkedData)
