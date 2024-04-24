@@ -1,11 +1,11 @@
 # Advanced Building Information Modelling Concepts
 
-Categorisation of concepts.
+Categorisation of concepts into Basic, Model, OpenBIM, Process, Future adn Code:
 
-## 1. Basics
+## 1. Basic
 [BIM] | [Business & Societal Value] | [Dimensions]
 
-## 2. Models
+## 2. Model
 [Entities] | [GUID] | [LOD] | [Levels] | [Properties] | IFCFileAnalyzer | Revit 
 
 ## 3. [OpenBIM]
