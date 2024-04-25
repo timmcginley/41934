@@ -1,6 +1,12 @@
-# Advanced Building Information Modelling Concepts
+# Concepts
 
-Categorisation of concepts into Basic, OpenBIM, Model, Process, Future and Code:
+Advanced Building Information Modelling concepts categories 
+* Basic
+* OpenBIM
+* Model
+* Process
+* Future
+* Code
 
 ## 1. Basic
 [BIM] | [Business & Societal Value] | [Dimensions]
