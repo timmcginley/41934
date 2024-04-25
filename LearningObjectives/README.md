@@ -13,6 +13,16 @@
 11. Apply and improve programming skills in [Python] to develop an OpenBIM tool or [modelling] skills in OpenBIM using your engineering domain expertise.
 12. Evaluate [software licensing] suitability and implications for the OpenBIM tool you develop or modelling tool you use.
 
+# Mapping to Assignments
+
+|    | L1 | L2 | L3 | L4 | L5 | L6 | L7 | L8 | L9 | L10 | L11 | L12 |
+|----|----|----|----|----|----|----|----|----|----|-----|-----|-----|
+| A1 |    |    |    |    |    |    |    |    |    |     |     |     |
+| A2 |    |    |    |    |    |    |    |    |    |     |     |     |
+| A3 |    |    |    |    |    |    |    |    |    |     |     |     |
+| A4 |    |    |    |    |    |    |    |    |    |     |     |     |
+| A5 |    |    |    |    |    |    |    |    |    |     |     |     |
+
 <!-- links -->
 [BIM Execution Plan]: /Concepts/BIMExecutionPlan
 [BPMN]: /Concepts/BPMN
