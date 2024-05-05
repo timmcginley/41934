@@ -4,7 +4,7 @@ IDEs solve the problem of providing a place that understands and can help correc
 
 ## Gihub Code Editor
 If your code is already in github and you would liek to use an online cloud basde version of visual studio code you can press
-> shift + > on your keyboard
+> press shift and > on your keyboard
 
 ## Enhanced Text editor
 
