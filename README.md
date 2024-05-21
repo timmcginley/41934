@@ -1,4 +1,3 @@
-
 # 41934 Advanced BIM
 
 The primary aim of the course is to teach you how to gather, analyze and communicate [building information] from [IFC] models for real architectural engineering challenges. Finally you will teach your peers a [concept] you have learnt in the course. To create OpenBIM data, processes and tools that we can learn from, the course has the following principles:
