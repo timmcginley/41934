@@ -1,1 +1,1 @@
- # Automated Code Compliance Checking (ACCC)
+ # Automated Code Compliance (ACC)
