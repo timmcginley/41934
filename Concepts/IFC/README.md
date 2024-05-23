@@ -56,6 +56,7 @@ IFC is licensed under the Creative Commons Attribution-NoDerivatives 4.0 Interna
 
 ## More Info
 
+* [What do you call that in IFC?](https://blenderbim.org/search-ifc-class.html)
 * [IFC History](https://itc.scix.net/pdfs/w78-2015-paper-004.pdf)
 * [Industrial Foundation Classes paper](https://publications.cms.bgu.tum.de/books/bim_2018/06_IFC_07.pdf)
 * [IFC Formats](https://github.com/buildingSMART/technical.buildingsmart.org/blob/main/IFC-Formats.md)
