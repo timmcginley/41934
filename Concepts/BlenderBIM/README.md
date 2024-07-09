@@ -13,6 +13,7 @@ The problem with traditional proprietary BIM tools is that it is not possible to
 - The [OSArch wiki](https://wiki.osarch.org/index.php?title=BlenderBIM_Add-on) is generally a good resource on BlenderBIM, IfcOpenShell and OpenBIM in general.
 - [BlenderBIM full free course](https://www.youtube.com/watch?v=pjO_Nh6yaYw&list=PLbFY94gzUJhGXh9tEZIuq-a8BSWddSPz2) from scratch to pro
 - [How to run an external script in Blender](https://github.com/timmcginley/41934/blob/main/Concepts/BlenderBIM/E22_41934_How%20to%20run%20an%20external%20script%20in%20Blender.md)
+- [Using BlenderBIM with natuve IFC](https://www.youtube.com/watch?v=Ooh05WF__80&ab_channel=DionMoult)
 - Exploring IFC model: [https://blenderbim.org/docs-python/ifcopenshell-python/hello_world.html](https://blenderbim.org/docs/users/exploring_an_ifc_model.html)
 - Check out tutorials from [Ifc Architect](https://www.youtube.com/@IfcArchitect/videos)
 - Using the Python console with BlenderBIM add-on: [https://wiki.osarch.org/index.php?title=BlenderBIM_Add-on/Using_the_Python_console_with_BlenderBIM_Add-on](https://wiki.osarch.org/index.php?title=BlenderBIM_Add-on/Using_the_Python_console_with_BlenderBIM_Add-on)
