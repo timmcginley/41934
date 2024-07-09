@@ -10,15 +10,19 @@ The problem with traditional proprietary BIM tools is that it is not possible to
 <!-- Exercise - please do videos 1 - 5 from [this set of tutorials] (https://osarch.org/2022/11/12/%f0%9f%93%ba-ifc-101-a-free-ifc-crash-course-with-python/) from the awesome Yassine Oualid. -->
 
 ## Tutorials and resources:
+
+### Beginner
 - The [OSArch wiki](https://wiki.osarch.org/index.php?title=BlenderBIM_Add-on) is generally a good resource on BlenderBIM, IfcOpenShell and OpenBIM in general.
 - [BlenderBIM full free course](https://www.youtube.com/watch?v=pjO_Nh6yaYw&list=PLbFY94gzUJhGXh9tEZIuq-a8BSWddSPz2) from scratch to pro
-- [How to run an external script in Blender](https://github.com/timmcginley/41934/blob/main/Concepts/BlenderBIM/E22_41934_How%20to%20run%20an%20external%20script%20in%20Blender.md)
-- Great starting point - [Using BlenderBIM with native IFC](https://www.youtube.com/watch?v=Ooh05WF__80&ab_channel=DionMoult)
 - [Exploring IFC model](https://blenderbim.org/docs/users/exploring_an_ifc_model.html)
+- Great starting point - [Using BlenderBIM with native IFC](https://www.youtube.com/watch?v=Ooh05WF__80&ab_channel=DionMoult)
 - Check out tutorials from [Ifc Architect](https://www.youtube.com/@IfcArchitect/videos)
-- [Using the Python console with BlenderBIM add-on](https://wiki.osarch.org/index.php?title=BlenderBIM_Add-on/Using_the_Python_console_with_BlenderBIM_Add-on)
-- [BlenderBIM code examples](https://wiki.osarch.org/index.php?title=BlenderBIM_Add-on/BlenderBIM_Add-on_code_examples)
 - [Adding information to an IFC model](https://wiki.osarch.org/index.php?title=BlenderBIM_Add-on_adding_information_to_IFC)
+### Coding in BlenderBIM
+- [Using the Python console with BlenderBIM add-on](https://wiki.osarch.org/index.php?title=BlenderBIM_Add-on/Using_the_Python_console_with_BlenderBIM_Add-on)
+- [How to run an external script in Blender](https://github.com/timmcginley/41934/blob/main/Concepts/BlenderBIM/E22_41934_How%20to%20run%20an%20external%20script%20in%20Blender.md)
+- [BlenderBIM code examples](https://wiki.osarch.org/index.php?title=BlenderBIM_Add-on/BlenderBIM_Add-on_code_examples)
+
 
 ## BlenderBIM 
 Following a brief introduction, we will look at the following steps.
