@@ -1,5 +1,12 @@
 # A2: Analysis
 
+## Learning Objectives
+* L1
+* L2
+* L3
+  
+The aim of this assignment is to: ....
+
 ## A2A: Import the IFC model into BlenderBIM
 * Import one of the Skylab models into [BlenderBIM] and explore the IFC file and its properties.
 
