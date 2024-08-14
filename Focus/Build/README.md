@@ -3,6 +3,7 @@ Previously students have focused on the use case of costing a BIM model, but may
 * construction planning
 * automated building permits
 * building regulation compliance
+* 3DCP from any IFC
 
 If you have a build focus the following provides an examples of how you could approach the course.
 
