@@ -6,7 +6,7 @@
 ### Forensic and Use Case
 
 [Week 1](/41934/Schedule/01)  OpenBIM  |
-[Week 2](/41934/Schedule/02)  Standards |
+[Week 2](/41934/Schedule/02)  Management |
 [Week 3](/41934/Schedule/03) Use Cases |
 [Week 4](/41934/Schedule/04) IDS |
 [Week 5](/41934/Schedule/05) ISO 19650 |
