@@ -1,4 +1,4 @@
-# Course Schedule  2023
+# Course Schedule  2024
 [41934](/) Return to main menu.
 
 Welcome to the advanced BIM course. This course is different from other BIM courses. The idea  is to learn _from_ BIM not learn _howto_ BIM. Therefore we will NOT be training you to model things in BIM tools.
