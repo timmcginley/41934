@@ -19,14 +19,14 @@
 
 [Week 7](/41934/Schedule/07) Tool Development Methods |
 [Week 8](/41934/Schedule/08) Speckle |
-[Week 9](/41934/Schedule/09) LD ETC. |
-[Week 10](/41934/Schedule/10) Node-RED|
+[Week 9](/41934/Schedule/09) Linked Data |
+[Week 10](/41934/Schedule/10) Show & Tell |
 
 ### [A4] Champion 
 
-[Week 11](/41934/Schedule/11) |
-[Week 12](/41934/Schedule/12) |
-[Week 13](/41934/Schedule/13)
+[Week 11](/41934/Schedule/11) Show & Tell |
+[Week 12](/41934/Schedule/12) Show & Tell |
+[Week 13](/41934/Schedule/13) Final Review
 
 
 <!-- LINKS -->
