@@ -1,4 +1,4 @@
-## Session 2 OpenBIM Management
+## Session 2 Blender etc.
 
 *9th September 2024*
 
@@ -18,3 +18,6 @@ Start working with BlenderBIM
 * The activity from the [classification] concept.
 * Finish [A1] including any questins you may have from your dashboards.
 
+
+[Classification]: /41934/Concepts/Classification
+[A1]: /41934/Assignments/A1
