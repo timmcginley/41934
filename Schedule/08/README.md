@@ -1,12 +1,12 @@
-## Session 8 - Linked Data
+## Week 8 - Streaming BIM
 
 *28th October 2024*
 
-1. Introduction to [A3](/Assingnments/A3)
-1. ___ Ontologies
-1. ___ [Linked Data](/41934/Concepts/LinkedData)
-1. ___ [BOT](/41934/Concepts/BOT)
-2. ___ [FSO](/41934/Concepts/FSO)
+1. ___ [Speckle](/41934/Concepts/Speckle)
+2. ___ Design Templating in Speckle
+3. ___ GraphQL reframing in Speckle - Dynamic Linked Data?
 
-### In class Activity
-* Apply an ontology to the focus area (BOT/FSO)
+### In class activity
+* Speckle Exercise
+
+
