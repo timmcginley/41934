@@ -18,12 +18,12 @@ Excitingly there is an emerging ecosystem of OpenBIM tools supported by [IfcOpen
 
 ## We are 100% commited to Open BIM
 We believe that University education has a responsibility to support the transition in the AEC to OpenBIM data and standards. To achieve this, the Advanced BIM course at DTU offers:
+* IFC, IfcOpenShell, BlenderBIM and Python focus.
 * 5 Emerging [Roles] for you to experience
 * 5 Stimulating [Assignments] that support you to become an OpenBIM Champion / Guru
 * Learning objectives aligned to the needs of the whole AEC and society (not just the software industry).
 * A focus on the interests of Architectural Engineering Students, but also relevant for Civil Engineering students.
-* IFC and Python focus with the freedom to explore other systems
-* Varity of Concepts to explore and build into your own Open and Standardised Processes.
+* Collection of OpenBIM [Concepts] to explore and build into your own Open and Standardised Processes.
 
 The aim of the course is to support you to become an OpenBIM champion (guru) in your chosen role(s) in the course supported by your disciplinary expertise i.e. LCA or structural analysis for instance. At the end of the course your group is required to develop a tutorial to teach one of these concepts to a group of peers to demonstrate your expertise in the area. The course is divided into 5 [Assignments], each module builds on the previous one to guide you through identifying your use case and the data you need to analyse to create your tool or workflow. The course focuses on the IFC schema to provide you with a robust, future proof and interoperable understanding of BIM. Check the course [Schedule].
 
