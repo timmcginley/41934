@@ -1,7 +1,11 @@
-## Session 6 Machine Learning and BIM
+## Session 6 Voxels
 
 *7th October 2024*
 
+1. ___ Check out the [Voxels](/41934/Concepts/Voxel) resource
+2. https://github.com/opensourceBIM/voxelization_toolkit
+
+<!--
 TOOL Continue working with IfcOpenShell
 1. ___ [Rules](/41934/Concepts/Rules)
 1. ___ Prompt Model [MachineLearning](/41934/Concepts/MachineLearning)
@@ -12,3 +16,4 @@ TOOL Continue working with IfcOpenShell
 * IfcOpenShell [Advanced examples](/41934/Examples/IfcOpenShell/Advanced)
  * Machine Learning Activity
  * Experimenting Rules
+-->
