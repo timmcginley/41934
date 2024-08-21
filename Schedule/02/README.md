@@ -1,4 +1,4 @@
-## Session Classificaiton etc.
+## Session Classification Systems.
 
 *9th September 2024*
 
