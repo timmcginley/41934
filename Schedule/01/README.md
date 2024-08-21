@@ -2,7 +2,9 @@
 
 *2nd September 2024*
 
-Welcome to the advanced BIM course. The idea of the course is not to learn HOWTO BIM but to learn from BIM. Therefore there is a reduced emphasis on modelling. In place of modelling we focus on analyising existing BIM models. The idea is that if you learn how to analyse the BIM models to get the information you need you will then know the what to model. This leads us to our next aim, to model less. 
+Welcome to the advanced BIM course. This course is different from other BIM courses. The idea  is to learn _from_ BIM not learn _howto_ BIM. Therefore we will NOT be training you to model things in BIM tools.
+
+In place of modelling we focus on analyising existing BIM models. The idea is that if you learn how to analyse the BIM models to get the information you need you will then know the what to model. This leads us to our next aim, to model less. 
 
 >What is the minimum information that could be exchanged to guide the person that requires that information?
 
