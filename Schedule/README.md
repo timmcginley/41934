@@ -6,20 +6,20 @@
 ### [A1] IFC Dashboard  
 
 [Week 1](/41934/Schedule/01)  OpenBIM  |
-[Week 2](/41934/Schedule/02)  Management |
+[Week 2](/41934/Schedule/02)  Standards |
 
 ### [A2] Analyze 
 
-[Week 3](/41934/Schedule/03) Classification |
-[Week 4](/41934/Schedule/04) Use cases |
-[Week 5](/41934/Schedule/05) Analysis |
-[Week 6](/41934/Schedule/06) ML/AI |
+[Week 3](/41934/Schedule/03) Use Cases |
+[Week 4](/41934/Schedule/04) IDS |
+[Week 5](/41934/Schedule/05) ISO 19650 |
+[Week 6](/41934/Schedule/06) Voxels |
 
 ### [A3] Remodel
 
-[Week 7](/41934/Schedule/07) Drawings |
-[Week 8](/41934/Schedule/08) Linked Data |
-[Week 9](/41934/Schedule/09) Speckle |
+[Week 7](/41934/Schedule/07) Tool Development Methods |
+[Week 8](/41934/Schedule/08) Speckle |
+[Week 9](/41934/Schedule/09) LD ETC. |
 [Week 10](/41934/Schedule/10) Node-RED|
 
 ### [A4] Champion 
