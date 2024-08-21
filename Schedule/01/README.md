@@ -31,7 +31,7 @@ Please watch the introduction video which provides an introduction to:
 * ___ What is [(Open)BIM] and what are what are [FOSS] tools and FAIR data?  [ ]
 * ___ What is [IFC]?
 
-### In class activity with Introduction from Martina.
+### In class activity with Introduction.
 
 * ___ IFC [entities] and [properties] in [IFC File Analyzer]
 
