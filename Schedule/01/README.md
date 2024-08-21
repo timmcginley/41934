@@ -12,10 +12,10 @@ In place of modelling we focus on analyising existing BIM models. The idea is th
 
 ## Rules for the course
 
-1. Try and use FOSS (Free and Open Source) Solutions first – (as much as possible)
+1. Use FOSS (Free and Open Source) Solutions first – (as much as possible)
 1. No pdfs - replace with .md (this) and .svg for drawings
-1. Try and reuse (and make iterative improvements) on existing solutions (circular digital tools)
-1. Help each other, if you work out something cool share it, you do not get extra credit for keeping it to yourself, but we really like it when you help each other :)
+1. Try and reuse (and make iterative improvements) on existing solutions (circular digital tools).
+1. Help each other, if you work something out, cool, share it, you do not get extra credit for keeping it to yourself, but we really like it when you help each other :)
 
 ## Today's session
 
@@ -33,6 +33,8 @@ Please watch the introduction video which provides an introduction to:
 
 ### In class activity with Introduction from Martina.
 
+<!--
+
 * ___ IFC [entities] and [properties] in [IFC File Analyzer] [ ]t
 
 1. Download the [Skylab IFC models](https://learn.inside.dtu.dk/d2l/le/content/167582/Home) *[enrolled students only]*.
@@ -40,6 +42,8 @@ Please watch the introduction video which provides an introduction to:
 1. Install [Ifc File Analyzer]
 1. Run [Ifc File Analyzer]
 1. Open the generated Spreadsheet for the file you have generated.
+
+-->
 
 You are now one step closer in your journey to becoming an OpenBIM guru. Check out the next session [here](https://github.com/timmcginley/41934/tree/main/Schedule/02).
 
