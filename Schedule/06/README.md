@@ -2,6 +2,8 @@
 
 *7th October 2024*
 
+Presentation - Virtual Demo from Thomas Krijnen (TBC).
+
 1. ___ Check out the [Voxels](/41934/Concepts/Voxel) resource.
 
 <!--
