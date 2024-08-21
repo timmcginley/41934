@@ -30,7 +30,6 @@ The aim of the course is to support you to become an OpenBIM champion (guru) in 
 ## Research Based Course
 This course is research based and the result of the following papers.
 * [McGinley, Krijnen (2021)] *Multi Disciplinary Learning from OpenBIM*, CIB W78 2021, Luxemburg.
-* 
 
 
 <!-- links -->
