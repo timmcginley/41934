@@ -18,7 +18,6 @@ Continue working with IFC File Analyzer
    * Building Implementation Plan ([BIP])
    * Employer’s Information Requirements ([EIR​])
    * Master Information Delivery Plan ([MIDP])
-   * 
    * Organizational Information Requirements ([OIR​])
    * Project Information Model ([PIM])
   
