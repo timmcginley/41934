@@ -12,9 +12,7 @@ The primary aim of the course is to teach you how to gather, analyze and communi
 2. Reusable and Maintainable
 3. Agnostic and Guiding
 
-This requires interoperability and standardisation; therefore this course focuses on Open BIM data and standards. 
-
-Excitingly there is an emerging ecosystem of OpenBIM tools supported by [IfcOpenShell] and others that provide an Open BIM alternative to contemporary inoperable closed BIM tools and data.
+This requires interoperability and standardisation; therefore this course focuses on Open BIM data and standards. Excitingly there is an emerging ecosystem of OpenBIM tools supported by [IfcOpenShell] and others that provide an Open BIM alternative to contemporary inoperable closed BIM tools and data.
 
 ## We are 100% commited to Open BIM
 We believe that University education has a responsibility to support the transition in the AEC to OpenBIM data and standards. To achieve this, the Advanced BIM course at DTU offers:
