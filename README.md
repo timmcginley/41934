@@ -21,7 +21,7 @@ We believe that University education has a responsibility to support the transit
 * 5 Emerging [Roles] for you to experience
 * 5 Stimulating [Assignments] that support you to become an OpenBIM Champion / Guru
 * Learning objectives aligned to the needs of the whole AEC and society (not just the software industry).
-* Focused on Architectural Engineering Students and their interests, but also good for Civil Engineering students who are intested in (Open) Building Information Modelling.
+* A focus on the interests of Architectural Engineering Students, but also relevant for Civil Engineering students.
 * IFC and Python focus with the freedom to explore other systems
 * Varity of Concepts to explore and build into your own Open and Standardised Processes.
 
