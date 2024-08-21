@@ -31,8 +31,10 @@ Please watch the introduction video which provides an introduction to:
 * ___ What is [(Open)BIM] and what are what are [FOSS] tools and FAIR data?  [ ]
 * ___ What is [IFC]?
 
+
 ### In class activity with Introduction.
 
+* ___ [BlenderBIM](/41934/Concepts/BlenderBIM) Explore Skylab model - also see the IFC properties
 * ___ IFC [entities] and [properties] in [IFC File Analyzer]
 
 1. Download the [Skylab IFC models](https://learn.inside.dtu.dk/d2l/le/content/167582/Home) *[enrolled students only]*.
