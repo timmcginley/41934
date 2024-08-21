@@ -1,8 +1,8 @@
-## Session 3 ISO 19650
+## Session 3 Use Cases
 
 *16th September 2024*
 
-
+<!--
 ### Presentation covers....
 
 1. ___ ISO 19650
@@ -29,11 +29,11 @@ roles of:
 * Lead Appointed Party
 * Appointed Party
 
-<!--
+
 We will also help this week with.
 * questions about the assignment
 * your expectations and motivations for the course.
--->
+
 
 [Roles]: /41934/Roles
 [Focus]: /41934/Focus
@@ -44,3 +44,5 @@ We will also help this week with.
 [MIDP]: /41934/Concepts/MIDP
 [OIR​]: /41934/Concepts/OIR
 [PIM]: /41934/Concepts/PIM
+
+-->
