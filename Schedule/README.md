@@ -5,7 +5,7 @@ Welcome to the advanced BIM course. This course is different from other BIM cour
 
 In place of modelling we focus on analyising existing BIM models. The idea is that if you learn how to analyse the BIM models to get the information you need you will then know the what to model. This leads us to our next aim, to model less. 
 
->What is the minimum information that could be exchanged to guide the person that requires that information?
+>What is the minimum information that should be exchanged to guide the person that requires that information?
 
 <!-- a menu for the schedule-->
 
