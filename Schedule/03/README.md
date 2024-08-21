@@ -29,9 +29,11 @@ roles of:
 * Lead Appointed Party
 * Appointed Party
 
+<!--
 We will also help this week with.
 * questions about the assignment
 * your expectations and motivations for the course.
+-->
 
 [Roles]: /41934/Roles
 [Focus]: /41934/Focus
