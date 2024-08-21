@@ -1,4 +1,4 @@
-# OpenBIM Modeller
+# OpenBIM Manager
 The OpenBIM Manager is based on the traditional BIM manager role, such as managing [clashes] Based on these skills, students could then work to develop OpenBIM Manager skills.
 
 
