@@ -2,8 +2,7 @@
 
 *7th October 2024*
 
-1. ___ Check out the [Voxels](/41934/Concepts/Voxel) resource
-2. https://github.com/opensourceBIM/voxelization_toolkit
+1. ___ Check out the [Voxels](/41934/Concepts/Voxel) resource.
 
 <!--
 TOOL Continue working with IfcOpenShell
