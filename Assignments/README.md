@@ -10,13 +10,13 @@
 
 
 ## A1	[Forensic BIM](A1)
-* Exercises: Learn Blender and IfcOpenShell
-* Tools: Kaare's Bimscore tool
+* Exercises: Learn Blender / Bonsai and IfcOpenShell
+* Tools: [Kaare](https://github.com/KaareH)'s awesome Bimscore tool
 * Case: Validate claims made in Advanced Building Design Reports.
 
 This task would focus on analysing the models using scripts as in the previous years using BlenderBIM as an IDE (integrated development environment) incorporating a console, 3d view, IFC data model hierarchy, and IFC property views in one place.
 
-Apply simple scripts to validate claims made in previous iteraitons of the [Advanced Building Design] course. In focus groups you will check specfic claims made in their project reports. These will include Project GFA, Spaces required in the project brief, facade transparency and many other examples. 
+Apply simple scripts to validate claims made in previous iteraitons of the [Advanced Building Design] course. In your [focus](/Focus/) groups you will check specfic claims made in their project reports. These could include: Project GFA, Spaces required in the project brief, facade transparency and many other examples. 
 
 ## A2	[Use Case](A2)
 * Exercises: Use case modelling etc.
@@ -29,6 +29,8 @@ Focus on IFC analysis of real (previous) student building design projects from a
 In this assignment, you will be introduced to BPMN and use it to document the use case and explore the role of experts in OpenBIM. Following this, you will review OpenBIM tools made in the previous year of the OpenBIM course and identify which tools could be used or adapted to solve the challenge identified in the design project in this assignment.
 
 ## A3	[Tool](A3)
+* Exercises: Review previous IfcOpenShell Tutorials [Basic] [Medium] and [Advanced]
+* Tools: [BlenderBIM / 
 
 This assignment provide the opportunity to develop your own OpenBIM tools in Python.
 
