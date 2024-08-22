@@ -14,7 +14,7 @@
 * Tools: [Kaare](https://github.com/KaareH)'s awesome Bimscore tool
 * Case: Validate claims made in Advanced Building Design Reports.
 
-This task would focus on analysing the models using scripts as in the previous years using BlenderBIM as an IDE (integrated development environment) incorporating a console, 3d view, IFC data model hierarchy, and IFC property views in one place.
+This task would focus on analysing the models using scripts as in the previous years using Blender / Bonsai as an IDE (integrated development environment) incorporating a console, 3d view, IFC data model hierarchy, and IFC property views in one place.
 
 Apply simple scripts to validate claims made in previous iteraitons of the [Advanced Building Design] course. In your [focus](/Focus/) groups you will check specfic claims made in their project reports. These could include: Project GFA, Spaces required in the project brief, facade transparency and many other examples. 
 
@@ -30,7 +30,7 @@ In this assignment, you will be introduced to BPMN and use it to document the us
 
 ## A3	[Tool](A3)
 * Exercises: Review previous IfcOpenShell Tutorials [Basic] [Medium] and [Advanced]
-* Tools: [BlenderBIM / 
+* Tools: [Blender / Bonsai]
 
 This assignment provide the opportunity to develop your own OpenBIM tools in Python.
 
