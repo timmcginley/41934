@@ -16,7 +16,7 @@ This requires interoperability and standardisation; therefore this course focuse
 
 ## We are 100% commited to Open BIM
 We believe that University education has a responsibility to support the transition in the AEC to OpenBIM data and standards. To achieve this, the Advanced BIM course at DTU offers:
-* IFC, IfcOpenShell, BlenderBIM and Python focus.
+* IFC, IfcOpenShell, Bonsai (fra BlenderBIM) and Python focus.
 * 5 Emerging [Roles] for you to experience
 * 5 Stimulating [Assignments] that support you to become an OpenBIM Champion / Guru
 * Learning objectives aligned to the needs of the whole AEC and society (not just the software industry).
