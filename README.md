@@ -29,6 +29,13 @@ The aim of the course is to support you to become an OpenBIM champion (guru) in 
 This course is research based and the result of the following papers.
 * [McGinley, Krijnen (2021)] *Multi Disciplinary Learning from OpenBIM*, CIB W78 2021, Luxemburg.
 
+## Rules for the course
+
+1. Use FOSS (Free and Open Source) Solutions first – (as much as possible)
+1. No pdfs - replace with .md (this) and .svg for drawings
+1. Try and reuse (and make iterative improvements) on existing solutions (circular digital tools).
+1. Help each other, if you work something out, cool, share it, you do not get extra credit for keeping it to yourself, but we really like it when you help each other :)
+
 
 <!-- links -->
 
