@@ -17,9 +17,13 @@ You will analyse the models using scripts as in the previous years using Blender
 * 2 people - exceptionally could be 3
 ### 2) Choose a [focus area].
 * Find a focus area that you are interested in - it could be two that overlap if you cannot decide on one, the point of the focus area is to help your group have a common aim and also to make it easier to manage the tools you create.
-### 2.a) Select a claim to check.
 
-* Inside your focus area, find a use case or a "problem" you'd want to solve. If your focus area was "indoor climate", an example of a use case could be "calculate Daylight Autonomy for every space".
+### 3) Review Project documentation for that focus area - 
+
+### 3) Select a claim to check.
+
+* Inside your focus area, find a claim that the team has made from one of the projects we have given you.
+* find a use case or a "problem" you'd want to solve. If your focus area was "indoor climate", an example of a use case could be "calculate Daylight Autonomy for every space".
   
 ### 3) Choose the relevant model form the Stanford / Skylab models
 * Download the [Stanford models](https://learn.inside.dtu.dk/d2l/le/content/167582/Home) or Skylab models (on Learn -> "IFC Models" -> "Stanford models" - *Enrolled Students Only*
