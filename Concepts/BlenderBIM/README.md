@@ -14,7 +14,7 @@ The problem with traditional proprietary BIM tools is that it is not possible to
 ### Beginner
 - The [OSArch wiki](https://wiki.osarch.org/index.php?title=BlenderBIM_Add-on) is generally a good resource on BlenderBIM, IfcOpenShell and OpenBIM in general.
 - [BlenderBIM full free course](https://www.youtube.com/watch?v=pjO_Nh6yaYw&list=PLbFY94gzUJhGXh9tEZIuq-a8BSWddSPz2) from scratch to pro
-- [Exploring IFC model](https://blenderbim.org/docs/users/exploring_an_ifc_model.html)
+- [Exploring IFC model](https://docs.bonsaibim.org/users/quickstart/explore_model.html)
 - Great starting point - [Using BlenderBIM with native IFC](https://www.youtube.com/watch?v=Ooh05WF__80&ab_channel=DionMoult)
 - Check out tutorials from [Ifc Architect](https://www.youtube.com/@IfcArchitect/videos)
 - [Adding information to an IFC model](https://wiki.osarch.org/index.php?title=BlenderBIM_Add-on_adding_information_to_IFC)
@@ -27,8 +27,8 @@ The problem with traditional proprietary BIM tools is that it is not possible to
 ## BlenderBIM 
 Following a brief introduction, we will look at the following steps.
 
-* [Install Blender](https://blenderbim.org/docs/users/installation.html)
-* [Install BlenderBIM](https://blenderbim.org/docs/users/installation.html)
+* [Install Blender](https://docs.bonsaibim.org/users/quickstart/installation.html)
+* [Install BlenderBIM](https://docs.bonsaibim.org/users/quickstart/installation.html)
 * Grab an example IFC model from the IFC Models folder
 * If you follow this tutorial, you'll get a brief introduction to Blender and BlenderBIM 
 Explore that IFC model. Can you find:
@@ -67,7 +67,7 @@ or print their names...
 for space in spaces:
 	print(space.LongName)
 ```
-You can have a look at [this](https://blenderbim.org/docs-python/ifcopenshell-python/hello_world.html) IfcOpenShell crash course for more examples. What other information can you find out about the model?
+You can have a look at [this](https://docs.ifcopenshell.org/ifcopenshell-python/hello_world.html) IfcOpenShell crash course for more examples. What other information can you find out about the model?
 
 Finally, you can get (if you don't have one already) a Github account for your group (this can be your normal account) and create a repository for the course, so it will be ready for you to add scripts to in the following weeks.
 
