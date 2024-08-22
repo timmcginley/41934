@@ -20,7 +20,7 @@ Apply simple scripts to validate claims made in previous iteraitons of the [Adva
 
 ## A2	[Use Case](A2)
 * Exercises: Use case modelling etc.
-* Tools: BPMN.io and .md
+* Tools: BPMN.io and [MarkDown](/Concepts/Markdown)
 * Case: Identify use case and propose tool to assess, provide feedback or support specific process in BIM project.
 
 AIM: Analyze and improve real projects for a specific use case.
