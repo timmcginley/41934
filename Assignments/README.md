@@ -2,7 +2,7 @@
 
 >As an advanced course in BIM our intention is not to ‘teach’ software but to introduce concepts and tools that enable you to answer your own questions. Ultimately the aim of the course is to suport you to learn through the collective development of a new ecosystem OpenBIM tools and techniques and teaching your future colleagues how to learn from OpenBIM too.
 
-1. [Learning From OpenBIM](/Assignments/A1)
+1. [Forensic BIM](/Assignments/A1)
 2. [OpenBIM Modeller / Analyst](/Assignments/A2)
 3. [OpenBIM Manager / Ontologist](/Assignments/A3)
 4. [OpenBIM Champion](/Assignments/A4)
@@ -17,6 +17,10 @@ Case: Validate claims made in Advanced Building Design Reports.
 Apply simple scripts to validate claims made in previous iteraitons of the [Advanced Building Design] course. In focus groups you will check specfic claims made in their project reports. These will include Project GFA, Spaces required in the project brief, facade transparency and many other examples. 
 
 ## A2	[OpenBIM Modeler / Analysis](A2)
+Exercises: Use case modelling etc.
+Tools: BPMN.io and .md
+Case: Identify use case and propose tool to assess, provide feedback or support specific process in BIM project.
+
 AIM: Analyze and improve real projects for a specific use case.
 Focus on IFC analysis of real (previous) student building design projects from an advanced building design course that runs in the previous semester. Identify what the projects analysed, how did they test this? What was the domain focus of the investigation? Was it structural, energy and indoor, daylight, acoustic, LCA/LCC or something else? They should then be introduced to BPMN and use it to document the use case and explore the role of experts in OpenBIM. Following this, the students should review OpenBIM tools made in the previous year of the OpenBIM course and identify which tools could be used or adapted to solve the problem identified in the design project in the previous part. Finally, they could check the information validity of the models against the use case requirements they identified.
 ### Modeler
