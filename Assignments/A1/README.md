@@ -15,12 +15,19 @@ You will analyse the models using scripts as in the previous years using Blender
 
 ### 1) Make a group 
 * 2 people - exceptionally could be 3
-### 2) Choose a [focus area].
-* Find a focus area that you are interested in - it could be two that overlap if you cannot decide on one, the point of the focus area is to help your group have a common aim and also to make it easier to manage the tools you create.
+### 2) Choose a [focus area] / subject.
+* Find a focus area / subject that you are interested in - the point of the focus area is to help your group have a common aim.
+* You 
 
-### 3) Review Project documentation for that focus area - 
+### 3) Review Project documentation for that focus area.
+* It is important to look at all 4 projects. Both for the subject report you have selected and client report.
+* Have a look at the BEATS and see how these are used in the project.
+* For each subject we require one manager group. The job of this group will be to coordinate the different groups in the subject area.
 
 ### 3) Select a claim to check.
+* it could be one of the BEATS.
+* It could be a number from the poster for the year.
+* It does not need to be a super complicated number.
 
 * Inside your focus area, find a claim that the team has made from one of the projects we have given you.
 * find a use case or a "problem" you'd want to solve. If your focus area was "indoor climate", an example of a use case could be "calculate Daylight Autonomy for every space".
