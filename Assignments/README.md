@@ -35,6 +35,7 @@ In this assignment, you will be introduced to [BPMN] and use it to document the 
 This assignment provide the opportunity to develop your own OpenBIM tools in Python.
 
 [ UPDATE THIS!!!!]
+
 This task focuses on ISO 19650. The intention for autumn 2022 was to integrate real examples of 19650 into the course with practical examples, for instance by prototyping a total process using Speckle that complied to ISO 19650. However, time constraints in planning the course meant that this was ultimately replaced with traditional lectures from external parties. These provided informative content to the students but on their own were not enough for them to see the alignment to the other activities. A future BIM course should be focused on thinking in and gaining experience using ISO 19650 rather than just ‘teaching’ it. The experience of the autumn 2022 course enabled a proposal to map the development methodology (Figure 3) to ISO 19650 (Figure 4).
 
 
@@ -42,7 +43,9 @@ This task focuses on ISO 19650. The intention for autumn 2022 was to integrate r
 The final assignment focuses on the ability to transfer knowledge in an organization. It aims to address; how do we ‘learn from BIM’ at an organizational level? For this you will consider something you have learnt by yourselves that you think would be valuable to share with your peers. Suggested appraoches to support your peers learning could be, short tutorial videos, markdown files, carefully commented code and Jupyter notebooks. Furthermore, there is a chance to develop custom content that could be linked to the course learning environment that, with the student’s permission, could be used in future iterations of the course to support student learning, as well as in Advanced Building Design next year. Peer feedback will include how it supported them to make decisions and ultimately if it was clear enough to help them to know how to change their model.
 
 ## A5 [Reflection](A5)
-A final brief project report to enable you to reflect on your learning in the course copmpared to the learning goals. This helps you to become more aware of what you learnt, what worked for you and how you can support both your own learning and that of your peers in the future.
+A final brief report to offer you space to reflect on your learning compared to the course [learning goals]. This helps you to become more aware of what you learnt, what worked for you and how you can support both your own learning and that of your peers in the future.
+
+[learning goals](/LearningObjectives/)
 
 <!-- 2023
 
