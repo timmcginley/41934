@@ -23,6 +23,8 @@ You will analyse the models using scripts as in the previous years using Blender
 * It is important to look at all 4 projects. Both for the subject report you have selected and client report.
 * Have a look at the BEATS and see how these are used in the project.
 * For each subject we require one manager group. The job of this group will be to coordinate the different groups in the subject area.
+* The manager will support the [analysts] by coordinating their work.
+
 
 ### 3) Select a claim to check.
 * it could be one of the BEATS.
