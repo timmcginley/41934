@@ -26,11 +26,11 @@ Apply simple scripts to validate claims made in previous iteraitons of the [Adva
 AIM: Analyze and improve real projects for a specific use case.
 Focus on IFC analysis of real (previous) student building design projects from an advanced building design course that runs in the previous semester. Identify what the projects analysed, how did they test this? What was the domain focus of the investigation? Was it structural, energy and indoor, daylight, acoustic, LCA/LCC or something else? 
 
-In this assignment, you will be introduced to BPMN and use it to document the use case and explore the role of experts in OpenBIM. Following this, you will review OpenBIM tools made in the previous year of the OpenBIM course and identify which tools could be used or adapted to solve the challenge identified in the design project in this assignment.
+In this assignment, you will be introduced to [BPMN] and use it to document the use case and explore the role of experts in [OpenBIM]. Following this, you will review OpenBIM tools made in the previous year of the OpenBIM course and identify which tools could be used or adapted to solve the challenge identified in the design project in this assignment.
 
 ## A3	[Tool](A3)
 * Exercises: Review previous IfcOpenShell Tutorials [Basic] [Medium] and [Advanced]
-* Tools: [Blender / Bonsai]
+* Tools: [Blender / Bonsai] | [Speckle] [Voxel toolkit]
 
 This assignment provide the opportunity to develop your own OpenBIM tools in Python.
 
@@ -38,14 +38,11 @@ This task focuses on ISO 19650. The intention for autumn 2022 was to integrate r
 ### Ontologist
 The focus of this assignment is to support the Ontologist role. This should cover both Open Linked building data and traditional classification systems.
 
-## A4	[OpenBIM Champion](A4)
-The final assignment focuses on the ability to transfer knowledge in an organization. It aims to address; how do we ‘learn from BIM’ at an organizational level? This is a new component for autumn 2023. For autumn 2023, participants will therefore have to consider how to teach what they have learnt in the process to another group of students. Ideally this would support those that choose Analysis in the 2nd assignment to learn about modelling, or for the ontologists to learn about management. Suggested tools include, short tutorial videos, markdown files, carefully commented code and Jupyter notebooks. Furthermore, there would be a chance for them to develop custom content that could be linked to in the course learning environment that, with the student’s permission, could be used in future iterations of the course to support student learning.
+## A4	[Show & Tell](A4)
+The final assignment focuses on the ability to transfer knowledge in an organization. It aims to address; how do we ‘learn from BIM’ at an organizational level? For this you will consider something you have learnt by yourselves that you think would be valuable to share with your peers. Suggested appraoches to support your peers learning could be, short tutorial videos, markdown files, carefully commented code and Jupyter notebooks. Furthermore, there is a chance to develop custom content that could be linked to the course learning environment that, with the student’s permission, could be used in future iterations of the course to support student learning, as well as in Advanced Building Design next year. Peer feedback will include how it supported them to make decisions and ultimately if it was clear enough to help them to know how to change their model.
 
 ## A5 [Reflection](A5)
-
-A2 and A3 have 2 options, so participants will help to evaluate and provide peer feedback on each other’s work. 
-
-Participants will get an introductory lecture (video) to both options to support their choice (Adamu & Thorpe, 2016). In this way, the modelling groups will receive guidance from the analysis groups and provide feedback on that guidance back to them. This feedback should also include how it supported them to make decisions and ultimately if it was clear enough to help them to know how to change their model.
+A final brief project report to enable you to reflect on your learning in the course copmpared to the learning goals. This helps you to become more aware of what you learnt, what worked for you and how you can support both your own learning and that of your peers in the future.
 
 <!-- 2023
 
