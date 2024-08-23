@@ -29,6 +29,12 @@ Please watch the introduction video which provides an introduction to:
 
 * [Install](https://blenderbim.org/docs/users/installation.html) Blender and BlenderBIM following the instruction page, with the difference that you should follow the [unstable installation](https://blenderbim.org/docs/devs/installation.html#unstable-installation). Here is also a [video explaination](https://www.youtube.com/watch?v=I-937k6fvKk&t=0s) by Ifc Architect (notice that the new version of BlenderBIM looks a bit different).
 
+
+1. [understanding IFC](https://docs.bonsaibim.org/users/modeling/understanding_ifc.html)
+2. [Starting a new IFC Project](https://docs.bonsaibim.org/users/modeling/starting_new_project.html)
+3. [Importing and Viewing IFC Models](https://docs.bonsaibim.org/users/modeling/importing_viewing_models.html)
+4. [Basic Modeling Techniques](https://docs.bonsaibim.org/users/modeling/basic_modeling/index.html)
+
 <!--1. Install [Ifc File Analyzer]
 1. Run [Ifc File Analyzer]
 1. Open the generated Spreadsheet for the file you have generated.
