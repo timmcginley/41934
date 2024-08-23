@@ -33,7 +33,9 @@ Please watch the introduction video which provides an introduction to:
 1. [understanding IFC](https://docs.bonsaibim.org/users/modeling/understanding_ifc.html)
 2. [Starting a new IFC Project](https://docs.bonsaibim.org/users/modeling/starting_new_project.html)
 3. [Importing and Viewing IFC Models](https://docs.bonsaibim.org/users/modeling/importing_viewing_models.html)
-4. [Basic Modeling Techniques](https://docs.bonsaibim.org/users/modeling/basic_modeling/index.html)
+
+
+
 
 <!--1. Install [Ifc File Analyzer]
 1. Run [Ifc File Analyzer]
