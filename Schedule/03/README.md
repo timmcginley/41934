@@ -2,6 +2,10 @@
 
 *16th September 2024*
 
+### Activity
+
+1. Select the file for the discipline you want to work with based on your [focus area].
+
 <!--
 ### Presentation covers....
 
