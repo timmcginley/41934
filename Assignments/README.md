@@ -1,6 +1,7 @@
 # Assignments
 
 >As an advanced course in BIM our intention is not to ‘teach’ software but to introduce concepts and tools that enable you to answer your own questions. Ultimately the aim of the course is to suport you to learn through the collective development of a new ecosystem OpenBIM tools and techniques and teaching your future colleagues how to learn from OpenBIM too.
+>Our hope for you in the course is that you gain the confidence to find the answers you are looking for in an open, instructor and peer supported environment.
 
 1. [Forensic BIM](/Assignments/A1)
 2. [Use Case](/Assignments/A2)
