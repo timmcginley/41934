@@ -15,6 +15,7 @@ Please watch the introduction video which provides an introduction to:
 * ___ Course [Assignments](/41934/Assignments) and Feedback [ ]
 * ___ What is [(Open)BIM] and what are what are [FOSS] tools and FAIR data?  [ ]
 * ___ What is [IFC]?
+* ___ [Assignment 1] Introduction
 
 ### Activity
 In todays activity you will learn:
@@ -60,3 +61,4 @@ You are now one step closer in your journey to becoming an OpenBIM guru. Check o
 [entities]: /41934/Concepts/Entities
 [properties]: /41934/Concepts/Properties
 [IFC File Analyzer]: /41934/Concepts/IFCFileAnalyzer
+[Assignment 1]: /41934/Assignments/A1
