@@ -1,8 +1,10 @@
-# Session 4 OpenBIM Use Cases
+# Session 4 IDS
 
 *23rd September 2024*
 
+Jan ...
 
+<!--
 ### In class activity covers...
 
 * External lecture
@@ -31,3 +33,5 @@ Chrstian will then be available in the following session to talk wiht you about 
 
 
 [Github]: /41934/Concepts/Github
+
+-->
