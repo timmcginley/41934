@@ -28,7 +28,7 @@ You will decide on:
 1. Download the [Skylab IFC models](https://learn.inside.dtu.dk/d2l/le/content/167582/Home) *[enrolled students only]*.
 
 
-1. Select the file for the discipline you want to work with based on your [focus area].
+
 
 * [Install](https://blenderbim.org/docs/users/installation.html) Blender and BlenderBIM following the instruction page, with the difference that you should follow the [unstable installation](https://blenderbim.org/docs/devs/installation.html#unstable-installation). Here is also a [video explaination](https://www.youtube.com/watch?v=I-937k6fvKk&t=0s) by Ifc Architect (notice that the new version of BlenderBIM looks a bit different).
 
