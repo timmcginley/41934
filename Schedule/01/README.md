@@ -2,7 +2,7 @@
 
 *2nd September 2024*
 
-## Lecture
+### Lecture
 
 Please watch the introduction video which provides an introduction to:
 * ___ What is [BIM] and what is the focus of the course?
