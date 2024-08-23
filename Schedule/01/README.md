@@ -20,13 +20,16 @@ Please watch the introduction video which provides an introduction to:
 ### Activity
 In todays activity you will learn:
 * to install and set up Blender and the Bonsai (fka BlenderBIM) add on.
-You will decide on:
-* the system / focus area you will take? - maybe later?
 
-* ___ [BlenderBIM](/41934/Concepts/BlenderBIM) Explore Skylab model - also see the IFC properties
-* ___ IFC [entities] and [properties] in [IFC File Analyzer]
-
+### Resources
 1. Download the [Skylab IFC models](https://learn.inside.dtu.dk/d2l/le/content/167582/Home) *[enrolled students only]*.
+
+
+### Bonsai (fka BlenderBIM installation)
+* ___ [BlenderBIM](/41934/Concepts/BlenderBIM) Explore Skylab model - also see the IFC properties
+* ___ IFC [entities] and [properties] in [Bonsai]
+
+
 
 
 
