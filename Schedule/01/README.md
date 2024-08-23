@@ -17,6 +17,10 @@ Please watch the introduction video which provides an introduction to:
 * ___ What is [IFC]?
 
 ### Activity
+In todays activity you will learn:
+* to install and set up Blender and the Bonsai (fka BlenderBIM) add on.
+You will decide on:
+* the system / focus area you will take? - maybe later?
 
 * ___ [BlenderBIM](/41934/Concepts/BlenderBIM) Explore Skylab model - also see the IFC properties
 * ___ IFC [entities] and [properties] in [IFC File Analyzer]
