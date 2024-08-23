@@ -2,7 +2,7 @@
 
 *2nd September 2024*
 
-## Today's session
+## Lecture
 
 Please watch the introduction video which provides an introduction to:
 * ___ What is [BIM] and what is the focus of the course?
@@ -16,8 +16,7 @@ Please watch the introduction video which provides an introduction to:
 * ___ What is [(Open)BIM] and what are what are [FOSS] tools and FAIR data?  [ ]
 * ___ What is [IFC]?
 
-
-### In class activity with Introduction.
+### Activity
 
 * ___ [BlenderBIM](/41934/Concepts/BlenderBIM) Explore Skylab model - also see the IFC properties
 * ___ IFC [entities] and [properties] in [IFC File Analyzer]
