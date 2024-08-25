@@ -22,6 +22,7 @@ Ontologies: have you found that th
 
 
 ## Previous Projects for inspiration
+Most of the examples are developed as standalone Python scripts (not in Blender), but these can be adapted - make sure you credit the previous work and are clear about the changes / improvements you have made.
 
 ### 2022
 * [22 Group 01](https://github.com/kfjordt/11034-advanced-bim) - Cost (structural)
