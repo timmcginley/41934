@@ -15,7 +15,17 @@ Aim: To learn from the experience of managing an OpenBIM project or develop onto
 
 In this assignment you will develop custom content that if you share publicly will be reused in future versions of the course. You will see examples from previous years below. In this wayn you support both your own learning and the future learning of others as part of our circular education system concept
 
-Your tutorial should include:
+Your tutorial could include at least 2 of the following:
+
+### Video
+Videos provide an easy way to follow you tutorial, but should be done with either markdown instructions or a jupyter notebook.
+
+## Jupyter Notebook
+More details [here](/41934/Concepts/Jupyter)
+
+## Markdown README
+Markdown that includes markdown formatted code blocks for example code
+
 
 * Clearly state the level you are supporting.
 
@@ -24,6 +34,9 @@ Your tutorial should include:
 * If using code, Ideally be written in Python, but can be other approaches in special cases if agreed with the course responsible.
 * be tested by your peers.
 * be reviewed and feedback provided by your peers.
+
+## Submission
+* The tutorial, either as a github link
 
 ## Examples
 * [23 G37](https://github.com/Brise07/DTU---Advanced-BIM-Assignment/blob/main/A4/A4_Description.md) - Level 1 Modeller
