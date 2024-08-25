@@ -1,7 +1,5 @@
 # A4: OpenBIM Champion
-### Learning Objectives
-8. Teach an advanced BIM concept you have learned in the course to your peers and reflect on peer feedback on this.
-   
+
 This assignment supports you to develop the skills to transfer knowledge in an organization. It aims to address; how do we ‘learn from BIM’ at an organizational level? You will therefore have to consider how to teach what you have learnt in the process to another group of students. Ideally this would give students a chance to learn a concept thye otherwise would not have time for in the course. Suggested tools include:
 * short tutorial videos,
 * markdown files,
@@ -50,6 +48,8 @@ Your tutorial could include at least 2 of the following:
 * [23 G36](https://github.com/kasp582a/41934-AdvancedBIM-Group36) - Calculate moment of inertia. link to [video](https://www.youtube.com/watch?v=X-hkMR-AHVY&t=14s).
 * [23 G48](https://github.com/KaareH/DTU_E23_41934_Advanced-BIM/tree/main/Assignments/A4)
 
+### Learning Objectives
+8. Teach an advanced BIM concept you have learned in the course to your peers and reflect on peer feedback on this.
 
 [roles]: /41934/Roles
 [role learning level]: /41934/Roles
