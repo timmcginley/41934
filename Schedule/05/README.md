@@ -12,7 +12,6 @@ Molio visit (TBC)
 1. ___ What is Virtual Design and Construction [(VDC)](/41934/Concepts/VDC)?
 1. ___ What is [BCF](/41934/Concepts/BCF)?
 1. ___ What is micro[MVD](/41934/Concepts/MVD)?
-1. ___ [UCM](/41934/Concepts/UCM)
 1. ___ [bsDD](/41934/Concepts/bsDD)
 
 ### BIM  
