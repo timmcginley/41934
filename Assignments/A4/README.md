@@ -24,12 +24,6 @@ Your tutorial should include:
 * be tested by your peers.
 * be reviewed and feedback provided by your peers.
 
-## Complete examples
-* [23 G15](https://github.com/frejahbarkler/dtu_course_41934_group15/tree/main)
-* [23 G20](https://github.com/leonschoene/41934_Advanced_BIM_Group_20/tree/main)
-* [23 G48](
-https://github.com/KaareH/DTU_E23_41934_Advanced-BIM/tree/main/Assignments)
-
 ## Examples
 * [23 G37](https://github.com/Brise07/DTU---Advanced-BIM-Assignment/blob/main/A4/A4_Description.md)
 * [23 G04](https://github.com/s215270/F23_41934_Advanced_BIM_Group_4/tree/main/A4_OpenBIM_Guru) - Modeller Level 1
