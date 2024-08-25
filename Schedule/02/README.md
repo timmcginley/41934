@@ -6,7 +6,6 @@
 ### OpenBIM Standards and Guidelines
 1. ___ [Classification]
 1. ___ IFC [Properties and PropertySets]
-1. ___ BIM Execution Plan [(BEP)](/41934/Concepts/BIMExecutionPlan) in the context of [IS0 19650](/41934/Concepts/ISO19650)
 3. ___ [LOD](/41934/Concepts/LOD)
 
 <!--
