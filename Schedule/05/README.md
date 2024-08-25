@@ -6,12 +6,14 @@ Molio visit (TBC)
 
 ### Custom tool developemnt
 1. ___ How do I develop Custom Tools [DevelopmentMethod](/41934/Concepts/DevelopmentMethod)?
-1. ___ [IDE](/41934/Concepts/IDE) 
+1. ___ [IDE](/41934/Concepts/IDE)
+
 
 ### Content
 1. ___ What is Virtual Design and Construction [(VDC)](/41934/Concepts/VDC)?
 1. ___ What is [BCF](/41934/Concepts/BCF)?
 1. ___ What is micro[MVD](/41934/Concepts/MVD)?
+1. ___ BIM Execution Plan [(BEP)](/41934/Concepts/BIMExecutionPlan) in the context of [IS0 19650](/41934/Concepts/ISO19650)
 1. ___ [bsDD](/41934/Concepts/bsDD)
 
 ### BIM  
