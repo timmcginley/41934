@@ -2,6 +2,8 @@
 
 *16th September 2024*
 
+Introduction to [A2]
+
 ### Activity
 
 Select the file for the discipline you want to work with based on your [focus area].
@@ -13,6 +15,7 @@ Select the file for the discipline you want to work with based on your [focus ar
 ### OpenBIM Standards
 3. ___ Introduction to [UCM](/41934/Concepts/UCM)
 
+[A2]: /41934/Assignments/A2
 <!--
 ### Presentation covers....
 
