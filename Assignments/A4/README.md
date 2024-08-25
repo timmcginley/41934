@@ -1,8 +1,9 @@
 # A4: OpenBIM Champion
+_how can we learn from BIM at an organisational, insitutional and personal level?_
 
 >This assignment is peer reviewed and also compulsory. Your reflection on the feedback from your peers will for part of your submission [A5]. In this way the emphasis in this assignment should be less 'what does the teacher want' and more 'what do my peers need'.
 
-This assignment supports you to develop the skills to transfer knowledge in an organization. It aims to address; how do we ‘learn from BIM’ at an organizational level? You will therefore have to consider how to teach what you have learnt in the process to another group of students. Ideally this would give students a chance to learn a concept they otherwise would not have time for in the course.
+Through this experience we want to see you develop knoweldge transfer skills, that you could then apply in a professional environment. This assignment aims to address; how do we ‘learn from BIM’ at an organizational level? You will therefore have to consider how to teach what you have learnt in the process to another group of students. Ideally this would give students a chance to learn a concept they otherwise would not have time for in the course.
 
 Your tutorial could include at least 2 of the following:
 
