@@ -30,10 +30,9 @@ The aim of the course is to support you to become an OpenBIM champion (guru) in 
 ## We want you to learn from each other!
 Thats why we encourage you to learn from and improve upon previous work. The following examples contain the submissions of previous years.
 
-### 2023
-* [23 G15](https://github.com/frejahbarkler/dtu_course_41934_group15/tree/main)
-* [23 G20](https://github.com/leonschoene/41934_Advanced_BIM_Group_20/tree/main)
-* [23 G48](
+* [2023 Group 15](https://github.com/frejahbarkler/dtu_course_41934_group15/tree/main)
+* [2023 Group 20](https://github.com/leonschoene/41934_Advanced_BIM_Group_20/tree/main)
+* [2023 Group 48](
 https://github.com/KaareH/DTU_E23_41934_Advanced-BIM/tree/main/Assignments)
 
 ## Research Based Course
