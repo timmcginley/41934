@@ -25,7 +25,7 @@ Your tutorial should include:
 * be reviewed and feedback provided by your peers.
 
 ## Examples
-* [23 G37](https://github.com/Brise07/DTU---Advanced-BIM-Assignment/blob/main/A4/A4_Description.md)
+* [23 G37](https://github.com/Brise07/DTU---Advanced-BIM-Assignment/blob/main/A4/A4_Description.md) - Level 1 Modeller
 * [23 G04](https://github.com/s215270/F23_41934_Advanced_BIM_Group_4/tree/main/A4_OpenBIM_Guru) - Modeller Level 1
 * [23 G01](https://github.com/s193826/Project_4) - Level 2 Modeller
 * [23 G05](https://github.com/StanimirMihaylovAngelov/Advanced_BIM/blob/main/A4/README.md) - Level 1 Modeller
@@ -35,7 +35,6 @@ Your tutorial should include:
 * [23 G11](https://github.com/kristianedstrom/Group-11/tree/main/Assignments/A4) - Analyst Level 1
 * [23 G12](https://github.com/s203722/Window-Analysis-Tool/tree/5d8f07b02ad39b461c8c4065fdf1b3d198649d46/Window%20analysis%20tool) - Level 1
 * [23 G15](https://github.com/frejahbarkler/dtu_course_41934_group15/tree/main/A4) - verify structural load capacity
-* [23 G16]
 * [23 G20](https://github.com/vilhuvoj/G16-A4/tree/main) - Video link broken please use [this](https://github.com/vilhuvoj/G16-A4/tree/main) instead.
 * [23 G36](https://github.com/kasp582a/41934-AdvancedBIM-Group36) - Calculate moment of inertia. link to [video](https://www.youtube.com/watch?v=X-hkMR-AHVY&t=14s).
 * [23 G48](https://github.com/KaareH/DTU_E23_41934_Advanced-BIM/tree/main/Assignments/A4)
