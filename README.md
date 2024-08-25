@@ -7,10 +7,13 @@ ref_variable: ${ref}
 -->
 
 # 41934 Advanced BIM
+FAIR and Open BIM tools, data, standards and processes processes, support interoperability in the building industry. They put you the engineers and designers back in control of the process. The course supports you to:
 
-The course helps you learn how to gather, analyze and communicate [building information] from [IFC] models for real architectural engineering challenges. Along the way you will also teach your peers a [concept] you have learnt in the course. Additional, within the circular education system, the course develops and maintains OpenBIM processes and tools that we can all use and learn from.
+* learn how to gather, analyze and communicate [building information] from [IFC] models for real architectural engineering challenges.
+* Teach your peers a [concept] you have learnt in the course, you will also have access to peer crafted tutorials from previous years.
+* Develop new tools or adapt previous ones that (if you decide to share them) can be used to develop and maintain the growing OpenBIM ecosystem of processes and tools that everyone can use and learn from for free.
 
-The 3 course principles are to be:
+The 3 course principles for these tools and proceses are to be:
 
 1. Open, FAIR and Standardised
 2. Reusable and Maintainable
