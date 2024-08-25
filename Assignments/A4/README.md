@@ -2,8 +2,6 @@
 
 This assignment supports you to develop the skills to transfer knowledge in an organization. It aims to address; how do we ‘learn from BIM’ at an organizational level? You will therefore have to consider how to teach what you have learnt in the process to another group of students. Ideally this would give students a chance to learn a concept they otherwise would not have time for in the course.
 
-In this assignment you will develop custom content that if you share publicly will be reused in future versions of the course. You will see examples from previous years below. In this wayn you support both your own learning and the future learning of others as part of our circular education system concept
-
 Your tutorial could include at least 2 of the following:
 
 1. **Videos** provide an easy way to follow you tutorial, but should be done with either markdown instructions or a jupyter notebook. Please include a permanant to your video from a hosting site like youtube if you want it to be available for others to learn from. If not it is also possible 
@@ -32,6 +30,8 @@ Aim: To learn from the experience of managing an OpenBIM project or develop onto
 The peer lesson will take place in the [final session of the course] which in 2024 is the 2nd December.
 
 ## Examples
+In this assignment you will develop custom content that if you share publicly will be reused in future versions of the course. You will see examples from previous years below. In this way you support both your own learning and the future learning of others as part of our circular education system concept. We hope you find the examples below inspiring and that you want to also help other students. Can you see gaps in the current tutorials? What did you learn on the course that there was not already a good tutorial for that you want to share with others?
+
 * [23 G37](https://github.com/Brise07/DTU---Advanced-BIM-Assignment/blob/main/A4/A4_Description.md) - Level 1 Modeller
 * [23 G04](https://github.com/s215270/F23_41934_Advanced_BIM_Group_4/tree/main/A4_OpenBIM_Guru) - Level 1 Modeller 
 * [23 G01](https://github.com/s193826/Project_4) - Level 2 Modeller
