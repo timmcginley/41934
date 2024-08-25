@@ -17,4 +17,6 @@
 * The activity from the [classification] concept.
 
 [Classification]: /41934/Concepts/Classification
+[IfcProperties and IfcPropertySets]: /41934/Concepts/Properties
+[PropertySets]: /41934/Concepts/Property
 [A1]: /41934/Assignments/A1
