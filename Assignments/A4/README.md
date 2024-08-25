@@ -8,6 +8,7 @@ This assignment supports you to develop the skills to transfer knowledge in an o
 * carefully commented code and or
 * Jupyter notebooks.
 
+### Peer feedback session
 The peer lesson will take place in the [final session of the course] which in 2024 is the 2nd December.
 
 Aim: To learn from the experience of managing an OpenBIM project or develop ontologies to support the collaboration with knowledge from different domains. These activities are done in parallel. 
