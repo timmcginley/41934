@@ -2,6 +2,8 @@
 
 *23rd September 2024*
 
+Introduction to [A2]
+
 Jan Karlshøj will deliver a session on [IDS].
 
 1. ___ What is Information Delivery Specification (IDS)]
