@@ -1,5 +1,7 @@
 # A4: OpenBIM Champion
 
+This assignment is peer reviewed and also compulsory. Your reflection on the feedback from your peers will for part of your submission [A5]. In this way the emphasis in this assignment should be less 'what does the teacher want' and more 'what do my peers need'.
+
 This assignment supports you to develop the skills to transfer knowledge in an organization. It aims to address; how do we ‘learn from BIM’ at an organizational level? You will therefore have to consider how to teach what you have learnt in the process to another group of students. Ideally this would give students a chance to learn a concept they otherwise would not have time for in the course.
 
 Your tutorial could include at least 2 of the following:
@@ -14,6 +16,9 @@ Your tutorial could include at least 2 of the following:
 Aim: To learn from the experience of managing an OpenBIM project or develop ontologies to support the collaboration with knowledge from different domains. These activities are done in parallel. 
 
 ## Requirements
+* Each group must present your tutorial to your focus area in one of the slot between week 8 and 12.
+* Each group must provide feedback on a minimum of 2 other groups.
+* Your reflection on your feedback will form part of you final submission [A5]
 
 * Clearly state the level you are supporting.
 
