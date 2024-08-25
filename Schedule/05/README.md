@@ -2,17 +2,20 @@
 
 *30th September 2024*
 
-Molio visit
+Molio visit (TBC)
 
-TOOL Start working with IfcOpenShell
+### Custom tool developemnt
+1. ___ How do I develop Custom Tools [DevelopmentMethod](/41934/Concepts/DevelopmentMethod)?
 
-
+### Content
 1. ___ What is Virtual Design and Construction [(VDC)](/41934/Concepts/VDC)?
 1. ___ What is [BCF](/41934/Concepts/BCF)?
 1. ___ What is micro[MVD](/41934/Concepts/MVD)?
 1. ___ [UCM](/41934/Concepts/UCM)
 1. ___ [bsDD](/41934/Concepts/bsDD)
-1. ___ Introduction to [MarkDown](/41934/Concepts/MarkDown)
+
+  
+
 1. ___ get [property](/41934/Concepts/Properties) sets
 1. ___ [Python](/41934/Concepts/Python)
 1. ___ [IDM](/41934/Concepts/IDM)
