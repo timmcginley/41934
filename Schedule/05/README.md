@@ -14,15 +14,21 @@ Molio visit (TBC)
 1. ___ [UCM](/41934/Concepts/UCM)
 1. ___ [bsDD](/41934/Concepts/bsDD)
 
-  
-
-1. ___ get [property](/41934/Concepts/Properties) sets
-1. ___ [Python](/41934/Concepts/Python)
-1. ___ [IDM](/41934/Concepts/IDM)
-1. ___ [IDE](/41934/Concepts/IDE)
-1. ___ [BPMN](/41934/Concepts/BPMN)
-2. ___ Common Data Environment [(CDE)](/41934/Concepts/CDE)
+### BIM  
 2. ___ [Dimensions](/41934/Concepts/Dimensions) of BIM.
+
+### IFC
+1. ___ get [property](/41934/Concepts/Properties) sets
+
+### Coding
+1. ___ [Python](/41934/Concepts/Python)
+
+1. ___ [IDE](/41934/Concepts/IDE)
+
+### Standards
+1. ___ [IDM](/41934/Concepts/IDM)
+2. ___ Common Data Environment [(CDE)](/41934/Concepts/CDE)
+
 1. ___ meta disciplinary objects
 
 
