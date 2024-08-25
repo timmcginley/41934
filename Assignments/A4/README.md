@@ -1,5 +1,5 @@
 # A4: OpenBIM Champion
-_how can we learn from BIM at an organisational, insitutional and personal level?_
+_How can we learn from BIM at an organisational, insitutional and personal level?_
 
 >This assignment is peer reviewed and also compulsory. Your reflection on the feedback from your peers will for part of your submission [A5]. In this way the emphasis in this assignment should be less 'what does the teacher want' and more 'what do my peers need'.
 
