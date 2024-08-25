@@ -7,6 +7,20 @@ Jan Karlshøj will deliver a session on [IDS].
 1. ___ What is Information Delivery Specification (IDS)]
 1. ___ What is Virtual Design and Construction [(VDC)](/41934/Concepts/VDC)?
 
+1. ___ What is Virtual Design and Construction [(VDC)](/41934/Concepts/VDC)?
+
+### Activity
+
+Select the file for the discipline you want to work with based on your [focus area].
+
+### Content
+2. ___ Introduction to [MarkDown](/41934/Concepts/MarkDown)
+1. ___ Introduction to [BPMN](/41934/Concepts/BPMN)
+
+### OpenBIM Standards
+3. ___ Introduction to [UCM](/41934/Concepts/UCM)
+
+
 [IDS]: /41934/Concepts/IDS
 
 <!--
