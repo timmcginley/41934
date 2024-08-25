@@ -16,6 +16,8 @@
 ### In class activity covers...
 
 * Classification in BlenderBIM
+* How are the models we are studying classified?
+* How to change the classification of the models.
 * The activity from the [classification] concept.
 
 [Classification]: /41934/Concepts/Classification
