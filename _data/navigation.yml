@@ -57,11 +57,11 @@
   dropdown: 
     - name: 01 - OpenBIM
       link: /Schedule/01
-    - name: 02 - Classification
+    - name: 02 - IFC
       link: /Schedule/02
-    - name: 03 - Use Cases
+    - name: 03 - Classificaiton
       link: /Schedule/03
-    - name: 04 - IDS
+    - name: 04 - IDS / Use Case
       link: /Schedule/04
     - name: 05 - ISO 19650
       link: /Schedule/05
