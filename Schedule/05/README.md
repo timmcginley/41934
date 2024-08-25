@@ -6,6 +6,7 @@ Molio visit (TBC)
 
 ### Custom tool developemnt
 1. ___ How do I develop Custom Tools [DevelopmentMethod](/41934/Concepts/DevelopmentMethod)?
+1. ___ [IDE](/41934/Concepts/IDE) 
 
 ### Content
 1. ___ What is Virtual Design and Construction [(VDC)](/41934/Concepts/VDC)?
@@ -23,7 +24,7 @@ Molio visit (TBC)
 ### Coding
 1. ___ [Python](/41934/Concepts/Python)
 
-1. ___ [IDE](/41934/Concepts/IDE)
+
 
 ### Standards
 1. ___ [IDM](/41934/Concepts/IDM)
