@@ -1,6 +1,6 @@
 # A3 Tool
 
-In this assignmnet you will create a custom tool based on the use case you determined perviously.
+In this assignment you will create a custom tool based on the use case you defined in [A2].
 
 
 ## A3A Plan
@@ -153,3 +153,4 @@ The report should link to or include:
 -->
 [BIM execution plan]: /41934/Concepts/BIMExecutionPlan
 [BlenderBIM]: /41934/Concepts/BlenderBIM
+[A2]: /41934/Assignments/A2
