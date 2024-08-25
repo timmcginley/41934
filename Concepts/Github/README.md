@@ -2,6 +2,8 @@
 
 *These platforms solve the problem of providing a centralised and user-friendly platform for hosting, collaborating on, and managing Git repositories, streamlining the development and collaboration process.*
 
+Prefer a [video?](https://www.youtube.com/watch?v=8Dd7KRpKeaE)
+
 The most popular code-hosting platform based on Git is the Microsoft-owned **GitHub**. Apart from providing the version control features of Git, Github provides features that make collaboration on projects easier, like bug tracking, task management, continuous integration, wikis etc. To further test its possibilities we use it in this course to host all our course documentation.
 
 Usually, software developers use the command line to interact with git repositories. However, if learning Git commands and the command line is too daunting in the beginning, Github has made a GUI platform for this purpose, called **GitHub Desktop**. With GitHub Desktop you won't be able to use advanced features of Git, but it can help beginners visualise the steps of pushing and pulling repositories. Watch [this video](https://www.youtube.com/watch?v=8Dd7KRpKeaE) for an introduction to Github Desktop. 
