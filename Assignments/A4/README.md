@@ -17,14 +17,11 @@ In this assignment you will develop custom content that if you share publicly wi
 
 Your tutorial could include at least 2 of the following:
 
-### Video
-Videos provide an easy way to follow you tutorial, but should be done with either markdown instructions or a jupyter notebook.
+1. **Videos** provide an easy way to follow you tutorial, but should be done with either markdown instructions or a jupyter notebook. Please include a permanant to your video from a hosting site like youtube if you want it to be available for others to learn from. If not it is also possible 
 
-## Jupyter Notebook
-More details [here](/41934/Concepts/Jupyter)
+2. **Jupyter Notebook** More details [here](/41934/Concepts/Jupyter)
 
-## Markdown README
-Markdown that includes markdown formatted code blocks for example code
+3. **[Markdown](/41934/Concepts/Markdown) README** that includes markdown formatted code blocks for example code
 
 
 * Clearly state the level you are supporting.
