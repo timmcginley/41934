@@ -27,6 +27,15 @@ We believe that University education has a responsibility to support the transit
 
 The aim of the course is to support you to become an OpenBIM champion (guru) in your chosen role(s) in the course supported by your disciplinary expertise i.e. LCA or structural analysis for instance. At the end of the course your group is required to develop a tutorial to teach one of these concepts to a group of peers to demonstrate your expertise in the area. The course is divided into 5 [Assignments], each module builds on the previous one to guide you through identifying your use case and the data you need to analyse to create your tool or workflow. The course focuses on the IFC schema to provide you with a robust, future proof and interoperable understanding of BIM. Check the course [Schedule].
 
+## We want you to learn from each other!
+Thats why we encourage you to learn from and improve upon previous work. The following examples contain the submissions of previous years.
+
+### 2023
+* [23 G15](https://github.com/frejahbarkler/dtu_course_41934_group15/tree/main)
+* [23 G20](https://github.com/leonschoene/41934_Advanced_BIM_Group_20/tree/main)
+* [23 G48](
+https://github.com/KaareH/DTU_E23_41934_Advanced-BIM/tree/main/Assignments)
+
 ## Research Based Course
 This course is research based and the result of the following papers.
 * [McGinley, Krijnen (2021)] *Multi Disciplinary Learning from OpenBIM*, CIB W78 2021, Luxemburg.
