@@ -5,12 +5,12 @@
 
 1. [Forensic BIM](/Assignments/A1)
 2. [Use Case](/Assignments/A2)
-3. [Tool](/Assignments/A3)
+3. [Guru](/Assignments/A3)
 4. [OpenBIM Champion](/Assignments/A4)
 5. [Reflection](/Assignments/A5).
 
 
-## A1	[Forensic BIM](A1)
+## Part A	[Forensic BIM]
 * Exercises: Learn Blender / Bonsai and IfcOpenShell
 * Tools: [Kaare](https://github.com/KaareH)'s awesome Bimscore tool
 * Case: Validate claims made in Advanced Building Design Reports.
@@ -20,7 +20,11 @@ In the Advanced Building Design Course students submit Disciplinary specific BIM
 
 [ cool picture to summarise the Advanced Building Design Process ] 
 
-### Tack
+### Task
+The client has heard that you have a novel OpenBIM process for checking claims made in the report. This is no in the industry as a rule checker. The client wants you to demonstrate the power of this approach by checking a specific claim. This will require a synthesis of your BIM and discipline specific engineering knowledge, so you should pick a 
+You have been employed by the client to check a specific claim made by the team.
+
+
 You job in this assignment is to check a claim made made in either a team's subject or client report. Can what thye are saying be validated by the BIM.
 
 To acheive this, you will first review the disciplinary IFC models in Blender with the Bonsai (fka BlenderBIM) plugin.
@@ -43,7 +47,7 @@ Focus on IFC analysis of real (previous) student building design projects from a
 
 In this assignment, you will be introduced to [BPMN] and use it to document the use case and explore the role of experts in [OpenBIM]. Following this, you will review OpenBIM tools made in the previous year of the OpenBIM course and identify which tools could be used or adapted to solve the challenge identified in the design project in this assignment.
 
-## A3	[Tool](A3)
+## Part B B1	[Tool](A3)
 * Exercises: Review previous IfcOpenShell Tutorials [Basic] [Medium] and [Advanced]
 * Tools: [Blender / Bonsai] | [Speckle] [Voxel toolkit]
 
@@ -54,7 +58,7 @@ This assignment provide the opportunity to develop your own OpenBIM tools in Pyt
 This task focuses on ISO 19650. The intention for autumn 2022 was to integrate real examples of 19650 into the course with practical examples, for instance by prototyping a total process using Speckle that complied to ISO 19650. However, time constraints in planning the course meant that this was ultimately replaced with traditional lectures from external parties. These provided informative content to the students but on their own were not enough for them to see the alignment to the other activities. A future BIM course should be focused on thinking in and gaining experience using ISO 19650 rather than just ‘teaching’ it. The experience of the autumn 2022 course enabled a proposal to map the development methodology (Figure 3) to ISO 19650 (Figure 4).
 
 
-## A4	[Show & Tell](A4)
+## Part B B2	[Show & Tell](B2)
 The final assignment focuses on the ability to transfer knowledge in an organization. It aims to address; how do we ‘learn from BIM’ at an organizational level? For this you will consider something you have learnt by yourselves that you think would be valuable to share with your peers. Suggested appraoches to support your peers learning could be, short tutorial videos, markdown files, carefully commented code and Jupyter notebooks. Furthermore, there is a chance to develop custom content that could be linked to the course learning environment that, with the student’s permission, could be used in future iterations of the course to support student learning, as well as in Advanced Building Design next year. Peer feedback will include how it supported them to make decisions and ultimately if it was clear enough to help them to know how to change their model.
 
 ## A5 [Reflection](A5)
