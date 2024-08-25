@@ -1,8 +1,10 @@
+<!--
 ---
 YEAR: 2023
 CODE: 41934
 ref_variable: ${ref}
 ---
+-->
 
 # 41934 Advanced BIM
 
