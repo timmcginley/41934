@@ -15,10 +15,12 @@
 * Tools: [Kaare](https://github.com/KaareH)'s awesome Bimscore tool
 * Case: Validate claims made in Advanced Building Design Reports.
 
+### Introduction
 In the Advanced Building Design Course students submit Disciplinary specific BIM models in IFC along with Disciplinary 'subject reports' and a 'client report' which summarises the interdisciplinary design of a tall building.
 
-[ cool picture to summarise the Advanced Buidlign Design Process ] 
+[ cool picture to summarise the Advanced Building Design Process ] 
 
+### Tack
 You job in this assignment is to check a claim made made in either a team's subject or client report. Can what thye are saying be validated by the BIM.
 
 To acheive this, you will first review the disciplinary IFC models in Blender with the Bonsai (fka BlenderBIM) plugin.
