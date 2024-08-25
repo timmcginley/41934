@@ -65,6 +65,7 @@ This assignment supports the following [learning objectives].
 [OpenBIM]: /41934/Concepts/OpenBIM
 [FAIR]: /41934/Concepts/FAIR
 [focus area]: /41934/Focus
+[Advanced Building Design]: /41946/
 
 <!--
 ### 3) Choose the relevant model from the Stanford / Skylab models
