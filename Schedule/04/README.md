@@ -25,6 +25,7 @@ Jan Karlshøj will deliver a session on [IDS].
 
 
 [IDS]: /41934/Concepts/IDS
+[A2]: /41934/Assignments/A2
 
 <!--
 ### In class activity covers...
