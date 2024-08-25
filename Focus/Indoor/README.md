@@ -1,7 +1,8 @@
 
-# Indoor Focus Area
+# Indoor (and Energy) Focus Area
 
-Could also include Energy / Indoor / Daylight / Acoustics.
+Could also include Energy / Indoor / Daylight
+
 
 
 ## Previous examples
