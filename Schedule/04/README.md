@@ -4,6 +4,8 @@
 
 Jan Karlshøj will deliver a session on [IDS].
 
+1. ___ What is Information Delivery Specification (IDS)]
+
 [IDS]: /41934/Concepts/IDS
 
 <!--
