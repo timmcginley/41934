@@ -9,7 +9,9 @@ Case: Validate claims made in Advanced Building Design Reports.
 Apply simple scripts to validate claims made in previous iteraitons of the [Advanced Building Design] course. In your [focus] groups you will check specfic claims made in their project reports. aS example these could (depending on your focus area) include: 
 * Project GFA,
 * Spaces required in the [project brief](/41936/Project/Breif)
-* facade transparency and many other examples.
+* Energy Frame
+* Facade transparency ...
+* What other things can you think of?
 
 You will analyse the models using scripts as in the previous years using Blender / Bonsai as an IDE (integrated development environment) incorporating a console, 3d view, IFC data model hierarchy, and IFC property views in one place.
 
