@@ -1,11 +1,3 @@
-<!--
----
-YEAR: 2023
-CODE: 41934
-ref_variable: ${ref}
----
--->
-
 # 41934 Advanced BIM
 FAIR and Open BIM tools, data, standards and processes processes, support interoperability in the building industry. They put you the engineers and designers back in control of the process. The course supports you to:
 
@@ -61,6 +53,16 @@ This course is research based and the result of the following papers.
 [Concepts]: /41934/Concepts
 [concept]: /41934/Concepts
 [Roles]: /41934/Roles/README.md
+
+<!--
+---
+YEAR: 2023
+CODE: 41934
+ref_variable: ${ref}
+---
+-->
+
+
 [building information]: /41934/Concepts/BIM
 [IfcOpenShell]: /41934/Concepts/IfcOpenShell
 [Schedule]: /41934/Schedule
