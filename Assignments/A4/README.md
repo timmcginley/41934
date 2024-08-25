@@ -1,15 +1,6 @@
 # A4: OpenBIM Champion
 
-This assignment supports you to develop the skills to transfer knowledge in an organization. It aims to address; how do we ‘learn from BIM’ at an organizational level? You will therefore have to consider how to teach what you have learnt in the process to another group of students. Ideally this would give students a chance to learn a concept thye otherwise would not have time for in the course. Suggested tools include:
-* short tutorial videos,
-* markdown files,
-* carefully commented code and or
-* Jupyter notebooks.
-
-### Peer feedback session
-The peer lesson will take place in the [final session of the course] which in 2024 is the 2nd December.
-
-Aim: To learn from the experience of managing an OpenBIM project or develop ontologies to support the collaboration with knowledge from different domains. These activities are done in parallel. 
+This assignment supports you to develop the skills to transfer knowledge in an organization. It aims to address; how do we ‘learn from BIM’ at an organizational level? You will therefore have to consider how to teach what you have learnt in the process to another group of students. Ideally this would give students a chance to learn a concept they otherwise would not have time for in the course.
 
 In this assignment you will develop custom content that if you share publicly will be reused in future versions of the course. You will see examples from previous years below. In this wayn you support both your own learning and the future learning of others as part of our circular education system concept
 
@@ -22,6 +13,10 @@ Your tutorial could include at least 2 of the following:
 3. **[Markdown](/41934/Concepts/Markdown) README** that includes markdown formatted code blocks for example code
 
 
+Aim: To learn from the experience of managing an OpenBIM project or develop ontologies to support the collaboration with knowledge from different domains. These activities are done in parallel. 
+
+## Requirements
+
 * Clearly state the level you are supporting.
 
 * Identification of the [role learning level] that you are targeting 1,2 or 3. please check the different [roles] to see the levels.
@@ -31,7 +26,10 @@ Your tutorial could include at least 2 of the following:
 * be reviewed and feedback provided by your peers.
 
 ## Submission
-* The tutorial, either as a github link
+* The tutorial, either as a github link or including your files, it should be possible to write the github link as a comment when you submit.
+
+### Peer feedback session
+The peer lesson will take place in the [final session of the course] which in 2024 is the 2nd December.
 
 ## Examples
 * [23 G37](https://github.com/Brise07/DTU---Advanced-BIM-Assignment/blob/main/A4/A4_Description.md) - Level 1 Modeller
