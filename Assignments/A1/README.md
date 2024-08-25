@@ -6,7 +6,10 @@ Case: Validate claims made in Advanced Building Design Reports.
 **The aim of this assignment is to become familiar with the core concepts of OpenBIM**. This is done through a deep dive into the IFC file format and associated Open BIM standards. The [IFC data model](/Concepts/IFC) is the industry standard for BIM, but many BIM practioners (and some BIM experts) still don't really understand it.
 
 ## Task
-Apply simple scripts to validate claims made in previous iteraitons of the [Advanced Building Design] course. In your focus groups you will check specfic claims made in their project reports. These could include: Project GFA, Spaces required in the project brief, facade transparency and many other examples.
+Apply simple scripts to validate claims made in previous iteraitons of the [Advanced Building Design] course. In your [focus] groups you will check specfic claims made in their project reports. aS example these could (depending on your focus area) include: 
+* Project GFA,
+* Spaces required in the [project brief](/41936/Project/Breif)
+* facade transparency and many other examples.
 
 You will analyse the models using scripts as in the previous years using Blender / Bonsai as an IDE (integrated development environment) incorporating a console, 3d view, IFC data model hierarchy, and IFC property views in one place.
 
@@ -15,7 +18,7 @@ You will analyse the models using scripts as in the previous years using Blender
 
 ### 1) Make a group 
 * 2 people - exceptionally could be 3
-### 2) Choose a [focus area] / subject.
+### 2) Choose a [focus] area / subject.
 * Find a focus area / subject that you are interested in - the point of the focus area is to help your group have a common aim.
 * You 
 
@@ -64,7 +67,7 @@ This assignment supports the following [learning objectives].
 [BIM]: /41934/Concepts/BIM
 [OpenBIM]: /41934/Concepts/OpenBIM
 [FAIR]: /41934/Concepts/FAIR
-[focus area]: /41934/Focus
+[focus]: /41934/Focus
 [Advanced Building Design]: /41946/
 
 <!--
