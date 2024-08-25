@@ -6,6 +6,8 @@
 
 Please watch the introduction video which provides an introduction to:
 * ___ What is [BIM] and what is the focus of the course?
+* ___ How does it link to your own studies and specialisations?
+* ___ Circular Education System
 * ___ What are the Benefits and challenges of [BIM]? (Inc. Silos)
 * ___ What is OpenBIM?
 * ___ [BIM Maturity Levels] [-]
