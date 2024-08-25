@@ -5,6 +5,7 @@
 ### Activity
 
 1. Select the file for the discipline you want to work with based on your [focus area].
+2. ___ Introduction to [MarkDown](/41934/Concepts/MarkDown)
 
 <!--
 ### Presentation covers....
