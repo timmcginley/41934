@@ -1,4 +1,4 @@
-## Session 02 Classification Systems.
+## Session 02 Classification.
 
 *9th September 2024*
 
