@@ -1,19 +1,21 @@
 [41934](/)
 # OpenBIM Roles
 
-Five OpenBIM roles are presented here, a three-level rubric based on Figure 1. 
-* Level 1 (beginner) would be an introductory exercise.
-* Level 2 intermediate and
-* Level 3 (advanced) are explored through progressively more advanced projects.
-
-Following this a suggestion for future research is made to provide a link between the proposed teaching and the transition to the OpenBIM vision presented earlier.
-
-![img2](https://timmcginley.github.io/41934/img/roles.png)
-
-Figure 1. OpenBIM roles (the two new OpenBIM roles in dashed lines)
+Five OpenBIM roles with their own 3 level rubric are presented in the links below:
 
 * R1: OpenBIM [Modeller](https://timmcginley.github.io/41934/Roles/Modeller)
 * R2: OpenBIM [Analyst](https://timmcginley.github.io/41934/Roles/Analyst)
 * R3: OpenBIM [Manager](https://timmcginley.github.io/41934/Roles/Manager)
 * R4: OpenBIM [Ontologist](https://timmcginley.github.io/41934/Roles/Ontologist)
 * R5: OpenBIM [Champion](https://timmcginley.github.io/41934/Roles/Champion)
+
+Each role is described against a three-level rubric. 
+
+* Level 1 (beginner) would be an introductory exercise.
+* Level 2 intermediate and
+* Level 3 (advanced) are explored through progressively more advanced projects.
+
+![img2](https://timmcginley.github.io/41934/img/roles.png)
+
+Figure 1. OpenBIM roles (the two new OpenBIM roles in dashed lines)
+
