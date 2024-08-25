@@ -1,19 +1,9 @@
-## Session 3 Use Cases
+## Session 3 Classification
 
 *16th September 2024*
 
-Introduction to [A2]
+Introduction to [A2]'
 
-### Activity
-
-Select the file for the discipline you want to work with based on your [focus area].
-
-### Content
-2. ___ Introduction to [MarkDown](/41934/Concepts/MarkDown)
-1. ___ Introduction to [BPMN](/41934/Concepts/BPMN)
-
-### OpenBIM Standards
-3. ___ Introduction to [UCM](/41934/Concepts/UCM)
 
 [A2]: /41934/Assignments/A2
 <!--
