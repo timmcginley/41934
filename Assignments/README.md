@@ -15,9 +15,19 @@
 * Tools: [Kaare](https://github.com/KaareH)'s awesome Bimscore tool
 * Case: Validate claims made in Advanced Building Design Reports.
 
+In the Advanced Building Design Course students submit Disciplinary specific BIM models in IFC along with Disciplinary 'subject reports' and a 'client report' which summarises the design of the building.
+
+You job in this assignment is to check a claim made made in either a team's subject or client report. Can what thye are saying be validated by the BIM.
+
+To acheive this, you will first review the disciplinary IFC models in Blender with the Bonsai (fka BlenderBIM) plugin.
+
+It is possible to get information and model properties in Blender, but this would be very slow, so we will then show you how to run a simple script in the Blender Python script window to automate this search.
+
+Finally to submit 
+
 This task would focus on analysing the models using scripts as in the previous years using Blender / Bonsai as an IDE (integrated development environment) incorporating a console, 3d view, IFC data model hierarchy, and IFC property views in one place.
 
-Apply simple scripts to validate claims made in previous iteraitons of the [Advanced Building Design] course. In your [focus](/Focus/) groups you will check specfic claims made in their project reports. These could include: Project GFA, Spaces required in the project brief, facade transparency and many other examples. 
+Adapt and apply simple scripts to validate claims made in previous iterations of the [Advanced Building Design] course. In your [focus](/Focus/) groups you will check specfic claims made in their project reports. These could include: Project GFA, Spaces required in the project brief, facade transparency and many other examples. 
 
 ## A2	[Use Case](A2)
 * Exercises: Use case modelling etc.
