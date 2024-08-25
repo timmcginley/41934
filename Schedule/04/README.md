@@ -2,7 +2,9 @@
 
 *23rd September 2024*
 
-Jan ...
+Jan Karlshøj will deliver a session on [IDS].
+
+[IDS]: /41934/Concepts/IDS
 
 <!--
 ### In class activity covers...
