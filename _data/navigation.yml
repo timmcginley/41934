@@ -10,23 +10,31 @@
       link: /Concepts/ISO19650
     - name: BIM Execution Plan
       link: /Concepts/BIMExecutionPlan
-    - name: BlenderBIM
-      link: /Concepts/BlenderBIM
+    - name: Bonsai (fka BlenderBIM)
+      link: /Concepts/Bonsai
     - name: CDE
       link: /Concepts/CDE
     - name: Classification
       link: /Concepts/Classification
     - name: IfcOpenShell
       link: /Concepts/IfcOpenShell
+    - name: IDS
+      link: /Concepts/IDS
+    - name: Speckle
+      link: /Concepts/Speckle
+    - name: Voxels
+      link: /Concepts/Voxel
 - name: Focus Area
   link: /Focus
   dropdown: 
-    - name: Sustainability
-      link: /Focus/Sustainability
+    - name: Architecture
+      link: /Focus/Architecture
     - name: Structure
       link: /Focus/Structure
     - name: Indoor
       link: /Focus/Indoor
+    - name: Sustainability
+      link: /Focus/Sustainability
     - name: Build
       link: /Focus/Build
 - name: Roles
@@ -49,27 +57,27 @@
   dropdown: 
     - name: 01 - OpenBIM
       link: /Schedule/01
-    - name: 02 - Management
+    - name: 02 - Classification
       link: /Schedule/02
-    - name: 03 - Classification
+    - name: 03 - Use Cases
       link: /Schedule/03
-    - name: 04 - use Cases
+    - name: 04 - IDS
       link: /Schedule/04
-    - name: 05 - Analysis
+    - name: 05 - ISO 19650
       link: /Schedule/05
-    - name: 06 - ML/AI
+    - name: 06 - Custom tools
       link: /Schedule/06
-    - name: 07 - Drawings
+    - name: 07 - Voxels
       link: /Schedule/07
-    - name: 08 - linked Data
+    - name: 08 - Speckle
       link: /Schedule/08
-    - name: 09 - Speckle
+    - name: 09 - Show & Tell 1
       link: /Schedule/09
-    - name: 10 - Node-RED
+    - name: 10 - Show & Tell 2
       link: /Schedule/10
-    - name: 11 - Project
+    - name: 11 - Show & Tell 3
       link: /Schedule/11
-    - name: 12 - Project
+    - name: 12 - Show & Tell 4
       link: /Schedule/12
     - name: 13 - Presentation
       link: /Schedule/13
@@ -98,7 +106,5 @@
       link: /Examples/IfcOpenShell/Advanced
     - name: IFC Models
       link: /Examples/IFC_models
-    - name: IFA excel files
-      link: /Examples/IFA_Excel_Files
 - name: Learning
   link: /LearningObjectives
