@@ -4,7 +4,7 @@
 
 Molio visit (TBC)
 
-### Custom tool developemnt
+### Custom tool development
 1. ___ How do I develop Custom Tools [DevelopmentMethod](/41934/Concepts/DevelopmentMethod)?
 1. ___ [IDE](/41934/Concepts/IDE)
 
