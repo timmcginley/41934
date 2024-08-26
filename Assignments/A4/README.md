@@ -55,6 +55,9 @@ In this assignment you will develop custom content that if you share publicly wi
 ### Learning Objectives
 8. Teach an advanced BIM concept you have learned in the course to your peers and reflect on peer feedback on this.
 
+## Submission 2024
+Enrolled students submit on DTU Learn [here](https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folders_list.d2l?ou=215344&isprv=0)
+
 [roles]: /41934/Roles
 [role learning level]: /41934/Roles
 [final session of the course]: /41934/Schedule/13
