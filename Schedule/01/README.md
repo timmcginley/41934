@@ -2,6 +2,8 @@
 
 *2nd September 2024*
 
+With Kristoffer Negendahl.
+
 ### Presentation
 
 Please watch the introduction video which provides an introduction to:
