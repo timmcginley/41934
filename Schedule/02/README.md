@@ -14,6 +14,8 @@ With Kristoffer Negendahl.
 -->
 
 ### In class activity covers...
+### Activity
+1. ___ Download the [Advanced Building Design Models](add link) *[enrolled students only]*.
 
 [IfcProperties and IfcPropertySets]: /41934/Concepts/Properties
 [PropertySets]: /41934/Concepts/Property
