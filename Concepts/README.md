@@ -15,12 +15,12 @@ Advanced Building Information Modelling concepts categories
 [Standards] | [BsDD] | [IFC] | [FAIR] | [IDM] | [IDS] | [Interoperability] | [MVD] | [UCM] | [BCF] | [SVG]
 
 ## 3. Model
-[Entities] | [GUID] | [LOD] | [Levels] | [Properties] | IFCFileAnalyzer | Revit etc.
+[Entities] | [GUID] | [LOD] | [Levels] | [Properties] | ~~IFCFileAnalyzer~~ | Revit etc.
 
 ## 4. Process
 AIM | AIR | [BIM Execution Plan] | BIP |  EIR | ISO 19650 | MIDP | OIR | PIM | BPMN | CDE
 
-## 5. Future
+## 5. Tools
 USD | Digital Twin | Linked Data | BOT | FSO | Graph | Speckle | NodeRed | IFC.js | BlenderBIM
 
 ## 6. Code
