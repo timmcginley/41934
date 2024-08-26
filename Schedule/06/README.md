@@ -1,4 +1,4 @@
-## Session 6 Voxels
+## Session 6 ISO 19650
 
 *7th October 2024*
 
