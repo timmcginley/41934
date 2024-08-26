@@ -2,7 +2,7 @@
 
 *30th September 2024*
 
-Molio visit (TBC)
+
 
 ### Custom tool development
 1. ___ How do I develop Custom Tools [DevelopmentMethod](/41934/Concepts/DevelopmentMethod)?
@@ -14,8 +14,7 @@ Molio visit (TBC)
 1. ___ BIM Execution Plan [(BEP)](/41934/Concepts/BIMExecutionPlan) in the context of [IS0 19650](/41934/Concepts/ISO19650)
 1. ___ [bsDD](/41934/Concepts/bsDD)
 
-### BIM  
-2. ___ [Dimensions](/41934/Concepts/Dimensions) of BIM.
+
 
 ### IFC
 1. ___ get [property](/41934/Concepts/Properties) sets
