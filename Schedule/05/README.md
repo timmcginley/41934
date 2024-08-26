@@ -8,7 +8,6 @@ Molio visit (TBC)
 1. ___ How do I develop Custom Tools [DevelopmentMethod](/41934/Concepts/DevelopmentMethod)?
 1. ___ [IDE](/41934/Concepts/IDE)
 
-
 ### Content
 1. ___ What is [BCF](/41934/Concepts/BCF)?
 1. ___ What is micro[MVD](/41934/Concepts/MVD)?
@@ -24,16 +23,16 @@ Molio visit (TBC)
 ### Coding
 1. ___ [Python](/41934/Concepts/Python)
 
-
-
 ### Standards
 1. ___ [IDM](/41934/Concepts/IDM)
-2. ___ Common Data Environment [(CDE)](/41934/Concepts/CDE)
-
+1. ___ Common Data Environment [(CDE)](/41934/Concepts/CDE)
 1. ___ meta disciplinary objects
 
-
 ### In class activity covers...
+
+1. ___ In your focus groups talk with your peers to identify a set of learning needs.
+2. ___ Divide these needs between your groups.
+3. ___ Managers if no group in your team can address a need - see if there are groups in other subjects that can.
 
 * * 
 * IfcOpenShell [Intermediate examples](/41934/Examples/IfcOpenShell/Intermediate)
