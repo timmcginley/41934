@@ -38,3 +38,6 @@ Your delivery should tie together A3-A5 - And from a users/readers point of view
 Therefore you may want to edit (commit changes to) the README.md in the main path of your project account to point at A3-A5 (A1-A2 is optional), or write a small intro to the Project Reflection and wrap-up that clearly links to each of the sub deliveries in those assignments. 
 
 + [x] Use github to upload A5 as a (or linked through) markdown formatted file
+
+## Submission 2024
+Enrolled students submit on DTU Learn [here](https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folders_list.d2l?ou=215344&isprv=0)
