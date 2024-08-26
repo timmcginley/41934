@@ -11,14 +11,6 @@ With Presentation form the LCA-Byg Research and Development team (TBC)
 ### Tutorial (A4)
 1. ___ [Jupyter] introduction
 
-### Content
-1. ___ What is [BCF](/41934/Concepts/BCF)?
-1. ___ What is micro[MVD](/41934/Concepts/MVD)?
-1. ___ BIM Execution Plan [(BEP)](/41934/Concepts/BIMExecutionPlan) in the context of [IS0 19650](/41934/Concepts/ISO19650)
-1. ___ [bsDD](/41934/Concepts/bsDD)
-
-
-
 ### IFC
 1. ___ get [property](/41934/Concepts/Properties) sets
 
