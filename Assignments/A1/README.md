@@ -59,6 +59,8 @@ This assignment supports the following [learning objectives].
 3. Apply appropriate [OpenBIM standards] and guidelines to support open and [FAIR] data, tools and processes.
 7. Identify [BIM] challenges by analysing [OpenBIM] data.
 
+## Submission 2024
+Enrolled students submit on DTU Learn [here](https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folders_list.d2l?ou=215344&isprv=0)
 
 <!-- links --> 
 
