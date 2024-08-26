@@ -2,6 +2,8 @@
 
 *9th September 2024*
 
+With Kristoffer Negendahl.
+
 
 ### OpenBIM Standards and Guidelines
 1. ___ IFC [Properties and PropertySets]
