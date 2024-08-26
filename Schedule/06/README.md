@@ -2,9 +2,12 @@
 
 *7th October 2024*
 
-Presentation - Virtual Demo from Thomas Krijnen (TBC).
+With Molio
 
-1. ___ Check out the [Voxels](/41934/Concepts/Voxel) resource.
+### BIM  
+2. ___ [Dimensions](/41934/Concepts/Dimensions) of BIM.
+
+
 
 <!--
 TOOL Continue working with IfcOpenShell
