@@ -29,6 +29,10 @@ The report should link to or include:
 - [x] IFC model for the use case after the remodelling
 - [x] Description of and the script(s) used for the use case
 
+### Submission
+
+Enrolled students submit on DTU Learn [here](https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?db=55947&grpid=216261&isprv=0&bp=0&ou=215344)
+
 <!--
 ## A3A Plan
 * Produce a [BIM execution plan] (BEP) for the assignment
