@@ -8,6 +8,9 @@ With Presentation form the LCA-Byg Research and Development team (TBC)
 1. ___ How do I develop Custom Tools [DevelopmentMethod](/41934/Concepts/DevelopmentMethod)?
 1. ___ [IDE](/41934/Concepts/IDE)
 
+### Tutorial
+1. ___ [Jupyter] introduction
+
 ### Content
 1. ___ What is [BCF](/41934/Concepts/BCF)?
 1. ___ What is micro[MVD](/41934/Concepts/MVD)?
@@ -36,3 +39,5 @@ With Presentation form the LCA-Byg Research and Development team (TBC)
 * * 
 * IfcOpenShell [Intermediate examples](/41934/Examples/IfcOpenShell/Intermediate)
 * Custom tool / script development workflows
+
+[Jupyter]: /41934/Concepts/Jupyter
