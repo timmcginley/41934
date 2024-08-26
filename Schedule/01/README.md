@@ -22,11 +22,11 @@ Please watch the introduction video which provides an introduction to:
 * ___ [Assignment 1] Introduction
 
 ### Activity
-In todays activity you will learn:
-* to install and set up Blender and the Bonsai (fka BlenderBIM) add on.
+1. ___ Download the [Skylab IFC models](https://learn.inside.dtu.dk/d2l/le/content/167582/Home) *[enrolled students only]*.
+2. ___ to install and set up Blender and the Bonsai (fka BlenderBIM) add on.
 
 ### Resources
-1. Download the [Skylab IFC models](https://learn.inside.dtu.dk/d2l/le/content/167582/Home) *[enrolled students only]*.
+
 
 
 ### Bonsai (fka BlenderBIM installation)
