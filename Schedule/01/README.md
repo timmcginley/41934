@@ -23,7 +23,8 @@ Please watch the introduction video which provides an introduction to:
 
 ### Activity
 1. ___ Download the [Skylab IFC models](https://learn.inside.dtu.dk/d2l/le/content/167582/Home) *[enrolled students only]*.
-2. ___ to install and set up Blender and the Bonsai (fka BlenderBIM) add on.
+2. ___ decide which model you would like to focus on based on your focus area.
+3. ___ to install and set up Blender and the Bonsai (fka BlenderBIM) add on.
 
 ### Resources
 
