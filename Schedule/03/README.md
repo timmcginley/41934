@@ -2,6 +2,8 @@
 
 *16th September 2024*
 
+With Kristoffer Negendahl.
+
 Submit to [A1]
 
 1. ___ [Classification]
