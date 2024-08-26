@@ -29,9 +29,8 @@ The report should link to or include:
 - [x] IFC model for the use case after the remodelling
 - [x] Description of and the script(s) used for the use case
 
-### Submission
-
-Enrolled students submit on DTU Learn [here](https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?db=55947&grpid=216261&isprv=0&bp=0&ou=215344)
+## Submission 2024
+Enrolled students submit on DTU Learn [here](https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folders_list.d2l?ou=215344&isprv=0)
 
 <!--
 ## A3A Plan
