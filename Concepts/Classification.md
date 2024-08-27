@@ -43,5 +43,5 @@ Ifc Classification files are already included in your BlenderBIM installation an
 
 
 
-[manager]: /41934/Roles/Manager
-[modeller]: /41934/Roles/Modeller
+[manager]: /Roles/Manager
+[modeller]: /Roles/Modeller

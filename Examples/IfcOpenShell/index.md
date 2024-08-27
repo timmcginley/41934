@@ -47,9 +47,9 @@ model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
 ## [Advanced Scripts](/41938/Examples/IfcOpenShell/Advanced)
 
 
-[entities]: /41934/Concepts/Entities
-[use]: /41934/Uses
-[IDE]: /41934/Concepts/IDE
+[entities]: /Concepts/Entities
+[use]: /Uses
+[IDE]: /Concepts/IDE
 
 
 

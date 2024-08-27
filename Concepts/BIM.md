@@ -115,6 +115,6 @@ The choice between an Integrated Model and a Federated Model depends on the spec
 This page is based on information from the [IBIMD](https://www.ct.upt.ro/IBIMD/) project of which DTU is a participant.
 
 <!-- links -->
-[ISO 19650]: /41934/Concepts/ISO19650
-[clash detection]: /41934/Concepts/Clash
+[ISO 19650]: /Concepts/ISO19650
+[clash detection]: /Concepts/Clash
 [(Davis, 2011)]: https://www.danieldavis.com/macleamy/

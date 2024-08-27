@@ -49,14 +49,14 @@ This course is research based and the result of the following papers.
 
 <!-- links -->
 
-[Assignments]: /41934/Assignments
-[IFC]: /41934/Concepts/IFC
-[BPMN]: /41934/Concepts/BPMN
-[Construction]: /41934/Focus/Construction
-[Concepts]: /41934/Concepts
-[concept]: /41934/Concepts
-[SVG]: /41934/Concepts/SVG
-[Roles]: /41934/Roles/README.md
+[Assignments]: /Assignments
+[IFC]: /Concepts/IFC
+[BPMN]: /Concepts/BPMN
+[Construction]: /Focus/Construction
+[Concepts]: /Concepts
+[concept]: /Concepts
+[SVG]: /Concepts/SVG
+[Roles]: /Roles/README.md
 
 <!--
 ---
@@ -67,9 +67,9 @@ ref_variable: ${ref}
 -->
 
 
-[building information]: /41934/Concepts/BIM
-[IfcOpenShell]: /41934/Concepts/IfcOpenShell
-[Schedule]: /41934/Schedule
+[building information]: /Concepts/BIM
+[IfcOpenShell]: /Concepts/IfcOpenShell
+[Schedule]: /Schedule
 
 <!--- papers ---> 
 [McGinley, Krijnen (2021)]://www.researchgate.net/publication/355218194_Multi-disciplinary_learning_from_OpenBIM

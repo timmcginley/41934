@@ -5,4 +5,4 @@
 
 
 [FAIR]: https://www.go-fair.org/fair-principles/
-[OpenBIM]: /41934/Concepts/BuildingSmart
+[OpenBIM]: /Concepts/BuildingSmart
