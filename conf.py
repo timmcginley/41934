@@ -39,7 +39,7 @@ autosectionlabel_prefix_document = True
 autosummary_generate = True
 
 templates_path = ['_templates']
-exclude_patterns = ['BUILD_DOCS.md']
+exclude_patterns = ['BUILD_DOCS.md', 'README.md']
 
 autodoc_default_flags = ['members', 'undoc-members' ]
 
