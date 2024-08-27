@@ -1,10 +1,8 @@
-# A2: Analysis
+# A2: Use Case
+Exercises: Define use case for a new Advanced Building Design fact checking tool. 
+Tools: BPMN.io / [BPMN]
+Case: Validate claims made in Advanced Building Design Reports.
 
-## Learning Objectives
-* L1
-* L2
-* L3
-  
 The aim of this assignment is to: ....
 
 ## A2A: Import the IFC model into BlenderBIM
@@ -95,19 +93,20 @@ for space in spaces:
 ### 02 The IFC model
 * A `model` folder with a .ifc file inside of it. You can also have multiple IFC models placed here.
 
-### 03 A markdown file that describes: 
+### 03 A markdown file: 
+This is based on the Use Case Analysis you did in [week 4].
 * Describe the use case you have chosen.
 * Who is the use case for?	
-* What disciplinary (non BIM) expertise did you use to solve the use case?
-* What IFC concepts did you use in your script (or would you use in the rest of the tool)?
+* What disciplinary (non BIM) expertise do you use to solve the use case?
+* What IFC concepts do you need to use in your script (or would you use in the rest of the tool)?
 * What disciplinary analysis does it require?	
-* What building elements are you interested in?	
-* What (use cases) need to be done before you can start your use case?	
-* What is the input data for your use case?	
+* What building elements are you interested in?
+* What is the _input data_ for your use case?	
+* What (use cases) need to be done _before_ you can start your use case?
 * What other use cases are waiting for your use case to complete?
 
-### 04 A BPMN diagram saved as SVG.
-* Describes the use case
+### 04 A BPMN diagram saved as [SVG].
+* Produce a [BPMN] diagram that describes the use case.
 * Shows the exchange of information between the stakeholders in the use case
 * Helps you to see what inputs and outputs your use case has.
 
@@ -125,29 +124,39 @@ This can either be a new diagram, or the same diagram with your scope clearly ma
 11. Apply and improve programming skills in Python to develop an OpenBIM tool or modelling skills in OpenBIM using your engineering domain expertise.
 12. Evaluate [software licensing](/41934/Concepts/Software_licences/README.md) suitability and implications for the OpenBIM tool you develop or modelling tool you use.
     
+## Learning Objectives
+* L1
+* L2
+* L3
+
 ## Submission 2024
 Enrolled students submit on DTU Learn [here](https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folders_list.d2l?ou=215344&isprv=0)
 
-<!-- links --> 
 
-[learning objectives]: /41934/LearningObjectives
-[Blender]: /41934/Concepts/Blender
-[OpenBIM standards]: /41934/Concepts/Standards
+
+
+<!-- links - try and keep alphabetical --> 
+
+[Advanced Building Design]: https://github.com/timmcginley/41936/tree/main
+[analysing]: /41934/Roles/Analyst
 [BIM]: /41934/Concepts/BIM
+[Blender]: /41934/Concepts/Blender
+[BlenderBIM]: /41934/Concepts/BlenderBIM
+[BPMN]: /41934/Concepts/BPMN
+[Business and societal value]: /Concepts/BusinessAndSocietalValue
+[construction planning]: /41934/Focus/Build
+[energy and indoor, daylight, acoustic]: /41934/Focus/Indoor
 [FAIR]: /41934/Concepts/FAIR
 [focus area]: /41934/Focus
-[IfcOpenShell]: /41934/Concepts/IfcOpenShell
-[IFC4]: /41934/Concepts/IFC
-[modelling]: /41934/Roles/Modeller
-[analysing]: /41934/Roles/Analyst
 [focus]: /41934/Focus
-[OpenBIM]: /41934/OpenBIM
-[BPMN]: /41934/Concepts/BPMN
-[structural]: /41934/Focus/Structural
-[energy and indoor, daylight, acoustic]: /41934/Focus/Indoor
+[IFC4]: /41934/Concepts/IFC
+[IfcOpenShell]: /41934/Concepts/IfcOpenShell
 [LCA/LCC]: /41934/Focus/Sustainability
-[construction planning]: /41934/Focus/Build
-[BlenderBIM]: /41934/Concepts/BlenderBIM
+[learning objectives]: /41934/LearningObjectives
+[modelling]: /41934/Roles/Modeller
+[OpenBIM]: /41934/OpenBIM
+[OpenBIM standards]: /41934/Concepts/Standards
+[structural]: /41934/Focus/Structural
+[SVG]: /41934/SVG
 [use case]: /41934/Uses
-[Business and societal value]: /Concepts/BusinessAndSocietalValue
-[Advanced Building Design]: https://github.com/timmcginley/41936/tree/main
+[week 4]: /41934/Schedule/04
