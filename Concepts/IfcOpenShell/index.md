@@ -1,5 +1,13 @@
 # IfcOpenShell
 
+```{toctree}
+:hidden:
+:glob:
+*
+*/index
+installation/*
+```
+
 *IfcOpenShell solves the problem of enabling the extraction, manipulation, and analysis of Building Information Modeling (BIM) data from Industry Foundation Classes (IFC) files.*
 
 It is an open source ([LGPL](https://github.com/IfcOpenShell/IfcOpenShell/tree/master/COPYING.LESSER "LGPL-3.0-or-later")) software library and tookit available in both C++ and Python. In addition to a C++ and Python API, IfcOpenShell comes with an ecosystem of tools, including libraries and CLI apps for converting IFC models to other formats (IfcConvert), comparing changes between files (IfcDiff), clash detection (IfcClash), creating and auditing IDS and BCF files (IfcTester and bcf) and many others. 

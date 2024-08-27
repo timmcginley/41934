@@ -1,5 +1,11 @@
-[41934](/)
 # OpenBIM Roles
+
+```{toctree}
+:hidden:
+:glob:
+*
+*/index
+```
 
 Five OpenBIM roles with their own 3 level rubric are presented in the links below:
 

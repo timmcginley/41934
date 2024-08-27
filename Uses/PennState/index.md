@@ -2,6 +2,14 @@ Taken from: (Kreider, Ralph G. and Messner, John I. (2013). “The Uses of BIM: 
 Version 0.9, September, The Pennsylvania State University, University Park, PA, USA. [LINK](http://bim.psu.edu))
 
 # Penn State BIM use cases
+
+```{toctree}
+:hidden:
+:glob:
+*
+*/index
+```
+
 In this section we look at the BIM Use cases. Use cases enable us to define what the BIM is for. Here a typology of BIM uses and use cases is defined to help us gain an understanding of what BIM is. All use cases have in common that they offer a service of guidance to another stakeholder in the building design team or the asset owner. This section is based on the ‘uses of BIM’ report from Penn State University. It provides a great overview of the uses or what also be described as the affordances of BIM. What BIM enables (affords) the user to be able to do. So they are different from use cases which talk about specific examples of problems that could be solved with by using BIM. This section discusses how we can use BIM to solve those problems. Both uses and use cases are provided in this booklet, but we start with BIM uses. The original document refers to this as the BIM Use Classification System and Structure. It describes a BIM use as 
 >‘a method of applying Building Information Modelling during a facility’s lifecycle to achieve one or more specific objectives.’
 ## Penn State BIM Characteristics 

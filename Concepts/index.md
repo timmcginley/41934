@@ -1,5 +1,12 @@
 # Concepts
 
+```{toctree}
+:hidden:
+:glob:
+*
+*/index
+```
+
 Advanced Building Information Modelling concepts categories 
 * Basic
 * OpenBIM

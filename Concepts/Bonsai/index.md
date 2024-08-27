@@ -1,5 +1,12 @@
 ## Bonsai (fka BlenderBIM)
 
+```{toctree}
+:hidden:
+:glob:
+*
+*/index
+```
+
 Bonsai solves the problem of expensive, siloed, segmented, differentiated software written in different native models that then need to be converted to other models in order to collaborate.
 
 Bonsai is free, open source, native IFC authering platform based on the IfcOpenShell library. It's a plugin to the open source modelling and render software [Blender](https://www.blender.org/). Blender has been open source since [2002](https://www.blender.org/about/history/#:~:text=On%20Sunday%2C%20October%2013th%2C%202002,used%20for%20any%20purpose%20whatsoever.). Bonsai enables BIM modelling natively in IFC whoch is not possible in any other BIM software.

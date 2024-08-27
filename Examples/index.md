@@ -1,5 +1,12 @@
 # Examples
 
+```{toctree}
+:hidden:
+:glob:
+*
+*/index
+```
+
 ## IFC Models
 BIM research is curtailed by the lack of standard models we do have some. But it is an area we hope to improve.
 

@@ -2,6 +2,13 @@
 
 # BIM use cases
 
+```{toctree}
+:hidden:
+:glob:
+*
+*/index
+```
+
 Use cases in this course can be thought of in the following parts:
 * the concept of BIM use cases
 * how we use use cases in this course
