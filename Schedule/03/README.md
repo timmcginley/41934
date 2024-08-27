@@ -1,4 +1,4 @@
-## Session 3 Classification
+## Session 3 Use Case
 
 *16th September 2024*
 
