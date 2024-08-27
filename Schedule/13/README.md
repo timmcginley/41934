@@ -26,6 +26,7 @@ You will pick concepts to learn and then assess the material based on the criter
 
 Clearly state to your peer:
 
+* What claim are you checking?
 * Who are you targeting with your implementation:
 <img src="https://github.com/timmcginley/41934/blob/main/img/Roles%20and%20levels.svg">
   
