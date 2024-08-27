@@ -12,16 +12,36 @@ Jan Karlshøj will deliver a session on [IDS].
 1. ___ What is Virtual Design and Construction [(VDC)](/41934/Concepts/VDC)?
 
 ### Activity
-
 * Select the file for the discipline you want to work with based on your [focus area].
 * Complete the IDS example exercise.
+* Complete the BPMN example exercise.
 
-### Content
+### Skills for A2 (Use Case)
 2. ___ Introduction to [MarkDown](/41934/Concepts/MarkDown)
 1. ___ Introduction to [BPMN](/41934/Concepts/BPMN)
 
 ### OpenBIM Standards
 3. ___ Introduction to [UCM](/41934/Concepts/UCM)
+
+### BPMN Example exercise
+We will hand out some example use cases.
+Discuss in your groups the following based on the use case you have.
+* Who is the use case for?	
+* What disciplinary (non BIM) expertise would you need to use to solve the use case?
+* What IFC concepts would be needed in this use case?
+* What disciplinary analysis does it require?	
+* What building elements are you interested in?
+* What are the IFC names for these elements?
+* What properties and attributes would you need to
+* What disciplinary analysis would be required to complete this use case?
+
+**Move to the foyer in building 127***
+ 
+* What is the _input data_ for your use case?	
+* What (use cases) need to be done _before_ you can start your use case?
+* What (use cases) are waiting for your use case to complete?
+
+
 
 
 [IDS]: /41934/Concepts/IDS
