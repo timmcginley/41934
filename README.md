@@ -38,9 +38,10 @@ This course is research based and the result of the following papers.
 
 ## Course rules
 
-1. Use FOSS (Free and Open Source) Solutions first – (as much as possible)
-1. No pdfs - replace with .md (this) and .svg for drawings
-1. Try and reuse (and make iterative improvements) on existing solutions (circular digital tools).
+1. Use FOSS (Free and Open Source) Solutions first.
+1. No PDFs - replace with .md (this) and [.svg] for drawings
+1. Try, reuse, learn from (and make iterative improvements) on existing solutions (circular digital tools).
+2. Analyse real use cases from previous projects.
 1. Help each other, if you work something out, cool, share it, you do not get extra credit for keeping it to yourself, but we really like it when you help each other :)
 
 
@@ -52,6 +53,7 @@ This course is research based and the result of the following papers.
 [Construction]: /41934/Focus/Construction
 [Concepts]: /41934/Concepts
 [concept]: /41934/Concepts
+[SVG]: /41934/Concepts/SVG
 [Roles]: /41934/Roles/README.md
 
 <!--
