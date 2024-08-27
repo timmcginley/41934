@@ -1,4 +1,6 @@
 # 41934 Advanced BIM
+
+
 FAIR and Open BIM tools, data, standards and processes processes, support interoperability in the building industry. They put you the engineers and designers back in control of the process. The course supports you to:
 
 * Learn how to gather, analyze and communicate [building information] from [IFC] models for real architectural engineering challenges.

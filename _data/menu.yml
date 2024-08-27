@@ -1,7 +1,0 @@
-- label: Example Menu
-  items:
-    - name: Menu item
-      link: /link/
-      items:
-        - name: Sub menu item 
-          link: /sub-menu-item/
