@@ -1,4 +1,4 @@
-# Focus Area?
+# Focus Area
 This course has been designed so that the emphasis is on learning _FROM BIM_ rather than learning _HOWTO BIM_ [(McGinley & Krijnen, 2021)]. We know that we learn better when we are studying things that interest us, so you should focus in this course on you main interest. What area of building engineering knowledge are you most passionate about?
 
 [Omrany, et. al, (2023)] provide an excellent overview on the literature for 7 themes of BIM use in the early design stages of tall buildings. In this course we have reduced this to 5 focus areas represent the areas of interest that we have seen in previous students work. They also link to subjects in [Advanced Building Design] and hopefully reflect areas of interest that you have for your specialisations / study lines and or thesis subjects.
