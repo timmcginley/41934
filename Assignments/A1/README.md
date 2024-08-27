@@ -1,4 +1,11 @@
 # A1: Forensic BIM
+| | Forensic BIM Assignment  |
+| --- | ----- |
+| **Aim**|  Identify and fact check project claims in [Advanced Building Design]  |
+| **Tools:** |  [Blender] / [Bonsai] / [Python] / [IfcOpenShell]  |
+| **Case:** |  Select the claim you want to fact check in your group's [focus] area |
+| **Practice:** | In class activity in week [1], [2] and [3] |
+
 Exercises: Learn Blender / Bonsai and IfcOpenShell
 Tools: Kaare's awesome Bimscore tool
 Case: Validate claims made in Advanced Building Design Reports.
@@ -64,15 +71,23 @@ Enrolled students submit on DTU Learn [here](https://learn.inside.dtu.dk/d2l/lms
 
 <!-- links --> 
 
-[learning objectives]: /41934/LearningObjectives
+[1]: /41934/Schedule/01
+[2]: /41934/Schedule/02
+[3]: /41934/Schedule/03
+
+[Advanced Building Design]: /41946/
+
+[BIM]: /41934/Concepts/BIM
 [Blender]: /41934/Concepts/Blender
 [Bonsai]: /41934/Concepts/Bonsai
-[OpenBIM standards]: /41934/Concepts/Standards
-[BIM]: /41934/Concepts/BIM
-[OpenBIM]: /41934/Concepts/OpenBIM
+
 [FAIR]: /41934/Concepts/FAIR
 [focus]: /41934/Focus
-[Advanced Building Design]: /41946/
+[learning objectives]: /41934/LearningObjectives
+
+[OpenBIM]: /41934/Concepts/OpenBIM
+[OpenBIM standards]: /41934/Concepts/Standards
+
 
 <!--
 ### 3) Choose the relevant model from the Stanford / Skylab models
