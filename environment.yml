@@ -11,3 +11,4 @@ dependencies:
   - pip:
     - sphinx-press-theme
     - sphinx-book-theme
+    - myst-parser
