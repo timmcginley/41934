@@ -25,12 +25,14 @@ You will analyse the models using scripts as in the previous years using Blender
 
 ## Steps
 
-### 1) Make a group.
+### 1) Choose a [focus] area / subject.
+* Find a focus area / subject that you are interested in - the point of the focus area is to help your group have a common aim. Each area will go to different part of the room. If you want to be with a friend, go to a place you both want to be :)
+
+### 2) Make a group with the same focus area
 * 2 people - exceptionally could be 3
-* Make sure you are interested in the same things. as you will need to...
-### 2) Choose a [focus] area / subject.
-* Find a focus area / subject that you are interested in - the point of the focus area is to help your group have a common aim.
-### 3) All groups gather in your focus areas
+* Make sure you are interested in the same things
+
+### 3) Select a manager group
 * Each focus area needs a manager group,
 * Managers should be a group that are great communicators, that care about coordinating information and want to help other groups.
 * Managers also have the responsibility to report challenges and feedback to the course teachers.
