@@ -1,4 +1,4 @@
-## Session 10 - Show and Tell
+## W10 - Show and Tell
 
 *11th November 2024*
 <!--
