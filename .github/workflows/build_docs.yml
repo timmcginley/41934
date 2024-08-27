@@ -106,12 +106,12 @@ jobs:
           echo "CONDA_PREFIX: $CONDA_PREFIX"
 
           echo "Sphinx-build version: $(sphinx-build --version)"
-          sphinx-build -M html docs/source/ docs/build/
+          sphinx-build -M html ./ _build/
           
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
-          path: docs/build/html/
+          path: _build/html/
 
   # Deployment job
   deploy:
