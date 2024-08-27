@@ -14,7 +14,7 @@ Jan Karlshøj will deliver a session on [IDS].
 ### Activity
 * Select the file for the discipline you want to work with based on your [focus area].
 * Complete the IDS example exercise.
-* Complete the BPMN example exercise.
+* Complete the BPMN example exercise (This will help you with [A2])
 
 ### Skills for A2 (Use Case)
 2. ___ Introduction to [MarkDown](/41934/Concepts/MarkDown)
@@ -26,7 +26,9 @@ Jan Karlshøj will deliver a session on [IDS].
 ### BPMN Example exercise
 We will hand out some example use cases.
 Discuss in your groups the following based on the use case you have.
-* Who is the use case for?	
+* Who is the use case for?
+* What stage would the use case happen at?
+* What stage in Advanced Building Design would this be?
 * What disciplinary (non BIM) expertise would you need to use to solve the use case?
 * What IFC concepts would be needed in this use case?
 * What disciplinary analysis does it require?	
@@ -41,11 +43,12 @@ Discuss in your groups the following based on the use case you have.
 * What (use cases) need to be done _before_ you can start your use case?
 * What (use cases) are waiting for your use case to complete?
 
+To complete the exercise we need to log our new 'master process' that connects all the different use cases'. You can then use this as a skeleton to add your own use case to.
 
+<!-- links - try and keep alphabetical --> 
 
-
-[IDS]: /41934/Concepts/IDS
 [A2]: /41934/Assignments/A2
+[IDS]: /41934/Concepts/IDS
 
 <!--
 ### In class activity covers...
