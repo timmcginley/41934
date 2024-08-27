@@ -1,7 +1,10 @@
 # A2: Use Case
-Exercises: Define use case for a new Advanced Building Design fact checking tool. 
-Tools: BPMN.io / [BPMN]
-Case: Validate claims made in Advanced Building Design Reports.
+| | Use Case Assignment  |
+| --- | ----- |
+| **Exercises:**|  Define use case for a new Advanced Building Design fact checking tool.  |
+| **Tools:** |  BPMN.io / [BPMN]  |
+| **Case:** |  Validate claims made in Advanced Building Design Reports.  |
+| **Practice:** | In class activity in [week 4]  |
 
 The aim of this assignment is to: ....
 
