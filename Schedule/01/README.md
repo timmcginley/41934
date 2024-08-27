@@ -1,4 +1,4 @@
-## Session 1 Open BIM
+## W1: Open BIM
 
 *2nd September 2024*
 
