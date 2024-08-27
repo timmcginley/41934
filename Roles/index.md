@@ -17,7 +17,10 @@ Five OpenBIM roles with their own 3 level rubric are presented in the links belo
 
 The relationship between the roles can be seen in the figure below.
 
-![img2](https://timmcginley.github.io/41934/img/roles.png)
 
-Figure 1. OpenBIM roles (the two new OpenBIM roles in dashed lines)
+```{figure} img/roles.png
+:width: 500
+:alt: OpenBIM roles diagram
 
+OpenBIM roles (the two new OpenBIM roles in dashed lines)
+```
