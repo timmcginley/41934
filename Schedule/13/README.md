@@ -1,13 +1,43 @@
-# Session 13 - Final Review
+## Session 13 - Final Review
 
 *2nd December 2024*
 
+Groups Present their tool for [A3] to the 
+
+please pay specific attention to the:
+* project claim the tool checks.
+
+vote on the most supportive group for that focus area - 
+
+BIM Guru award
+Most useful tool award
+
+The most useful tools for each focus area will then be presented to the whole class.
+
+The whole class will then vote for the overall most useful tool for the course.
+
 
 You will pick concepts to learn and then assess the material based on the criteria provided previously in class.
+
 ### In class Activity
 * Peer Learning and Feedback session
 
-Setup:
+
+
+Clearly state to your peer:
+
+* Who are you targeting with your implementation:
+<img src="https://github.com/timmcginley/41934/blob/main/img/Roles%20and%20levels.svg">
+  
+* Class reflection
+
+### Finally
+
+* Sub [A5](/41934/Assignments/A5) - Final Reflection - 8th December 2024
+
+>Great job on completing the course!!
+
+<!-- Setup:
 
 The groups are paired up as two peer clusters: 
 
@@ -27,17 +57,4 @@ The groups are paired up as two peer clusters:
 | Group 6   | Group 2   |
 | Group 7   | Group 4   |
 
-Clearly state to your peer:
-
-* Who are you targeting with your implementation:
-<img src="https://github.com/timmcginley/41934/blob/main/img/Roles%20and%20levels.svg">
-  
-* Class reflection
-
-
-
-### Finally
-
-* Sub [A5](/41934/Assignments/A5) - Final Reflection - 8th December 2024
-
->Great job on completing the course!!
+-->
