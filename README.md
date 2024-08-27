@@ -30,7 +30,7 @@ Thats why we encourage you to learn from and improve upon previous work. The fol
 * [2023 Group 15](https://github.com/frejahbarkler/dtu_course_41934_group15/tree/main)
 * [2023 Group 20](https://github.com/leonschoene/41934_Advanced_BIM_Group_20/tree/main)
 * [2023 Group 48](
-https://github.com/KaareH/DTU_E23_41934_Advanced-BIM/tree/main/Assignments)
+https://github.com/KaareH/DTU_E23_41934_Advanced-BIM/tree/main)
 
 ## Research Based Course
 This course is research based and the result of the following papers.
