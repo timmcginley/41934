@@ -6,8 +6,7 @@ With Kristoffer Negendahl.
 
 Submit to [A1]
 
-1. ___ [Classification]
-1. ___ IFC [Properties and PropertySets]
+1. ___ [Classification] - Naming things is hard.
 3. ___ [LOD](/41934/Concepts/LOD)
 
 <!--
