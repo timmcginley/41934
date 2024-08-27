@@ -1,4 +1,4 @@
-## Session 7 - Voxels
+## W7: Voxels
 
 *21st October 2024*
 
