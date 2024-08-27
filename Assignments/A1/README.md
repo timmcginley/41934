@@ -25,11 +25,17 @@ You will analyse the models using scripts as in the previous years using Blender
 
 ## Steps
 
-### 1) Make a group 
+### 1) Make a group.
 * 2 people - exceptionally could be 3
+* Make sure you are interested in the same things. as you will need to...
 ### 2) Choose a [focus] area / subject.
 * Find a focus area / subject that you are interested in - the point of the focus area is to help your group have a common aim.
-* You 
+### 3) All groups gather in your focus areas
+* Each focus area needs a manager group,
+* Managers should be a group that are great communicators, that care about coordinating information and want to help other groups.
+* Managers also have the responsibility to report challenges and feedback to the course teachers.
+* Those groups that want to be managers, should pitch to the other groups in the focus area. Then the groups vote.
+* Only one manager group per focus area, unless agreed by course responsible.
 
 ### 3) Review Project documentation for that focus area.
 * It is important to look at all 4 projects. Both for the subject report you have selected and client report.
