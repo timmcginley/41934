@@ -1,4 +1,4 @@
-## Session 02 IFC
+## W2: IFC
 
 *9th September 2024*
 
