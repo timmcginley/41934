@@ -1,8 +1,6 @@
 # Focus Areas
-
-These focus areas represent the areas of interest that we have seen in previous students work. They also link to subjects in [Advanced Building Design] and hopefully reflect areas of interest that you have for your specialisations / study lines and or thesis subjects.
-  
-This course has been designed so that the emphasis is on learning FROM BIM rather than learning HOWTO BIM [(McGinley & Krijnen, 2021)]. Also, from the perspective of BIM us in the early design stages of tall buildings, [Omrany, et. al, (2023)]provide an excellent overview on the literature for 7 use cases. However it is not possible to support every possible use case, therefore the course focuses on the following:
+This course has been designed so that the emphasis is on learning _FROM BIM_ rather than learning _HOWTO BIM_ [(McGinley & Krijnen, 2021)]. Also, [Omrany, et. al, (2023)] provide an excellent overview on the literature for 7 use cases of BIM use in the early design stages of tall buildings.
+In this course we have reduced this to 5 focus areas represent the areas of interest that we have seen in previous students work. They also link to subjects in [Advanced Building Design] and hopefully reflect areas of interest that you have for your specialisations / study lines and or thesis subjects.
 
 1. [Architecture] / Fire evacuation / Acoustics
 2. [Indoor] & Energy / Acoustic / Daylight
