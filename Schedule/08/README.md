@@ -1,4 +1,4 @@
-## Week 8 - Speckle
+## W8: Speckle
 
 *28th October 2024*
 
