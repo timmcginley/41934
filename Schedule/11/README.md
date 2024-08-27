@@ -1,4 +1,4 @@
-## Session 11
+## W11: Show & Tell
 
 *18th November 2024*
 
