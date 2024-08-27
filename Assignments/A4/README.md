@@ -5,6 +5,12 @@ _How can we learn from BIM at an organisational, insitutional and personal level
 
 Through this experience we want to see you develop knoweldge transfer skills, that you could then apply in a professional environment. This assignment aims to address; how do we ‘learn from BIM’ at an organizational level? You will therefore have to consider how to teach what you have learnt in the process to another group of students. Ideally this would give students a chance to learn a concept they otherwise would not have time for in the course.
 
+## Learning needs
+1. ___ In your [focus] groups your focus area managers will help you to gather the learning needs of your area.
+2. ___ Next you should agree in your focus area which groups will address which learning needs with a tutorial.
+3. ___ Learning objectives should be agreed for the tutorial, this is the responsibility of the teaching group, these should match the learning needs.
+4. ___ It is desirable to keep note the person or group that proposed the learning need as the 'owner' of that need, to assist the peer review process.
+
 Your tutorial could include at least 2 of the following:
 
 1. **Videos** provide an easy way to follow you tutorial, but should be done with either markdown instructions or a jupyter notebook. Please include a permanant to your video from a hosting site like youtube if you want it to be available for others to learn from. If not it is also possible 
