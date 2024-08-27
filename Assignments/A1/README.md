@@ -1,4 +1,4 @@
-# A1: Fact Check
+# A1: Fact Checker
 Exercises: Learn Blender / Bonsai and IfcOpenShell
 Tools: Kaare's awesome Bimscore tool
 Case: Validate claims made in Advanced Building Design Reports.
