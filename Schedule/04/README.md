@@ -6,7 +6,7 @@ Introduction to [A2]
 
 ### Presentations
 
-Jan Karlshøj will deliver a session on [IDS].
+Jan Karlshøj will deliver a session on [IDS] and the PM use cases.
 
 1. ___ What is Information Delivery Specification (IDS)]
 1. ___ What is Virtual Design and Construction [(VDC)](/41934/Concepts/VDC)?
