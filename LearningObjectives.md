@@ -26,17 +26,17 @@
 <!-- links -->
 [BIM Execution Plan]: /Concepts/BIMExecutionPlan
 [BPMN]: /Concepts/BPMN
-[BIM challenges]: /Uses
+[BIM challenges]: /Uses/index
 [development methodology]: /Concepts/DevelopmentMethodology
-[disciplinary]: /Focus
+[disciplinary]: /Focus/index
 [IFC]: /Concepts/IFC
 [OpenBIM]: /Concepts/OpenBIM
 [Python]: /Concepts/Python
 [FAIR]: /Concepts/FAIR
 [code repository]: /Concepts/Github
-[BIM concept]: /Concepts
-[use cases]: /Uses
-[modeller]: /Roles/
+[BIM concept]: /Concepts/index
+[use cases]: /Uses/index
+[modeller]: /Roles/index
 [software licensing]: /Concepts/SoftwareLicences
 [ISO 19650]: /Concepts/ISO19650
 [analysis]: /Roles/Analyst
