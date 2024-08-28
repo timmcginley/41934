@@ -57,6 +57,10 @@ This course is research based and the result of the following papers.
 [SVG]: /Concepts/SVG
 [Roles]: /Roles/README.md
 
+[building information]: /Concepts/BIM
+[IfcOpenShell]: /Concepts/IfcOpenShell
+[Schedule]: /Schedule/index
+
 <!--
 ---
 YEAR: 2023
@@ -66,9 +70,6 @@ ref_variable: ${ref}
 -->
 
 
-[building information]: /Concepts/BIM
-[IfcOpenShell]: /Concepts/IfcOpenShell
-[Schedule]: /Schedule
 
 <!--- papers ---> 
 [McGinley, Krijnen (2021)]://www.researchgate.net/publication/355218194_Multi-disciplinary_learning_from_OpenBIM
