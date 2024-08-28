@@ -13,4 +13,4 @@ Graduate education in BIM does not include Revit training, for this there are pl
 * [Advice from Autodesk](https://help.autodesk.com/view/RVT/2022/ENU/?guid=GUID-6EB68CEC-6C17-4B16-A509-30537F666C1F)
 * [More Specific for IFC Space](https://user.buildingsmart.org/knowledge-base/how-to-deal-with-ifcspace-using-revit-2020/)
 
-[IFC]: /41934/Concepts/IFC
+[IFC]: /Concepts/IFC

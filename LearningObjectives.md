@@ -1,4 +1,4 @@
-[41934](/)
+
 ## Learning Objectives
 1. Create and manage a [BIM Execution Plan] based on the OpenBIM standard [ISO 19650]
 2. Identify, locate and extract information from an [IFC] model in [OpenBIM] tools
@@ -24,26 +24,26 @@
 | [A5] |    |    |    |    |    |    |    | x  |    |     |     |  x  |
 
 <!-- links -->
-[BIM Execution Plan]: /41934/Concepts/BIMExecutionPlan
-[BPMN]: /41934/Concepts/BPMN
-[BIM challenges]: /41934/Uses
-[development methodology]: /41934/Concepts/DevelopmentMethodology
-[disciplinary]: /41934/Focus
-[IFC]: /41934/Concepts/IFC
-[OpenBIM]: /41934/Concepts/OpenBIM
-[Python]: /41934/Concepts/Python
-[FAIR]: /41934/Concepts/FAIR
-[code repository]: /41934/Concepts/Github
-[BIM concept]: /41934/Concepts
-[use cases]: /41934/Uses
-[modeller]: /41934/Roles/
-[software licensing]: /41934/Concepts/SoftwareLicences
-[ISO 19650]: /41934/Concepts/ISO19650
-[analysis]: /41934/Roles/Analyst
-[Linked Data]:/41934/Concepts/LinkedData
+[BIM Execution Plan]: /Concepts/BIMExecutionPlan
+[BPMN]: /Concepts/BPMN
+[BIM challenges]: /Uses/index
+[development methodology]: /Concepts/DevelopmentMethodology
+[disciplinary]: /Focus/index
+[IFC]: /Concepts/IFC
+[OpenBIM]: /Concepts/OpenBIM
+[Python]: /Concepts/Python
+[FAIR]: /Concepts/FAIR
+[code repository]: /Concepts/Github
+[BIM concept]: /Concepts/index
+[use cases]: /Uses/index
+[modeller]: /Roles/index
+[software licensing]: /Concepts/SoftwareLicences
+[ISO 19650]: /Concepts/ISO19650
+[analysis]: /Roles/Analyst
+[Linked Data]: /Concepts/LinkedData
 
-[A1]:/41934/Assignments/A1
-[A2]:/41934/Assignments/A2
-[A3]:/41934/Assignments/A3
-[A4]:/41934/Assignments/A4
-[A5]:/41934/Assignments/A5
+[A1]: /Assignments/A1
+[A2]: /Assignments/A2
+[A3]: /Assignments/A3
+[A4]: /Assignments/A4
+[A5]: /Assignments/A5

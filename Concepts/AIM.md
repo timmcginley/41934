@@ -9,4 +9,4 @@ Cohesive BIM Wiki [link](https://www.designingbuildings.co.uk/wiki/Asset_informa
 ### Attribution:
 This page is based on information from the [IBIMD](https://www.ct.upt.ro/IBIMD/) project of which DTU is a participant.
 
-[CDE]: /41934/Concepts/CDE
+[CDE]: /Concepts/CDE

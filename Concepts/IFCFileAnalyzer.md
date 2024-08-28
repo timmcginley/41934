@@ -15,4 +15,4 @@ IFC File Analyzer [Installation]
 
 
 [Installation]: https://www.nist.gov/services-resources/software/ifc-file-analyzer
-[IFC]: /41934/Concepts/IFC
+[IFC]: /Concepts/IFC

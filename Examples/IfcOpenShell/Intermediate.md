@@ -297,9 +297,9 @@ frame3.pack(fill=tk.Y, side=tk.LEFT)
 window.mainloop()
 ```
 
-[entities]: /41934/Concepts/Entities
-[use]: /41934/Uses
-[IDE]: /41934/Concepts/IDE
+[entities]: /Concepts/Entities
+[use]: /Uses
+[IDE]: /Concepts/IDE
 
 ## Glossary of terms (Work in progress)
 - **F-string** - a "new", easier way of formatting print statements. It is more readable than the previous versions. Check out [this article](https://realpython.com/python-f-strings/) for more info.

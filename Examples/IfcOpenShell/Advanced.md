@@ -689,9 +689,9 @@ for pset in model.by_type("IfcPropertySet"):
 ![image](https://github.com/timmcginley/41934/assets/1415855/766062d9-9bab-4120-87a2-5aae71a8e4cf)
 
 
-[entities]: /41934/Concepts/Entities
-[use]: /41934/Uses
-[IDE]: /41934/Concepts/IDE
+[entities]: /Concepts/Entities
+[use]: /Uses
+[IDE]: /Concepts/IDE
 
 ## Glossary of terms (Work in progress)
 - **F-string** - a "new", easier way of formatting print statements. It is more readable than the previous versions. Check out [this article](https://realpython.com/python-f-strings/) for more info.
