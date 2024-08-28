@@ -43,6 +43,7 @@ exclude_patterns = ['BUILD_DOCS.md', 'README.md']
 
 autodoc_default_flags = ['members', 'undoc-members' ]
 
+myst_heading_anchors = 3
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
@@ -54,7 +55,7 @@ html_theme = 'sphinx_book_theme'
 html_theme_options = {
     "repository_url": GITHUB_URL,
     "use_repository_button": True,
-    # "use_edit_page_button": True,
+    "use_edit_page_button": True,
     "icon_links": [
         {
             # Label for this link
