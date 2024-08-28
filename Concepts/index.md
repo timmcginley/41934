@@ -35,29 +35,29 @@ Python | Github | IDE | IfcOpenShell | [Software Licences] | MarkDown
 
 
 <!--- the list of links --->
-[BIM]: /Concepts/BIM)
-[Entities]: /Concepts/Entities)
-[GUID]: /Concepts/GUID)
-[LOD]: /Concepts/LOD)
-[Levels]: /Concepts/Levels)
-[Properties]: /Concepts/Properties)
+[BIM]: /Concepts/BIM
+[Entities]: /Concepts/Entities
+[GUID]: /Concepts/GUID
+[LOD]: /Concepts/LOD
+[Levels]: /Concepts/Levels
+[Properties]: /Concepts/Properties
 
-[Standards]: /Concepts/Standards)
-[BsDD]: /Concepts/BsDD)
-[IFC]: /Concepts/IFC)
-[FAIR]: /Concepts/FAIR)
-[IDM]: /Concepts/IDM)
-[IDS]: /Concepts/IDS)
-[Interoperability]: /Concepts/Interoperability)
-[MVD]: /Concepts/MVD)
-[UCM]: /Concepts/UCM)
-[BCF]: /Concepts/BCF)
-[SVG]: /Concepts/SVG)
+[Standards]: /Concepts/Standards
+[BsDD]: /Concepts/BsDD
+[IFC]: /Concepts/IFC
+[FAIR]: /Concepts/FAIR
+[IDM]: /Concepts/IDM
+[IDS]: /Concepts/IDS
+[Interoperability]: /Concepts/Interoperability
+[MVD]: /Concepts/MVD
+[UCM]: /Concepts/UCM
+[BCF]: /Concepts/BCF
+[SVG]: /Concepts/SVG
 
-[Dimensions]: /Concepts/Dimensions)
-[Standards]: /Concepts/Standards)
-[Software Licences]: /Concepts/SoftwareLicences)
-[OpenBIM]: /Concepts/OpenBIM)
-[BIM Execution Plan]: /Concepts/BIMExecutionPlan)
-[Business & Societal Value]: /Concepts/BusinessAndSocietalValue)
-[Linked Data]: /Concepts/LinkedData)
+[Dimensions]: /Concepts/Dimensions
+[Standards]: /Concepts/Standards
+[Software Licences]: /Concepts/SoftwareLicences
+[OpenBIM]: /Concepts/OpenBIM
+[BIM Execution Plan]: /Concepts/BIMExecutionPlan
+[Business & Societal Value]: /Concepts/BusinessAndSocietalValue
+[Linked Data]: /Concepts/LinkedData
