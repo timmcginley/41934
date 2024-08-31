@@ -1,6 +1,7 @@
 # Structure Focus Area
 
-Could also include structural fire safety.
+Could also include:
+* structural fire safety.
 
 ## Previous Examples
 * [22 Group 09](https://github.com/katrinekolbjornsen/UsecaseA1) - Structural
