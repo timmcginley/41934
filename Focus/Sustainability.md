@@ -1,4 +1,4 @@
-# Sustainability
+# Sustainability Focus Area
 
 ## Resources
 [LCA BYG API] - Danish only but you can use page translation if needed.
