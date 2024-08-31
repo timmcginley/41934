@@ -11,39 +11,13 @@ Non Credit/HTML-IFC
 >As an advanced course in BIM our intention is not to ‘teach’ software but to introduce concepts and tools that enable you to answer your own questions. Ultimately the aim of the course is to suport you to learn through the collective development of a new ecosystem OpenBIM tools and techniques and teaching your future colleagues how to learn from OpenBIM too.
 >Our hope for you in the course is that you gain the confidence to find the answers you are looking for in an open, instructor and peer supported environment.
 
-1. [Forensic BIM](/Assignments/A1)
-2. [Use Case](/Assignments/A2)
-3. [Guru](/Assignments/A3)
-4. [OpenBIM Champion](/Assignments/A4)
-5. [Reflection](/Assignments/A5).
+1. [A1] Forensic BIM
+2. [A2] Use Case
+3. [A3] Guru
+4. [A4] OpenBIM Champion
+5. [A5] Reflection
 
 
-## Part A	[Forensic BIM]
-* Exercises: Learn Blender / Bonsai and IfcOpenShell
-* Tools: [Kaare](https://github.com/KaareH)'s awesome Bimscore tool
-* Case: Validate claims made in Advanced Building Design Reports.
-
-### Introduction
-In the Advanced Building Design Course students submit Disciplinary specific BIM models in IFC along with Disciplinary 'subject reports' and a 'client report' which summarises the interdisciplinary design of a tall building.
-
-[ cool picture to summarise the Advanced Building Design Process ] 
-
-### Task
-The client has heard that you have a novel OpenBIM process for checking claims made in the report. This is no in the industry as a rule checker. The client wants you to demonstrate the power of this approach by checking a specific claim. This will require a synthesis of your BIM and discipline specific engineering knowledge, so you should pick a 
-You have been employed by the client to check a specific claim made by the team.
-
-
-You job in this assignment is to check a claim made made in either a team's subject or client report. Can what thye are saying be validated by the BIM.
-
-To acheive this, you will first review the disciplinary IFC models in Blender with the Bonsai (fka BlenderBIM) plugin.
-
-It is possible to get information and model properties in Blender, but this would be very slow, so we will then show you how to run a simple script in the Blender Python script window to automate this search.
-
-Finally to submit 
-
-This task would focus on analysing the models using scripts as in the previous years using Blender / Bonsai as an IDE (integrated development environment) incorporating a console, 3d view, IFC data model hierarchy, and IFC property views in one place.
-
-Adapt and apply simple scripts to validate claims made in previous iterations of the [Advanced Building Design] course. In your [focus](/Focus/) groups you will check specfic claims made in their project reports. These could include: Project GFA, Spaces required in the project brief, facade transparency and many other examples. 
 
 ## A2	[Use Case](A2)
 * Exercises: Use case modelling etc.
@@ -73,6 +47,12 @@ The final assignment focuses on the ability to transfer knowledge in an organiza
 A final brief report to offer you space to reflect on your learning compared to the course [learning goals]. This helps you to become more aware of what you learnt, what worked for you and how you can support both your own learning and that of your peers in the future.
 
 [learning goals](/LearningObjectives/)
+
+[A1]: /Assignments/A1
+[A2]: /Assignments/A2
+[A3]: /Assignments/A3
+[A4]: /Assignments/A4
+[A5]: /Assignments/A5
 
 <!-- 2023
 
