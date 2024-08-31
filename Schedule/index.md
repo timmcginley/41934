@@ -23,13 +23,13 @@ Session times 13:00 - 17:00 on Mondays
 Due 22nd September
 
 * [W1] OpenBIM  |
-* [W2] Management |
+* [W2] IFC |
 
 ### [A2] Use Case
 Due 6th October
 
-* [W3] Use Cases |
-* [W4] DS |
+* [W3] IDS / Use Case |
+* [W4] Custom Tools + Jupyter |
 * [W5] ISO 19650 |
 
 ### [A3] Tool
