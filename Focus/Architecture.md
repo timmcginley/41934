@@ -1,4 +1,4 @@
-# Architecture
+# Architecture Focus Area
 Architectural analysis could include the following:
 * Fire evacuation
 * Usable Space planning
