@@ -5,6 +5,7 @@ Previously students have focused on the use case of costing a BIM model, but may
 * building regulation compliance
 * 3DCP from any IFC
 
+<!--
 If you have a build focus the following provides an examples of how you could approach the course.
 
 ## Assignment 1
@@ -19,7 +20,7 @@ Or perhpas you would like to do teh analysis for another model group?
 Ontologies: have you found that th
 
 ## Assignment 4
-
+-->
 
 ## Previous Projects for inspiration
 Most of the examples are developed as standalone Python scripts (not in Blender), but these can be adapted - make sure you credit the previous work and are clear about the changes / improvements you have made.
