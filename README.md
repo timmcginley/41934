@@ -26,7 +26,8 @@ We believe that University education has a responsibility to support the transit
 ## Course Aim
 The aim of the course is to support you to become an OpenBIM champion (guru) in your chosen role(s) in the course supported by your disciplinary expertise i.e. LCA or structural analysis for instance. At the end of the course your group is required to develop a tutorial to teach one of these concepts to a group of peers to demonstrate your expertise in the area. The course is divided into 5 [Assignments], each module builds on the previous one to guide you through identifying your use case and the data you need to analyse to create your tool or workflow. The course focuses on the IFC schema to provide you with a robust, future proof and interoperable understanding of BIM. Check the course [Schedule].
 
-## We think you learn best from your peers and feeling part of a community of learners.
+## Circular Education System
+We think you learn best from your peers and feeling part of a community of learners.
 Thats why we encourage you to learn from and improve upon previous work. The following examples contain the submissions of previous years. Please note that assignments change from year to year so the assignment number or content may differ between years. However we will try and keep it similar to help build a networked body of learning that you can use to support your own learning.
 
 * [2023 Group 15](https://github.com/frejahbarkler/dtu_course_41934_group15/tree/main)
