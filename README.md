@@ -1,7 +1,6 @@
 # 41934 Advanced BIM
 
-
-FAIR and Open BIM tools, data, standards and processes processes, support interoperability in the building industry. They put you the engineers and designers back in control of the process. The course supports you to:
+In this course you will:
 
 * Learn how to gather, analyze and communicate [building information] from [IFC] models for real architectural engineering challenges.
 * Learn from peer crafted tutorials from previous years and teach your peers a new [concept] you have learnt.
@@ -13,17 +12,18 @@ All tools and processes developed in this course must be:
 2. Reusable and Maintainable
 3. Agnostic and Guiding
 
-This requires interoperability and standardisation; therefore this course focuses on Open BIM data and standards. Excitingly there is an emerging ecosystem of OpenBIM tools supported by [IfcOpenShell] and others that provide an Open BIM alternative to contemporary inoperable closed BIM tools and data.
+FAIR and Open BIM tools, data, standards and processes processes, support interoperability in the building industry. put you, the engineers and designers back in control of the process. Therefore this course focuses on Open BIM data and standards. Excitingly there is an emerging ecosystem of OpenBIM tools supported by [IfcOpenShell] and others that provide an Open BIM alternative to contemporary inoperable closed BIM tools and data.
 
 ## We are 100% commited to Open BIM
 We believe that University education has a responsibility to support the transition in the AEC to OpenBIM data and standards. To achieve this, the Advanced BIM course at DTU offers:
-* IFC, IfcOpenShell, Bonsai (fra BlenderBIM) and Python focus.
+* IFC, IfcOpenShell, Bonsai (fka BlenderBIM) and Python focus.
 * 5 Emerging [Roles] for you to experience
 * 5 Stimulating [Assignments] that support you to become an OpenBIM Champion / Guru
 * Learning objectives aligned to the needs of the whole AEC and society (not just the software industry).
 * A focus on the interests of Architectural Engineering Students, but also relevant for Civil Engineering students.
 * Collection of OpenBIM [Concepts] to explore and build into your own Open and Standardised Processes.
 
+## Course Aim
 The aim of the course is to support you to become an OpenBIM champion (guru) in your chosen role(s) in the course supported by your disciplinary expertise i.e. LCA or structural analysis for instance. At the end of the course your group is required to develop a tutorial to teach one of these concepts to a group of peers to demonstrate your expertise in the area. The course is divided into 5 [Assignments], each module builds on the previous one to guide you through identifying your use case and the data you need to analyse to create your tool or workflow. The course focuses on the IFC schema to provide you with a robust, future proof and interoperable understanding of BIM. Check the course [Schedule].
 
 ## We think you learn best from your peers and feeling part of a community of learners.
