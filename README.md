@@ -12,7 +12,7 @@ All tools and processes developed in this course must be:
 2. Reusable and Maintainable
 3. Agnostic and Guiding
 
-FAIR and Open BIM tools, data, standards and processes processes, support interoperability in the building industry. put you, the engineers and designers back in control of the process. Therefore this course focuses on Open BIM data and standards. Excitingly there is an emerging ecosystem of OpenBIM tools supported by [IfcOpenShell] and others that provide an Open BIM alternative to contemporary inoperable closed BIM tools and data.
+FAIR and Open BIM tools, data, standards and processes processes, support interoperability in the building industry put you, the engineers and designers back in control of the process. Therefore this course focuses on Open BIM data and standards. Excitingly there is an emerging ecosystem of OpenBIM tools supported by [IfcOpenShell] and others that provide an Open BIM alternative to contemporary inoperable closed BIM tools and data.
 
 ## We are 100% commited to Open BIM
 We believe that University education has a responsibility to support the transition in the AEC to OpenBIM data and standards. To achieve this, the Advanced BIM course at DTU offers:
