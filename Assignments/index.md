@@ -9,7 +9,7 @@ Non Credit/HTML-IFC
 ```
 
 >As an advanced course in BIM our intention is not to ‘teach’ software but to introduce concepts and tools that enable you to answer your own questions. Ultimately the aim of the course is to suport you to learn through the collective development of a new ecosystem OpenBIM tools and techniques and teaching your future colleagues how to learn from OpenBIM too.
->Our hope for you in the course is that you gain the confidence to find the answers you are looking for in an open, instructor and peer supported environment.
+>Our hope for you in the course is that you gain the confidence to find the answers you are looking for in an open, instructor and peer supported environment by developing your own OpenBIM tools
 
 1. [A1] Forensic BIM
 2. [A2] Use Case
@@ -17,36 +17,7 @@ Non Credit/HTML-IFC
 4. [A4] OpenBIM Champion
 5. [A5] Reflection
 
-
-
-## A2	[Use Case](A2)
-* Exercises: Use case modelling etc.
-* Tools: BPMN.io and [MarkDown](/Concepts/Markdown)
-* Case: Identify use case and propose tool to assess, provide feedback or support specific process in BIM project.
-
-AIM: Analyze and improve real projects for a specific use case.
-Focus on IFC analysis of real (previous) student building design projects from an advanced building design course that runs in the previous semester. Identify what the projects analysed, how did they test this? What was the domain focus of the investigation? Was it structural, energy and indoor, daylight, acoustic, LCA/LCC or something else? 
-
-In this assignment, you will be introduced to [BPMN] and use it to document the use case and explore the role of experts in [OpenBIM]. Following this, you will review OpenBIM tools made in the previous year of the OpenBIM course and identify which tools could be used or adapted to solve the challenge identified in the design project in this assignment.
-
-## Part B B1	[Tool](A3)
-* Exercises: Review previous IfcOpenShell Tutorials [Basic] [Medium] and [Advanced]
-* Tools: [Blender / Bonsai] | [Speckle] [Voxel toolkit]
-
-This assignment provide the opportunity to develop your own OpenBIM tools in Python.
-
-[ UPDATE THIS!!!!]
-
-This task focuses on ISO 19650. The intention for autumn 2022 was to integrate real examples of 19650 into the course with practical examples, for instance by prototyping a total process using Speckle that complied to ISO 19650. However, time constraints in planning the course meant that this was ultimately replaced with traditional lectures from external parties. These provided informative content to the students but on their own were not enough for them to see the alignment to the other activities. A future BIM course should be focused on thinking in and gaining experience using ISO 19650 rather than just ‘teaching’ it. The experience of the autumn 2022 course enabled a proposal to map the development methodology (Figure 3) to ISO 19650 (Figure 4).
-
-
-## Part B B2	[Show & Tell](B2)
-The final assignment focuses on the ability to transfer knowledge in an organization. It aims to address; how do we ‘learn from BIM’ at an organizational level? For this you will consider something you have learnt by yourselves that you think would be valuable to share with your peers. Suggested appraoches to support your peers learning could be, short tutorial videos, markdown files, carefully commented code and Jupyter notebooks. Furthermore, there is a chance to develop custom content that could be linked to the course learning environment that, with the student’s permission, could be used in future iterations of the course to support student learning, as well as in Advanced Building Design next year. Peer feedback will include how it supported them to make decisions and ultimately if it was clear enough to help them to know how to change their model.
-
-## A5 [Reflection](A5)
-A final brief report to offer you space to reflect on your learning compared to the course [learning goals]. This helps you to become more aware of what you learnt, what worked for you and how you can support both your own learning and that of your peers in the future.
-
-[learning goals](/LearningObjectives/)
+<!-- links -->
 
 [A1]: /Assignments/A1
 [A2]: /Assignments/A2
