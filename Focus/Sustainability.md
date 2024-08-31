@@ -13,5 +13,5 @@
 [LCA BYG API]: https://api.lcabyg.dk/da/
 
 ## Thesis
-* Martyna Jakubowska (2021) [**New method for multi-objective indoor climateoptimisation**](https://findit.dtu.dk/en/catalog/6156eca9d9001d016b64533d)
+* Martyna Jakubowska (2021) [**New method for multi-objective indoor climate optimisation**](https://findit.dtu.dk/en/catalog/6156eca9d9001d016b64533d)
 * Emilie Elise Brisson Jørgensen and Simone Bruhn (2020) [**A Multi-Criteria Decision Analysis of urban road networks - including the challenges of stakeholder perspectives and the perception of sustainability assessment as a holistic strategy**](https://findit.dtu.dk/en/catalog/5f327d2bd9001d01697d6a34)
