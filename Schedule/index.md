@@ -15,28 +15,41 @@ In place of modelling we focus on analyising existing BIM models. The idea is th
 
 <!-- a menu for the schedule-->
 
-### Forensic and Use Case
+### Room location: 
+B413-H041B<br>
+Session times 13:00 - 17:00 on Mondays
 
-[Week 1](/Schedule/01)  OpenBIM  |
-[Week 2](/Schedule/02)  Management |
-[Week 3](/Schedule/03) Use Cases |
-[Week 4](/Schedule/04) IDS |
-[Week 5](/Schedule/05) ISO 19650 |
+### [A1] Forensic BIM
+Due 22nd September
 
-Submit [A1] and [A2]
+* [W1] OpenBIM  |
+* [W2] Management |
 
-### Develop and Teach
+### [A2] Use Case
+Due 6th October
 
-[Week 6](/Schedule/06) Voxels |
-[Week 7](/Schedule/07) Tool Development Methods |
-[Week 8](/Schedule/08) Speckle |
-[Week 9](/Schedule/09) Linked Data |
-[Week 10](/Schedule/10) Show & Tell |
-[Week 11](/Schedule/11) Show & Tell |
-[Week 12](/Schedule/12) Show & Tell |
-[Week 13](/Schedule/13) Final Review
+* [W3] Use Cases |
+* [W4] DS |
+* [W5] ISO 19650 |
 
-Submit [A3] and [A3] and [A5]
+### [A3] Tool
+Due 1st December
+
+* [W6] Voxels |
+* [W7] Tool Development Methods |
+* [W8] Speckle |
+
+### [A4] Teach
+Due 1st December
+
+* [W9] Show & Tell |
+* [W10] Show & Tell |
+* [W11] Show & Tell |
+* [W12] Show & Tell |
+* [W13] Final Review
+
+### [A5] Reflect
+Due 8th December
 
 
 <!-- LINKS -->
@@ -49,3 +62,17 @@ Submit [A3] and [A3] and [A5]
 [(Open)BIM]: /Concepts/OpenBIM
 [entities]: /Concepts/Entities
 [properties]: /Concepts/Properties
+
+[W1]: /Schedule/01
+[W2]: /Schedule/02
+[W3]: /Schedule/03
+[W4]: /Schedule/04
+[W5]: /Schedule/05
+[W6]: /Schedule/06
+[W7]: /Schedule/07
+[W8]: /Schedule/08
+[W9]: /Schedule/09
+[W10]: /Schedule/10
+[W11]: /Schedule/11
+[W12]: /Schedule/12
+[W13]: /Schedule/13
