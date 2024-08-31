@@ -1,4 +1,4 @@
-# Build Focus
+# Build
 Previously students have focused on the use case of costing a BIM model, but maybe you are inspired to look at other examples? these could include:
 * construction planning
 * automated building permits
