@@ -1,9 +1,12 @@
 
 # Indoor (and Energy) Focus Area
 
-Could also include Energy / Indoor / Daylight and Acoustics
-
-
+Could also include 
+* Energy systems design
+* HVAC systems
+* Indoor comfort
+* Daylight
+* Acoustics
 
 ## Previous examples
 
