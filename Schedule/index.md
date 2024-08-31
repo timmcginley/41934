@@ -28,15 +28,15 @@ Due 22nd September
 ### [A2] Use Case
 Due 6th October
 
-* [W3] IDS / Use Case |
-* [W4] Custom Tools + Jupyter |
-* [W5] ISO 19650 |
+* [W3] Classificaiton |
+* [W4] IDS / Use Case |
+* [W5] Tool Development Methods |
 
 ### [A3] Tool
 Due 1st December
 
-* [W6] Voxels |
-* [W7] Tool Development Methods |
+* [W6] ISO 19650 |
+* [W7] Voxels  |
 * [W8] Speckle |
 
 ### [A4] Teach
