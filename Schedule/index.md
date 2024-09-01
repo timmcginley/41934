@@ -32,6 +32,7 @@ Due 1st December
 * [W8] Speckle |
 
 ### [A4] Teach
+_Please note you also continue to work on [A3] until the final presentation._
 Due 1st December
 
 * [W9] Show & Tell |
