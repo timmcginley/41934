@@ -43,8 +43,11 @@ Thats why we encourage you to learn from and improve upon previous work. The fol
 
 ## Research Based Course
 This course is research based and the result of the following papers.
-* [McGinley, Krijnen (2021)] *Multi Disciplinary Learning from OpenBIM*, CIB W78 2021, Luxemburg.
 
+* McGinley et. al. (2023) *[Supporting the OpenBIM transition]*, CIBW78 2023
+* McGinley, Krijnen (2022) *[A framework for meta-disciplinary building analysis]*, ECPPM 2022
+* McGinley, Karlshøj (2022) *[A circular education system for the AEC]*, EC3 2022
+* McGinley, Krijnen (2021) *[Multi Disciplinary Learning from OpenBIM]*, CIB W78 2021, Luxemburg.
 ## Course rules
 
 1. Use FOSS (Free and Open Source) Solutions first.
@@ -80,4 +83,7 @@ ref_variable: ${ref}
 
 
 <!--- papers ---> 
-[McGinley, Krijnen (2021)]://www.researchgate.net/publication/355218194_Multi-disciplinary_learning_from_OpenBIM
+[Multi Disciplinary Learning from OpenBIM]: //www.researchgate.net/publication/355218194_Multi-disciplinary_learning_from_OpenBIM
+[Supporting the OpenBIM transition]:https://www.researchgate.net/publication/372244146_Supporting_the_OpenBIM_transition
+[A framework for meta-disciplinary building analysis]: https://www.researchgate.net/publication/363579368_A_framework_for_meta-disciplinary_building_analysis
+[A circular education system for the AEC]: https://www.researchgate.net/publication/362225610_A_circular_education_system_for_the_AEC
