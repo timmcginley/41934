@@ -16,11 +16,11 @@ Due 22nd September
 
 * [W1] OpenBIM  |
 * [W2] IFC |
+* [W3] Classificaiton |
 
 ### [A2] Use Case
 Due 6th October
 
-* [W3] Classificaiton |
 * [W4] IDS / Use Case |
 * [W5] Tool Development Methods |
 
