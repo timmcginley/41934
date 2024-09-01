@@ -7,7 +7,7 @@
 */index
 ```
 
-### Room location: 
+### Room Location: 
 B413-H041B<br>
 Session times 13:00 - 17:00 on Mondays
 
