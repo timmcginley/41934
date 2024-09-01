@@ -24,6 +24,13 @@ We believe that University education has a responsibility to support the transit
 * Collection of OpenBIM [Concepts] to explore and build into your own Open and Standardised Processes.
 
 ## Course Aim
+
+This course is different from other BIM courses. The idea is to learn _from_ BIM not learn _howto_ BIM. Therefore we will NOT be training you to model things in BIM tools.
+
+In place of modelling we focus on analyising existing BIM models. The idea is that if you learn how to analyse the BIM models to get the information you need you will then know the what to model. This leads us to our next aim, to model less. 
+
+>What is the minimum information that should be exchanged to guide the person that requires that information?
+
 The aim of the course is to support you to become an OpenBIM champion (guru) in your chosen role(s) in the course supported by your disciplinary expertise i.e. LCA or structural analysis for instance. At the end of the course your group is required to develop a tutorial to teach one of these concepts to a group of peers to demonstrate your expertise in the area. The course is divided into 5 [Assignments], each module builds on the previous one to guide you through identifying your use case and the data you need to analyse to create your tool or workflow. The course focuses on the IFC schema to provide you with a robust, future proof and interoperable understanding of BIM. Check the course [Schedule].
 
 ## Circular Education System
