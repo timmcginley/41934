@@ -6,7 +6,7 @@
 *
 */index
 ```
-This course has been designed so that the emphasis is on learning _FROM BIM_ rather than learning _HOWTO BIM_ [(McGinley & Krijnen, 2021)]. We know that we learn better when we are studying things that interest us. What area of building engineering knowledge are you most curious about?
+This course has been designed so that the emphasis is on learning _FROM_ BIM [(McGinley & Krijnen, 2021)]. We learn better studying things that interest us. What is your building engineering knowledge focus area?
 
 1. [Architecture] / Fire evacuation / Acoustics
 2. [Indoor] & Energy / Acoustic / Daylight
