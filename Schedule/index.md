@@ -30,12 +30,13 @@ Due 1st December
 * [W6] ISO 19650 |
 * [W7] Voxels  |
 * [W8] Speckle |
+* [W9] Linked Data (TBC) |
 
 ### [A4] Teach
-_Please note you also continue to work on [A3] until the final presentation._
+_Please note you also continue to work on [A3] until the final presentation. You could also start [A4] earlier._
+
 Due 1st December
 
-* [W9] Show & Tell |
 * [W10] Show & Tell |
 * [W11] Show & Tell |
 * [W12] Show & Tell |
