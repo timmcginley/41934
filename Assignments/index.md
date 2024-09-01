@@ -8,14 +8,11 @@
 Non Credit/HTML-IFC
 ```
 
->As an advanced course in BIM our intention is not to ‘teach’ software but to introduce concepts and tools that enable you to answer your own questions. Ultimately the aim of the course is to suport you to learn through the collective development of a new ecosystem OpenBIM tools and techniques and teaching your future colleagues how to learn from OpenBIM too.
->Our hope for you in the course is that you gain the confidence to find the answers you are looking for in an open, instructor and peer supported environment by developing your own OpenBIM tools
-
 1. [A1] Forensic BIM
 2. [A2] Use Case
-3. [A3] Guru
-4. [A4] OpenBIM Champion
-5. [A5] Reflection
+3. [A3] Tool
+4. [A4] Teach
+5. [A5] Reflect
 
 <!-- links -->
 
