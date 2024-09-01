@@ -8,11 +8,13 @@
 Non Credit/HTML-IFC
 ```
 
-1. [A1] Forensic BIM
-2. [A2] Use Case
-3. [A3] Tool
-4. [A4] Teach
-5. [A5] Reflect
+| #  |     Name                      |  Due    | 
+|----  |-----          |------|
+| [A1] |Forensic BIM   |    22nd September 2024 |
+| [A2] |Use Case       |    6th October 2024|
+| [A3] |Tool           |    1st December 2024|
+| [A4] |Teach          |    1st December 2024|
+| [A5] |Reflect        |    9th December 2024|
 
 <!-- links -->
 
