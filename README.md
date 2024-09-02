@@ -59,17 +59,17 @@ This course is research based and the result of the following papers.
 
 <!-- links -->
 
-[Assignments]: /Assignments
+[Assignments]: /Assignments/index
 [IFC]: /Concepts/IFC
 [BPMN]: /Concepts/BPMN
 [Construction]: /Focus/Construction
-[Concepts]: /Concepts
-[concept]: /Concepts
+[Concepts]: /Concepts/index
+[concept]: /Concepts/index
 [SVG]: /Concepts/SVG
-[Roles]: /Roles/README.md
+[Roles]: /Roles/index
 
 [building information]: /Concepts/BIM
-[IfcOpenShell]: /Concepts/IfcOpenShell
+[IfcOpenShell]: /Concepts/IfcOpenShell/index
 [Schedule]: /Schedule/index
 
 <!--
@@ -83,7 +83,7 @@ ref_variable: ${ref}
 
 
 <!--- papers ---> 
-[Multi Disciplinary Learning from OpenBIM]: //www.researchgate.net/publication/355218194_Multi-disciplinary_learning_from_OpenBIM
+[Multi Disciplinary Learning from OpenBIM]: https://www.researchgate.net/publication/355218194_Multi-disciplinary_learning_from_OpenBIM
 [Supporting the OpenBIM transition]:https://www.researchgate.net/publication/372244146_Supporting_the_OpenBIM_transition
 [A framework for meta-disciplinary building analysis]: https://www.researchgate.net/publication/363579368_A_framework_for_meta-disciplinary_building_analysis
 [A circular education system for the AEC]: https://www.researchgate.net/publication/362225610_A_circular_education_system_for_the_AEC
