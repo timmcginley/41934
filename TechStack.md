@@ -11,7 +11,7 @@ Install [BlenderBIM](/Concepts/BlenderBIM)
 
 Install [Visual Studio Code](/Concepts/VisualStudio) or an alternative [IDE](/Concepts/IDE)
 
-Install [IfcOpenShell](/Concepts/IfcOpenShell)
+Install [IfcOpenShell](/Concepts/IfcOpenShell/index)
 
 *additonally, you could install these*
 
