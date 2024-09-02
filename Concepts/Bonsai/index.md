@@ -20,7 +20,7 @@ The problem with traditional proprietary BIM tools is that it is not possible to
 
 ## Tutorials and resources:
 
->Attention: these are links from the previous year, the development of this software is moving so fast, that these might already be out of date, we are doing our best to get on top of this. If you spot something that does not look right, please tell your focus area manager who can submit a pull request to edit it.
+>Dragons: these are links from the previous year, the development of this software is moving so fast, that these might already be out of date, we are doing our best to get on top of this. If you spot something that does not look right, please tell your focus area manager who can submit a pull request to edit it.
 
 ### Beginner
 - The [OSArch wiki](https://wiki.osarch.org/index.php?title=BlenderBIM_Add-on) is generally a good resource on Bonsai (BlenderBIM), IfcOpenShell and OpenBIM in general.
