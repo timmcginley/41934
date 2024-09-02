@@ -22,20 +22,7 @@ The problem with traditional proprietary BIM tools is that it is not possible to
 
 >Dragons: these are links from the previous year, the development of this software is moving so fast, that these might already be out of date, we are doing our best to get on top of this. If you spot something that does not look right, please tell your focus area manager who can submit a pull request to edit it.
 
-### Beginner
-- The [OSArch wiki](https://wiki.osarch.org/index.php?title=BlenderBIM_Add-on) is generally a good resource on Bonsai (BlenderBIM), IfcOpenShell and OpenBIM in general.
-- [Bonsai (BlenderBIM) full free course](https://www.youtube.com/watch?v=pjO_Nh6yaYw&list=PLbFY94gzUJhGXh9tEZIuq-a8BSWddSPz2) from scratch to pro
-- [Exploring IFC model](https://docs.bonsaibim.org/users/quickstart/explore_model.html)
-- Great starting point - [Using Bonsai (BlenderBIM) with native IFC](https://www.youtube.com/watch?v=Ooh05WF__80&ab_channel=DionMoult)
-- Check out tutorials from [Ifc Architect](https://www.youtube.com/@IfcArchitect/videos)
-- [Adding information to an IFC model](https://wiki.osarch.org/index.php?title=BlenderBIM_Add-on_adding_information_to_IFC)
-### Coding in Bonsai (fka BlenderBIM)
-- [Using the Python console with BlenderBIM add-on](https://wiki.osarch.org/index.php?title=BlenderBIM_Add-on/Using_the_Python_console_with_BlenderBIM_Add-on)
-- [How to run an external script in Blender](https://github.com/timmcginley/41934/blob/main/Concepts/BlenderBIM/E22_41934_How%20to%20run%20an%20external%20script%20in%20Blender.md)
-- [BlenderBIM code examples](https://wiki.osarch.org/index.php?title=BlenderBIM_Add-on/BlenderBIM_Add-on_code_examples)
-
-
-## Bonsai (fka BlenderBIM)
+## iNSTALL Bonsai (fka BlenderBIM)
 Following a brief introduction, we will look at the following steps.
 
 * [Install Blender](https://docs.bonsaibim.org/users/quickstart/installation.html)
@@ -43,14 +30,31 @@ Following a brief introduction, we will look at the following steps.
 * Grab an example IFC model from the IFC Models folder
 * If you follow this tutorial, you'll get a brief introduction to Blender and Bonsai (fka BlenderBIM)
 
-Explore that IFC model. Can you find:
+- [Explore the IFC models](https://docs.bonsaibim.org/users/quickstart/explore_model.html)
 
-* the number of spaces in the building?
-* the number of levels?
+Can you find:
+
+* the number of spaces on a building storey?
+* the number of levels / building storeys?
 * the materials in the building?
 * the area of the floors?
 
+### Beginner
+- The [OSArch wiki](https://wiki.osarch.org/index.php?title=BlenderBIM_Add-on) is generally a good resource on Bonsai (BlenderBIM), IfcOpenShell and OpenBIM in general.
+- [Bonsai (BlenderBIM) full free course](https://www.youtube.com/watch?v=pjO_Nh6yaYw&list=PLbFY94gzUJhGXh9tEZIuq-a8BSWddSPz2) from scratch to pro
+
+- Great starting point - [Using Bonsai (BlenderBIM) with native IFC](https://www.youtube.com/watch?v=Ooh05WF__80&ab_channel=DionMoult)
+- Check out tutorials from [Ifc Architect](https://www.youtube.com/@IfcArchitect/videos)
+### Intermediate
+- [Adding information to an IFC model](https://wiki.osarch.org/index.php?title=BlenderBIM_Add-on_adding_information_to_IFC)
+
+### Coding in Bonsai (fka BlenderBIM)
 In week [2], we will introduce the scripting environment in Blender to speed up these checks.
+
+- [Using the Python console with BlenderBIM add-on](https://wiki.osarch.org/index.php?title=BlenderBIM_Add-on/Using_the_Python_console_with_BlenderBIM_Add-on)
+- [How to run an external script in Blender](https://github.com/timmcginley/41934/blob/main/Concepts/BlenderBIM/E22_41934_How%20to%20run%20an%20external%20script%20in%20Blender.md)
+- [BlenderBIM code examples](https://wiki.osarch.org/index.php?title=BlenderBIM_Add-on/BlenderBIM_Add-on_code_examples)
+
 
 [2]: /Schedule/02
 
