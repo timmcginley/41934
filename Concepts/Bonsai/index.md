@@ -22,10 +22,9 @@ The problem with traditional proprietary BIM tools is that it is not possible to
 
 >Dragons: these are links from the previous year, the development of this software is moving so fast, that these might already be out of date, we are doing our best to get on top of this. If you spot something that does not look right, please tell your focus area manager who can submit a pull request to edit it.
 
-## iNSTALL Bonsai (fka BlenderBIM)
+## Install Bonsai (fka BlenderBIM)
 Following a brief introduction, we will look at the following steps.
 
-* [Install Blender](https://docs.bonsaibim.org/users/quickstart/installation.html)
 * [Install Bonsai (fka BlenderBIM)](https://docs.bonsaibim.org/quickstart/installation.html)
 * Grab an example IFC model from the IFC Models folder
 * If you follow this tutorial, you'll get a brief introduction to Blender and Bonsai (fka BlenderBIM)
