@@ -43,7 +43,7 @@ Python | Github | IDE | IfcOpenShell | [Software Licences] | MarkDown
 [Properties]: /Concepts/Properties
 
 [Standards]: /Concepts/Standards
-[BsDD]: /Concepts/BsDD
+[BsDD]: /Concepts/bsDD/index
 [IFC]: /Concepts/IFC
 [FAIR]: /Concepts/FAIR
 [IDM]: /Concepts/IDM
