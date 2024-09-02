@@ -13,7 +13,8 @@ Go to the command line in windows or the Terminal in mac and type:
 > python --version
 
 This should tell you the version of python that you are using. For instance you can see here that I am using 3.8.3.
-![Yeah cool](images/pythonversion.png "image file")
+
+![Yeah cool](setup_standalone_cmdline/images/pythonversion.png "image file")
 
 > N.B. At the time of writing this, if using windows when typing python into the command line if you don't have it, windows will offer to get if for you from the store, please DO NOT accept this. It is much better to download it yourself from the link above, please also make note of the version you are using as we will need to  get a matching version of ifcOpenShell later in this tutorial.
 
@@ -22,7 +23,7 @@ You can see that this time I have typed
 
 > python
 
-![Yeah cool](images/runpython.png "pythoncommand")
+![Yeah cool](setup_standalone_cmdline/images/runpython.png "pythoncommand")
 
 And it has given me the python interpreter >>> 
 I can now type python commands into this and it will give me an output. for instance:
@@ -31,7 +32,7 @@ I can now type python commands into this and it will give me an output. for inst
 
 Produces the result
 
-![Yeah cool](images/runpythoncommand.png "pythoncommand")
+![Yeah cool](setup_standalone_cmdline/images/runpythoncommand.png "pythoncommand")
 
 > \>\>\> hello world
 
@@ -58,7 +59,7 @@ Open that file in a text editor for instance notepad++ or sublime and copy in th
 
 Save it and then when you double click it on your desktop it will automatically open the cmd line in the right place. Please note that the bat file uses backslashes.
 
-![Yeah cool](images/rulefolder.png "pythoncommand")
+![Yeah cool](setup_standalone_cmdline/images/rulefolder.png "pythoncommand")
 
 Ok so now we have set that up go to the program folder (in our case c:/github/rule). In that folder create a new file called main.py. Open up that folder in a text editor (notepad++ for instance) and in the file type:
 
@@ -66,7 +67,7 @@ Ok so now we have set that up go to the program folder (in our case c:/github/ru
 
 Now save the file - you can keep the text editor open so that you have the text editor and cmd line side by side for instance…
 
-![Yeah cool](images/sidebyside.png "pythoncommand")
+![Yeah cool](setup_standalone_cmdline/images/sidebyside.png "pythoncommand")
 
 ### Step 3.2
 Ok now, type into the cmd line
@@ -75,7 +76,7 @@ Ok now, type into the cmd line
 
 This will run your program and you will see the result in the command line.
 
-![run python program](images/runpythonprogram.png "runpythonprogram")
+![run python program](setup_standalone_cmdline/images/runpythonprogram.png "runpythonprogram")
 
 Cool eh? you just wrote and ran your first proper program in Python - good job!
 
@@ -93,7 +94,7 @@ on a mac I can type:
 
 into Terminal which should give a similar result. On my machine it says two places, I chose the first one.
 
-![python versions](images/pythonversions.png "python versions")
+![python versions](setup_standalone_cmdline/images/pythonversions.png "python versions")
 
 So I will go to:
 
@@ -106,7 +107,7 @@ and from there I will open the Lib/site-packages so I end up at
 
 The downloaded ifcopenshell folder should go in there.
 
-![site packages](images/sitepackages.png "site packages")
+![site packages](setup_standalone_cmdline/images/sitepackages.png "site packages")
 
 ## Step 5: Test your setup:
 Open up your program folder for me it was (c:/github/rule), but this could be anywhere for you. In the text editor open up the main.py file in your folder. Now in that folder type the following
