@@ -43,6 +43,8 @@ The OpenBIM Manager is based on the traditional BIM manager role, such as managi
 * Eric Kastl Jensen and Adam Søe Beilin (2020) [**Simplifying communication between AEC stakeholders to facilitate agile practices**](https://findit.dtu.dk/en/catalog/5f522104d9001d01694ab010)
 * Einar Loktu (2019) [**Early stage Collaboration in Architecture and Engineering**](https://findit.dtu.dk/en/catalog/5d3d8339d9001d32f558c126)
 
+[focus]: /Focus
+
 [A1]: /Assignments/A1
 [A2]: /Assignments/A2
 [A3]: /Assignments/A3
