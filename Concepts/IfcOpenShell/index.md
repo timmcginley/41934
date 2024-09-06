@@ -20,7 +20,7 @@ This tutorial site bundles tutorials on IfcOpenShell, including the collection o
 ## Learn IfcOpenShell
 
 - [Installing and Getting Started](installation/updated_installation_instructions/)
-- Check out the exmaples [here](/Examples/IfcOpenShell/)
+- Check out the examples [here](/Examples/IfcOpenShell/)
 - Selecting elements of a particular type
 - Retrieve attributes
 - Retrieve properties

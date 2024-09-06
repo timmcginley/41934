@@ -1,19 +1,20 @@
 # Blender Scripting introduction with Bonsai
+In the previous activity we found information about our IFC model in the properties tabs of Blender. We found that it could be tricky to find information quickly, for instance how many windows are in the model? Therefore in this example we will use some simple scripting to answer these questions.
 
 ## Activity Summary
-In this activity you will learn:
-* Where to find the script window in Blender
-* How to import the [IfcOpenShell] [python] library
-* How to load the model in Python
-* How to query an Ifc Entity
-* How to find how many instances of that entity are in you model
-* How to print that to console window (and where to fin the console window)
+Specifically in this activity you will learn:
+1. Where to find the script window in Blender
+2. How to import the [IfcOpenShell] [python] library
+3. How to load the model in Python
+4. How to query an Ifc Entity
+5. How to find how many instances of that entity are in you model
+6. How to print that to console window (and where to fin the console window)
 
 ## Activity Steps
 We will repeat some of these steps in the next activity where we work with Python outside of Blender directly in an [IDE] or in the [console].
 
-### first, load an IFC model through the File menu on the main toolbar
-* This exercise works best with the architecture model as we will be trying to find the spaces in the model.
+### Load your IFC model in Blender
+* Make sure you have already loaded your IFC model in Blender and can see it in the 3d window. Please choose the model that you think you can find your focus information on.
 
 ### Open the Blender script window
 * From the top menu bar of Blender click the scripting tab
@@ -30,7 +31,7 @@ We will repeat some of these steps in the next activity where we work with Pytho
 ```python
 import ifcopenshell
 ```
-1. Next add this line that imports the current IFC model from blender. We only need this when workign inside Blender, please make sure it says bonsai.bim.ifc and not blenderBIM.bim.ifc, many examples you find online will still use the old name of the library.
+Next add this line that imports the current IFC model from blender. We only need this when working inside Blender, please make sure it says bonsai.bim.ifc and not blenderBIM.bim.ifc, many examples you find online will still use the old name of the library.
 
 ```python
 from bonsai.bim.ifc import IfcStore
@@ -42,13 +43,29 @@ file = IfcStore.get_file()
 ```
 Cool now we can access the IFC file :)
 
-You can get all the spaces in your file by:
+You will be looking for a different entity in this exercise i.e
+	* Architecture IFC model - IfcWindow / IfcDoor
+ 	* Structure IFC model - IfcBeam / IfcColumn
+	* MEP IFC model - IfcDuctSegment
+
+To get all the windows from the architecture model type:
 ```python
-spaces = file.by_type('IfcSpace')
+thing = file.by_type('IfcWindow')
 ```
+
+Or to get all the columns from the structure model type:
+```python
+thing = file.by_type('IfcColumn')
+```
+
+Or get all the ducts from the MEP model type:
+```python
+thing = file.by_type('IfcDuctSegment')
+```
+[all models]
 Now check how many spaces you have...
 ```python
-print(len(spaces))
+print(len(thing))
 ```
 or print their names...
 ```python
