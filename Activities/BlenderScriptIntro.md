@@ -1,13 +1,14 @@
 # Blender Scripting introduction with Bonsai
+In the previous activity we found information about our IFC model in the properties tabs of Blender. We found that it could be tricky to find information quickly, for instance how many windows are in the model? Therefore in this example we will use some simple scripting to answer these questions.
 
 ## Activity Summary
-In this activity you will learn:
-* Where to find the script window in Blender
-* How to import the [IfcOpenShell] [python] library
-* How to load the model in Python
-* How to query an Ifc Entity
-* How to find how many instances of that entity are in you model
-* How to print that to console window (and where to fin the console window)
+Specifically in this activity you will learn:
+1. Where to find the script window in Blender
+2. How to import the [IfcOpenShell] [python] library
+3. How to load the model in Python
+4. How to query an Ifc Entity
+5. How to find how many instances of that entity are in you model
+6. How to print that to console window (and where to fin the console window)
 
 ## Activity Steps
 We will repeat some of these steps in the next activity where we work with Python outside of Blender directly in an [IDE] or in the [console].
