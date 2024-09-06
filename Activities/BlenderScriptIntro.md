@@ -1,9 +1,21 @@
-# Introduction to scripting in Blender
+# Blender Scripting introduction with Bonsai
 
-### load an IFC model through the File menu on the main toolbar
+## Activity Summary
+In this activity you will learn:
+* Where to find the script window in Blender
+* How to import the [IfcOpenShell] [python] library
+* How to load the model in Python
+* How to query an Ifc Entity
+* How to find how many instances of that entity are in you model
+* How to print that to console window (and where to fin the console window)
+
+## Activity Steps
+We will repeat some of these steps in the next activity where we work with Python outside of Blender directly in an [IDE] or in the [console].
+
+### first, load an IFC model through the File menu on the main toolbar
 * This exercise works best with the architecture model as we will be trying to find the spaces in the model.
 
-## Open the Blender script window
+### Open the Blender script window
 * From the top menu bar of Blender click the scripting tab
 * Before you can start scripting you need to make a new script from the tab in the scripting window
 > N.B. In order to see the output of your script in windows you need to click 'Window > Toggle System Console'
@@ -24,7 +36,6 @@ import ifcopenshell
 from bonsai.bim.ifc import IfcStore
 ```
 
-
 Now you can add get the IFC file that is active in your Blender environment with:
 ```python
 file = IfcStore.get_file()
@@ -44,4 +55,8 @@ or print their names...
 for space in spaces:
 	print(space.LongName)
 ```
-You can have a look at [this](https://docs.ifcopenshell.org/ifcopenshell-python/hello_world.html) IfcOpenShell crash course for more examples. What other information can you find out about the model?
+You can have a look at [this](https://docs.ifcopenshell.org/ifcopenshell-python/hello_world.html) IfcOpenShell crash course for more examples. What other information can you find out about the model?7
+
+[IfcOpenShell]: /Concepts/IfcOpenShell
+[IDE]: /Concepts/IDE
+[console]: /Concepts/CommandLine
