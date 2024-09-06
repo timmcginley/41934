@@ -13,8 +13,8 @@ Specifically in this activity you will learn:
 ## Activity Steps
 We will repeat some of these steps in the next activity where we work with Python outside of Blender directly in an [IDE] or in the [console].
 
-### first, load an IFC model through the File menu on the main toolbar
-* This exercise works best with the architecture model as we will be trying to find the spaces in the model.
+### Load your IFC model in Blender
+* Make sure you have already loaded your IFC model in Blender and can see it in the 3d window. Please choose the model that you think you can find your focus information on.
 
 ### Open the Blender script window
 * From the top menu bar of Blender click the scripting tab
@@ -31,7 +31,7 @@ We will repeat some of these steps in the next activity where we work with Pytho
 ```python
 import ifcopenshell
 ```
-1. Next add this line that imports the current IFC model from blender. We only need this when workign inside Blender, please make sure it says bonsai.bim.ifc and not blenderBIM.bim.ifc, many examples you find online will still use the old name of the library.
+Next add this line that imports the current IFC model from blender. We only need this when working inside Blender, please make sure it says bonsai.bim.ifc and not blenderBIM.bim.ifc, many examples you find online will still use the old name of the library.
 
 ```python
 from bonsai.bim.ifc import IfcStore
@@ -43,13 +43,29 @@ file = IfcStore.get_file()
 ```
 Cool now we can access the IFC file :)
 
-You can get all the spaces in your file by:
+You will be looking for a different entity in this exercise i.e
+	* Architecture IFC model - IfcWindow / IfcDoor
+ 	* Structure IFC model - IfcBeam / IfcColumn
+	* MEP IFC model - IfcDuctSegment
+
+To get all the windows from the architecture model type:
 ```python
-spaces = file.by_type('IfcSpace')
+thing = file.by_type('IfcWindow')
 ```
+
+Or to get all the columns from the structure model type:
+```python
+thing = file.by_type('IfcColumn')
+```
+
+Or get all the ducts from the MEP model type:
+```python
+thing = file.by_type('IfcDuctSegment')
+```
+[all models]
 Now check how many spaces you have...
 ```python
-print(len(spaces))
+print(len(thing))
 ```
 or print their names...
 ```python
