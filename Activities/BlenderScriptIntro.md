@@ -22,55 +22,62 @@ We will repeat some of these steps in the next activity where we work with Pytho
 > N.B. In order to see the output of your script in windows you need to click 'Window > Toggle System Console'
 
 ## Your first code
-1. We know some of you are a little nervous about programming, but when we start we only need to know 2 things - copy and paste :)
-1. So that we can reuse code as much as possible, python uses existing libraries of code. It lets you import these libraries into your script. Later you will learn how to mkae your own library but in this course we will always first import the [ifcopenshell] library.
-1. You are now working in Python, the first thing we need to do is import the python library we are working with in this course - [ifcOpenShell]
-1. Next we get the current model from blender BIM.
-1. To do this copy and paste the code below into your Blender Scriping window:
+* We know some of you are a little nervous about programming, but when we start we only need to know 2 things - copy and paste :)
+* So that we can reuse code as much as possible, python uses existing libraries of code. It lets you import these libraries into your script. Later you will learn how to mkae your own library but in this course we will always first import the [ifcopenshell] library.
+* You are now working in Python, the first thing we need to do is import the python library we are working with in this course - [ifcOpenShell]
+* Next we get the current model from blender BIM.
+* To do this copy and paste the code below into your Blender Scriping window:
 
 ```python
 import ifcopenshell
 ```
-Next add this line that imports the current IFC model from blender. We only need this when working inside Blender, please make sure it says bonsai.bim.ifc and not blenderBIM.bim.ifc, many examples you find online will still use the old name of the library.
+* Next add this line that imports the current IFC model from blender. We only need this when working inside Blender, please make sure it says bonsai.bim.ifc and not blenderBIM.bim.ifc, many examples you find online will still use the old name of the library.
 
 ```python
 from bonsai.bim.ifc import IfcStore
 ```
 
-Now you can add get the IFC file that is active in your Blender environment with:
+* Now you can add get the IFC file that is active in your Blender environment with:
 ```python
 file = IfcStore.get_file()
 ```
-Cool now we can access the IFC file :)
+* Cool now we can access the IFC file :)
 
-You will be looking for a different entity in this exercise i.e
-	* Architecture IFC model - IfcWindow / IfcDoor
- 	* Structure IFC model - IfcBeam / IfcColumn
-	* MEP IFC model - IfcDuctSegment
+* You will be looking for a different entity in this exercise i.e
+  * Architecture IFC model - IfcWindow / IfcDoor
+  * Structure IFC model - IfcBeam / IfcColumn
+  * MEP IFC model - IfcDuctSegment
 
-To get all the windows from the architecture model type:
+Therfore, only choose one of the 3 lines of code below.
+* We will use the variable **things** normally we would call it something more specific but in this exercise you need to choose which line to copy. You can think of **things** as a box that containing all the instances of the entity you are interested in, cool eh?
+
+### Architecture model
+* To get all the windows from the architecture model type:
 ```python
 thing = file.by_type('IfcWindow')
 ```
-
-Or to get all the columns from the structure model type:
+### Structure model
+* Or to get all the columns from the structure model type:
 ```python
 thing = file.by_type('IfcColumn')
 ```
-
+### MEP model
 Or get all the ducts from the MEP model type:
 ```python
-thing = file.by_type('IfcDuctSegment')
+things = file.by_type('IfcDuctSegment')
 ```
-[all models]
-Now check how many spaces you have...
+### Check how many of the thing you have
+Now that you have checked for your things.
+Get Python to tell us how many of the thing you have with the len() function.
+*Also you will see that this is contained in a print() function, this is pythons way of reporting information back to the console so you can see the answer.
+* So lets go ahead and check how many of your chosen things your model has ...
 ```python
-print(len(thing))
+print(len(things))
 ```
 or print their names...
 ```python
-for space in spaces:
-	print(space.LongName)
+for thing in things:
+	print(thing.LongName)
 ```
 You can have a look at [this](https://docs.ifcopenshell.org/ifcopenshell-python/hello_world.html) IfcOpenShell crash course for more examples. What other information can you find out about the model?7
 
