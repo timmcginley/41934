@@ -6,9 +6,14 @@
 
 A **distributed version control** system just means that in stead of having just one copy of all the files online that everybody tries to acces and change at the same time (think of Microsoft Teams or Google Drive), every contributor has a local copy on their own computer and only synchronises it with others once in a while. This has a lot of advantages from being much faster, allowing offline and parallel work to being much better protected against data loss or server failures.
 
+too much reading? rather play a [game to learn Git](https://ohmygit.org/)?
+
 Here is a 2min video explaining [Git](https://www.youtube.com/watch?v=2ReR1YJrNOM).
+
+Or try [The guide to Git I never had](https://glasskube.dev/guides/git/)
 
 Git is normally used without a GUI (graphical user interface) through the command line. Git is often used in combination with a code hosting platform, either commercial solutions such as GitHub, SourceForge, Bitbucket or GitLab, but also self-hosted options exist, like Gitea or Forgejo. 
 
 However it can also run form the command line to speed up your workflows.
 Furthermore it can be used directly with IFC for a process known as [IFCGit](https://community.osarch.org/discussion/1394/blenderbim-experimental-ifc-git-add-on)
+
