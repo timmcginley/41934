@@ -6,7 +6,7 @@
 
 A **distributed version control** system just means that in stead of having just one copy of all the files online that everybody tries to acces and change at the same time (think of Microsoft Teams or Google Drive), every contributor has a local copy on their own computer and only synchronises it with others once in a while. This has a lot of advantages from being much faster, allowing offline and parallel work to being much better protected against data loss or server failures.
 
-too much reading? rather play a [game to learn Git](https://ohmygit.org/)?
+too much reading? rather play a [game to learn Git?](https://ohmygit.org/)
 
 Here is a 2min video explaining [Git](https://www.youtube.com/watch?v=2ReR1YJrNOM).
 
