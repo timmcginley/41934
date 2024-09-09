@@ -54,12 +54,12 @@ Therfore, only choose one of the 3 lines of code below.
 ### Architecture model
 * To get all the windows from the architecture model type:
 ```python
-thing = file.by_type('IfcWindow')
+things = file.by_type('IfcWindow')
 ```
 ### Structure model
 * Or to get all the columns from the structure model type:
 ```python
-thing = file.by_type('IfcColumn')
+things = file.by_type('IfcColumn')
 ```
 ### MEP model
 Or get all the ducts from the MEP model type:
