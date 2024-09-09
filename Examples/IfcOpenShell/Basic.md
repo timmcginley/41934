@@ -5,9 +5,6 @@
 You can also start with [this tutorial](https://github.com/jakob-beetz/ifcopenshell-notebooks) on IfcOpenShell, as it also includes a crash course on Python. If you are already familiar with Python, you can jump to file 04_hello_ifc. This tutorial is made as Jupyter notebooks and doesn't require you to install anything, simply click on the button "launch, binder" at the top of the README.md and wait for it to load. If it doesn't work, you can also follow [this tutorial](https://github.com/jakob-beetz/IfcOpenShellScriptingTutorial/wiki) and run the scripts in your code editor. It has almost the same content as the interactive tutorial.
 
 Other excellent beginner tutorials and recourses on IfcOpenShell:
-- IfcOpenShell "Hello, world!" [https://blenderbim.org/docs-python/ifcopenshell-python/hello_world.html](https://blenderbim.org/docs-python/ifcopenshell-python/hello_world.html) (strongly recommended)
-- IfcOpenShell Code examples [https://blenderbim.org/docs-python/ifcopenshell-python/code_examples.html](https://blenderbim.org/docs-python/ifcopenshell-python/code_examples.html). The first ones are beginner-friendly and increase in difficulty. A good resource for your projects.
-- Some more IfcOpenShell code examples [https://wiki.osarch.org/index.php?title=IfcOpenShell_code_examples#Geometry_processing](https://wiki.osarch.org/index.php?title=IfcOpenShell_code_examples#Geometry_processing)
 -  BlenderBIM code examples [https://wiki.osarch.org/index.php?title=BlenderBIM_Add-on/BlenderBIM_Add-on_code_examples](https://wiki.osarch.org/index.php?title=BlenderBIM_Add-on/BlenderBIM_Add-on_code_examples)
 - IFC-101 – A Free IFC crash course with Yassine: [https://osarch.org/2022/11/12/%f0%9f%93%ba-ifc-101-a-free-ifc-crash-course-with-python/](https://osarch.org/2022/11/12/%f0%9f%93%ba-ifc-101-a-free-ifc-crash-course-with-python/). (you can focus on Episode 03-05B)
 

@@ -44,7 +44,7 @@ Thats why we encourage you to learn from and improve upon previous work. The fol
 ## Research Based Course
 This course is research based and the result of the following papers.
 
-* McGinley et. al. (2023) *[Supporting the OpenBIM transition]*, CIBW78 2023
+* McGinley et. al. (2023) *[Supporting the OpenBIM transition]*, CIB W78 2023
 * McGinley, Krijnen (2022) *[A framework for meta-disciplinary building analysis]*, ECPPM 2022
 * McGinley, Karlshøj (2022) *[A circular education system for the AEC]*, EC3 2022
 * McGinley, Krijnen (2021) *[Multi Disciplinary Learning from OpenBIM]*, CIB W78 2021, Luxemburg.

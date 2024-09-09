@@ -2,6 +2,9 @@
 
 * N.B. in these examples for consistency we name the model 'model'; if you are using somethign different that is ok, but the idea here is to keep the code consistent to help you.
 
+## Intermediate examples
+- Using IfcOpenShell to parse IFC files with Python - [https://thinkmoult.com/using-ifcopenshell-parse-ifc-files-python.html](https://thinkmoult.com/using-ifcopenshell-parse-ifc-files-python.html)
+
 ## Loading and importing the model and IfcOpenShell into the [IDE] you are using
 
 If you are in Blender and want to use the IFC model you have open in the model view:

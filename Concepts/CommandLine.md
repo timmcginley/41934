@@ -12,6 +12,8 @@ In general, shells on unix based systems are vastly superior to Command Prompt, 
 
 Here is a great, in-depth tutorial on using the command line for beginners: [https://www.freecodecamp.org/news/command-line-for-beginners/#mostcommonandusefulcommandstouse](https://www.freecodecamp.org/news/command-line-for-beginners/#mostcommonandusefulcommandstouse).
 
+## Apple  / Linux computers
 Here is a short list of the most important commands on unix based systems: [https://builtin.com/software-engineering-perspectives/terminal-commands](https://builtin.com/software-engineering-perspectives/terminal-commands)
 
+## Windows computers
 ...and here is the same for the Command Prompt: [https://www.softwaretestinghelp.com/windows-cmd-commands/](https://www.softwaretestinghelp.com/windows-cmd-commands/)

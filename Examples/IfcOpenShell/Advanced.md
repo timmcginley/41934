@@ -2,7 +2,7 @@
 
 Advanced tutorials and resources:
 - Parametric house in Ifcopenshell - [https://cvillagrasa.github.io/IfcOpenHouse/generation.html](https://cvillagrasa.github.io/IfcOpenHouse/generation.html)
-- Using IfcOpenShell to parse IFC files with Python - [https://thinkmoult.com/using-ifcopenshell-parse-ifc-files-python.html](https://thinkmoult.com/using-ifcopenshell-parse-ifc-files-python.html)
+- Some more Advanced IfcOpenShell code examples [https://wiki.osarch.org/index.php?title=IfcOpenShell_code_examples#Geometry_processing](https://wiki.osarch.org/index.php?title=IfcOpenShell_code_examples#Geometry_processing)
 - Jupyter notebook tutorial on geolocation - [https://github.com/vulevukusej/Jupyter-IfcOpenShell](https://github.com/vulevukusej/Jupyter-IfcOpenShell)
 *N.B. in these examples for consistency we name the model 'model'; if you are using somethign different that is ok, but the idea here is to keep the code consistent to help you.*
 

@@ -15,7 +15,7 @@ Session times 13:00 - 17:00 on Mondays
 Due 22nd September
 
 * [W1] OpenBIM  |
-* [W2] IFC |
+* [W2] IfcOpenShell |
 * [W3] Classificaiton |
 
 ### [A2] Use Case
