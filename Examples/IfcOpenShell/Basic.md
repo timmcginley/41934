@@ -19,7 +19,7 @@ If you are in Blender and want to use the IFC model you have open in the model v
 ```python
 
 import bpy
-from blenderbim.bim.ifc import IfcStore
+from bonsai.bim.ifc import IfcStore
 model = IfcStore.get_file()
 
 ```
