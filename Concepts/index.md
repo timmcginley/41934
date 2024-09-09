@@ -22,16 +22,16 @@ Advanced Building Information Modelling concepts categories
 [Standards] | [BsDD] | [IFC] | [FAIR] | [IDM] | [IDS] | [Interoperability] | [MVD] | [UCM] | [BCF] | [SVG]
 
 ## 3. Model
-[Entities] | [GUID] | [LOD] | [Levels] | [Properties] | ~~IFCFileAnalyzer~~ | Revit etc.
+[Entities] | [GUID] | [LOD] | [Levels] | [Properties] | ~~IFCFileAnalyzer~~ | [Revit] etc.
 
 ## 4. Process
-AIM | AIR | [BIM Execution Plan] | BIP |  EIR | ISO 19650 | MIDP | OIR | PIM | BPMN | CDE
+[AIM] | [AIR] | [BIM Execution Plan] | [BIP] |  [EIR] | [ISO 19650] | [MIDP] | [OIR] | [PIM] | [BPMN] | [CDE]
 
 ## 5. Tools
-USD | Digital Twin | Linked Data | BOT | FSO | Graph | Speckle | NodeRed | IFC.js | BlenderBIM
+[USD] | [Digital Twin] | [Linked Data] | [BOT] | [FSO] | [Graph] | [Speckle] | [NodeRed] | [IFC.js] | [Bonsai]
 
 ## 6. Code
-Python | Github | IDE | IfcOpenShell | [Software Licences] | MarkDown 
+[Python] | [Github] | [IDE] | [IfcOpenShell] | [Software Licences] | [MarkDown] 
 
 
 <!--- the list of links --->
@@ -53,6 +53,39 @@ Python | Github | IDE | IfcOpenShell | [Software Licences] | MarkDown
 [UCM]: /Concepts/UCM
 [BCF]: /Concepts/BCF
 [SVG]: /Concepts/SVG
+
+<!--- 19650 --->
+[AIM]: /Concepts/AIM
+[AIR]: /Concepts/AIR
+[BIM Execution Plan]: /Concepts/BIMExecutionPlan
+[BIP]: /Concepts/BIP
+[EIR]: /Concepts/EIR
+[ISO 19650]: /Concepts/ISO19650
+[MIDP]: /Concepts/MIDP
+[OIR]: /Concepts/OIR
+[PIM]: /Concepts/PIM
+[BPMN]: /Concepts/BPMN
+[CDE]: /Concepts/CDE
+
+<!-- CODE -->
+[Python]: /Concepts/Python
+[Github]: /Concepts/Github
+[IDE]: /Concepts/IDE
+[IfcOpenShell]: /Concepts/IfcOpenshell
+[MarkDown]: /Concepts/Markdown
+
+<!-- tools -->
+[USD]: /Concepts/USD
+[Digital Twin]: /Concepts/DigitalTwin
+[Linked Data]: /Concepts/LinkedData
+[BOT]: /Concepts/BOT
+[FSO]: /Concepts/FSO
+[Graph]: /Concepts/Graph
+[NodeRed]: /Concepts/NodeRed
+[IFC.js]: /Concepts/IFC.js
+[Bonsai]: /Concepts/Bonsai
+[Speckle]: /Concepts/Speckle
+[Revit]: /Concepts/Revit
 
 [Dimensions]: /Concepts/Dimensions
 [Standards]: /Concepts/Standards
