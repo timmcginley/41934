@@ -68,7 +68,7 @@ else:
 ### Basic Example 1b
 Use len() to count the number of [entities] (without having to loop through all of them).
 
-*remember to import ifcopenshell and load the model if you need to, see the [introduction](#Introduction) of this concept for more information.*
+*remember to import ifcopenshell and load the model if you need to, see the [introduction](#Introduction) of this example for more information.*
 
 ```python
 spaces_required = 21
