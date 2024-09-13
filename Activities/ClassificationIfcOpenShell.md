@@ -6,17 +6,17 @@ Standardisation is difficult and becomes more difficult the more things you try 
 
 To take pressure from IFC it has been agreed that we are free to apply classification systems to it.
 
-Eaxmples include :
+Examples include :
 * Uniclass
 * BIM7AA
 * Many others
 
-So in this way classification
-* :white_check_mark: conforms to national / local naming norms.
-* :negative_squared_cross_mark: naming different between different models from different places.
-* :negative_squared_cross_mark: is it correct? - is it classified properly?
-* :negative_squared_cross_mark: if classified properly, is the ifc labling correct?
-* :negative_squared_cross_mark: non trivial to translate between different classification systems.
+Pros and cons
+- :white_check_mark: conforms to national / local naming norms.
+- :x: naming different between different models from different places.
+- :x: is that really what the entity? - is it classified properly?
+- :x: if classified properly, is the ifc labling correct?
+- :x: non trivial to translate between different classification systems.
 
 
 
