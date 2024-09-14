@@ -1,6 +1,6 @@
 # Classification in Blender / Bonsai
 
-This activity explores the [classification] concept.
+This activity explores the [classification] concept in Blender with the [Bonsai] extension.
 
 ## Activity overview
 
