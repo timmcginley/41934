@@ -7,8 +7,8 @@ https://docs.ifcopenshell.org/autoapi/ifcopenshell/api/classification/index.html
 
 ## Prereqs
 Completion of:
-* The Git(hub) Activity including the cloning, adapting and running locally either manager or analyst scripts.
-* Classification in Blender Activity
+* The [Git(hub)] Activity including the cloning, adapting and running locally either manager or analyst scripts.
+* [Classification in Blender] Activity
 
 ## Activity Decsription
 * This activit
@@ -32,3 +32,4 @@ classify = model.by_type('IfcClassification')[0]
 [IfcOpenShell]: /Concepts/IfcOpenShell
 
 [Git(hub)]: /Activities/GitIntro
+[Classification in Blender]: /Activities/
