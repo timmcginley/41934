@@ -30,3 +30,5 @@ classify = model.by_type('IfcClassification')[0]
 [classification]: /Concepts/Classification
 
 [IfcOpenShell]: /Concepts/IfcOpenShell
+
+[Git(hub)]: /Activities/GitIntro
