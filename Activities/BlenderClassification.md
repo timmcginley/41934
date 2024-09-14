@@ -1,10 +1,13 @@
 # Classification in Blender / Bonsai
 
-This activity supports the [classification concept].
+This activity explores the [classification] concept.
 
 ## Activity overview
 
-* How to change the classification of the models.
+* How to check if you model is classified?
+* Is the classification correct? 
+* How to change the classification of elements
+* Change the classification system in a project.
 * How are the models we are studying classified?
 
 
