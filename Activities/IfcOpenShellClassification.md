@@ -1,9 +1,8 @@
-
-## Classification in IfcOpenShell
+#Classification in IfcOpenShell
 
 This activity explores the [classification] concept in [IfcOpenShell].
 
-# Resources
+## Resources
 https://docs.ifcopenshell.org/autoapi/ifcopenshell/api/classification/index.html
 
 
