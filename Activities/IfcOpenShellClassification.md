@@ -32,4 +32,4 @@ classify = model.by_type('IfcClassification')[0]
 [IfcOpenShell]: /Concepts/IfcOpenShell
 
 [Git(hub)]: /Activities/GitIntro
-[Classification in Blender]: /Activities/
+[Classification in Blender]: /Activities/BlenderClassification
