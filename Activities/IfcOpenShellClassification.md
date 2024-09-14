@@ -3,7 +3,7 @@
 
 This activity explores the [classification] concept in [IfcOpenShell].
 
-
+# Resources
 https://docs.ifcopenshell.org/autoapi/ifcopenshell/api/classification/index.html
 
 
