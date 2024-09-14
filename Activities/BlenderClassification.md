@@ -2,6 +2,13 @@
 
 This activity supports the [classification concept].
 
+## Activity overview
+
+* How to change the classification of the models.
+* How are the models we are studying classified?
+
+
+## Activity Description
 There are many different types of classification in BIM. In this session we will try to map the elements we identify in the model to 2 different classification systems.
 
 * CCS (Popular in Denmark)
