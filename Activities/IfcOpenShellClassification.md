@@ -1,6 +1,9 @@
 
 ## Classification in IfcOpenShell
 
+This activity explores the [classification] concept in [IfcOpenShell].
+
+
 https://docs.ifcopenshell.org/autoapi/ifcopenshell/api/classification/index.html
 
 
@@ -22,3 +25,4 @@ classify = model.by_type('IfcClassification')[0]
 ```
 
 
+[IfcOpenShell]: /Concepts/IfcOpenShell
