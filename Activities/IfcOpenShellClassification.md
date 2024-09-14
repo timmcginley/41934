@@ -1,4 +1,4 @@
-#Classification in IfcOpenShell
+# Classification in IfcOpenShell
 
 This activity explores the [classification] concept in [IfcOpenShell].
 
