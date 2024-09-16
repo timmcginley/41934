@@ -3,7 +3,7 @@
 This activity explores the [classification] concept in [IfcOpenShell].
 
 ## Resources
-https://docs.ifcopenshell.org/autoapi/ifcopenshell/api/classification/index.html
+[Ifcopenshell - Classification](https://docs.ifcopenshell.org/autoapi/ifcopenshell/api/classification/index.html)
 
 ## Prereqs
 Completion of:
@@ -29,7 +29,7 @@ classify = model.by_type('IfcClassification')[0]
 
 [classification]: /Concepts/Classification
 
-[IfcOpenShell]: /Concepts/IfcOpenShell
+[IfcOpenShell]: /Concepts/IfcOpenShell/index
 
 [Git(hub)]: /Activities/GitIntro
 [Classification in Blender]: /Activities/BlenderClassification
