@@ -1,6 +1,8 @@
 ## Develop your own script
 
-Now you can begin to develop an [IfcOpenShell] script that follows your script diagram from A2E.
+Now you can begin to develop an [IfcOpenShell] script.
+
+[This activity needs to be updated]
 
 Insert this piece of code at the beginning of your script. It solves the issue of different path syntax on different operating systems etc.
 The only thing you have to do is to place your IFC model in a folder called `model` in the same place as your Python script.
