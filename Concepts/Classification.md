@@ -1,6 +1,24 @@
 # Classification
 
+We have a nearly complete classification system in IFC, why do we need classification systems in addition to IFC?
+
 >Classification systems attempt to solve the problem of non standard entity descriptions. They enable different countries and regions to have their own names for objects.
+
+Standardisation is difficult and becomes more difficult the more things you try to standardise. Whilst the naming of things may seem a trivial problem, it does in fact get very complex very quickly as we when we name something in a set, we also classify it and say it is a type of one group and not another.
+
+To take pressure from IFC it has been agreed that we are free to apply classification systems to it.
+
+Examples include :
+* Uniclass
+* BIM7AA
+* Many others
+
+Pros and cons
+- :white_check_mark: conforms to national / local naming norms.
+- :x: naming different between different models from different places.
+- :x: is that really what the entity? - is it classified properly?
+- :x: if classified properly, is the ifc labling correct?
+- :x: non trivial to translate between different classification systems.
 
 ## Challenges / Issues
 Managing the challenges of classification systems is a key component of the [manager] role in OpenBIM.
@@ -11,37 +29,16 @@ Managing the challenges of classification systems is a key component of the [man
 * knowing if an entity exists in a system.
 * Where to put entities that *don't really fit*.
 
-Advanced Classification Problems
+## Advanced Classification Problems
 * Automated Classification. Use of Machine Learning to support the automated classification of building information models.
 
-## Exercise: Classification in BlenderBIM
-
-There are many different types of classification in BIM. In this session we will try to map the elements we identify in the Skylab model to 2 different classification systems.
-
-* CCS (Popular in Denmark)
-* Uniclass (Popular in UK)
-* OnmiClass (Popular in North America)
-
-
-Overview video from Dion Moult here. Dion did not intend the video to be a tutorial so we have outlined the steps and required links below.
-
-<https://www.youtube.com/watch?v=bWe8GDzVTVQ&ab_channel=DionMoult>
-
-1. Open the Skylab IFC file in BlenderBIM by going to File -> Open IFC Project
-
-2. Click on different model elements and see information about them in the Object Information tab on the panel towards the right (it looks like a box).
-
-3. Load a classification system.
-Ifc Classification files are already included in your BlenderBIM installation and can be found by going to Edit -> Preferences -> Add-ons -> System:BlenderBIM -> Schema Directory. Otherwise they can be grabbed from here: <https://github.com/Moult/IfcClassification/tree/master/ifc>. Load it into BlenderBIM by going to Project Overview -> Project Setup -> Classifications and clicking on the little button called "Add Classification". Pick the Ifc Classification file from your computer and click the button called "Load Classification Library".
-
-4. Click on any model object, go to the Object Information tab and add a classification under Classification References by picking the appropriate category from the tree.
-
-5. Do this for at least 5 non-abstract model elements and 5 spaces (if you can find them - if not, do 5 more model elements) using either OmniClass, UniClass or CCS.
-
-
-
-
+## Examples
+* [Blender Classification]
+* [IfcOpenShell Classification]
 
 
 [manager]: /Roles/Manager
 [modeller]: /Roles/Modeller
+
+[Blender Classification]: /Activities/BlenderClassification
+[IfcOpenShell Classification]: /Activities/IfcOpenShellClassification
