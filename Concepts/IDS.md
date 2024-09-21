@@ -10,6 +10,8 @@ Overview [video](https://youtu.be/kNTKt_C0wQ4)
 
 Technical info is available on [buildingSmart's GitHub page](https://github.com/buildingSMART/IDS)
 
+IDS is can be used in the following [software](https://technical.buildingsmart.org/ids-software-implementations/)
+
 
 ## Test Environment
 
