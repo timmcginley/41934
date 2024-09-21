@@ -9,6 +9,8 @@ Overview [video](https://youtu.be/kNTKt_C0wQ4)
 Technical info is available on [buildingSmart's GitHub page](https://github.com/buildingSMART/IDS)
 
 ## Test Environment
+
+[this needs to be updated - we are in version - 0.9.6. It will become 1.0 when it is a full standard].
 This is a web interface for filling in IDS schemas updated to the latest version v0.5
 You can test it at [https://www.xbim.it/xids?bs=true](https://www.xbim.it/xids?bs=true)
 This is a web assembly application that is running entirely in your browser, and no information is exchanged with the xbim server. Taken from post by [CBenghi](https://github.com/CBenghi).
