@@ -13,7 +13,7 @@ Technical info is available on [buildingSmart's GitHub page](https://github.com/
 
 ## Test Environment
 
-[this needs to be updated - we are in version - 0.9.6. It will become 1.0 when it is a full standard].
+[this needs to be updated - we are in version - 0.9.6. It will become 1.0 when it is a full standard].<br>
 
 This is a web interface for filling in IDS schemas updated to the latest version v0.5
 You can test it at [https://www.xbim.it/xids?bs=true](https://www.xbim.it/xids?bs=true)
