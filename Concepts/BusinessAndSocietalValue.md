@@ -1,6 +1,6 @@
 # Business and Societal Value
 
-The purpose of the course is to help you to extract informaiton from building information models.
+The purpose of the course is to help you to extract information from building information models.
 
 We follow open approaches to this because they are of benefit to society because they reduce the barriers to designing and engineering better buildings.
 
