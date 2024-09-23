@@ -8,6 +8,7 @@ Knowledge of [Python] is assumed.
 ## Preparing development environment
 
 Using Anaconda for managing your Python environment is recommended for advanced users.
+When installing Anaconda, make sure to check the `Add Anaconda to my PATH environment variable`-box.
 
 Detailed instructions for installation is available at [Install Ifcopenshell](https://docs.ifcopenshell.org/ifcopenshell-python/installation.html).
 
