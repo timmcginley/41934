@@ -1,6 +1,6 @@
 
 
-# BIM use case PURPOSES
+# BIM use purposes and use cases
 
 ```{toctree}
 :hidden:
@@ -14,8 +14,7 @@ In this way we reduce the potential to overstretch and also provide you with an 
 
 Furthermore by beign explicit about your use cases it provides an opportunity to make connections between the different tools you are using.
 
-Advanced BIM use cases enable you to plan how to:
-
+## BIM Use Purposes
 * **[Gather]**: Capture quantify, monitor and qualify.
 * **[Generate]**: Prescribe, arrange and size.
 * **[Analyse]**: Coordinate, Forecast and Validate.
@@ -23,6 +22,11 @@ Advanced BIM use cases enable you to plan how to:
 * **[Realise]**: Fabricate, assemble, control and regulate a project.
 
 In this  course we use the above categorisation from the [Penn State use cases](/Uses/PennState/index) as defined by Penn State (Kreider, Ralph G. and Messner, John I. (2013). “The Uses of BIM: Classifying and Selecting BIM Uses”. Version 0.9, September, The Pennsylvania State University, University Park, PA, USA. [LINK](http://bim.psu.edu))
+
+## BIM Use Cases
+* **[Plan]**: Cost Analysis, Bill of Quantities
+
+
 
 However we are also keeping a close on on excitign developments with BuildingSmart's use case management (UCM) tools.
 
