@@ -26,7 +26,7 @@ In this  course we use the above categorisation from the [Penn State use cases](
 
 However we are also keeping a close on on excitign developments with BuildingSmart's use case management (UCM) tools.
 
-[Gather]: /Uses/Gather/index.md
+[Gather]: /Uses/Gather/Gather.md
 [Generate]: /Uses/Generate/index.md
 [Analyse]: /Uses/Analyse/index.md
 [Communicate]: /Uses/Communicate/index.md
