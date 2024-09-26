@@ -8,10 +8,11 @@
 *
 */index
 ```
-
-Advanced BIM isn’t about changing everything at once, but really focusing on a specific use case that will support future work in further use cases. 
+Advanced BIM isn’t about changing everything at once, but identifying   specific _use case_ and developing or editing OpenBIM tools and proceses to support that use case. 
 
 In this way we reduce the potential to overstretch and also provide you with an opportunity to demonstrate the potential business and societal value your tool could offer.
+
+Furthermore by beign explicit about your use cases it provides an opportunity to make connections between the different tools you are using.
 
 Advanced BIM use cases enable you to plan how to:
 
@@ -21,10 +22,6 @@ Advanced BIM use cases enable you to plan how to:
 * **Communicate**: visualise, transform, draw and document.
 * **Realise**: Fabricate, assemble, control and regulate a project.
 
-Use cases in this course can be thought of in the following parts:
-* the concept of BIM use cases
-* how we use use cases in this course
-* use case management as developed by buildingsmart
-* the [Penn State use cases](/Uses/PennState/index) as defined by Penn State (Kreider, Ralph G. and Messner, John I. (2013). “The Uses of BIM: Classifying and Selecting BIM Uses”. 
-Version 0.9, September, The Pennsylvania State University, University Park, PA, USA. [LINK](http://bim.psu.edu))
-* The IBIMD project describes [18 Use cases](/Uses/IBIMD).
+In this  course we use the above categorisation from the [Penn State use cases](/Uses/PennState/index) as defined by Penn State (Kreider, Ralph G. and Messner, John I. (2013). “The Uses of BIM: Classifying and Selecting BIM Uses”. Version 0.9, September, The Pennsylvania State University, University Park, PA, USA. [LINK](http://bim.psu.edu))
+
+However we are also keeping a close on on excitign developments with BuildingSmart's use case management (UCM) tools.
