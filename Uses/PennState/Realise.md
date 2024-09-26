@@ -1,4 +1,4 @@
-# Realize
+# Realise
 >To make or control a physical element using facility information
 ## Synonyms
 implement, perform, execute
