@@ -16,12 +16,18 @@ Furthermore by beign explicit about your use cases it provides an opportunity to
 
 Advanced BIM use cases enable you to plan how to:
 
-* **Gather**: Capture quantify, monitor and qualify.
-* **Generate**: Prescribe, arrange and size.
-* **Analyse**: Coordinate, Forecast and Validate.
-* **Communicate**: visualise, transform, draw and document.
-* **Realise**: Fabricate, assemble, control and regulate a project.
+* **[Gather]**: Capture quantify, monitor and qualify.
+* **[Generate]**: Prescribe, arrange and size.
+* **[Analyse]**: Coordinate, Forecast and Validate.
+* **[Communicate]**: visualise, transform, draw and document.
+* **[Realise]**: Fabricate, assemble, control and regulate a project.
 
 In this  course we use the above categorisation from the [Penn State use cases](/Uses/PennState/index) as defined by Penn State (Kreider, Ralph G. and Messner, John I. (2013). “The Uses of BIM: Classifying and Selecting BIM Uses”. Version 0.9, September, The Pennsylvania State University, University Park, PA, USA. [LINK](http://bim.psu.edu))
 
 However we are also keeping a close on on excitign developments with BuildingSmart's use case management (UCM) tools.
+
+[Gather]: /Uses/Gather/index.md
+[Generate]: /Uses/Generate/index.md
+[Analyse]: /Uses/Analyse/index.md
+[Communicate]: /Uses/Communicate/index.md
+[Realise]: /Uses/Realise/index.md
