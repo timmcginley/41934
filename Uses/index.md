@@ -8,7 +8,7 @@
 *
 */index
 ```
-Advanced BIM isn’t about changing everything at once, but identifying   specific _use case_ and developing or editing OpenBIM tools and proceses to support that use case. 
+Advanced BIM isn’t about changing everything at once, but identifying   specific _use case_ then developing or editing OpenBIM tools and proceses to support that use case. 
 
 In this way we reduce the potential to overstretch and also provide you with an opportunity to demonstrate the potential business and societal value your tool could offer.
 
