@@ -1,6 +1,6 @@
 
 
-# BIM use cases
+# BIM use case PURPOSES
 
 ```{toctree}
 :hidden:
