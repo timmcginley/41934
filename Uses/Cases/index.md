@@ -26,34 +26,4 @@ The discipline is also synonymous with the responsible party for the BIM Use. Om
 The degree of granularity to which the BIM Use will be implemented.
 For each of the BIM Uses, the level of development should be identified in order to maximize the benefit from the BIM Use. The Level of Development describes the level of detail / granularity to which a Model Element is developed. AIA / BIMForum has recently released a major revision to the level of development specification. This revision further specifies level of development for specific elements of the facility. Table 3-2 shows a description of the Level of Development definitions.
 
-## [Gather](Gather)
-This is an initial stage of BIM analysis.
-* Capture
-* Quanitify
-* Monitor
-* Qualify
-* 
-## [Generate](Generate)
-This could also be thought of as the process of constructing the *model*
-* Prescribe
-* Arrange
-* Size
-* 
-## [Analyse](Analyse)
-This includes botht eh classic BIM *analysis* and also how the gathering of data supports disciplinary analysis.
-* Coordinate
-* Forecast
-* Validate
-* 
-## [Communicate](Communicate)
-This could also be thought of as the *guidance* that the BIM provides the members of the design team and or asset manager.
-* Visualise
-* Transform
-* Draw
-* Document
-## [Realize](Realize)
-This is a traditonal focus of BIM - to proved a model to support construction.
-* Fabricate
-* Assemble
-* Control
-* Regulate
+
