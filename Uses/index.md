@@ -1,6 +1,4 @@
-
-
-# BIM use purposes and use cases
+# BIM use cases
 
 ```{toctree}
 :hidden:
@@ -37,22 +35,22 @@ cases. Use cases enable us to define what the BIM is for. Here a typology of BIM
 ### Penn State BIM Characteristics 
 BIM Use Characteristics are used to more precisely define the BIM Use beyond the purpose and objective alone. The characteristics to be defined, as shown in Table 3-1, include the facility element(s), facility phase(s), discipline(s), and level of development. Adding these characteristics move the BIM Use beyond answering “why” to a more distinct description which could be used in procurement efforts. Additionally, when BIM planning, a team can communicate to all the stake holders who, what, when, and to what degree the BIM Use will be implemented. Depending on the facility’s BIM utilization, it is possible to have multiple disciplines implement multiple BIM Use purposes during multiple phases on multiple facility elements to multiple levels of development. For example, Coordination Analysis can be implemented during design and construction by the designer and contractor to a level of development 300 and 400. Therefore creating two separate instances of a BIM Use.
 
-### Penn State BIM Facility Element
+### Penn State BIM Facility Element (OmniClass focused)
 The system of the facility on which the BIM Use will be implemented.
 It is necessary to determine on which facility elements the BIM Use(s) will be executed. Based on OmniClass Table 21: Elements or other applicable element breakdown structures, the team can determine which facility elements are part of the BIM use. For example, the team may determine that it only necessary to develop a schedule visualization of the substructure and superstructure and not the systems of the facility. The top level of this table include: 
-1. Substructure,
-2. Shell,
+1. Substructure
+2. Shell
 3. Interiors
 4. Services
 5. Equipment and Furnishings
 6. Special Construction and Demolition, and
-7. Sitework.
+7. Sitework
 
 ### Penn State BIM Facility Phase
 The point in the facility’s lifecycle at which the BIM Use will be implemented.
 
-### Penn State BIM Discipline
-The discipline is also synonymous with the responsible party for the BIM Use. OmniClass Table 33: Disciplines7 presents standard disciplines. These disciplines could also correspond with the various project roles. At a top level, the disciplines currently in this table include planning, design, investigation, project management, construction, facility use, and support. While the primary discipline may be identified, this does not preclude other disciplines from being responsible for part of the BIM Use. Additionally it is possible to have multiple disciplines responsible for the BIM Use. This would then make for separate BIM Uses.
+### Penn State BIM Discipline (Construction focused)
+The discipline is also synonymous with the responsible party for the BIM Use. OmniClass Table 33: Disciplines presents standard disciplines. These disciplines could also correspond with the various project roles. At a top level, the disciplines currently in this table include planning, design, investigation, project management, construction, facility use, and support. While the primary discipline may be identified, this does not preclude other disciplines from being responsible for part of the BIM Use. Additionally it is possible to have multiple disciplines responsible for the BIM Use. This would then make for separate BIM Uses.
 
 ### [Level of Development](/Concepts/LOD)
 The degree of granularity to which the BIM Use will be implemented.
