@@ -23,9 +23,32 @@ In this  course we use the above categorisation from the [Penn State use cases](
 
 ## BIM Use Cases
 * **[Plan]**: Cost Analysis, Bill of Quantities
+  * [01: Existing Conditions Modelling](/Uses/Purpose/Gather.md)
+  * 02: Cost Estimation
+  * 03: Phase Planning (4D Modelling)
+  * 04: Programming
+  * 05: Site Analysis
+  * 06: Design Authoring
+  * 07: Design Review
 * **[Design]**: ...
+  * 08: Structural Analysis
+  * 09: Lighting Analysis
+  * 10: Energy Analysis
+  * 11: Sustainability Analysis
+  * 12: Code Validation
+  * 13: Design Coordination
 * **[Build]**: ...
+  * 14: Site Utilization Planning
+  * 15: Construction System Design
+  * 16: Digital Fabrication
+  * 17: 3D Control and Planning
 * **[Use]**: ...
+  * 18: Record Modelling
+  * 19: Maintenance Scheduling
+  * 20: Building System Analysis
+  * 21: Asset Management
+  * 22: Space Management
+  * 23: Disaster Planning and Mitigation
 
 
 
