@@ -23,6 +23,9 @@ In this  course we use the above categorisation from the [Penn State use cases](
 
 ## BIM Use Cases
 * **[Plan]**: Cost Analysis, Bill of Quantities
+* **[Design]**: ...
+* **[Build]**: ...
+* **[Use]**: ...
 
 
 
