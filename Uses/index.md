@@ -21,35 +21,6 @@ Furthermore by beign explicit about your use cases it provides an opportunity to
 
 In this  course we use the above categorisation from the [Penn State use cases](/Uses/PennState/index) as defined by Penn State (Kreider, Ralph G. and Messner, John I. (2013). “The Uses of BIM: Classifying and Selecting BIM Uses”. Version 0.9, September, The Pennsylvania State University, University Park, PA, USA. [LINK](http://bim.psu.edu))
 
-## BIM Use Cases
-* **[Plan]**: Cost Analysis, Bill of Quantities
-  * 01: [Existing Conditions Modelling](/Uses/Cases/01.md)
-  * 02: [Cost Estimation](/Uses/Cases/02.md)
-  * 03: [Phase Planning (4D Modelling)](/Uses/Cases/03.md)
-  * 04: [Programming](/Uses/Cases/04.md)
-  * 05: [Site Analysis](/Uses/Cases/05.md)
-  * 06: [Design Authoring](/Uses/Cases/06.md)
-  * 07: [Design Review](/Uses/Cases/07.md)
-* **[Design]**: ...
-  * 08: [Structural Analysis](/Uses/Cases/08.md)
-  * 09: [Lighting Analysis](/Uses/Cases/09.md)
-  * 10: [Energy Analysis](/Uses/Cases/10.md)
-  * 11: [Sustainability Analysis](/Uses/Cases/11.md)
-  * 12: [Code Validation](/Uses/Cases/12.md)
-  * 13: [Design Coordination](/Uses/Cases/13.md)
-* **[Build]**: ...
-  * 14: [Site Utilization Planning](/Uses/Cases/14.md)
-  * 15: [Construction System Design](/Uses/Cases/15.md)
-  * 16: [Digital Fabrication](/Uses/Cases/16.md)
-  * 17: [3D Control and Planning](/Uses/Cases/17.md)
-* **[Use]**: ...
-  * 18: [Record Modelling](/Uses/Cases/18.md)
-  * 19: [Maintenance Scheduling](/Uses/Cases/19.md)
-  * 20: [Building System Analysis](/Uses/Cases/20.md)
-  * 21: [Asset Management](/Uses/Cases/21.md)
-  * 22: [Space Management](/Uses/Cases/22.md)
-  * 23: [Disaster Planning and Mitigation](/Uses/Cases/23.md)
-
 However we are also keeping a close on on excitign developments with BuildingSmart's use case management (UCM) tools.
 
 ## Penn State defintitions
