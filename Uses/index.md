@@ -85,3 +85,8 @@ For each of the BIM Uses, the level of development should be identified in order
 [Analyse]: /Uses/Purpose/Analyse.md
 [Communicate]: /Uses/Purpose/Communicate.md
 [Realise]: /Uses/Purpose/Realise.md
+
+[Plan]: /Uses/Cases/Plan
+[Design]: /Uses/Cases/Design
+[Build]: /Uses/Cases/Design
+[Use]: /Uses/Cases/Use
