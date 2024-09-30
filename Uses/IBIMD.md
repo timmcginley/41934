@@ -1,58 +1,5 @@
 # BIM Use Cases (Taken from the IBIMD Project)
 
-## BIM Use 1: Design Authoring ​
-Design Authoring is a process of using BIM authoring software and tools to create and develop an Information Model of the project progressively to support selected BIM Uses before project milestones which includes a database of properties, quantities, means and methods, costs and schedules. The architect, engineer, surveyor, consultant, contractor, sub-consultant and sub-contractor shall use the BIM authoring software and tools to develop their designs and produce views and drawings including but not limited to 3D perspective, layout plan, elevation, section, detail, fabrication and shop drawings. The software and tools are also used to produce schedules (room, door, window, finishes, and panel for distribution board, etc.). The same principle applies to all types of projects and disciplines. ​
-
-## BIM Use 2: Design Reviews ​
-Design Reviews is a process for stakeholders to view a model, images and drawings from the models or animated walk-throughs of the project, provide feedback and validate numerous design aspects such as meeting the Appointing Party’s / Client’s requirements and previewing spaces and layouts in digital deliverables. The reviewers shall check layout, sightlines, lighting, security, disabled access and egress, wayfinding, ergonomics, acoustics, textures and colours, etc. The review can be done by using computer software only or with special virtual mock-up facilities, such as immersive lab, etc. Virtual mock-ups can be performed at various levels of detail depending on project needs. ​
-
-BIM authoring software and tools with functions such as real-time high definition rendering (photo realistic), user interactions and simulations can be used to facilitate the effectiveness and efficiency of the design review / presentation process and meetings. Fully rendered still shots, animated BIM renditions, fly through and walk through visualisation can be produced for design review to facilitate the coordination meeting and stakeholder engagement. ​
-
-Design Reviews shall also be used as part of the identified shared review and approval process as documented in this Standards.​
-
-## BIM Use 3: Drawing Generation (Drawing Production)​
-Drawing Generation is a process of using BIM to produce 2D drawings, which shall be adopted in both design stage and construction stage. ​
-
-​As far as practicable, all 2D drawings shall be generated from the BIM authoring software and tools directly. Approval shall be sought from the Appointing Party / Client for the exemption of producing any drawings from BIM. ​
-
-A registration list showing the relationship between the Information Models and 2D drawings shall be created to indicate whether each 2D drawing is generated from the BIM or not. Any 2D drawings which are produced from non-BIM authoring software or tools shall be prepared in accordance with the standards for 2D drawings as specified in the contract documents. In case any drawing is not created natively in the BIM authoring software it should be linked to the Information Models.​
-
-## BIM Use 4: Existing Conditions Modelling​
-Existing Conditions Modelling is a process of creating a 3D model of the existing site conditions, such as 3D point cloud model, 3D mesh model and 3D individual photo-realistic models. The existing conditions model should be developed by land surveyor from laser scanning, photogrammetry, conventional survey method, record drawings and digital map products available from Lands Department. For historic graded buildings, the author shall include heritage documentation and assessment prepared by the architect and structural engineer. The existing condition models are used for design visualisation and planning, as well as field verification and facility management. They shall be supplemented by photographic records.​
-
-In the planning / design stage, the existing site condition, and existing building condition for alterations and additions (A&A), shall be surveyed by the above-mentioned technologies to produce 3D point cloud and / or mesh model to facilitate project planning and design development. If necessary, 3D individual photo-realistic models or Information Models of existing structure / building can also be generated.​
-
-In the construction stage, 3D digital survey technology such as laser scanning shall be employed to provide verification of the as-built condition for the construction works. It also provides documentation of the environment for future modelling, design coordination and facility management.
-
-## BIM Use 5: Sustainability Evaluation​
-Sustainability Evaluation is a process in which a project model is evaluated based on BEAM Plus, LEED, or other sustainable / green building criteria. This process should occur during all stages of the facilities’ life including planning, design, construction, and operation. ​
-
-This comprehensive process requires all disciplines to interact earlier by providing valuable insights. Energy analysis and simulations, calculations, and documentation should be performed within an integrative environment when responsibilities are well defined and clearly shared. ​
-
-Information Models can also be utilised to facilitate various evaluations such as integrated design and construction management, sustainable sites, energy use and water use, air quality, embodied carbon of building structures and material usage of different parts of the building structure.
-
-## BIM Use 6: Cost Estimation​
-Cost Estimation / 5D modelling is a process in which BIM can be used for cost estimates throughout the life cycle of a project. ​
-
-### Quantity take-off and cost estimating ​
-In the design stage, the Information Models can generate more accurate quantities for project cost budgeting, project cost control and cost evaluation on design options, etc. as far as practicable. In the tender stage, the Information Models can be used for extracting quantities in the preparation of pricing documents [and the Information Models shall form part of tender information to indicate the design intent layout and the material quantities for the tenderers’ information]. ​
-
-### 5D modelling / cash flow forecasting ​
-In the construction stage, the Information Models can be used for extracting quantities for project cost control, cost evaluation on the variation of works, cash flow forecast, spending analysis, interim payment, etc. as far as practicable. The 5D Model shall be adopted in the regular project progress meeting to indicate and compare the current cash flow status with the baseline forecast to facilitate project management.
-
-## BIM Use 7: Spatial Coordination (formerly 3D Coordination)​
-Spatial Coordination is the whole process of design error avoidance using federated Information Models and a collaborative shared design environment. The goal of the coordination process is to eliminate design errors before construction of the project. The BIM coordination process shall also include but not be limited to the checks for spatial and headroom requirements, working spaces for building operations and maintenance activities, installation and replacement of equipment and machines. Modelling teams are required to deliver coordinated information and must undertake their own check, review, and approve process prior to the sharing of information. ​
-
-The procedure for undertaking the model check includes:​
-* To compare Information Models built up from designs of different disciplines; ​
-* To ensure models are coordinated with the current shared information; ​
-* To ensure models include all reference file names, revision, version, status code and authorisation codes; ​
-* To identify spatial clashes, mark-ups, comments and priority for actions; ​
-* To report spatial coordination conflicts to the responsible parties and if necessary, the Appointing Party / Client or its representatives for decision making; ​
-* To ensure information is spatially coordinated and revise design information upon instruction; ​
-* To rebuild / update Information Models; ​
-* To identify coordinated models for sharing as suitable for coordination, submission and approval; and ​
-* To document changes, revision history and approved copies..
 
 ## BIM Use 8: Engineering Analysis ​
 
