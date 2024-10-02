@@ -23,11 +23,11 @@ Due 20th October
 
 * [W4] IDS / Use Case |
 * [W5] Tool Development Methods |
+* [W6] ISO 19650 |
 
 ### [A3] Tool
 Due 1st December
 
-* [W6] ISO 19650 |
 * [W7] Voxels  |
 * [W8] Speckle |
 * [W9] Linked Data (TBC) |
