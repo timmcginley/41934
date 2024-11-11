@@ -33,6 +33,7 @@ extensions = [
     'sphinx.ext.autosectionlabel',
     'myst_parser',
     'nbsphinx',
+    'sphinx_design',
     ]
 
 autosectionlabel_prefix_document = True

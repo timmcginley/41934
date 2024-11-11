@@ -12,3 +12,4 @@ dependencies:
     - sphinx-press-theme
     - sphinx-book-theme
     - myst-parser
+    - sphinx-design
