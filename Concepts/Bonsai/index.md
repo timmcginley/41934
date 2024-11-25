@@ -1,4 +1,4 @@
-## Bonsai (fka BlenderBIM)
+# Bonsai (fka BlenderBIM)
 
 ```{toctree}
 :hidden:

@@ -1,5 +1,4 @@
-
-## Learning Objectives
+# Learning Objectives
 1. Create and manage a [BIM Execution Plan] based on the OpenBIM standard [ISO 19650]
 2. Identify, locate and extract information from an [IFC] model in [OpenBIM] tools
 3. Apply appropriate [OpenBIM] standards and guidelines to support open and [FAIR] data, tools and processes.

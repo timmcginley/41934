@@ -1,4 +1,4 @@
-## Script in in Blender (non BIM)
+# Script in in Blender (non BIM)
 This example is not BIM, but it gives you an idea of the power of scripting in Blender.
 
 [basic scripting in Blender](https://www.youtube.com/watch?v=[vid-id]&ab_channel=TheCGEssentials)<br>

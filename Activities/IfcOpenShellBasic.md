@@ -1,4 +1,4 @@
-## Develop your own script
+# Develop your own script
 
 Now you can begin to develop an [IfcOpenShell] script.
 
