@@ -1,8 +1,8 @@
 # Course periods
 
-```{attention}
+<!-- ```{attention}
 This page is work in progress
-```
+``` -->
 
 This page contains projects by course attendees grouped by semester.
 
