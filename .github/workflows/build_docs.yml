@@ -65,7 +65,7 @@ jobs:
           echo "DATE=$(date +'%Y%m%d')" >> $GITHUB_ENV
           echo "CONDA_ENV=$CONDA/envs/docsEnv" >> $GITHUB_ENV
           # echo "CONDA_ENV=$CONDA/envs/BIMEnv" >> $GITHUB_ENV
-      - uses: actions/cache@v3
+      - uses: actions/cache@v4
         with:
           path: ${{ env.CONDA_ENV }}
           key: ${{ matrix.label }}-conda-${{ hashFiles('environment.yml') }}-${{ env.DATE }}-${{ env.CACHE_NUMBER }}
@@ -97,7 +97,7 @@ jobs:
           
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v3
+        uses: actions/configure-pages@v5
         
       - name: Build with Sphinx
         run: |
@@ -109,7 +109,7 @@ jobs:
           sphinx-build -M html ./ _build/
           
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
           path: _build/html/
 
