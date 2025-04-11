@@ -10,6 +10,11 @@ There are lots of great videos for this. We are using Blender / Bonsai for this 
 
 There are 3 things to watch for when preparing your 3D models for printing.
 
+* Remember that your 3d print will probably be scaled - most of the time we are not printing at 1:1
+* 3D printing data can be provided in STL (mesh) or STEP files
+* If mesh we can boolean them together, which can be useful
+* If STEP we can see the different parts in the slicer software.
+
 ## Blender navigation
 If you are new to this, save yourself a lot of trouble and turn on rotate around object.
 ```
