@@ -7,6 +7,8 @@
 */index
 ```
 
+<!-- what the relationship here to coders and carvers? -->
+
 Five OpenBIM roles with their own 3 level rubric are presented in the links below:
 
 * R1: OpenBIM [Modeller](https://timmcginley.github.io/41934/Roles/Modeller)
