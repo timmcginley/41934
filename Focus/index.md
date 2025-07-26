@@ -6,6 +6,9 @@
 *
 */index
 ```
+<!-- 2025 update - are these the focus areas we need? -->
+
+
 This course has been designed so that the emphasis is on learning _FROM_ BIM [(McGinley & Krijnen, 2021)]. We learn better studying things that interest us. What is your building engineering knowledge focus area?
 
 1. [Architecture] / Fire evacuation / Acoustics
