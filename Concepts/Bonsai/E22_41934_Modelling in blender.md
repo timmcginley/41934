@@ -15,3 +15,7 @@
 ## Basic modelling of Roofs
 [7 ways to model roofs in Blender](https://www.youtube.com/watch?v=Pcb-BBeGt8w)<br>
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Pcb-BBeGt8w/0.jpg)](https://www.youtube.com/watch?v=Pcb-BBeGt8w)
+
+## Adding, editing and modelling doors and door types in Bonsai
+[Windows & Doors In BlenderBIM (Bonsai) | Working With Door & Window Modifiers To Custom Types](https://youtu.be/lR-zcXpnvco)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lR-zcXpnvco/0.jpg)](https://www.youtube.com/watch?v=lR-zcXpnvco)
