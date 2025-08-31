@@ -1,4 +1,4 @@
-# Course Schedule  2024
+# Course Schedule  2025
 
 ```{toctree}
 :hidden:
