@@ -18,11 +18,11 @@ Non Credit/HTML-IFC
 
 <!-- links -->
 
-[A1]: /Assignments/A1
-[A2]: /Assignments/A2
-[A3]: /Assignments/A3
-[A4]: /Assignments/A4
-[A5]: /Assignments/A5
+[A1]: /Assignments/A1.md
+[A2]: /Assignments/A2.md
+[A3]: /Assignments/A3.md
+[A4]: /Assignments/A4.md
+[A5]: /Assignments/A5.md
 
 <!-- 2023
 
