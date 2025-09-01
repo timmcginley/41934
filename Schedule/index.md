@@ -12,21 +12,21 @@ B413-H041B<br>
 Session times 13:00 - 17:00 on Mondays
 
 ### [A1] Forensic BIM
-<!-- Due 29th September -->
+<!-- Due 28th September -->
 
 * [W1] OpenBIM  |
 * [W2] IfcOpenShell |
 * [W3] Classificaiton |
 
 ### [A2] Use Case
-Due 20th October
+Due 19th October
 
 * [W4] IDS / Use Case |
 * [W5] Tool Development Methods |
 * [W6] ISO 19650 |
 
 ### [A3] Tool
-Due 1st December
+Due 30th November
 
 * [W7] Voxels  |
 * [W8] Speckle |
@@ -35,7 +35,7 @@ Due 1st December
 ### [A4] Teach
 _Please note you also continue to work on [A3] until the final presentation. You could also start [A4] earlier._
 
-Due 1st December
+Due 30th November
 
 * [W10] Show & Tell |
 * [W11] Show & Tell |
@@ -47,11 +47,11 @@ Due 8th December
 
 
 <!-- LINKS -->
-[A1]: /Assignments/A1
-[A2]: /Assignments/A2
-[A3]: /Assignments/A3
-[A4]: /Assignments/A4
-[A5]: /Assignments/A5
+[A1]: Assignments/A1.md
+[A2]: Assignments/A2.md
+[A3]: Assignments/A3.md
+[A4]: Assignments/A4.md
+[A5]: Assignments/A5.md
 [BIM]: /Concepts/BIM
 [(Open)BIM]: /Concepts/OpenBIM
 [entities]: /Concepts/Entities
