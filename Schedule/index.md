@@ -12,7 +12,7 @@ B413-H041B<br>
 Session times 13:00 - 17:00 on Mondays
 
 ### [A1] Forensic BIM
-Due 29th September
+<!-- Due 29th September -->
 
 * [W1] OpenBIM  |
 * [W2] IfcOpenShell |
