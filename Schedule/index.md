@@ -12,14 +12,14 @@ B413-H041B<br>
 Session times 13:00 - 17:00 on Mondays
 
 ### [A1] Forensic BIM
-<!-- Due 28th September -->
+Due 21st September
 
 * [W1] OpenBIM  |
 * [W2] IfcOpenShell |
 * [W3] Classificaiton |
 
 ### [A2] Use Case
-Due 19th October
+Due 5th October
 
 * [W4] IDS / Use Case |
 * [W5] Tool Development Methods |
