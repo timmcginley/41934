@@ -1,9 +1,8 @@
 # Activities
 
 ```{toctree}
+:hidden:
 :glob:
-:titlesonly:
 *
 */index
 ```
-
