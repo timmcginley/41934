@@ -42,7 +42,7 @@ The OpenBIM Manager is based on the traditional BIM manager role, such as managi
 * Einar Loktu (2019) [**Early stage Collaboration in Architecture and Engineering**](https://findit.dtu.dk/en/catalog/5d3d8339d9001d32f558c126)
 
 [focus]: /Focus
-[clashes]: https://github.com/timmcginley/41934/blob/main/Concept/Clash
+[clashes]: /Concepts/Clash.md
 
 [A1]: /Assignments/A1.md
 [A2]: /Assignments/A2.md
