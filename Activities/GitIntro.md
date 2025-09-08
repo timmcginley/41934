@@ -3,6 +3,15 @@
 For managing our codebase, we will utilize [Git](/Concepts/GIT).
 Git helps versioning (keeping track of changes) and sharing our code.
 
+
+```{Important}
+If you have no prior experience with git, watch the following two videos:
+- [How git works](https://www.youtube.com/watch?v=e9lnsKot_SQ)
+- [Introduction to git and GitHub](https://www.youtube.com/watch?v=Oaj3RBIoGFc)
+
+**Please watch both videos carefully before asking git related questions.**
+```
+
 ## Prerequisites
 
 - Register an account at [GitHub](https://github.com/) if you don't already have one.
@@ -46,7 +55,7 @@ Verify that remaining group members have the changes to the `README.md` file on 
 
 ```{Tip}
 It's good practice to commit often, thus keeping the changes contained in a single commit fairly low.
-The changes should be able to be summaried in a few words.
+The changes should be able to be summarized in a few words.
 ```
 
 ```{Tip}
