@@ -1,6 +1,6 @@
 # Introduction to using Git
 
-For managing our codebase, we will utilize [Git](/Concepts/GIT).
+For managing our codebase, we will utilize [Git](/Concepts/GIT.md).
 Git helps versioning (keeping track of changes) and sharing our code.
 
 
