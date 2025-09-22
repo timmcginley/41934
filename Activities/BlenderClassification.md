@@ -40,6 +40,6 @@ Ifc Classification files are already included in your Blender / Bonsai installat
 
 
 
-[Bonsai]: /Concepts/Bonsai
+[Bonsai]: /Concepts/Bonsai.md
 
-[classification]: /Concepts/Classification
+[classification]: /Concepts/Classification.md
