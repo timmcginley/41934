@@ -81,6 +81,6 @@ for thing in things:
 ```
 You can have a look at [this](https://docs.ifcopenshell.org/ifcopenshell-python/hello_world.html) IfcOpenShell crash course for more examples. What other information can you find out about the model?7
 
-[IfcOpenShell]: /Concepts/IfcOpenShell
-[IDE]: /Concepts/IDE
-[console]: /Concepts/CommandLine
+[IfcOpenShell]: /Concepts/IfcOpenShell.md
+[IDE]: /Concepts/IDE.md
+[console]: /Concepts/CommandLine.md
