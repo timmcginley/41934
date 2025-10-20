@@ -29,8 +29,8 @@ Due 19th October
 Due 30th November
 
 * [W7] Modularisation vs Integration |
-* [W8] Speckle |
-* [W9] Linked Data (TBC) |
+* [W8] Thomas Krijnen (IfcOpenShell) |
+* [W9] Linked Data (TBC) / Speckle |
 
 ### [A4] Teach
 _Please note you also continue to work on [A3] until the final presentation. You could also start [A4] earlier._
