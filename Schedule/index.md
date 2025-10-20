@@ -28,7 +28,7 @@ Due 19th October
 ### [A3] Tool
 Due 30th November
 
-* [W7] Voxels  |
+* [W7] Modularisation vs Integration |
 * [W8] Speckle |
 * [W9] Linked Data (TBC) |
 
