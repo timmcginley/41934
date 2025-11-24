@@ -42,7 +42,14 @@ Follow this: [https://blenderbim.org/docs-python/ifcopenshell-python/installatio
 
 UV is a fast Python package installer that can speed up dependency installation significantly.
 
-First, install UV:
+**Recommended: Install via pip (most secure)**
+```bash
+pip install uv
+```
+
+**Alternative: Install via official installer**
+
+If you prefer the standalone installer:
 ```bash
 # On macOS and Linux
 curl -LsSf https://astral.sh/uv/install.sh | sh
