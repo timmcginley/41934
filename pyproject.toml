@@ -1,0 +1,23 @@
+[project]
+name = "41934-advanced-bim"
+version = "0.1.0"
+description = "Advanced BIM Course Documentation"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "sphinx>=7.0.0",
+    "nbsphinx>=0.9.0",
+    "pandoc>=2.3",
+    "sphinx-press-theme>=0.8.0",
+    "sphinx-book-theme>=1.0.0",
+    "myst-parser>=2.0.0",
+    "sphinx-design>=0.5.0",
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+# This is a documentation project, not a Python package
+packages = []
