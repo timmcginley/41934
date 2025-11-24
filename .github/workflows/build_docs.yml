@@ -73,7 +73,6 @@ jobs:
       - name: Install dependencies with UV
         run: |
           uv venv
-          source .venv/bin/activate
           uv pip install -e .
           echo "UV installation complete"
           
@@ -83,9 +82,8 @@ jobs:
         
       - name: Build with Sphinx
         run: |
-          source .venv/bin/activate
-          echo "Sphinx-build version: $(sphinx-build --version)"
-          sphinx-build -M html ./ _build/
+          uv run sphinx-build --version
+          uv run sphinx-build -M html ./ _build/
           
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
