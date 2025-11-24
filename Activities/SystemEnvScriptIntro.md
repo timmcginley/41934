@@ -7,8 +7,7 @@ Knowledge of [Python] is assumed.
 
 ## Preparing development environment
 
-Using Anaconda for managing your Python environment is recommended for advanced users.
-When installing Anaconda, make sure to check the `Add Anaconda to my PATH environment variable`-box.
+For this course, we recommend using UV for fast Python package management. Anaconda is also supported for advanced users who prefer it.
 
 Detailed instructions for installation is available at [Install Ifcopenshell](https://docs.ifcopenshell.org/ifcopenshell-python/installation.html).
 
@@ -16,6 +15,7 @@ Detailed instructions for installation is available at [Install Ifcopenshell](ht
 - Make sure you have a recent version of Python installed. Python `3.11` is recommended.
 - Install `ifcopenshell` either by:
     - PIP: In your [CLI] run `pip install ifcopenshell`.
+    - UV: Run `uv pip install ifcopenshell` for faster installation.
     - Conda: `conda install -c conda-forge ifcopenshell pythonocc-core`. This includes [OpenCascade](https://github.com/tpaviot/pythonocc-core) which may be useful for geometric operations further down the road.
 
 ## Hello `ifcopenshell`

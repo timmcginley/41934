@@ -38,6 +38,24 @@ So it can simply be installed by typing the following command in your command pr
 
 Follow this: [https://blenderbim.org/docs-python/ifcopenshell-python/installation.html#pypi](https://blenderbim.org/docs-python/ifcopenshell-python/installation.html#pypi)
 
+### Install with UV (Recommended for faster installation)
+
+UV is a fast Python package installer that can speed up dependency installation significantly.
+
+First, install UV:
+```bash
+# On macOS and Linux
+curl -LsSf https://astral.sh/uv/install.sh | sh
+
+# On Windows
+powershell -c "irm https://astral.sh/uv/install.ps1 | iex"
+```
+
+Then install ifcopenshell:
+```bash
+uv pip install ifcopenshell
+```
+
 ### Install with Conda
 
 If you have/are using (Ana)conda you can install ifcopenshell in your environment by running:
