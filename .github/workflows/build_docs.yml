@@ -61,7 +61,9 @@ jobs:
       - name: Cache UV dependencies
         uses: actions/cache@v4
         with:
-          path: ~/.cache/uv
+          path: |
+            ~/.cache/uv
+            .venv
           key: ${{ matrix.label }}-uv-${{ hashFiles('pyproject.toml') }}-${{ env.DATE }}-${{ env.CACHE_NUMBER }}
           restore-keys: |
             ${{ matrix.label }}-uv-${{ hashFiles('pyproject.toml') }}-
@@ -70,7 +72,9 @@ jobs:
       
       - name: Install dependencies with UV
         run: |
-          uv pip install --system -e .
+          uv venv
+          source .venv/bin/activate
+          uv pip install -e .
           echo "UV installation complete"
           
       - name: Setup Pages
@@ -79,6 +83,7 @@ jobs:
         
       - name: Build with Sphinx
         run: |
+          source .venv/bin/activate
           echo "Sphinx-build version: $(sphinx-build --version)"
           sphinx-build -M html ./ _build/
           
