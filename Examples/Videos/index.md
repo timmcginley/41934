@@ -22,8 +22,11 @@ This page contains tutorials by course attendees grouped by semester.
 
 ## Fall '25
 
-### Group 01 - Manager Github tutorial
+### Group 01 - Manager Github tutorial - Installation tutorial.
 https://youtu.be/DKpiDff5Qs0
+
+### Group 23 - Automated varification of structural beam claims! - Tool tutorial.
+https://youtu.be/VYWrWYIzPww
 
 ### Group 29 - Beam Uniform load calculator - Tool tutorial.
 ⁦https://youtu.be/rBQZpyL-co0
