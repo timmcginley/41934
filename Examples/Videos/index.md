@@ -22,4 +22,7 @@ This page contains tutorials by course attendees grouped by semester.
 
 ## Fall '25
 
+### Group 01 - Manager Github tutorial
+https://youtu.be/DKpiDff5Qs0
+
 
