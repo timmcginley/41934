@@ -25,4 +25,5 @@ This page contains tutorials by course attendees grouped by semester.
 ### Group 01 - Manager Github tutorial
 https://youtu.be/DKpiDff5Qs0
 
-
+### Group 29 - Beam Uniform load calculator - Tool tutorial.
+⁦https://youtu.be/rBQZpyL-co0
