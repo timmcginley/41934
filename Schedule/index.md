@@ -1,4 +1,4 @@
-# Course Schedule  2025
+# Course Schedule  2026
 
 ```{toctree}
 :hidden:
@@ -12,7 +12,7 @@ B413-H041B<br>
 Session times 13:00 - 17:00 on Mondays
 
 ### [A1] Forensic BIM
-Due 28th September
+Due 20th September
 
 * [W1] OpenBIM  |
 * [W2] IfcOpenShell |
@@ -20,30 +20,31 @@ Due 28th September
 * [W4] IDS / Use Case |
 
 ### [A2] Use Case
-Due 19th October
+Due 11th October
 
 * [W5] Tool Development Methods |
 * [W6] ISO 19650 |
 
-### [A3] Tool
-Due 30th November
+### [A3] Teach
+Due 8th November
 
 * [W7] Modularisation vs Integration |
 * [W8] Thomas Krijnen (IfcOpenShell) |
 * [W9] Linked Data (TBC) / Speckle |
 
-### [A4] Teach
-_Please note you also continue to work on [A3] until the final presentation. You could also start [A4] earlier._
-
-Due 30th November
 
 * [W10] Show & Tell |
 * [W11] Show & Tell |
 * [W12] Show & Tell |
+
+* ### [A4] Tool
+_Please note you also continue to work on [A3] until the final presentation. You could also start [A4] earlier._
+
+Due 29th November
 * [W13] Final Review
 
 ### [A5] Reflect
-Due 7th December
+Due 6th December
 
 
 <!-- LINKS -->
