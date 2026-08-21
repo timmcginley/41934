@@ -1,4 +1,4 @@
-# A3: Tool
+# A4: Tool
 
 |  | Tool Assignment  |
 | --- | ----- |
@@ -10,7 +10,6 @@
 | **Exercise:** | Following the in class activities will provide the submission requirements |
 
 
->**Develop Management Experience**: Assignment [A3] and [A4] have the same deadline, this is to give you the maximum time to develop your tool and project manage your group's time.
 
 ## Submission Requirements
 
