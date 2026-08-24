@@ -1,5 +1,8 @@
 name: Build documentation
 
+env:
+  CACHE_NUMBER: 1  # increase to reset cache manually
+
 on:
   # Runs on pushes targeting the default branch
   push:
@@ -15,33 +18,73 @@ permissions:
   id-token: write
 
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 concurrency:
   group: "pages"
   cancel-in-progress: false
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    strategy:
+      max-parallel: 2
+      matrix:
+        include:
+          - os: ubuntu-latest
+            label: linux-64
+
+    name: ${{ matrix.label }}
+    runs-on: ${{ matrix.os }}
+    defaults:
+      run:
+        shell: bash
+        working-directory: ./
+        
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v3
       
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.11'
+      
+      - name: Install UV
+        run: pip install uv
+      
+      - name: Set cache date
+        run: echo "DATE=$(date +'%Y%m%d')" >> $GITHUB_ENV
+      
+      - name: Cache UV dependencies
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/uv
+            .venv
+          key: ${{ matrix.label }}-uv-${{ hashFiles('pyproject.toml') }}-${{ env.DATE }}-${{ env.CACHE_NUMBER }}
+          restore-keys: |
+            ${{ matrix.label }}-uv-${{ hashFiles('pyproject.toml') }}-
+            ${{ matrix.label }}-uv-
+        id: cache
+      
+      - name: Install dependencies with UV
+        # The --clear flag forces UV to overwrite broken runner symlinks safely
+        run: |
+          uv venv --clear
+          uv pip install -e .
+          echo "UV installation complete"
+          
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-
-      # Explicitly triggers GitHub's built-in Jekyll compiler safely
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
-
-      # Upload the newly generated static website files
+        
+      - name: Build with Sphinx
+        # Using 'uv run' executes sphinx directly using your virtual environment
+        run: |
+          uv run sphinx-build -M html ./ _build/
+          
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./_site
+          path: _build/html/
 
   # Deployment job
   deploy:
