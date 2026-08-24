@@ -31,9 +31,6 @@ jobs:
         include:
           - os: ubuntu-latest
             label: linux-64
-            
-          # - os: windows-latest
-          #   label: win-64
 
     name: ${{ matrix.label }}
     runs-on: ${{ matrix.os }}
@@ -45,51 +42,27 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       
-      - name: Set up Python 3.11
-        uses: actions/setup-python@v3
+      # 1. Setup Ruby and natively cache your Jekyll bundle dependencies
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          python-version: '3.11'
-      
-      - name: Install UV
-        run: pip install uv
-      
-      - name: Set cache date
-        run: echo "DATE=$(date +'%Y%m%d')" >> $GITHUB_ENV
-      
-      - name: Cache UV dependencies
-        uses: actions/cache@v4
-        with:
-          path: |
-            ~/.cache/uv
-            .venv
-          key: ${{ matrix.label }}-uv-${{ hashFiles('pyproject.toml') }}-${{ env.DATE }}-${{ env.CACHE_NUMBER }}
-          restore-keys: |
-            ${{ matrix.label }}-uv-${{ hashFiles('pyproject.toml') }}-
-            ${{ matrix.label }}-uv-
-        id: cache
-      
-      - name: Install dependencies with UV
-        run: |
-          if [ ! -d ".venv" ]; then
-            uv venv
-          fi
-          uv pip install -e .
-          echo "UV installation complete"
-          
+          ruby-version: '3.2'
+          bundler-cache: true # Automatically runs bundle install and handles caching safely
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
         
-      - name: Build with Sphinx
+      # 2. Build natively using Jekyll instead of Sphinx
+      - name: Build with Jekyll
         run: |
-          source .venv/bin/activate
-          sphinx-build --version
-          sphinx-build -M html ./ _build/
+          bundle exec jekyll build
           
+      # 3. Jekyll builds to _site/ by default, upload that folder
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: _build/html/
+          path: _site/
 
   # Deployment job
   deploy:
