@@ -1,8 +1,5 @@
 name: Build documentation
 
-env:
-  CACHE_NUMBER: 1  # increase to reset cache manually
-
 on:
   # Runs on pushes targeting the default branch
   push:
@@ -25,44 +22,20 @@ concurrency:
 
 jobs:
   build:
-    strategy:
-      max-parallel: 2
-      matrix:
-        include:
-          - os: ubuntu-latest
-            label: linux-64
-
-    name: ${{ matrix.label }}
-    runs-on: ${{ matrix.os }}
-    defaults:
-      run:
-        shell: bash
-        working-directory: ./
-        
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
       
-      # 1. Setup Ruby and natively cache your Jekyll bundle dependencies
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.2'
-          bundler-cache: true # Automatically runs bundle install and handles caching safely
-
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
         
-      # 2. Build natively using Jekyll instead of Sphinx
-      - name: Build with Jekyll
-        run: |
-          bundle exec jekyll build
-          
-      # 3. Jekyll builds to _site/ by default, upload that folder
+      # Upload the entire root directory directly (GitHub Pages will compile the Jekyll site on its side)
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: _site/
+          path: .
 
   # Deployment job
   deploy:
