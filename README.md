@@ -1,6 +1,6 @@
 # 41934 Advanced BIM
 
-In this course you will:
+In this course you will: 
 
 * Learn how to gather, analyze and communicate [building information] from [IFC] models for real architectural engineering challenges.
 * Learn from peer crafted tutorials from previous years and teach your peers a new [concept] you have learnt.
