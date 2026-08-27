@@ -13,7 +13,7 @@
 * L10: Identify an appropriate [development methodology] for an [OpenBIM] tool or model to different [use cases].
 * L11: Apply and improve programming skills in [Python] to develop an OpenBIM tool or [modelling] skills in OpenBIM using your engineering domain expertise.
 * L12: Evaluate [software licensing] suitability and implications for the [OpenBIM] tool you develop or modelling tool you use.
-# Group D: Teaching and Reflection
+## Group D: Teaching and Reflection
 * LO8 Teach an advanced [BIM concept] you have learned in the course to your peers and reflect on peer feedback on this.
 
 
