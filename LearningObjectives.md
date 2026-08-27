@@ -16,7 +16,7 @@
 ## Group D: Teaching and Reflection
 * LO8 Teach an advanced [BIM concept] you have learned in the course to your peers and reflect on peer feedback on this.
 
-
+<!--
 # Assignment Mapping
 
 |      | L1 | L2 | L3 | L4 | L5 | L6 | L7 | L8 | L9 | L10 | L11 | L12 |
@@ -26,6 +26,8 @@
 | [A3] | x  |    |  x | x  | x  | x  |    |    | x  |     |     |     |
 | [A4] |    |    |    |    |    |    |    | x  |    |     |     |     |
 | [A5] |    |    |    |    |    |    |    | x  |    |     |     |  x  |
+
+-->
 
 <!-- links -->
 [BIM Execution Plan]: /Concepts/BIMExecutionPlan
