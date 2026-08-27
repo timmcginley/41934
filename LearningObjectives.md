@@ -5,19 +5,16 @@
 * LO7: Identify [BIM challenges] by analysing [OpenBIM] data.
 * LO9: Identify and model a BIM use case based on the BIM challenges identified from analysis of an OpenBIM project in [BPMN].
 ## Group B: OpenBIM Analysis and Information
- Identify, locate and extract information from an [IFC] model in [OpenBIM] tools
-3. Apply appropriate [OpenBIM] standards and guidelines to support open and [FAIR] data, tools and processes.
-
-5. Apply domain specific [linked data] ontologies.
-6. Create, fork, branch and collaborate on the development of an [OpenBIM] tool in [Python] with peers in a [code repository].
-
-8. Teach an advanced [BIM concept] you have learned in the course to your peers and reflect on peer feedback on this.
-
-10. Identify an appropriate [development methodology] for an [OpenBIM] tool or model to different [use cases].
-11. Apply and improve programming skills in [Python] to develop an OpenBIM tool or [modelling] skills in OpenBIM using your engineering domain expertise.
-12. Evaluate [software licensing] suitability and implications for the [OpenBIM] tool you develop or modelling tool you use.
-
-
+* LO2: Identify, locate and extract information from an [IFC] model in [OpenBIM] tools
+* LO3: Apply appropriate [OpenBIM] standards and guidelines to support open and [FAIR] data, tools and processes.
+* LO5: Apply domain specific [linked data] ontologies.
+## Group C: Tool and Model Development
+* LO6: Create, fork, branch and collaborate on the development of an [OpenBIM] tool in [Python] with peers in a [code repository].
+* L10: Identify an appropriate [development methodology] for an [OpenBIM] tool or model to different [use cases].
+* L11: Apply and improve programming skills in [Python] to develop an OpenBIM tool or [modelling] skills in OpenBIM using your engineering domain expertise.
+* L12: Evaluate [software licensing] suitability and implications for the [OpenBIM] tool you develop or modelling tool you use.
+# Group D: Teaching and Reflection
+* LO8 Teach an advanced [BIM concept] you have learned in the course to your peers and reflect on peer feedback on this.
 
 
 # Assignment Mapping
