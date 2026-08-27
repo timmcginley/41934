@@ -1,4 +1,5 @@
 # Course Learning Objectives
+The course has 12 learning objectives. They are grouped here into 4 themes.
 ## Group A: BIM Coordination and Management
 Focused on standardisation, use cases, procedures and processes:
 * LO1: Create and manage a [BIM Execution Plan] based on the OpenBIM standard [ISO 19650]
