@@ -38,7 +38,7 @@ Due 8th November
 * [W12] Show & Tell |
 
 ### [A4] Tool
-_Please note you also continue to work on [A3] until the final presentation. You could also start [A4] earlier._
+<!-- _Please note you also continue to work on [A3] until the final presentation. You could also start [A4] earlier._ -->
 
 Due 29th November
 * [W13] Final Review
