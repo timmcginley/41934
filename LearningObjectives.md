@@ -1,19 +1,23 @@
 # Course Learning Objectives
 ## Group A: BIM Coordination and Management
+Focused on standardisation, use cases, procedures and processes:
 * LO1: Create and manage a [BIM Execution Plan] based on the OpenBIM standard [ISO 19650]
 * LO4: Provide professional [disciplinary] guidance based on [OpenBIM] [analysis].
 * LO7: Identify [BIM challenges] by analysing [OpenBIM] data.
 * LO9: Identify and model a BIM use case based on the BIM challenges identified from analysis of an OpenBIM project in [BPMN].
 ## Group B: OpenBIM Analysis and Information
+Focused on standards, data and analysis:
 * LO2: Identify, locate and extract information from an [IFC] model in [OpenBIM] tools
 * LO3: Apply appropriate [OpenBIM] standards and guidelines to support open and [FAIR] data, tools and processes.
 * LO5: Apply domain specific [linked data] ontologies.
 ## Group C: Tool and Model Development
+Focused on development methods and technical practice:
 * LO6: Create, fork, branch and collaborate on the development of an [OpenBIM] tool in [Python] with peers in a [code repository].
 * L10: Identify an appropriate [development methodology] for an [OpenBIM] tool or model to different [use cases].
 * L11: Apply and improve programming skills in [Python] to develop an OpenBIM tool or [modelling] skills in OpenBIM using your engineering domain expertise.
 * L12: Evaluate [software licensing] suitability and implications for the [OpenBIM] tool you develop or modelling tool you use.
 ## Group D: Teaching and Reflection
+Focused on peer learning:
 * LO8 Teach an advanced [BIM concept] you have learned in the course to your peers and reflect on peer feedback on this.
 
 <!--
