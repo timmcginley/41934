@@ -44,6 +44,8 @@ exclude_patterns = ['BUILD_DOCS.md', 'README.md']
 
 autodoc_default_flags = ['members', 'undoc-members' ]
 
+myst_enable_extensions = ["html_image", "html_admonition"]
+
 myst_heading_anchors = 3
 
 # -- Options for HTML output -------------------------------------------------
