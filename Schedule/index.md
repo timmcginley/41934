@@ -8,7 +8,7 @@
 ```
 
 ### Room Location: 
-B413-H041B<br>   
+Building 127 room 012 
 Session times 13:00 - 17:00 on Mondays
 
 ### [A1] Forensic BIM
