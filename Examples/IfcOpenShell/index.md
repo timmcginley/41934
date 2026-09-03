@@ -42,9 +42,9 @@ import ifcopenshell
 model = ifcopenshell.open('model\Duplex_A_20110907.ifc')
 ```
 
-## [Basic Scripts](/41938/Examples/IfcOpenShell/Basic)
-## [Intermdiate Scripts](/41938/Examples/IfcOpenShell/Intermediate)
-## [Advanced Scripts](/41938/Examples/IfcOpenShell/Advanced)
+## [Basic Scripts](/41938/Examples/IfcOpenShell/Basic.md)
+## [Intermdiate Scripts](/41938/Examples/IfcOpenShell/Intermediate.md)
+## [Advanced Scripts](/41938/Examples/IfcOpenShell/Advanced.md)
 
 
 [entities]: /Concepts/Entities
