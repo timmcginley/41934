@@ -29,7 +29,7 @@ Following a brief introduction, we will look at the following steps.
 * Grab an example IFC model from the IFC Models folder
 * If you follow this tutorial, you'll get a brief introduction to Blender and Bonsai (fka BlenderBIM)
 
-- [Explore the IFC models](https://docs.bonsaibim.org/users/quickstart/explore_model.html)
+- [Explore the IFC models](https://docs.bonsaibim.org/quickstart/explore_model.html)
 
 Can you find:
 
@@ -51,7 +51,7 @@ Can you find:
 In week [2], we will introduce the scripting environment in Blender to speed up these checks.
 
 - [Using the Python console with BlenderBIM add-on](https://wiki.osarch.org/index.php?title=BlenderBIM_Add-on/Using_the_Python_console_with_BlenderBIM_Add-on)
-- [How to run an external script in Blender](https://github.com/timmcginley/41934/blob/main/Concepts/BlenderBIM/E22_41934_How%20to%20run%20an%20external%20script%20in%20Blender.md)
+- [How to run an external script in Blender](https://github.com/timmcginley/41934/blob/main/Concepts/Bonsai/E22_41934_Scripting%20in%20Blender.md)
 - [BlenderBIM code examples](https://wiki.osarch.org/index.php?title=BlenderBIM_Add-on/BlenderBIM_Add-on_code_examples)
 
 
