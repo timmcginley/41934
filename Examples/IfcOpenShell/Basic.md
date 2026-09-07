@@ -290,7 +290,7 @@ print(wall_psets)
 An easier way of changing getting and changing properties is using the `util` and `api` functions. For the `api` functions to work, you first need to import them with:
 `import ifcopenshell.api`
 
-Here, we're using the [ifcopenshell.util.element.get_pset](https://blenderbim.org/docs-python/autoapi/ifcopenshell/util/element/index.html#ifcopenshell.util.element.get_pset) function to retrieve the wall's property set and [ifcopenshell.api.pset.edit_pset](https://blenderbim.org/docs-python/autoapi/ifcopenshell/api/pset/edit_pset/index.html) function to edit an existing property set without having to define GUIDs, relationships, data types etc. on our own.
+Here, we're using the [ifcopenshell.util.element.get_pset](https://docs.ifcopenshell.org/autoapi/ifcopenshell/util/element/index.html#ifcopenshell.util.element.get_pset) function to retrieve the wall's property set and [ifcopenshell.api.pset.edit_pset](https://docs.ifcopenshell.org/autoapi/ifcopenshell/api/pset/edit_pset/index.html) function to edit an existing property set without having to define GUIDs, relationships, data types etc. on our own.
 
 The `should_inherit` parameter of `ifcopenshell.util.element.get_pset` function defines if the element's property sets should also be inherited from the type, eg. IfcWallType (`should_inherit = True`) or only from the element, eg. IfcWall (`should_inherit = False`).
 
@@ -325,11 +325,11 @@ print(wall_common_pset)
 ### Basic Example 9
 *In this example the IFC file is imported as `model`*.
 
-You can add a new property set to any IfcProduct by using the [ifcopenshell.api.pset.add_pset](https://blenderbim.org/docs-python/autoapi/ifcopenshell/api/pset/add_pset/index.html) function. Custom property sets and official property sets that are part of the IFC are created in the same way. If you want to add an official property set, just follow the naming defined in the schema exactly.
+You can add a new property set to any IfcProduct by using the [ifcopenshell.api.pset.add_pset](https://docs.ifcopenshell.org/autoapi/ifcopenshell/api/pset/add_pset/index.html) function. Custom property sets and official property sets that are part of the IFC are created in the same way. If you want to add an official property set, just follow the naming defined in the schema exactly.
 
 Remember that any custom property sets cannot start with the "Pset_" prefix.
 
-In this example we're getting the material of a specific wall using the `ifcopenshell.util.element.get_material` function, but you can also get the materials directly with `model.by_type("IfcMaterial")`. See more functions related to materials [here](https://blenderbim.org/docs-python/autoapi/ifcopenshell/api/material/).
+In this example we're getting the material of a specific wall using the `ifcopenshell.util.element.get_material` function, but you can also get the materials directly with `model.by_type("IfcMaterial")`. See more functions related to materials [here](https://docs.ifcopenshell.org/autoapi/ifcopenshell/api/material/index.html).
 
 ```python
 # Assign a property set to a material of a wall
