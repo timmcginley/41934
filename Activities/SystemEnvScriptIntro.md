@@ -39,7 +39,7 @@ If pointing to your model using a relative path, the path is relative to the wor
 ```
 [CLI]: /Concepts/CommandLine
 [Python]: /Concepts/Python
-[IfcOpenShell]: /Concepts/IfcOpenShell
+[IfcOpenShell]: /Concepts/IfcOpenShell/index.md
 [IFC-STEP]: /Concepts/IFC
 
 
