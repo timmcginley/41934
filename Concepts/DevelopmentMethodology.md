@@ -10,4 +10,4 @@ This will also include considering the [software licensing] you need for your pr
 
 
 [software licensing]: /Concepts/SoftwareLicences
-[Node-RED]: /Concepts/Node-Red
+[Node-RED]: /Concepts/Node-Red.md
