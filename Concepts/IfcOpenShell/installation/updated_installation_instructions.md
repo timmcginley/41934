@@ -36,7 +36,7 @@ So it can simply be installed by typing the following command in your command pr
 
 `pip install ifcopenshell`
 
-Follow this: [https://blenderbim.org/docs-python/ifcopenshell-python/installation.html#pypi](https://blenderbim.org/docs-python/ifcopenshell-python/installation.html#pypi)
+Follow this: [https://docs.ifcopenshell.org/ifcopenshell-python/installation.html#pypi](https://docs.ifcopenshell.org/ifcopenshell-python/installation.html#pypi)
 
 ### Install with Conda
 
