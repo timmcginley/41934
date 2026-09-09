@@ -31,4 +31,4 @@ This course has been designed so that the emphasis is on learning _FROM_ BIM [(M
 [Indoor]: .././Focus/Indoor
 [Build]: .././Focus/Build
 [Architecture]: .././Focus/Architecture
-[Advanced Building Design]: /41946/
+[Advanced Building Design]: /41946/https://timmcginley.github.io/41936/index.html
