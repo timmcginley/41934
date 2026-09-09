@@ -7,5 +7,5 @@ Here is an oveview of the difference between [good and bad code], but before we 
 ## Functions
 
 
-[Python]: /41936/Concepts/Python
+[Python]: /41936/Concepts/Python.md
 [good and bad code]: https://medium.com/@todbotts.triangles/what-is-good-bad-code-an-illustrated-example-for-non-programmers-1222b600a0f0
