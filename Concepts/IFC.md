@@ -37,7 +37,7 @@ Software vendors of building information modeling tools - including model author
 
 ## Conversion from Revit
 
-Dikon convesion guide (English) from [Revit to IFC](https://molio.dk/media/gn0fb0g5/ifc-guide_export_en_20200928_2.pdf)
+Dikon convesion guide (English) from [Revit to IFC](https://anvisninger.molio.dk/gratis-vaerktojer/buildingsmart/ifc_export_guide_en/ifc_export/revit)
 
 Who uses IFC?
 -------------
@@ -47,7 +47,7 @@ Hundreds of software applications for use by many different stakeholders in the 
 ## Future of IFC
 [10 Principles of the future of IFC](https://github.com/buildingSMART/NextGen-IFC/wiki/Ten-principles-for-a-future-IFC)
 
-link to buildingSMART website about [IFC]((https://www.buildingsmart.org/standards/bsi-standards/industry-foundation-classes/))
+link to buildingSMART website about [IFC]((https://www.buildingsmart.org/standards/bsi-standards/industry-foundation-classes/)
 
 License
 -------
