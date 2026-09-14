@@ -31,7 +31,7 @@ Overview video from Dion Moult here. Dion did not intend the video to be a tutor
 
 3. If you scroll down to the bottom you find Classification references. Their might not be a classification system currently in the IFC project. So...
 4. Load a classification system.
-Ifc Classification files are already included in your Blender / Bonsai installation and can be found by going to Edit -> Preferences -> Add-ons -> System:BlenderBIM -> Schema Directory. Otherwise they can be grabbed from here: <https://github.com/Moult/IfcClassification/tree/master/ifc>. Load it into BlenderBIM by going to Project Overview -> Project Setup -> Classifications and clicking on the little button called "Add Classification". Pick the Ifc Classification file from your computer and click the button called "Load Classification Library".
+Ifc Classification files are already included in your Blender / Bonsai installation and can be found by going to Edit -> Preferences -> Add-ons -> System:Bonsai -> Schema Directory. Otherwise they can be grabbed from here: <https://github.com/Moult/IfcClassification/tree/master/ifc>. Load it into BlenderBIM by going to Project Overview -> Project Setup -> Classifications and clicking on the little button called "Add Classification". Pick the Ifc Classification file from your computer and click the button called "Load Classification Library".
 
 5. Click on any model object, go to the Object Information tab and add a classification under Classification References by picking the appropriate category from the tree.
 
