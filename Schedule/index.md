@@ -17,11 +17,12 @@ Due 20th September
 * [W1] OpenBIM  |
 * [W2] IfcOpenShell |
 * [W3] Classification |
-* [W4] IDS / Use Case |
+
 
 ### [A2] Use Case
 Due 11th October
 
+* [W4] IDS / Use Case |
 * [W5] Tool Development Methods |
 * [W6] ISO 19650 |
 
