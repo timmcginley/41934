@@ -10,11 +10,11 @@ Non Credit/HTML-IFC
 
 | #  |     Name                      |  Due    | 
 |----  |-----          |------|
-| [A1] |Forensic BIM   |    28th September 2025 |
-| [A2] |Use Case       |    19th October 2025|
-| [A3] |Tool           |    30th November 2025|
-| [A4] |Teach          |    30th November 2025|
-| [A5] |Reflect        |    7th December 2025|
+| [A1] |Forensic BIM   |    20th September 2026 |
+| [A2] |Use Case       |    11th October 2026|
+| [A3] |Tool           |    8th November 2026|
+| [A4] |Teach          |    29th November 2026|
+| [A5] |Reflect        |    6th December 2026|
 
 <!-- links -->
 
