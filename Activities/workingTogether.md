@@ -20,13 +20,13 @@ if __name__ == "__main__":
     print(result)
 ```
 
-so if your own team runs it - 
+If your own team runs it - 
 
 ```python
 python team_tool.py
 ```
 
-so if the manager runs it - 
+If the manager runs it - 
 
 ```python
 from team_tool import analyse
