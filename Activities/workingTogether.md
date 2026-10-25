@@ -34,16 +34,24 @@ result = analyse(my_model)
 ```
 ## Things to focus on 
 * What useful data will you return?
-* one clearly named callable function
 * Each tool should have one primary 'C' function - see below.
+* one clearly named callable function i.e. if you are checking the axial load of the columns that would require:
+    * CAPT_COL to get the columns
+    * CALC_COL to calculate the columns and
+    * CHEK_COL to test if this was ok and also maybe COMP_COL to compare them and or
+    * COMM_COL to communicate results
+
+:::{note}
+Here's a sample note!
+:::
 
 ## Functional classification
 
-| Type        | Guiding Question                       | Examples                                                                                                                               |
-|-------------|----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
-| Capture     | What information do we have?           | Extract room areas, column dimensions, wall layers or window quantities; read a reference table.                                       |
-| Connect     | How does this information relate?      | Associate windows with rooms, walls with neighbouring spaces, new columns with existing supports, or materials with reference factors. |
-| Calculate   | What can we derive?                    | Required airflow, glazing deficit, structural resistance, embodied carbon or cost.                                                     |
-| Check       | Does the evidence satisfy a criterion? | Compare supplied airflow with demand, door width with a requirement, or façade materials with the stated intent.                       |
-| Compare     | What changes between alternatives?     | Model revisions, window scenarios, material choices, or retention versus replacement.                                                  |
-| Communicate | How do we make the findings useful?    | Tables, model highlights, charts and reports—including gaps, limitations and assumptions.                                              |
+| Type        |   Abreviation | Guiding Question                       | Examples                                                                                                               |
+|-------------|--------------|--------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| Capture     | CAPT | What information do we have?           | Extract room areas, column dimensions, wall layers or window quantities; read a reference table.                                       |
+| Connect     | CONN | How does this information relate?      | Associate windows with rooms, walls with neighbouring spaces, new columns with existing supports, or materials with reference factors. |
+| Calculate   | CALC | What can we derive?                    | Required airflow, glazing deficit, structural resistance, embodied carbon or cost.                                                     |
+| Check       | CHEK | Does the evidence satisfy a criterion? | Compare supplied airflow with demand, door width with a requirement, or façade materials with the stated intent.                       |
+| Compare     | COMP | What changes between alternatives?     | Model revisions, window scenarios, material choices, or retention versus replacement.                                                  |
+| Communicate | COMM | How do we make the findings useful?    | Tables, model highlights, charts and reports—including gaps, limitations and assumptions.                                              |
