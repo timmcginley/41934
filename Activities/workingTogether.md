@@ -26,7 +26,7 @@ If your own team runs it -
 python team_tool.py
 ```
 
-If the manager runs it - 
+If the manager (runner) runs it - 
 
 ```python
 from team_tool import analyse
