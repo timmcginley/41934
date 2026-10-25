@@ -41,9 +41,9 @@ result = analyse(my_model)
     * CHEK_COL to test if this was ok and also maybe COMP_COL to compare them and or
     * COMM_COL to communicate results
 
-:::{note}
-Here's a sample note!
-:::
+```{note}
+Sometimes it might not be necessary to create a different function for each element type - but we also shouldn't presume they can all be reused.
+```
 
 ## Functional classification
 
