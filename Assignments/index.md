@@ -12,7 +12,7 @@ Non Credit/HTML-IFC
 |----  |-----          |------|
 | [A1] |Forensic BIM   |    20th September 2026 |
 | [A2] |Use Case       |    11th October 2026|
-| [A3] |Teach           |    8th November 2026|
+| [A3] |Teach           |    15th November 2026|
 | [A4] |Tool         |    29th November 2026|
 | [A5] |Reflect        |    6th December 2026|
 
