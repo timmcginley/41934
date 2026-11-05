@@ -34,7 +34,7 @@ Due 8th November
 * [W9] Linked Data (TBC) / Speckle |
 
 
-* [W10] Show & Tell |
+* [W10] Project Support |
 * [W11] Show & Tell |
 * [W12] Show & Tell |
 
